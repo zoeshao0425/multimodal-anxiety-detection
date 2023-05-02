@@ -1,0 +1,37 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't really enjoy doing things that used to make me happy anymore.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've actually lost quite a bit of weight recently. I just don't have much of an appetite.
+
+Doctor: And how about your sleep? Have you noticed any changes in your sleeping patterns?
+
+Patient: Yeah, I've been having trouble sleeping lately. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling more tired or fatigued than usual?
+
+Patient: Yes, definitely. Even when I do get some sleep, I still feel exhausted.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I've been having a lot of trouble with that too. I feel like I can't focus on anything for very long and making even simple decisions feels overwhelming.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing some symptoms of depression. Can you tell me a bit more about what's been going on in your life lately?
+
+Patient: Well, I lost my job a couple of months ago and haven't been able to find anything else yet. Money has been really tight and it's been causing a lot of stress for me and my family.
+
+Doctor: I see. Losing a job can definitely be a difficult and stressful experience. Have you been able to talk to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden my family with my problems and I don't really have any close friends to talk to.
+
+Doctor: I understand. It's important to have a support system during difficult times. Have you considered reaching out to a therapist or counselor?
+
+Patient: I haven't, but maybe I should.
+
+Doctor: I think that could be a good idea. In the meantime, I don't believe your symptoms meet the diagnostic criteria for depression. However, I would recommend trying to find ways to manage your stress and anxiety, such as exercise or mindfulness practices. And if your symptoms persist or worsen, please don't hesitate to reach out to me or another healthcare professional.

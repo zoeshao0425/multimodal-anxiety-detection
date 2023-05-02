@@ -1,0 +1,33 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really down lately. It's been hard to get out of bed in the morning and I don't feel like doing anything.
+
+Doctor: Have you experienced a loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yes, I used to love going for walks and spending time with my friends, but now I just don't feel like doing anything.
+
+Doctor: Have you had any changes in appetite or weight?
+
+Patient: I've noticed that I've been eating more than usual and I've gained some weight.
+
+Doctor: Have you had any trouble sleeping, such as difficulty falling asleep or staying asleep?
+
+Patient: Yes, I've been having trouble sleeping. I wake up several times during the night and have trouble falling back asleep.
+
+Doctor: Have you felt tired or had a lack of energy?
+
+Patient: Yes, I've been feeling really tired lately. It's been hard to get through the day.
+
+Doctor: Have you felt guilty or worthless?
+
+Patient: Yes, I've been feeling really guilty about not being able to do anything and worthless because I feel like I'm not contributing anything to society.
+
+Doctor: Have you had any thoughts of death or suicide?
+
+Patient: No, I haven't had any thoughts of suicide.
+
+Doctor: Based on your answers, it doesn't seem like you are experiencing depression. However, I would still like to discuss some ways to improve your mood and overall well-being. Have you considered exercise or therapy?
+
+Patient: Yes, I've been thinking about starting to exercise and I would be open to therapy.
+
+Doctor: Great, I can refer you to a therapist and we can also discuss some exercises that may help improve your mood.

@@ -1,0 +1,31 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and sad most days.
+
+Doctor: Can you describe these feelings of sadness? How often do you experience them?
+
+Patient: It's a constant feeling of sadness that's been going on for a few weeks now. It's like a heavy weight on my chest that won't go away. I feel like crying a lot and I don't know why.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I wake up a lot during the night and have trouble falling back asleep. And then I'm exhausted during the day.
+
+Doctor: Do you have any loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like it. I don't feel like doing anything, really.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: I haven't been eating as much as I used to, and I've lost some weight because of it.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I can't seem to focus on anything. Even simple tasks feel overwhelming and I can't make decisions easily.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, not really. I just feel really hopeless and helpless.
+
+Doctor: Based on what you've described, it sounds like you may be experiencing symptoms of depression. I would like to run some tests and further assess your condition to determine the best course of treatment.
+
+Patient: Okay, thank you. I just want to feel better.

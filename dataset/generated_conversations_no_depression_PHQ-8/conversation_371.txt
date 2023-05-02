@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and unmotivated. It's been hard to get out of bed in the morning.
+
+Doctor: Have you experienced a loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, I used to love playing basketball with my friends, but now it just feels like a chore.
+
+Doctor: Have you been feeling hopeless or helpless?
+
+Patient: Definitely. It feels like nothing will ever get better.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. It takes me forever to fall asleep and then I wake up multiple times during the night.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yeah, even when I do manage to get some sleep, I still feel exhausted all day.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your answers, it seems like you're experiencing some symptoms of depression. However, since you haven't had any thoughts of self-harm or suicide, I don't believe you meet the criteria for a diagnosis of major depressive disorder. We can discuss some treatment options if you're interested, but it's also possible that these symptoms may improve on their own over time.

@@ -1,0 +1,31 @@
+Doctor: Can you tell me about any feelings of depression you have been experiencing lately?
+
+Patient: Well, I have been feeling really down for a while now. I feel hopeless and like there's no point in doing anything.
+
+Doctor: Have you experienced any loss of interest in activities that you used to enjoy?
+
+Patient: Yes, actually. I used to love playing guitar, but I haven't picked it up in weeks. I just don't have the energy or motivation.
+
+Doctor: How has your appetite been lately? Have you noticed any significant changes in your weight?
+
+Patient: My appetite has been really low, and I've lost some weight because of it. I just don't feel hungry or interested in food.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: Both, actually. I have trouble falling asleep at night, but then I end up sleeping in really late in the morning.
+
+Doctor: Have you been feeling tired or fatigued even when you haven't done much physical activity?
+
+Patient: Yes, definitely. I just feel exhausted all the time, even when I haven't done anything particularly strenuous.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault. It's like I can't do anything right.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: No, I haven't had any thoughts of hurting myself. I just feel really stuck and unhappy.
+
+Doctor: Based on your responses, it seems like you may be experiencing symptoms of depression. However, it's important to note that depression is a medical condition that can be treated with therapy and medication. I would like to refer you to a mental health professional who can help you work through these symptoms and develop a treatment plan.
+
+Patient: Thank you, Doctor. That makes sense.

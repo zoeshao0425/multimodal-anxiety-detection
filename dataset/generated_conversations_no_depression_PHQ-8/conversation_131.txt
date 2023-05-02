@@ -1,0 +1,43 @@
+Doctor: So, tell me what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I'm not sure what's wrong with me.
+
+Doctor: Okay, can you describe your symptoms for me?
+
+Patient: Yeah, I've been feeling really sad and hopeless. I don't enjoy doing things that I used to love, like going out with friends or playing sports. I've also been having trouble sleeping and I feel tired all the time.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight?
+
+Patient: Not really. I still eat normally, but I don't really feel hungry or interested in food.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, just the fatigue and trouble sleeping.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yeah, definitely. I feel like my mind is foggy and I can't focus on anything for very long.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a little bit about your personal background? Do you have a history of depression or other mental health issues in your family?
+
+Patient: Yeah, actually my mom has struggled with depression for most of her life. I've never been diagnosed with anything before, though.
+
+Doctor: I see. Have you experienced any significant stressors or life changes recently, like a job loss or a breakup?
+
+Patient: Not really, no. My life has been pretty stable, which is why I'm confused about why I'm feeling this way.
+
+Doctor: Okay, well based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to run some tests to confirm this diagnosis.
+
+Patient: Okay, that makes sense.
+
+Doctor: Great. I'm going to give you a PHQ-8 assessment, which will help me better understand your symptoms and the severity of your depression. 
+
+(After administering the test)
+
+Doctor: Based on your responses to the PHQ-8 assessment, it appears that you do not meet the criteria for a diagnosis of depression at this time. However, I would still like to monitor your symptoms and see you back in a few weeks to check in.
+
+Patient: Okay, thank you for your help.

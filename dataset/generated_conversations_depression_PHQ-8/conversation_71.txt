@@ -1,0 +1,45 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I’ve been feeling really down lately. I just don’t have any motivation to do anything.
+
+Doctor: Okay, can you tell me more about that? When did this start?
+
+Patient: It’s been going on for a few weeks now. I just feel really sad and hopeless all the time. I can’t seem to shake it off.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I’ve been having trouble sleeping. I either can’t fall asleep or I wake up in the middle of the night and can’t go back to sleep. And I’ve lost my appetite. I don’t really feel like eating anything.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like everything is my fault. I’m not good enough and I’ll never be able to do anything right.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: (pauses) Yeah, I’ve been having these thoughts lately. I don’t think I’d actually do anything, but they’re there.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any physical symptoms such as headaches or body aches?
+
+Patient: No, not really. Just the lack of sleep and loss of appetite.
+
+Doctor: Okay. Can you tell me a little bit about your personal background? Have you experienced any major life changes or stressors recently?
+
+Patient: Well, I lost my job a few months ago and haven’t been able to find anything since. My wife and I have been fighting a lot lately too. It’s been really stressful.
+
+Doctor: I see. Based on what you’ve shared with me, it sounds like you may be experiencing depression. I’m going to give you a PHQ-8 assessment to help us better understand your symptoms.
+
+(Doctor hands patient a PHQ-8 assessment)
+
+Doctor: Based on your answers, it looks like you are experiencing moderate to severe depression. I want to talk to you about some treatment options that can help you feel better.
+
+Patient: Okay, thank you.
+
+Doctor: There are a few different treatments we can try. One option is therapy, either one-on-one or in a group setting. Another option is medication, such as antidepressants. We can also explore lifestyle changes, such as exercise and diet modifications.
+
+Patient: I’m willing to try anything to feel better.
+
+Doctor: Great. Let’s start with therapy and see how that goes. I’ll refer you to a therapist who can work with you on managing your depression and developing coping skills. And I’ll also prescribe an antidepressant to help alleviate your symptoms.
+
+Patient: Thank you, doctor. I really appreciate your help.
+
+Doctor: Of course. Remember, depression is a treatable condition and you don’t have to suffer alone. We’ll work together to get you feeling better.

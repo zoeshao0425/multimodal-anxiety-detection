@@ -1,0 +1,39 @@
+Doctor: Hi, can you tell me a little bit about what brings you in today?
+
+Patient: Yes, I’ve been feeling really down lately. I’m not enjoying things like I used to and I’m having trouble sleeping.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yeah, I’ve lost my appetite and have been losing weight unintentionally.
+
+Doctor: How often do you feel sad or hopeless?
+
+Patient: Most of the time, honestly. It’s hard to find joy in anything.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I’m always tired and have trouble getting out of bed in the morning.
+
+Doctor: Okay, have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Definitely. I’ve been having trouble focusing at work and making even simple decisions feels overwhelming.
+
+Doctor: Have you noticed any physical symptoms like headaches or stomachaches?
+
+Patient: Not really, just the lack of appetite and trouble sleeping.
+
+Doctor: Thank you for answering those questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. 
+
+Patient: Really? I’ve never thought of myself as someone who could have depression.
+
+Doctor: Depression can affect anyone, regardless of their background or personality. It’s important to take these symptoms seriously so we can work together to find a treatment plan that works for you.
+
+Patient: That makes sense. What kind of treatment options are available?
+
+Doctor: There are several options we can explore, including therapy, medication, or a combination of both. We can discuss which options might be best for you based on your personal preferences and medical history.
+
+Patient: Okay, that sounds good. Thank you for taking the time to talk with me today.

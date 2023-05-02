@@ -1,0 +1,41 @@
+Doctor: So, I understand you're here today to discuss some symptoms you've been experiencing. Can you tell me a bit about what's been going on?
+
+Patient: Yeah, I've been feeling really down lately. Like, nothing seems to bring me joy anymore.
+
+Doctor: Okay, can you describe that feeling a bit more? Is it a constant feeling or does it come and go?
+
+Patient: It's pretty constant. I wake up feeling sad and it just kind of lingers throughout the day.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I don't really have much of an appetite.
+
+Doctor: How about your energy levels? Have you been feeling tired or fatigued?
+
+Patient: Yeah, definitely. Even small tasks seem to take so much effort.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I'm finding it really hard to focus on anything. Even simple decisions feel overwhelming.
+
+Doctor: And how long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, not really.
+
+Doctor: Okay, that's good to hear. Can you tell me a bit about your personal background? Have you experienced depression before?
+
+Patient: Yeah, I was diagnosed with depression a few years ago. I was able to manage it pretty well with therapy and medication, but it seems to be coming back now.
+
+Doctor: Okay, thank you for letting me know that. Based on what you've shared with me, it sounds like you may be experiencing depression again. I would like to officially diagnose you with depression and recommend that we explore treatment options.
+
+Patient: Okay, that makes sense. What kind of treatment options are available?
+
+Doctor: There are a few different options we can explore, including therapy and medication. I would like to refer you to a therapist who can work with you on managing your symptoms and developing coping strategies. Additionally, we can discuss medication options if you feel that may be helpful.
+
+Patient: Okay, that sounds good. Thank you for taking the time to talk with me today.
+
+Doctor: Of course, thank you for sharing your experiences with me. Remember, depression is a treatable condition and there is hope for feeling better. Let's work together to find a treatment plan that works for you.

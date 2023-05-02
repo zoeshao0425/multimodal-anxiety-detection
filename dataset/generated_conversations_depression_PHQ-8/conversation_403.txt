@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down. Just sad and unmotivated most of the time.
+
+Doctor: Have you been experiencing any loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like it anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: My appetite has been really off. Sometimes I don't feel like eating at all, but other times I'll eat a lot of junk food.
+
+Doctor: Do you have trouble falling asleep or staying asleep?
+
+Patient: I have trouble falling asleep most nights, and then I wake up really early and can't go back to sleep.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: I feel tired all the time, even if I haven't done anything. It's hard to get motivated to do anything.
+
+Doctor: Do you have any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Sometimes I think about it, but I know I wouldn't actually do it.
+
+Doctor: Thank you for answering those questions. Based on your answers, it seems like you may be experiencing symptoms of depression. 
+
+Patient: Really? I didn't think it was that serious.
+
+Doctor: Depression is a common and treatable condition. It's important to seek help so that we can work together to improve your quality of life.

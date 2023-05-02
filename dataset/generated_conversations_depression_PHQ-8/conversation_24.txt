@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? Have you been feeling sad or empty most of the time?
+
+Patient: Yeah, pretty much all the time. It's like there's a cloud hanging over me and I can't shake it.
+
+Doctor: Have you lost interest in things you used to enjoy, like hobbies or spending time with friends and family?
+
+Patient: Yeah, I don't really feel like doing anything anymore. Even things I used to love don't seem interesting or fun.
+
+Doctor: Have you been having trouble sleeping, either sleeping too much or too little?
+
+Patient: I've been having trouble sleeping, for sure. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating less than usual and have lost some weight recently.
+
+Doctor: Have you been feeling tired or low on energy?
+
+Patient: Yeah, I feel exhausted all the time, even if I haven't done anything particularly tiring.
+
+Doctor: Have you been feeling guilty or worthless, or having thoughts of self-harm?
+
+Patient: Yeah, I've been feeling really worthless lately. Like I'm not good at anything and I'll never be happy again. And sometimes I think about hurting myself.
+
+Doctor: Thank you for sharing that with me. Can you tell me a bit more about your personal life? Are you married, do you have children, what do you do for work?
+
+Patient: I'm married with two kids. I work at a desk job, but it's been really stressful lately.
+
+Doctor: That sounds like a lot to handle. How has your depression been affecting your daily life and functioning?
+
+Patient: It's been really hard to get through the day. I have trouble focusing at work and I don't have the energy to play with my kids or do things around the house. I just want to lay in bed all day.
+
+Doctor: Based on what you've told me, it sounds like you are experiencing symptoms of depression. I would like to formally diagnose you with major depressive disorder. We can discuss treatment options, such as therapy and medication, to help manage your symptoms and improve your quality of life.

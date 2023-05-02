@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I just can't seem to shake this feeling of sadness and hopelessness.
+
+Doctor: I see. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just feel like I don't have any energy or motivation to do anything.
+
+Doctor: Have you noticed any changes in your sleeping patterns or appetite?
+
+Patient: Yes, I've been having trouble sleeping at night and I've lost my appetite. I just don't feel hungry anymore.
+
+Doctor: Okay, have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I just feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I've been having trouble focusing at work and making even simple decisions has been difficult.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing symptoms of depression. Have you ever been diagnosed with depression before?
+
+Patient: No, I haven't.
+
+Doctor: Alright, well I think it would be beneficial for us to explore treatment options for you. There are a variety of medications and therapy techniques that can help manage symptoms of depression. Would you be open to discussing these options further?
+
+Patient: Yes, I would definitely be interested in exploring treatment options. Thank you for taking the time to talk to me about this.

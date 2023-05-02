@@ -1,0 +1,35 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling pretty down for the past few weeks. I don't really feel like doing anything or seeing anyone.
+
+Doctor: Have you been experiencing any specific symptoms?
+
+Patient: Yeah, I've been having trouble sleeping and I've lost my appetite. I also feel really tired all the time.
+
+Doctor: Have you noticed any changes in your mood or energy levels?
+
+Patient: Yeah, I feel really sad and hopeless most of the time. I just don't see the point in doing anything.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Have you experienced any physical symptoms such as headaches, stomachaches, or muscle pain?
+
+Patient: No, I haven't had any of those symptoms.
+
+Doctor: Have you been able to concentrate or make decisions easily?
+
+Patient: No, I've been having a lot of trouble with that lately. I feel like my mind is foggy and I can't focus on anything.
+
+Doctor: Have you noticed any changes in your interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, I don't really feel like doing anything anymore. Even things that used to make me happy don't seem to do anything for me now.
+
+Doctor: Based on what you've told me, it seems like you may be experiencing symptoms of depression. However, I would like to rule out any other potential causes of your symptoms. Can you tell me a bit about your personal background and any recent life events that may have contributed to how you're feeling?
+
+Patient: Well, I recently went through a breakup and I've been struggling with some financial issues. It's been pretty stressful.
+
+Doctor: That could certainly contribute to how you're feeling. However, based on our conversation and the PHQ-8 assessment, I don't believe that you meet the criteria for a diagnosis of depression. It's important to continue monitoring your symptoms and seeking support if you need it, but for now, I would recommend focusing on self-care and stress management techniques to help improve your mood and overall well-being.
+
+Patient: Thank you, doctor. That's a relief to hear. I'll definitely take your advice and try to take better care of myself.

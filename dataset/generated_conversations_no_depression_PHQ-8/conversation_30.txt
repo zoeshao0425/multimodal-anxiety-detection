@@ -1,0 +1,37 @@
+Doctor: So, what brings you here today?
+
+Patient: Well, I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: Okay, can you tell me a little more about that? How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just feel really unmotivated and hopeless most of the time.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been having trouble sleeping at night and I don't really feel like eating much.
+
+Doctor: Do you experience any feelings of guilt or worthlessness?
+
+Patient: Yeah, I do. I just feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Okay, can you tell me a little more about your personal life? Are there any major stressors or changes that may be contributing to these feelings?
+
+Patient: Well, my job has been really stressful lately and I've been having some relationship issues with my partner.
+
+Doctor: I see. And how has this been affecting your daily functioning? Have you been able to go to work or carry out your usual activities?
+
+Patient: It's been really difficult. I've been calling in sick to work a lot and I just don't have the energy to do much else.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to administer a PHQ-8 assessment to get a better idea of your symptoms. 
+
+(Patient completes the assessment)
+
+Doctor: Based on your answers, it appears that you are not currently experiencing depression. However, it's important to continue monitoring your symptoms and seeking support if they persist or worsen. Are there any other concerns or questions you have?
+
+Patient: No, I think that's all for now. Thank you for your help. 
+
+Doctor: Of course, don't hesitate to reach out if you need anything in the future.

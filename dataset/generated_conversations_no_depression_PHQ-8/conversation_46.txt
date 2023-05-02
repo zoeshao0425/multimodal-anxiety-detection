@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? Have you been experiencing any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, definitely. I just feel like everything is pointless and I'm not good enough.
+
+Doctor: Have you been having trouble sleeping or eating?
+
+Patient: Yeah, I've been having trouble falling asleep at night and I don't really have much of an appetite.
+
+Doctor: Do you find yourself losing interest in things you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends and doing things, but now I just don't feel like it. It's like nothing really brings me joy anymore.
+
+Doctor: Have you been feeling more tired or fatigued than usual?
+
+Patient: Yeah, I've been feeling really drained lately. Even when I do manage to get some sleep, I wake up feeling exhausted.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any significant life changes or stressors recently?
+
+Patient: Well, I did just lose my job a few months ago, and I've been having a hard time finding something new. It's been really stressful and I feel like I'm not good enough to get hired anywhere else.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, your score on the PHQ-8 assessment indicates that your symptoms are mild and do not meet the criteria for a diagnosis of major depression. 
+
+Patient: Oh, okay. That's a relief to hear.
+
+Doctor: That being said, I would still recommend that you seek some form of treatment, whether that's therapy or medication, to help manage your symptoms and improve your overall well-being. Would you be open to that?
+
+Patient: Yeah, I think that would be a good idea. Thank you for your help.

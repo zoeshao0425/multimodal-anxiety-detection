@@ -1,0 +1,45 @@
+Doctor: Can you tell me a little bit about what's been going on lately that made you come in today?
+
+Patient: Yeah, I've been feeling really down lately. Like, I just don't have any energy and everything feels like a chore. I'm having trouble sleeping and I don't really enjoy anything anymore.
+
+Doctor: I see. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Okay. Have you noticed any changes in your appetite or weight?
+
+Patient: Not really. I mean, I haven't been eating as much as usual, but I don't think I've lost any weight.
+
+Doctor: Alright. Have you been feeling hopeless or worthless at all?
+
+Patient: Yeah, I have. I just feel like nothing I do matters and I'm not good at anything.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, nothing like that. I just feel really sad and hopeless.
+
+Doctor: Okay. Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I have. It's hard to focus on anything and I'm second-guessing myself all the time.
+
+Doctor: I understand. Have you ever experienced these symptoms before?
+
+Patient: No, never. I've always been pretty happy and energetic.
+
+Doctor: Okay. Can you tell me a little bit about your personal life? Do you have any stressors or major life changes happening right now?
+
+Patient: Well, I just started a new job a few months ago and it's been pretty stressful. And my relationship with my girlfriend has been a little rocky lately.
+
+Doctor: I see. Those can definitely be tough things to deal with. Do you have any history of depression or other mental health issues in your family?
+
+Patient: Not that I know of. No one in my family has ever talked about having depression or anything like that.
+
+Doctor: Alright. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that there can be other medical conditions that can cause similar symptoms. I'd like to run some tests just to rule out any other underlying issues. In the meantime, there are some things you can do to help manage your symptoms. Have you considered talking to a therapist or counselor?
+
+Patient: Yeah, I've been thinking about it. I just wasn't sure if it would really help.
+
+Doctor: It can definitely be helpful to talk to someone who can provide support and guidance. I can refer you to a therapist who specializes in depression if you're interested. Additionally, there are some lifestyle changes you can make that may help improve your mood, such as getting regular exercise, eating a healthy diet, and making time for activities you enjoy.
+
+Patient: Okay, that sounds good. Thanks for your help.
+
+Doctor: Of course. And remember, if you ever have any thoughts of hurting yourself or others, it's important to seek help immediately. You can always call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) for support.

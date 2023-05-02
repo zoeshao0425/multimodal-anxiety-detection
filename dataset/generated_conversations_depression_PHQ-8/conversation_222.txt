@@ -1,0 +1,33 @@
+Doctor: Can you tell me more about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't enjoy doing things that I used to love, and I have trouble sleeping at night.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now. I just feel like I can't shake this feeling of sadness.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less than usual and I've lost a few pounds.
+
+Doctor: Do you find it difficult to concentrate or make decisions?
+
+Patient: Yes, definitely. I feel like my mind is always foggy and I can't focus on anything.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I've been feeling really tired even though I haven't been doing much during the day.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Can you tell me a little bit about your personal background? Have you experienced depression before?
+
+Patient: Yes, I have a history of depression in my family. My mom and sister both struggle with it.
+
+Doctor: Thank you for sharing that with me. Based on your answers, it sounds like you may be experiencing depression. I would like to refer you to a mental health specialist who can provide you with further support and treatment options.

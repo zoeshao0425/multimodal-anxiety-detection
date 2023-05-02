@@ -1,0 +1,29 @@
+Doctor: Can you tell me about any feelings of depression you may have experienced in the past two weeks?
+
+Patient: I've been feeling really down lately. I don't feel like doing anything, and I'm always tired. I don't enjoy things that used to make me happy.
+
+Doctor: Have you experienced any loss of appetite or overeating?
+
+Patient: I haven't been eating much lately. I just don't feel hungry.
+
+Doctor: Have you had any trouble sleeping?
+
+Patient: Yeah, I've been having a hard time falling asleep and staying asleep.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: I feel exhausted all the time. I don't have any energy to do anything.
+
+Doctor: Have you had any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything is my fault. I'm not good enough for anything.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: I can't focus on anything. I can't make even simple decisions.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Sometimes I feel like life isn't worth living. I don't think I would ever act on it, but the thoughts are there.
+
+Doctor: Thank you for sharing all of that with me. Based on what you've told me, it sounds like you may be experiencing depression. We'll need to do some more tests and assessments to confirm, but I'm going to recommend that we start treatment for depression.

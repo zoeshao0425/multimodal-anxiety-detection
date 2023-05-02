@@ -1,0 +1,45 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately, and I'm not sure why. I just feel sad all the time.
+
+Doctor: Okay, can you tell me more about that? How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just wake up feeling sad and it doesn't really go away throughout the day.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't really been eating much lately and I have trouble falling asleep at night.
+
+Doctor: Okay, and have you lost interest in things you used to enjoy doing?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like doing anything.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel really tired all the time, even after getting a good night's sleep.
+
+Doctor: Okay, have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Alright, thank you for answering those questions. Based on your answers, it seems like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Okay, sure.
+
+Doctor: Have you experienced any major life events or stressors recently?
+
+Patient: Well, I did lose my job a few months ago, and I've been having trouble finding a new one. It's been really stressful.
+
+Doctor: I see. And do you have a support system in place, like family or friends you can talk to?
+
+Patient: Yeah, I have a few close friends I talk to about things.
+
+Doctor: That's good to hear. Based on your answers, it seems like your symptoms may be related to your recent job loss and stressors. However, I don't believe you meet the criteria for a diagnosis of depression at this time.
+
+Patient: Really? That's a relief.
+
+Doctor: Yes, but I would still recommend seeking support from a therapist or counselor to help you cope with your current situation and improve your overall mental health.
+
+Patient: Okay, I'll definitely look into that. Thank you for your help, doctor.
+
+Doctor: Of course, take care.

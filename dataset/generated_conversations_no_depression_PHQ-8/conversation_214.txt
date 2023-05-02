@@ -1,0 +1,33 @@
+Doctor: Hi, can you tell me about how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't feel like doing anything and I'm always tired.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating much and I've lost some weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing at work and making decisions seems overwhelming.
+
+Doctor: Have you lost interest in things you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and playing sports but now I don't feel like doing anything.
+
+Doctor: Have you felt guilty or worthless?
+
+Patient: Yeah, I feel like a burden to my family and friends and like I'm not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you're experiencing some symptoms of depression. Can you tell me more about your personal life and any recent events that may have contributed to your feelings?
+
+Patient: Well, my job has been really stressful lately and I haven't been able to spend as much time with my family and friends. Also, my relationship ended recently and that's been weighing on me.
+
+Doctor: I see. It's understandable that those events would be difficult to deal with. However, based on our conversation and the PHQ-8 assessment, I don't believe that you have major depression. It's important to address your stress and work on self-care, such as exercise and spending time with loved ones. I can refer you to a therapist if you'd like to discuss your feelings further.

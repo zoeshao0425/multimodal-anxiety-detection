@@ -1,0 +1,37 @@
+Doctor: Can you tell me about how you've been feeling lately? Have you been experiencing any symptoms of depression?
+
+Patient: Yes, I have been feeling really down lately. I don't have any energy and I'm having trouble sleeping. I'm also not interested in doing things that I used to enjoy.
+
+Doctor: I see. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite and I've lost a few pounds.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I've been having trouble with that too.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I have been feeling worthless and guilty about a lot of things.
+
+Doctor: Have you been feeling more tired than usual or have you been having trouble sleeping?
+
+Patient: Yes, I've been feeling really tired and I've been having trouble sleeping.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression. However, it's important to note that depression can be caused by many different factors, including life events, genetics, and chemical imbalances in the brain. 
+
+Patient: That makes sense. I've been going through some tough things lately, so that could be a factor.
+
+Doctor: Yes, it definitely could be. It's important to address these symptoms so that we can help you feel better. We can explore different treatment options, such as therapy or medication, to help manage your symptoms. 
+
+Patient: That sounds good. Thank you for taking the time to talk to me about this.
+
+Doctor: Of course. It's important to take care of your mental health just as much as your physical health. Let's work together to find a treatment plan that works best for you.

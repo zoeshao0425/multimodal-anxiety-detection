@@ -1,0 +1,33 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms in the past two weeks?
+
+Patient: Yes, I have been feeling down and hopeless.
+
+Doctor: Can you describe that feeling a bit more? What specifically makes you feel down and hopeless?
+
+Patient: Well, I just feel like nothing is going right in my life. I'm not happy with my job, my relationships, and everything just seems to be falling apart.
+
+Doctor: Okay, that's understandable. Have you been experiencing any loss of interest or pleasure in things you used to enjoy doing?
+
+Patient: Yes, I used to love playing basketball, but now I don't even feel like getting out of bed. Everything feels like a chore.
+
+Doctor: I see. Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yes, I've been eating a lot less than usual and have lost some weight.
+
+Doctor: Okay. Have you been having trouble sleeping or sleeping too much?
+
+Patient: I haven't been able to sleep well at night, and during the day, I feel tired all the time.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yes, I feel exhausted all the time, and I don't have the energy to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Lastly, have you been having any thoughts of hurting yourself or suicidal thoughts?
+
+Patient: No, I haven't had any thoughts of hurting myself or others.
+
+Doctor: Okay, thank you for answering all those questions. Based on your responses, it doesn't seem like you have depression. However, I would still recommend seeking therapy to help you work through some of these feelings you're experiencing. It's important to take care of yourself and prioritize your mental health.

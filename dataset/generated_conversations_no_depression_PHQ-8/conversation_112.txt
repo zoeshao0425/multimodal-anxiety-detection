@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, I've been feeling really down. I feel sad most of the time and I don't enjoy things that I used to find fun.
+
+Doctor: Have you experienced a loss of interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love playing soccer with my friends, but now I just don't feel like doing anything. I also don't feel like socializing or spending time with my family.
+
+Doctor: How often do you feel this way?
+
+Patient: It's pretty much every day. I wake up feeling sad and it lasts throughout the day.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yes, I've been eating a lot less than usual and I've lost some weight recently.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I find myself tossing and turning all night and I wake up feeling tired.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I feel exhausted all the time. Even getting out of bed feels like a chore.
+
+Doctor: Do you ever feel hopeless or worthless?
+
+Patient: Yes, sometimes I feel like there's no point in anything and that I'm not good enough.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or ending my life.
+
+Doctor: Based on your responses, it doesn't seem like you meet the criteria for depression. However, it's important to continue monitoring your mood and seeking help if your symptoms worsen. Are there any other concerns you would like to address?

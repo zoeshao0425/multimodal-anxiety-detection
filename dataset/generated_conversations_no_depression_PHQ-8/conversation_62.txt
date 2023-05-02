@@ -1,0 +1,43 @@
+Doctor: Can you tell me about your mood over the past two weeks?
+
+Patient: I've been feeling really down. I don't have much energy, and I don't feel like doing anything.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yes, I feel like I'm not good enough and that I'm a burden on my family and friends.
+
+Doctor: Have you had any trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep at night, but then I sleep in late in the morning.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: I haven't been eating as much as I used to, and I've lost some weight.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, it's hard for me to focus on anything, and I feel like I can't make even simple decisions.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Can you tell me more about your daily functioning? Are you able to do your usual activities?
+
+Patient: It's been really hard to do anything. I don't want to see my friends or do things I used to enjoy. I just want to stay in bed all day.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'm going to ask you a few more questions to get a better understanding of your condition.
+
+Patient: Okay.
+
+Doctor: Have you experienced any recent significant life events, such as the loss of a loved one or a job?
+
+Patient: No, nothing like that.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Based on our conversation and the PHQ-8 assessment, I'm not seeing any indications of depression. However, I would like to monitor your symptoms and see you again in a few weeks to make sure you're feeling better.
+
+Patient: Thank you, doctor. That makes me feel better.

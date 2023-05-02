@@ -1,0 +1,27 @@
+Doctor: I understand that you're here today because you've been experiencing some symptoms of depression. Can you tell me a little bit more about what's been going on?
+
+Patient: Yeah, I've just been feeling really down lately. I don't really enjoy anything anymore, and I find it hard to get out of bed in the morning.
+
+Doctor: Okay, thank you for sharing that with me. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been eating a lot less than usual, and I have trouble falling asleep at night.
+
+Doctor: I see. Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, I feel like nothing I do really matters and that I'm just a burden on everyone around me.
+
+Doctor: I understand how difficult that can be. Have you had any thoughts of self-harm or suicide?
+
+Patient: No, not really. I don't think I would ever do anything like that.
+
+Doctor: Okay, that's good to hear. Have you noticed any changes in your energy levels or ability to concentrate?
+
+Patient: Yeah, I feel really tired all the time, and I have trouble focusing on anything for very long.
+
+Doctor: Thank you for answering all of my questions. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to perform a PHQ-8 assessment to get a better understanding of your condition.
+
+Patient: Okay, that sounds good.
+
+Doctor: (After administering PHQ-8 assessment) Based on your responses, it appears that you do not meet the criteria for a diagnosis of depression. However, it's clear that you've been struggling with some difficult emotions lately. I would recommend that you continue to monitor your symptoms and seek support from friends, family, or a mental health professional if things become more difficult.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

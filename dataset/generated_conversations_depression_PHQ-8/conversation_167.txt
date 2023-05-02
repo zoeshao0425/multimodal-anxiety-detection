@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? Have you been experiencing any specific symptoms?
+
+Patient: Yeah, I've been feeling really sad and hopeless. I've lost interest in things I used to enjoy, and I'm having trouble sleeping. I'm also really tired all the time, even when I get enough sleep.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual, and I've lost a few pounds.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling like everything is my fault and that I'm a burden on everyone around me.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself, but I do feel like life isn't worth living sometimes.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: Not really, just the fatigue and trouble sleeping.
+
+Doctor: Have you noticed any triggers for these feelings, like a recent loss or stressful event?
+
+Patient: Not really, it just feels like everything is overwhelming and I can't keep up.
+
+Doctor: Can you tell me a bit about your personal background? Do you have a history of depression or other mental health issues in your family?
+
+Patient: My mom has struggled with depression in the past, and I've had some anxiety and panic attacks before, but nothing like this.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a full assessment to get a better understanding of how you're feeling and how we can help you.
+
+Patient: Okay, that sounds good. Thank you for taking the time to listen to me.

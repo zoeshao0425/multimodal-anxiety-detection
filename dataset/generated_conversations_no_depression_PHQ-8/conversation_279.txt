@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. It's been going on for a while now.
+
+Doctor: Have you been experiencing any loss of interest or pleasure in things you used to enjoy?
+
+Patient: Yeah, I used to love playing video games and watching movies, but now I just don't have the energy or motivation to do those things anymore.
+
+Doctor: How about changes in your appetite or weight?
+
+Patient: I've been eating less than usual, and I've lost a few pounds.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble falling asleep at night, and then I end up oversleeping in the morning.
+
+Doctor: Have you noticed any changes in your energy levels or ability to concentrate?
+
+Patient: Yeah, I feel really tired all the time, and it's hard to focus on anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling like I'm not good enough and that everything I do is pointless.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any suicidal thoughts.
+
+Doctor: Okay, based on your responses, it seems like you may be experiencing symptoms of depression. Can you tell me a little bit about your personal life and any stressors you may be facing?
+
+Patient: Well, I recently lost my job and I've been having trouble finding a new one. That's been really stressful, and it's been affecting my relationships with my family and friends.
+
+Doctor: I see. It's understandable that losing a job can be difficult and impact multiple areas of your life. However, based on our conversation, I don't believe you meet the criteria for a diagnosis of depression. It's possible that your symptoms may be related to stress and anxiety related to your recent job loss. I would recommend exploring some coping strategies and potentially seeking therapy to address these concerns.

@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't have any motivation to do anything, and I just feel like sleeping all day.
+
+Doctor: Have you experienced a loss of interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love playing basketball and going out with friends, but now I don't even want to leave my house.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite, and I've lost some weight as well.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been sleeping a lot, but it's not restful sleep. I wake up feeling tired and groggy.
+
+Doctor: Have you been feeling tired or low on energy?
+
+Patient: Yes, I feel exhausted all the time, even after sleeping for hours.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling like a burden to my family and friends, and I feel like everything I do is wrong.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your answers, it seems like you are experiencing symptoms of depression. However, your score on the PHQ-8 assessment is not high enough to diagnose you with depression. It's important to keep an eye on your symptoms and continue to monitor how you're feeling. If your symptoms worsen or persist, please come back and see me. In the meantime, I recommend practicing self-care and seeking support from loved ones.

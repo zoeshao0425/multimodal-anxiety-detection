@@ -1,0 +1,39 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down lately.
+
+Doctor: Can you tell me more about that? When did you start feeling this way?
+
+Patient: It’s been going on for a while now. I’d say a few months. I just feel sad all the time, even when there’s nothing particularly wrong.
+
+Doctor: Have you noticed any other symptoms?
+
+Patient: Yeah, I’m having trouble sleeping. I either can’t fall asleep or I wake up in the middle of the night and can’t go back to sleep. And I’ve lost my appetite. Food just doesn’t taste good anymore.
+
+Doctor: Okay, those are common symptoms of depression. Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yes, definitely. I feel like everything is pointless and that I’m not good enough.
+
+Doctor: How about difficulty concentrating or making decisions?
+
+Patient: Yeah, that’s been a big problem. I can’t focus on anything and I’m having trouble making even small decisions.
+
+Doctor: And have you had any thoughts of harming yourself or suicide?
+
+Patient: (pauses) Yes, I have. I don’t think I’d ever act on it, but the thought has crossed my mind.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any recent life events that may have triggered these feelings?
+
+Patient: Well, my job has been really stressful lately and I’m going through a divorce.
+
+Doctor: I’m sorry to hear that. Those are certainly difficult things to go through. Have you ever experienced depression before?
+
+Patient: No, this is the first time.
+
+Doctor: Okay, well based on your symptoms and experiences, it sounds like you may be experiencing major depressive disorder. I’d like to do a full assessment to confirm the diagnosis and determine the best course of treatment for you.
+
+Patient: Okay, that makes sense. What does treatment involve?
+
+Doctor: Treatment for depression can include therapy, medication, or a combination of both. We’ll work together to determine the best approach for you. It’s important to remember that depression is a treatable condition and there’s no shame in seeking help.
+
+Patient: Thank you, doctor. I appreciate your help.

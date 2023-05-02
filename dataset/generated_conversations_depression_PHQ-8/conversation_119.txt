@@ -1,0 +1,25 @@
+Doctor: Hi, can you tell me a little bit about what’s been going on lately that led you to come in today?
+
+Patient: Well, I’ve been feeling really down lately. I just don’t have any motivation to do anything, and I’m always tired.
+
+Doctor: I see. Have you been experiencing any other symptoms like changes in your appetite or sleep patterns?
+
+Patient: Yeah, my appetite has definitely decreased. I used to love eating, but now I just don’t feel hungry. And I’ve been having trouble sleeping too. I wake up multiple times during the night and have trouble falling back asleep.
+
+Doctor: Okay, those are definitely some common symptoms of depression. Have you noticed any changes in your mood or how you feel about yourself?
+
+Patient: Yeah, I just feel really sad all the time. I don’t enjoy doing things that I used to love, and I just feel worthless.
+
+Doctor: I’m sorry to hear that. Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, that’s good to hear. Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Alright. Have you ever experienced depression before? And do you have any family history of mental health disorders?
+
+Patient: Yeah, I’ve had depression in the past, but it was a while ago. And my mom has struggled with anxiety and depression for as long as I can remember.
+
+Doctor: Okay, that’s helpful to know. Based on what you’ve told me, it does sound like you’re experiencing symptoms of depression. I’d like to officially diagnose you with major depressive disorder. We’ll talk more about treatment options, but for now, is there anything else you’d like to share with me about how you’ve been feeling?

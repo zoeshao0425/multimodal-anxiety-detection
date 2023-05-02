@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood in the last two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down lately. I don't feel like doing anything, and I just want to stay in bed all day.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with my friends and playing sports, but now I don't feel like doing anything.
+
+Doctor: Have you experienced any changes in your appetite, weight, or sleep patterns?
+
+Patient: My appetite has decreased, and I've lost some weight. I'm also having trouble sleeping at night.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I feel exhausted all the time. Even simple tasks like getting out of bed or taking a shower feel like a huge effort.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and that everything I do is wrong.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or ending my life.
+
+Doctor: Based on your answers, it seems like you are experiencing some symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your situation. Can you tell me about any recent major life events or stressors that may have contributed to your current state?
+
+Patient: Well, I recently lost my job, and I'm having trouble finding a new one. I also went through a breakup with my significant other.
+
+Doctor: I see. Losing a job and going through a breakup can be very stressful and can certainly contribute to feelings of depression. However, based on our conversation and the PHQ-8 assessment, it seems like your symptoms are not severe enough to warrant a diagnosis of depression. That being said, it's important to take care of your mental health and seek support if you need it. I can refer you to a therapist or counselor who can help you work through your feelings and develop coping strategies.

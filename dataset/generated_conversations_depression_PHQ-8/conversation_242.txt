@@ -1,0 +1,45 @@
+Doctor: I understand that you've been feeling down lately. Can you tell me more about your symptoms?
+
+Patient: Yeah, I just feel really sad most of the time. It's like a cloud is hanging over me and I can't shake it off.
+
+Doctor: How long have you been feeling this way?
+
+Patient: About a month or so.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble falling asleep and then I wake up really early in the morning and can't get back to sleep.
+
+Doctor: Have you noticed a lack of interest or pleasure in things you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends and now I just don't feel like doing anything.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I feel exhausted all the time even though I haven't been doing anything strenuous.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you been having thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Thank you for answering these questions. Based on your responses, it seems like you may be experiencing depression. 
+
+Patient: Really? I didn't think it was that serious.
+
+Doctor: Depression is a serious condition that can have a significant impact on your daily life. It's important to seek treatment so that we can help you feel better. 
+
+Patient: Okay, what kind of treatment options are available?
+
+Doctor: There are several options available, including therapy and medication. We can discuss which option may be best for you based on your specific situation. 
+
+Patient: Okay, that sounds good. Thank you for your help. 
+
+Doctor: Of course, we'll work together to come up with a treatment plan that works for you.

@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Yeah, I've been feeling really down and sad. I just can't seem to shake it off.
+
+Doctor: Have you been feeling hopeless or helpless?
+
+Patient: Definitely. I just feel like nothing is going right and there's no point in trying anymore.
+
+Doctor: Have you lost interest in things that you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends and doing things, but now I just don't feel like it anymore.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: I've been eating a lot less than usual and have lost some weight.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: All the time. I just feel exhausted even after getting a full night's sleep.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: Yes, I've been having thoughts of ending my life. It's like a constant voice in my head telling me I'm better off dead.
+
+Doctor: Thank you for sharing all of this with me. Based on what you've told me, it sounds like you may be experiencing depression. We will need to do further assessments and tests to confirm the diagnosis. 
+
+Patient: Okay, thank you for listening to me.

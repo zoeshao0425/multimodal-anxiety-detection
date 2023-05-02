@@ -1,0 +1,37 @@
+Doctor: Can you tell me a bit about what's been going on with you lately?
+
+Patient: Well, I've just been feeling really down. It's like everything is just too much for me to handle.
+
+Doctor: Okay, can you describe that feeling a bit more?
+
+Patient: It's like I have no energy and everything feels like a chore. Even getting out of bed in the morning is a struggle.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I'm sleeping a lot more than usual and I don't really feel like eating much either.
+
+Doctor: Okay, have you been feeling sad or hopeless lately?
+
+Patient: Yeah, I've been feeling really hopeless. Like there's no point in even trying because nothing will ever get better.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Yeah, I have a hard time focusing on anything and it takes me forever to make even simple decisions.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: Not really, but I have been feeling really fatigued all the time.
+
+Doctor: Okay, thank you for sharing that information with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression.
+
+Patient: Really? I didn't think it was that serious.
+
+Doctor: Depression is a very real and serious condition that affects many people. But the good news is that it's treatable. I'd like to refer you to a mental health professional who can help you develop a treatment plan that works for you.
+
+Patient: Okay, thank you. I really appreciate your help.
+
+Doctor: Of course, that's what I'm here for. And please don't hesitate to reach out if you need anything else.

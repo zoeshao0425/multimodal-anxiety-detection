@@ -1,0 +1,35 @@
+Doctor: Can you tell me a bit about how you have been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't have much energy to do anything, and I don't enjoy the things I used to.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I haven't had much of an appetite. I've lost some weight because of it.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Definitely. I've been having a hard time focusing at work, and I feel like I'm not as productive as I used to be. I've also been putting off making important decisions because I just can't seem to make up my mind.
+
+Doctor: Have you had any thoughts of worthlessness or hopelessness?
+
+Patient: Yeah, I've been feeling really worthless lately. I feel like I'm not good at anything and that I'm just a burden on everyone around me. And I've been having thoughts of just giving up because things will never get better.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomach aches?
+
+Patient: Not really. Just some fatigue and a lack of motivation.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: Yes, I was diagnosed with depression a few years ago and was on medication for a while. But I thought I had gotten better and stopped taking the medication.
+
+Doctor: Can you tell me a bit about your personal life? Do you have any stressors or major life changes happening right now?
+
+Patient: Well, my job has been really stressful lately, and I've been having some issues with my relationship. And on top of that, I lost a close family member recently.
+
+Doctor: Based on your answers, it does sound like you may be experiencing symptoms of depression. However, we will need to do a full assessment to confirm that. 
+
+Patient: Okay, that makes sense.
+
+Doctor: After completing the PHQ-8 assessment, it seems that you do not meet the criteria for depression. However, given your history of depression and recent stressors, I think it would be a good idea to continue monitoring your symptoms and consider therapy or medication if they persist or worsen.
+
+Patient: Thank you for your help and advice, Doctor.

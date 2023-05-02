@@ -1,0 +1,39 @@
+Doctor: So, what brings you here today?
+
+Patient: I have been feeling really low lately, and I think I might be depressed.
+
+Doctor: Okay, can you tell me a bit more about how you've been feeling?
+
+Patient: Well, I've been feeling really sad and hopeless. I don't enjoy the things I used to, and I have no energy or motivation to do anything.
+
+Doctor: How long have you been feeling like this?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, I haven't been sleeping well, and I've lost my appetite.
+
+Doctor: Have you been having any thoughts of hurting yourself or others?
+
+Patient: No, not really.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomach aches?
+
+Patient: No, not really.
+
+Doctor: Have you had any past experiences with depression or mental health issues?
+
+Patient: Yes, I have struggled with depression in the past.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to do a PHQ-8 assessment to get a better understanding of your symptoms.
+
+Patient: Okay, that sounds good.
+
+Doctor: On a scale from 0 to 3, how often have you been bothered by the following symptoms in the past two weeks? Little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating, and moving or speaking slowly or being fidgety.
+
+Patient: For the first two, it's been a 3. For the third and fourth, it's been a 2. For the fifth, it's been a 1. For the sixth and seventh, it's been a 3. And for the last one, it's been a 2.
+
+Doctor: Thank you for sharing that with me. Based on your responses, it does seem like you are experiencing symptoms of depression. I would recommend that we start a treatment plan that may include therapy and medication. We can discuss this further in our next appointment.
+
+Patient: Okay, thank you for your help.

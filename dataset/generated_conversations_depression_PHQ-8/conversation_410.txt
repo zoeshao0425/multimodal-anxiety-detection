@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. It's been hard for me to find joy in things that I used to enjoy.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I would say for the past few months. It's been getting worse and worse.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: And how about your appetite? Have you noticed any changes there?
+
+Patient: Yeah, I've been eating a lot less than usual. I just don't feel hungry most of the time.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had those kinds of thoughts.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I've been feeling like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard for me to focus on anything. Even simple decisions feel overwhelming.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't have the energy or motivation to do anything.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I recommend that we start exploring treatment options and support resources that could help you manage these symptoms.

@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you describe your mood? Do you feel sad, hopeless, or empty?
+
+Patient: Yeah, I feel really sad most of the time. Like there's a weight on my chest that won't go away. And I don't feel like doing anything anymore.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep. And I haven't had much of an appetite either. Food just doesn't taste good anymore.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus on anything lately. Even simple tasks seem overwhelming. And I second-guess myself all the time.
+
+Doctor: Have you lost interest in things you used to enjoy?
+
+Patient: Yeah, I used to love playing basketball with my friends, but now I don't even feel like leaving the house. I just want to stay in bed all day.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: (pauses) Yeah, I have. Sometimes it feels like it would be easier if I wasn't around anymore.
+
+Doctor: Thank you for being honest with me. It sounds like you're experiencing symptoms of depression. Have you ever been diagnosed with depression before?
+
+Patient: No, I haven't.
+
+Doctor: Okay. Based on what you've told me, I'm going to diagnose you with depression. It's important to know that this is a common condition, and it's treatable. We can work together to find the best treatment plan for you.

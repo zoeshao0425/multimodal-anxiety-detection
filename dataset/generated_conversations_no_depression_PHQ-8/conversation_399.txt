@@ -1,0 +1,31 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down for the past two weeks. I feel like everything is pointless and I don't enjoy things that used to make me happy.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've been eating less and have lost some weight recently.
+
+Doctor: Do you have trouble sleeping or do you sleep too much?
+
+Patient: I have trouble sleeping. I usually wake up in the middle of the night and have trouble falling back asleep.
+
+Doctor: Have you noticed a decrease in energy or motivation?
+
+Patient: Yes, I feel tired all the time and don't have the motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and I'm letting everyone down.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of self-harm or suicide.
+
+Doctor: Can you tell me a bit about your personal life? Are there any stressors or life events that may be contributing to your symptoms?
+
+Patient: Well, I recently lost my job and have been having trouble finding a new one. It's been causing a lot of financial stress for me and my family.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors such as stress or a medical condition. I would like to run some tests to rule out any underlying medical issues. In the meantime, I recommend seeking support from a therapist or counselor to help manage your symptoms. 
+
+Patient: Thank you, doctor. I appreciate your help.

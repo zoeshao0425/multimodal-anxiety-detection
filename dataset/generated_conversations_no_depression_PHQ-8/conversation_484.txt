@@ -1,0 +1,55 @@
+Doctor: Hi, can you tell me a little bit about why you’re here today?
+
+Patient: Yeah, I’ve been feeling really down lately. I just can’t seem to shake it.
+
+Doctor: Okay, can you describe what you mean by feeling down?
+
+Patient: Well, I just feel sad all the time. I don’t enjoy things that I used to enjoy, and I just feel really hopeless about my future.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I’d say for the past few weeks.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I’ve been sleeping a lot more than usual, and I haven’t had much of an appetite.
+
+Doctor: Okay, and have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Alright, have you ever experienced these symptoms before?
+
+Patient: Yeah, I went through a period of depression a few years ago.
+
+Doctor: Okay, do you have any family history of depression or other mental health conditions?
+
+Patient: Yes, my mom has struggled with depression for most of her life.
+
+Doctor: Alright, thank you for sharing that. Based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. I’d like to ask you a few more questions to get a better understanding of your symptoms.
+
+Patient: Sure, go ahead.
+
+Doctor: In the past two weeks, how often have you been bothered by little interest or pleasure in doing things?
+
+Patient: Almost every day.
+
+Doctor: And how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Almost every day as well.
+
+Doctor: Have you experienced any feelings of worthlessness or excessive guilt?
+
+Patient: No, not really.
+
+Doctor: Okay, have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I’ve definitely noticed that I’m having a hard time focusing on things.
+
+Doctor: Alright, have you had any thoughts of death or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, based on your responses to the PHQ-8 questions, it doesn’t appear that you’re currently experiencing major depression. However, it’s important to keep an eye on your symptoms and seek help if they worsen or persist. In the meantime, I’d recommend practicing self-care, such as getting regular exercise, eating a healthy diet, and engaging in activities that bring you joy.
+
+Patient: Thank you, doctor. I’ll definitely try to take care of myself better.

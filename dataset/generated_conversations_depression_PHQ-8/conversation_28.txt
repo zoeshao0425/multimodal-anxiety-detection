@@ -1,0 +1,35 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down lately. I don’t know what’s wrong with me.
+
+Doctor: Can you tell me more about how you’re feeling?
+
+Patient: Yeah, I just feel sad all the time. I don’t enjoy things like I used to. I’m always tired and have trouble sleeping.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yeah, I’ve lost my appetite and lost some weight.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It’s been going on for a few months now.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: I feel exhausted all the time. I have no motivation to do anything.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Do you have any history of depression or other mental health conditions?
+
+Patient: My mom has depression, but I’ve never been diagnosed with anything before.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: I lost my job a few months ago, and it’s been hard finding a new one. And my relationship with my girlfriend has been rocky.
+
+Doctor: Thank you for sharing that with me. Based on your symptoms and history, it sounds like you may be experiencing depression. I’d like to run some tests and refer you to a mental health specialist to help manage your symptoms. 
+
+Patient: Okay, thank you.

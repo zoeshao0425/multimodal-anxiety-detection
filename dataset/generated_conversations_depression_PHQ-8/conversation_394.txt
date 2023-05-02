@@ -1,0 +1,33 @@
+Doctor: Can you tell me how you have been feeling lately?
+
+Patient: Honestly, doctor, I've been feeling really down. I don't enjoy things that I used to enjoy and I feel like I'm just going through the motions.
+
+Doctor: Have you experienced any loss of interest or pleasure in activities that you normally enjoy?
+
+Patient: Yes, I have. I used to love going to the gym and hanging out with my friends, but now I just can't seem to get motivated to do anything.
+
+Doctor: How has your sleep been lately? Have you noticed any changes?
+
+Patient: I've been having trouble falling asleep at night and then I end up sleeping in really late. It's like I can't get enough sleep no matter how much I get.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: I've been eating a lot less lately and I've lost some weight. Food just doesn't taste as good as it used to.
+
+Doctor: Have you been feeling tired or fatigued lately?
+
+Patient: Yes, I have. Even when I do manage to get out of bed and do something, I feel exhausted afterwards.
+
+Doctor: Have you had any feelings of worthlessness or guilt?
+
+Patient: Yes, I have. I feel like everything is my fault and that I'm not good enough for anything.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yes, I have. I can't seem to focus on anything for very long and even simple decisions are really difficult for me to make.
+
+Doctor: Have you had any thoughts of suicide or self-harm?
+
+Patient: (pauses) Yes, I have. I've been thinking about it a lot lately and sometimes it feels like the only way out.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. I would like to recommend that we start you on a treatment plan that includes therapy and possibly medication. It's important to address these symptoms as soon as possible so that we can help you start feeling better.

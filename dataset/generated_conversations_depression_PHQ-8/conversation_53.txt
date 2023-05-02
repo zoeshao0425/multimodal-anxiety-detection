@@ -1,0 +1,23 @@
+Doctor: Can you tell me about how you have been feeling lately? Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things, such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed?
+
+Patient: Yes, I've been feeling really down lately. I don't enjoy doing things that I used to love, like going to the gym or hanging out with friends. I just feel like I don't have any energy to do anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. At first, I thought it was just stress from work, but it hasn't gone away.
+
+Doctor: Have you had any trouble sleeping or eating?
+
+Patient: Yeah, I have trouble falling asleep at night and I wake up feeling tired. And I haven't been eating much lately. I just don't have an appetite.
+
+Doctor: Have you noticed any changes in your mood or self-esteem?
+
+Patient: Yeah, I feel really bad about myself. I feel like I'm not good enough and that I've let my family down. I just feel like a failure.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having trouble focusing at work. I can't seem to get anything done and I'm making mistakes that I wouldn't normally make.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. Depression is a medical condition that affects your mood, thoughts, and behavior. It's important to know that depression is treatable and you don't have to suffer alone. I recommend that we start treatment as soon as possible.
+
+Patient: Thank you, Doctor. I appreciate your help.

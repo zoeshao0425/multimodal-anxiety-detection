@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about what's been going on lately?
+
+Patient: Yeah, I've just been feeling really down and unmotivated. I don't really enjoy things that I used to and I'm having trouble sleeping.
+
+Doctor: Have you been feeling this way for a while?
+
+Patient: Yeah, probably for the past few weeks.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Not really, my appetite has been pretty normal.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yeah, I feel exhausted all the time, even when I get a good night's sleep.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus on anything. I have trouble making even simple decisions.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any major life changes recently that could be contributing to how you're feeling?
+
+Patient: Well, I did lose my job a few months ago and have been struggling to find work since then. But I don't think that's the only reason I'm feeling this way.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, I would like to do some further testing to determine if you have depression. 
+
+(Patient completes PHQ-8 assessment)
+
+Doctor: Based on the results of the PHQ-8, it looks like you are not currently experiencing depression. However, I would like to monitor your symptoms and check in with you again in a few weeks to see if anything has changed. In the meantime, I recommend focusing on self-care activities such as exercise, healthy eating, and spending time with loved ones to help improve your mood.

@@ -1,0 +1,41 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down. I don't have any motivation to do anything and I just feel really sad all the time.
+
+Doctor: Have you been feeling this way for a while?
+
+Patient: Yeah, it's been a few weeks now.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I haven't had much of an appetite.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yeah, I'm always tired no matter how much I sleep.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends and doing things, but now I just don't feel like it.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I feel like nothing I do matters and I'm not good at anything.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to make sure.
+
+Patient: Okay.
+
+Doctor: Have you experienced any major life events or changes recently, such as a loss of a loved one or a job?
+
+Patient: No, nothing like that.
+
+Doctor: Do you have a family history of depression or other mental health conditions?
+
+Patient: My mom has struggled with depression in the past.
+
+Doctor: Okay, thank you for sharing that. Based on your answers, it doesn't seem like you meet the criteria for a diagnosis of depression. However, I would like to keep an eye on your symptoms and see you back in a few weeks to reassess. In the meantime, it may be helpful to try some self-care strategies such as exercise, healthy eating, and spending time with loved ones. If your symptoms worsen or you have any thoughts of self-harm, please don't hesitate to reach out to me or another healthcare professional.

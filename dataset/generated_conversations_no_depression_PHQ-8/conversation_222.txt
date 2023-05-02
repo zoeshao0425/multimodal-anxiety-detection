@@ -1,0 +1,33 @@
+Doctor: So, let's start with the first question. Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Honestly, I've been feeling like that almost every day.
+
+Doctor: Okay, and what about little interest or pleasure in doing things?
+
+Patient: Yeah, that too. I used to love reading and going out with friends, but now I just don't feel like doing anything.
+
+Doctor: How about trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I've been having trouble falling asleep and staying asleep. I usually wake up several times during the night and can't go back to sleep.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yes, I've been feeling exhausted all the time, even after a full night's sleep.
+
+Doctor: Do you have poor appetite or overeating?
+
+Patient: I haven't been eating much lately. I just don't feel hungry.
+
+Doctor: How about feeling bad about yourself, feeling like a failure, or feeling guilty?
+
+Patient: Yeah, I've been feeling like a failure lately. I'm not happy with where I am in life, and I feel like it's my fault.
+
+Doctor: Have you been having trouble concentrating on things, such as reading the newspaper or watching TV?
+
+Patient: Yes, I've been having trouble focusing on anything for more than a few minutes.
+
+Doctor: Finally, have you had thoughts that you would be better off dead, or of hurting yourself in some way?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering these questions. Based on your answers, you have some symptoms of depression, but not enough to meet the criteria for a diagnosis of major depressive disorder. However, it's still important to address these symptoms and work on improving your mood and overall well-being. I recommend trying some lifestyle changes, such as exercise and socializing more, and possibly therapy if your symptoms persist.

@@ -1,0 +1,41 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I don't have any energy, and I'm having trouble sleeping.
+
+Doctor: Okay, can you tell me more about that? How often are you having trouble sleeping?
+
+Patient: Almost every night. I'll lie there for hours and just toss and turn.
+
+Doctor: And how long has this been going on?
+
+Patient: About a month or so.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, I've been eating a lot less than usual.
+
+Doctor: Are you experiencing any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like I'm not good enough and that everything I do is wrong.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love playing soccer, but now I don't even want to leave the house.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. 
+
+Patient: Really? I didn't think it was that serious.
+
+Doctor: Depression is a common and treatable condition. It's important to get help early on so we can work together to get you feeling better. 
+
+Patient: Okay, what can we do?
+
+Doctor: I would like to refer you to a therapist who can help you work through your feelings and develop coping strategies. Additionally, medication may be helpful in managing your symptoms. We can discuss that further at your next appointment. 
+
+Patient: Thank you, doctor. I appreciate your help.
+
+Doctor: Of course. Remember, you're not alone in this. We're here to support you.

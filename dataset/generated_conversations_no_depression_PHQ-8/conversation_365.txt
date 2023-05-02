@@ -1,0 +1,43 @@
+Doctor: Can you tell me how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't have any motivation to do anything and I feel like everything is pointless.
+
+Doctor: Have you been experiencing any loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and doing things, but now I don't feel like doing anything. Even things that used to make me happy don't seem to anymore.
+
+Doctor: Have you been feeling tired or having trouble sleeping?
+
+Patient: Yes, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And during the day, I feel exhausted all the time.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I haven't been eating as much as I used to. I just don't have an appetite. And I've lost a few pounds because of it.
+
+Doctor: Have you been feeling guilty or hopeless?
+
+Patient: Yes, I feel guilty about everything. Even things that aren't my fault. And I feel like nothing will ever get better. I just feel hopeless.
+
+Doctor: Have you been having any trouble concentrating or making decisions?
+
+Patient: Yes, I can't seem to focus on anything. Even simple tasks take so much effort. And I can't make decisions. I'm always second-guessing myself.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Can you tell me a little bit about your personal life? Do you have any major stressors or life changes happening right now?
+
+Patient: Well, I just went through a breakup a few months ago. And work has been really stressful lately. But other than that, nothing major.
+
+Doctor: Based on your symptoms and experiences, it sounds like you may be experiencing depression. However, I would like to do a full assessment to be sure.
+
+Patient: Okay, that makes sense.
+
+(Doctor proceeds to administer the PHQ-8 assessment)
+
+Doctor: Based on your responses to the PHQ-8 assessment, it appears that you do not meet the criteria for depression. However, I would like to monitor your symptoms and schedule a follow-up appointment in a few weeks to check in.
+
+Patient: That's a relief. Thank you for taking the time to talk to me and assess my symptoms.
+
+Doctor: Of course, it's important to take care of your mental health. Don't hesitate to reach out if you notice any changes or if your symptoms worsen.

@@ -1,0 +1,35 @@
+Doctor: Can you tell me about your mood over the past two weeks?
+
+Patient: Honestly, I haven't been feeling too great. I've been feeling down most of the time, and it's been hard to shake that feeling.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yeah, I've been eating a lot less than usual, and I've lost some weight because of it.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. It takes me forever to fall asleep at night, and then I wake up super early in the morning and can't get back to sleep.
+
+Doctor: Do you feel tired or have low energy most of the time?
+
+Patient: Yeah, definitely. I feel like I could sleep all day if I let myself.
+
+Doctor: Have you noticed a decrease in interest or pleasure in things you used to enjoy?
+
+Patient: Yeah, I used to love playing video games, but now I just can't seem to get into them anymore. Even hanging out with my friends doesn't feel as fun as it used to.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I've been feeling pretty worthless. Like I'm not good enough for anything.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: (pauses) Honestly, yeah. Sometimes I feel like life isn't worth living anymore.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. I would like to diagnose you with depression and recommend some treatment options.
+
+Patient: (sighs) I kind of figured that might be the case. What kind of treatment options are there?
+
+Doctor: There are a few different options we could explore. Therapy can be very helpful for managing depression, and I can refer you to a therapist who specializes in this area. Antidepressant medications can also be effective in treating depression, if you're open to that. And there are some lifestyle changes you can make, like getting regular exercise and prioritizing self-care.
+
+Patient: (nods) Okay, I'm willing to try anything at this point. Thank you for your help.

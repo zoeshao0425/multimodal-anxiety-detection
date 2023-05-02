@@ -1,0 +1,31 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I don't have any energy, and I just feel sad all the time.
+
+Doctor: I see. Can you tell me a bit more about how you've been feeling?
+
+Patient: Yeah, I just feel really hopeless. I don't enjoy things that used to make me happy, and I'm having trouble sleeping. I've also been having a lot of negative thoughts about myself.
+
+Doctor: I understand. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual, and I've lost some weight.
+
+Doctor: And have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus on anything. I feel like my mind is always foggy.
+
+Doctor: Okay, and have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts of hurting anyone else, but sometimes I feel like it would be better if I wasn't around.
+
+Doctor: I see. Can you tell me a bit more about your personal life? Do you have any stressors or major life changes going on right now?
+
+Patient: Well, my job has been really stressful lately, and I've been having some issues with my family. I also recently went through a breakup.
+
+Doctor: I'm sorry to hear that. It sounds like you have a lot going on right now. Based on what you've told me, it seems like you may be experiencing symptoms of depression. I would like to do a PHQ-8 assessment to get a better understanding of your symptoms.
+
+Patient: Okay, sure.
+
+Doctor: (asks PHQ-8 questions)
+
+Based on your answers, it seems like you are experiencing moderate to severe depression. I would like to refer you to a mental health professional who can provide you with additional support and treatment options. In the meantime, I recommend that you practice self-care by getting enough sleep, eating well, and engaging in activities that bring you joy. It's important to remember that depression is a treatable condition, and with the right support, you can start to feel better.

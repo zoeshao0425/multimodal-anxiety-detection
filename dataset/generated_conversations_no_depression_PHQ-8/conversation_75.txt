@@ -1,0 +1,35 @@
+Doctor: I'd like to ask you a few questions about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Sure, go ahead.
+
+Doctor: Over the past two weeks, have you felt little interest or pleasure in doing things?
+
+Patient: No, I don't think so. I mean, I've had some days where I didn't feel like doing much, but that's normal, right?
+
+Doctor: Yes, it can be normal to have off days. How about feeling down, depressed, or hopeless?
+
+Patient: Yeah, I have felt pretty down lately. I lost my job a few weeks ago, and it's been tough to stay positive.
+
+Doctor: I'm sorry to hear that. Have you had trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: Actually, I've been having trouble sleeping. I'll lay in bed for hours and just can't seem to turn my brain off.
+
+Doctor: That can be a common symptom of depression. Have you noticed any changes in your appetite, either eating too much or too little?
+
+Patient: I've definitely lost my appetite. Food just doesn't seem appealing to me anymore.
+
+Doctor: Okay, thank you for sharing that. Have you felt tired or had a lack of energy?
+
+Patient: Yes, I feel exhausted all the time, even if I haven't done anything physically demanding.
+
+Doctor: Have you had difficulty concentrating on things, such as reading or watching TV?
+
+Patient: Yeah, I can't seem to focus on anything for very long. It's like my mind is always wandering.
+
+Doctor: Lastly, have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your answers, it sounds like you may be experiencing some symptoms of depression. However, since you haven't had any thoughts of self-harm or suicide, I don't think it's a severe case. Would you like to talk more about how you've been feeling and what we can do to help you feel better?
+
+Patient: Yes, that would be great.

@@ -1,0 +1,35 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: I see. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well and I don't really feel like eating much either.
+
+Doctor: Okay. Have you lost interest in things that you used to enjoy?
+
+Patient: Yeah, I used to love playing video games and going out with my friends, but now I just don't have the energy for it.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I just feel like everything is pointless and that I'm not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for being honest with me. Can you tell me a little bit about your personal life? Do you have any stressful events going on right now?
+
+Patient: Well, I recently lost my job and my girlfriend broke up with me. It's been really tough.
+
+Doctor: I'm sorry to hear that. Losing a job and a relationship can be very difficult to deal with. Do you have a support system in place, like family or friends?
+
+Patient: Yeah, I have a few close friends who have been helping me through this.
+
+Doctor: That's good to hear. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I don't think it's severe enough to warrant a diagnosis. I would recommend that you continue to lean on your support system and try to engage in activities that you used to enjoy. If your symptoms persist, we can explore other treatment options.
+
+Patient: Thank you, doctor. I appreciate your help.

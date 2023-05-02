@@ -1,0 +1,35 @@
+Doctor: Can you tell me about the symptoms you've been experiencing lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't enjoy things I used to love doing, like going out with friends or watching movies. My sleep has also been affected, sometimes I can't fall asleep at all, and other times I sleep too much.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yes, I have lost my appetite, and I don't feel like eating anything. Even when I do eat, I don't enjoy it, and I find it hard to swallow.
+
+Doctor: How about your energy levels? Do you feel tired all the time?
+
+Patient: Yes, I feel exhausted all the time, and I don't have any motivation to do anything. Even getting out of bed feels like a chore.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I often feel like I'm not good enough, and I blame myself for everything that goes wrong in my life. I also feel guilty for not being able to snap out of this mood.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any suicidal thoughts, but I do feel like life is not worth living if I continue feeling this way.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: Yes, I have been having frequent headaches, and my stomach feels like it's always in knots. I also feel tense and restless most of the time.
+
+Doctor: Have you experienced any major life changes or stressors recently?
+
+Patient: Yes, I lost my job a few months ago, and since then, I've been struggling to find a new one. I also went through a breakup, which has been really hard for me.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to do a full assessment to confirm the diagnosis.
+
+Patient: Okay, that makes sense. Thank you for taking me seriously.
+
+Doctor: After completing the PHQ-8 assessment, it appears that you do not meet the criteria for depression. However, it's important to continue monitoring your symptoms and seeking support if they worsen or persist.
+
+Patient: That's a relief to hear. Thank you for your help and understanding.

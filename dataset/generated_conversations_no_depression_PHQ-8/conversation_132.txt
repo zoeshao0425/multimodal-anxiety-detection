@@ -1,0 +1,31 @@
+Doctor: So, what brings you in today?
+
+Patient: I have been feeling really down lately. I don't know what's wrong with me.
+
+Doctor: Okay, can you describe your symptoms for me? Have you been experiencing any of the following: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble sleeping or sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, and/or moving or speaking slowly?
+
+Patient: Yes, I have been experiencing most of those symptoms. I don't feel like doing anything anymore. I used to enjoy going out with friends and doing hobbies, but now I just want to stay in bed all day. I feel like nothing is worth it anymore.
+
+Doctor: Okay, how long have you been feeling this way?
+
+Patient: It's been going on for a few months now. At first, I thought it was just a phase, but it hasn't gone away.
+
+Doctor: Do you have a history of depression or other mental health conditions?
+
+Patient: No, I've never been diagnosed with anything like that before.
+
+Doctor: Have you experienced any major life changes or stressful events recently that could be contributing to your symptoms?
+
+Patient: Well, I did lose my job a few months ago, and that has been really stressful. I've also been having some relationship issues with my partner.
+
+Doctor: I see. How have these symptoms been impacting your daily life? Have you been able to work, take care of yourself, and maintain relationships?
+
+Patient: It's been really difficult. I've been struggling to get out of bed and go to work. I've been neglecting my personal hygiene and haven't been eating well. I've also been avoiding my friends and family because I don't want them to see me like this.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing depression. However, I would like to ask a few more questions to get a better understanding of your symptoms. Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for letting me know. Based on your responses to the PHQ-8 assessment, it appears that you are not experiencing depression at this time. However, I would recommend that you continue to monitor your symptoms and seek medical attention if they worsen or persist. In the meantime, I can provide you with some resources for coping with stress and improving your mental health.
+
+Patient: Thank you, doctor. I appreciate your help.

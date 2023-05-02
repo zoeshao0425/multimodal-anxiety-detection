@@ -1,0 +1,49 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down lately, and I just can’t seem to shake it off. I’m not sure what’s wrong with me.
+
+Doctor: Okay, can you tell me a little bit more about how you’ve been feeling?
+
+Patient: Well, I’ve been feeling really sad and hopeless. I don’t really enjoy doing things that I used to love, and I feel like I have no energy. I’ve also been having trouble sleeping and concentrating.
+
+Doctor: Have you been experiencing any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, not really. It’s mostly just the emotional stuff that’s been bothering me.
+
+Doctor: Okay, let’s go through the PHQ-8 assessment to get a better idea of your symptoms. Over the past two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things?
+
+Patient: All the time. I used to love going out with friends and doing fun things, but now I just don’t feel like it.
+
+Doctor: Feeling down, depressed, or hopeless?
+
+Patient: Yes, definitely. I’ve been feeling really hopeless lately, like nothing is ever going to get better.
+
+Doctor: Trouble falling or staying asleep, or sleeping too much?
+
+Patient: Yes, I’ve been having trouble sleeping. I either can’t fall asleep or I wake up in the middle of the night and can’t go back to sleep.
+
+Doctor: Feeling tired or having little energy?
+
+Patient: Yes, I feel exhausted all the time. Even when I get a good night’s sleep, I still feel tired.
+
+Doctor: Poor appetite or overeating?
+
+Patient: I’ve been eating more than usual lately, but I don’t know if it’s because I’m actually hungry or if it’s just because I’m feeling down.
+
+Doctor: Feeling bad about yourself – or that you are a failure or have let yourself or your family down?
+
+Patient: Yes, I’ve been feeling really down on myself lately. I feel like I’m not good enough and that I’ve let everyone down.
+
+Doctor: Trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yes, definitely. I used to be able to focus on things for hours, but now I can’t seem to concentrate on anything.
+
+Doctor: Thoughts that you would be better off dead or of hurting yourself in some way?
+
+Patient: No, I haven’t had any thoughts like that.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. However, it’s important to note that depression is a medical condition that can be treated. There are many different treatment options available, including therapy and medication. Would you like me to refer you to a mental health professional who can help you further?
+
+Patient: Thank you, doctor, but I don’t think I need that. I think I just need to make some changes in my life and try to take care of myself better.
+
+Doctor: That’s perfectly fine. It’s important to prioritize self-care, and I’m glad you’re aware of that. If you ever need anything else, please don’t hesitate to reach out.

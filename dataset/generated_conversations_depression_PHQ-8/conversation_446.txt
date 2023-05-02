@@ -1,0 +1,35 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by little interest or pleasure in doing things?
+
+Patient: Well, doctor, I would say almost every day. I don't feel like doing anything, not even the things I used to enjoy doing.
+
+Doctor: Okay. And what about feeling down, depressed, or hopeless?
+
+Patient: Yes, I feel that way most of the time. I can't seem to shake off this feeling of sadness and hopelessness.
+
+Doctor: Have you experienced trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: I've been having trouble sleeping. I toss and turn all night, and even when I do fall asleep, I wake up frequently.
+
+Doctor: Have you noticed any change in your appetite or weight recently?
+
+Patient: Yes, I've lost my appetite. I hardly feel like eating anything, and as a result, I've lost some weight.
+
+Doctor: Do you feel tired or have low energy levels?
+
+Patient: Yes, I feel exhausted all the time. Even small tasks seem to drain me of all my energy.
+
+Doctor: Have you had any feelings of worthlessness or excessive guilt?
+
+Patient: Yes, I feel like I'm a burden on everyone around me. I'm constantly beating myself up over things that are beyond my control.
+
+Doctor: Have you had any difficulty concentrating, making decisions, or remembering things?
+
+Patient: Yes, I find it hard to focus on anything. Even simple tasks take me longer than usual, and I forget things easily.
+
+Doctor: Finally, have you had any thoughts of hurting yourself or suicidal ideation?
+
+Patient: Yes, doctor. I've been having these thoughts for a while now. I feel like there's no way out of this darkness, and sometimes I wonder if it would be better if I wasn't around.
+
+Doctor: Based on your answers, it seems like you are experiencing symptoms of depression. It's important to know that depression is a treatable condition, and there are several treatment options available. I would recommend that we start with therapy and medication to help you manage your symptoms.
+
+Patient: Thank you, doctor. I appreciate your help.

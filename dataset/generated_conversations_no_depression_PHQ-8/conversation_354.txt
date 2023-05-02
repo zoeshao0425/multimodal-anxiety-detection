@@ -1,0 +1,37 @@
+Doctor: So, I understand that you've been experiencing some symptoms of depression. Can you tell me a bit about what you've been feeling?
+
+Patient: Yeah, I just feel really down all the time. I don't have any energy and I'm not interested in doing anything anymore.
+
+Doctor: I see. Have you been feeling this way for a long time?
+
+Patient: Yeah, it's been going on for a few months now. I just don't seem to be able to shake it.
+
+Doctor: Okay. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping very well lately and I've lost my appetite. I just don't feel like eating anything.
+
+Doctor: And have you been feeling hopeless or worthless at all?
+
+Patient: Yeah, sometimes I just feel like there's no point in anything. Like I'm not good enough and nothing will ever change.
+
+Doctor: I understand. Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that. I just feel really sad and hopeless.
+
+Doctor: Okay. Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Can you tell me a bit about your personal life? Are you going through any major life changes or stresses right now?
+
+Patient: Well, my job has been really stressful lately and my relationship with my partner is going through a rough patch. But other than that, everything else is pretty normal.
+
+Doctor: I see. Alright, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I'd like to do a more thorough assessment to be sure. 
+
+(Patient completes PHQ-8 assessment)
+
+Doctor: Based on your answers to the PHQ-8, it appears that you do not meet the criteria for a diagnosis of depression. However, it's important to keep an eye on your symptoms and seek help if they worsen or persist.
+
+Patient: Okay, thank you for your help. 
+
+Doctor: Of course. If you have any further concerns or questions, don't hesitate to reach out.

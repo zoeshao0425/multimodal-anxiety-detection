@@ -1,0 +1,25 @@
+Doctor: Can you tell me about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't have any energy or motivation to do anything. I've been having trouble sleeping and I'm not interested in things that used to make me happy.
+
+Doctor: Have you been experiencing any physical symptoms like changes in appetite, weight loss or gain, or fatigue?
+
+Patient: Yes, I've lost my appetite and I've been losing some weight. I feel tired all the time and I don't have the energy to do anything.
+
+Doctor: Have you been feeling hopeless or worthless? Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I've been feeling really hopeless and worthless lately. Sometimes I think about hurting myself, but I haven't acted on those thoughts.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yes, I find it really hard to concentrate and make decisions. I feel like my mind is foggy all the time.
+
+Doctor: Have you experienced any changes in your sleep patterns?
+
+Patient: Yes, I've been having trouble falling asleep and staying asleep. I wake up feeling tired and groggy.
+
+Doctor: Have you experienced any changes in your interest in activities that you used to enjoy?
+
+Patient: Yes, I don't feel interested in anything anymore. Things that used to make me happy just feel like a chore now.
+
+Doctor: Based on your responses, it sounds like you may be experiencing symptoms of depression. However, it's important to rule out any other medical conditions that could be causing these symptoms. With that being said, I don't believe you meet the criteria for a diagnosis of major depressive disorder. It's possible that you may be experiencing a temporary period of sadness or low mood. I would recommend that you continue to monitor your symptoms and seek help if they persist or worsen. In the meantime, there are some things you can do to improve your mood, such as exercising regularly, eating a healthy diet, and getting enough sleep.

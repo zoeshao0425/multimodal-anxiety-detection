@@ -1,0 +1,45 @@
+Doctor: Can you tell me how often you have been bothered by any of the following problems over the last two weeks? 
+
+Patient: Sure, I can try.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down and hopeless for a while now. It's been affecting my daily routine, and I'm not able to enjoy things that I used to.
+
+Doctor: How often do you feel this way?
+
+Patient: Almost every day. It's been going on for a few months now.
+
+Doctor: Have you had little interest or pleasure in doing things?
+
+Patient: Yes, I have lost interest in things that I used to enjoy doing. I don't feel motivated to do anything anymore.
+
+Doctor: How long has this been going on?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you had trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: Yes, I have been having trouble falling asleep, and even when I manage to fall asleep, I wake up frequently during the night.
+
+Doctor: How long has this been going on?
+
+Patient: It's been happening for a few months now.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yes, I have been feeling very tired lately. Even after getting enough sleep, I still feel exhausted.
+
+Doctor: Have you been feeling bad about yourself - or that you are a failure, or have let yourself or your family down?
+
+Patient: Yes, I have been feeling like a failure lately. I feel like I am not good enough and that I have let my family down.
+
+Doctor: Have you had trouble concentrating on things such as reading the newspaper or watching television?
+
+Patient: Yes, I have been having trouble concentrating lately. I find myself zoning out a lot and not being able to focus on anything.
+
+Doctor: Have you been moving or speaking so slowly that other people could have noticed? Or have you been so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: No, I haven't experienced either of those symptoms.
+
+Doctor: Based on your responses, it seems like you are not experiencing depression. However, I would still recommend that you take care of yourself and seek help if you feel like you need it in the future.

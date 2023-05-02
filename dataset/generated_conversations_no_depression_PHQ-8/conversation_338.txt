@@ -1,0 +1,35 @@
+Doctor: So, let's start with some questions to better understand your current condition. Have you been feeling down, depressed, or hopeless lately?
+
+Patient: Yes, I have been feeling very sad and hopeless for the past few weeks.
+
+Doctor: Okay, have you lost interest in doing things you used to enjoy, such as hobbies or spending time with friends and family?
+
+Patient: Yes, I don't feel like doing anything anymore. I just want to stay in bed all day.
+
+Doctor: Have you experienced any changes in your appetite, weight, or sleep patterns?
+
+Patient: Yes, I have lost my appetite and have trouble sleeping at night. I wake up feeling tired every morning.
+
+Doctor: Have you been feeling tired or fatigued even after getting enough rest?
+
+Patient: Yes, I feel exhausted all the time, even after sleeping for long hours.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had difficulty concentrating or making decisions?
+
+Patient: Yes, I can't seem to focus on anything, and it's hard for me to make even simple decisions.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself.
+
+Doctor: Thank you for answering these questions. Based on your responses, it appears that you are experiencing some symptoms of depression. Can you tell me more about your personal life and any recent events that may be contributing to your current condition?
+
+Patient: Well, I recently lost my job, and I've been having trouble finding a new one. I also went through a breakup with my partner, which has been really difficult for me.
+
+Doctor: I see. These are significant life events that could certainly contribute to feelings of sadness and hopelessness. It's important to remember that depression is a medical condition that can be treated. I would like to refer you to a mental health professional who can provide you with the support and treatment you need.
+
+Patient: Thank you, doctor. I appreciate your help.

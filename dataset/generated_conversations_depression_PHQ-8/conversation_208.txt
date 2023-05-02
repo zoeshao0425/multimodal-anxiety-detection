@@ -1,0 +1,35 @@
+Doctor: So, let's start with the first question. Over the past two weeks, how often have you been bothered by feeling down, depressed or hopeless?
+
+Patient: To be honest, doctor, I've been feeling like this for a while now. I feel down almost every day, and it's been affecting my daily life.
+
+Doctor: I see. And how about feeling little interest or pleasure in doing things? How often have you experienced that in the last two weeks?
+
+Patient: That's another thing that's been bothering me. I don't enjoy doing things that I used to love, like going out with friends or watching movies. It's been happening quite often.
+
+Doctor: Okay. Have you had any trouble falling asleep, staying asleep, or sleeping too much lately?
+
+Patient: Yes, I have. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep. Sometimes, I sleep too much and still feel tired when I wake up.
+
+Doctor: I understand. How about feeling tired or having low energy? Has that been a problem for you recently?
+
+Patient: Yes, doctor. I feel tired all the time, even after getting enough sleep. I don't have the energy to do anything, and it's affecting my work and personal life.
+
+Doctor: Alright. Have you experienced a decrease in appetite or overeating lately?
+
+Patient: I've been overeating lately, especially junk food. I know it's not healthy, but I can't seem to control it.
+
+Doctor: I see. Have you felt bad about yourself or that you are a failure, or let yourself or your family down recently?
+
+Patient: Yes, doctor. I feel like a failure and that I'm letting my family down. I can't seem to do anything right, and it's affecting my self-esteem.
+
+Doctor: Okay. Have you had trouble concentrating on things like reading the newspaper, watching TV, or even having a conversation recently?
+
+Patient: Yes, doctor. I can't concentrate on anything for long. My mind keeps wandering, and I can't focus on anything.
+
+Doctor: And finally, have you had thoughts that you would be better off dead or hurting yourself in some way recently?
+
+Patient: I've had thoughts of harming myself, but I haven't acted on them. I feel like I'm a burden to my family and that they'd be better off without me.
+
+Doctor: Thank you for answering these questions, patient. Based on your responses, it seems like you're experiencing symptoms of depression. We'll need to do further tests to confirm, but I'm prescribing you medication and recommending therapy to help you manage your symptoms.
+
+Patient: Thank you, doctor. I appreciate your help.

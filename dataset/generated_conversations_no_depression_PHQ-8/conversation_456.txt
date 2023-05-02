@@ -1,0 +1,25 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks: little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down and hopeless for the past few weeks. I don't get excited about things like I used to, and I feel like I'm just going through the motions.
+
+Doctor: Okay, and have you been experiencing any other symptoms such as trouble falling asleep or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Yes, I have been having trouble sleeping, and I feel tired all the time. I also haven't been eating much lately, and when I do eat, I don't really enjoy it. I feel like I'm not good enough and that I'm letting everyone down.
+
+Doctor: Have you been having any trouble with concentration or making decisions, or have you been thinking about harming yourself or that you would be better off dead?
+
+Patient: Yes, I've been having trouble concentrating at work, and I've been making mistakes that I wouldn't normally make. I haven't been thinking about harming myself, but I do feel like life would be easier if I wasn't around.
+
+Doctor: Thank you for sharing that with me. Based on your responses, it seems like you may be experiencing symptoms of depression. Can you tell me a little bit more about what's been going on in your life lately?
+
+Patient: Well, I recently lost my job, and I've been struggling to find work. My wife and I have been arguing a lot lately, and we're having trouble making ends meet. It feels like everything is falling apart, and I don't know what to do.
+
+Doctor: I'm sorry to hear that you've been going through a tough time. It's understandable that these stressors could be contributing to your symptoms. However, based on your responses, it does not seem like you meet the criteria for a diagnosis of depression at this time. Instead, it seems like you may be experiencing situational stressors that are impacting your mood and functioning.
+
+Patient: That's a relief to hear. What can I do to feel better?
+
+Doctor: There are several things you can do to improve your mood and manage stress. First, it's important to take care of your physical health by getting enough sleep, eating nutritious foods, and engaging in regular exercise. Additionally, it may be helpful to seek support from loved ones or a mental health professional. Finally, practicing relaxation techniques such as deep breathing or meditation can help you manage stress and improve your overall well-being.
+
+Patient: Thank you, doctor. I will try to implement these strategies and see if they help me feel better.
+
+Doctor: You're welcome. Please keep me updated on how you're doing, and don't hesitate to reach out if your symptoms worsen or if you have any questions or concerns.

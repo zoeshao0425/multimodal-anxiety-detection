@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't enjoy things that I used to, and I have trouble sleeping at night.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and have lost some weight.
+
+Doctor: How often do you feel this way?
+
+Patient: It's pretty much every day, and it's been going on for a few weeks now.
+
+Doctor: Do you ever feel hopeless or like life isn't worth living?
+
+Patient: Sometimes, yeah. I just feel like everything is too hard and I can't keep going.
+
+Doctor: Have you had any thoughts of hurting yourself or anyone else?
+
+Patient: No, I haven't had any thoughts of hurting anyone else, but I have thought about hurting myself.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: Not really, just some fatigue and a general lack of energy.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, I haven't.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'm going to give you a quick assessment to help me better understand your condition. 
+
+(After administering the PHQ-8 assessment)
+
+Doctor: From your answers, it appears that you are not currently experiencing depression. However, if you continue to feel down or experience any of these symptoms in the future, please don't hesitate to come back and see me. In the meantime, I recommend taking care of yourself by getting enough sleep, eating well, and engaging in activities that bring you joy.

@@ -1,0 +1,25 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, doctor, I've been feeling pretty down. It's been hard to get out of bed in the morning, and I just feel like I don't have any energy.
+
+Doctor: Have you been experiencing any other symptoms? Like changes in your appetite or sleep patterns?
+
+Patient: Yeah, actually. I haven't been sleeping very well, and I've lost my appetite. I just don't feel like eating anything.
+
+Doctor: Have you noticed any changes in your mood or interest in activities you used to enjoy?
+
+Patient: Yeah, that's been a big one for me. I used to love going out with friends and doing things, but now I just don't feel like it. I don't really enjoy anything anymore.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: Not really. Just feeling really tired all the time.
+
+Doctor: Have you experienced any stressful life events recently?
+
+Patient: Well, I did lose my job a few months ago, and that's been really tough. I've been struggling to find work, and it's been hard on my finances.
+
+Doctor: Thank you for sharing that with me. Based on what you're telling me, it sounds like you may be experiencing some symptoms of depression. However, I am not diagnosing you with depression.

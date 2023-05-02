@@ -1,0 +1,41 @@
+Doctor: So, how have you been feeling lately?
+
+Patient: I have been feeling very down and sad.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day for the past few weeks.
+
+Doctor: Have you lost interest in activities that you once enjoyed?
+
+Patient: Yes. I used to love going out with friends, but now I don't feel like doing anything.
+
+Doctor: Do you have trouble falling asleep or staying asleep?
+
+Patient: Yes, I have trouble sleeping at night. I keep tossing and turning.
+
+Doctor: Have you experienced a decrease in appetite or significant weight loss?
+
+Patient: I have lost my appetite, and I have lost weight as well.
+
+Doctor: Do you feel tired or fatigued most of the time?
+
+Patient: Yes, I feel tired all the time. Even getting out of bed in the morning is a struggle.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and that everything I do is wrong.
+
+Doctor: Have you had thoughts of self-harm or suicide?
+
+Patient: Yes, sometimes I feel like ending my life would be easier than dealing with all of this.
+
+Doctor: Thank you for answering these questions. Based on your answers, it seems like you are experiencing symptoms of depression. We will need to conduct further tests to confirm the diagnosis, but we can start treatment right away.
+
+Patient: What kind of treatment?
+
+Doctor: We can start with therapy and medication. I will refer you to a therapist who can help you work through your feelings, and I will prescribe medication to help balance your mood.
+
+Patient: Thank you, doctor. I really appreciate your help.
+
+Doctor: Of course. Depression is a treatable condition, and we will work together to help you feel better.

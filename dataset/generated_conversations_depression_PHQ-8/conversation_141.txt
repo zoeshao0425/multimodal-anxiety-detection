@@ -1,0 +1,39 @@
+Doctor: I understand that you're here to talk about your symptoms of depression. Can you tell me a bit more about what you've been experiencing?
+
+Patient: Yeah, sure. I've just been feeling really down lately. I don't really enjoy anything anymore and I have trouble sleeping at night.
+
+Doctor: Okay, that's helpful. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost a bit of weight recently. I just don't really feel like eating much.
+
+Doctor: And how about your energy level? Do you feel tired all the time?
+
+Patient: Yeah, I'm exhausted all the time. It's hard to get out of bed in the morning and I just feel drained throughout the day.
+
+Doctor: I see. Have you been having any trouble concentrating or making decisions?
+
+Patient: Yeah, definitely. I used to be able to focus really well at work, but now I find myself getting distracted easily and struggling to make decisions.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: Yeah, I have. I don't have any specific plans or anything, but sometimes I just feel like it would be easier if I didn't exist.
+
+Doctor: Thank you for being honest with me. Have you experienced any other symptoms that you think might be related to your depression?
+
+Patient: Well, I just feel really disconnected from everything. Like I'm just going through the motions and not really feeling anything.
+
+Doctor: Okay, that's good to know. Can you tell me a bit more about your personal history? Have you experienced depression before?
+
+Patient: Yeah, I have. I was diagnosed with depression a few years ago and I've been on medication since then. But lately, it just feels like the medication isn't working anymore.
+
+Doctor: I see. And have you experienced any significant life changes or stressors recently?
+
+Patient: Yeah, actually. I lost my job a few months ago and I've been struggling to find a new one. And my relationship with my partner has been really strained lately.
+
+Doctor: Okay, that's helpful to know. Based on what you've told me, it sounds like you're experiencing symptoms of depression. I would like to do a full assessment to get a better understanding of your condition.
+
+Patient: Okay, that makes sense.
+
+Doctor: Great. Based on the PHQ-8 assessment, your score indicates moderate to severe depression. I would like to refer you to a therapist who can help you work through these symptoms and develop a treatment plan that works for you.
+
+Patient: Okay, thank you for your help.

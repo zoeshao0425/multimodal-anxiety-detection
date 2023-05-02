@@ -1,0 +1,37 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any symptoms of depression?
+
+Patient: Well, I've been feeling really down and hopeless lately. I don't have much energy, and I'm not interested in things that used to make me happy. I've also been having trouble sleeping.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just can't seem to shake this feeling.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite. I used to love eating, but now I just don't feel hungry. I've lost a few pounds too.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: That's good to hear. Have you been able to concentrate on tasks or has it been difficult to focus?
+
+Patient: It's been really hard to focus. I feel like I can't concentrate on anything for very long.
+
+Doctor: Have you noticed any physical symptoms like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Sure, go ahead.
+
+Doctor: Have you experienced any major life changes recently, like the loss of a loved one or a job?
+
+Patient: No, nothing like that has happened.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it doesn't seem like you meet the criteria for a diagnosis of depression. However, I would like to continue monitoring your symptoms and offer some resources for coping with stress and low mood.

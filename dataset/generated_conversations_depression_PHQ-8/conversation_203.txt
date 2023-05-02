@@ -1,0 +1,49 @@
+Doctor: So, let's start with some questions to assess your depression symptoms. Over the last two weeks, how often have you been bothered by any of the following problems? 
+
+Patient: Okay, sure.
+
+Doctor: Little interest or pleasure in doing things?
+
+Patient: Almost every day.
+
+Doctor: Feeling down, depressed, or hopeless?
+
+Patient: Yes, I've been feeling like that a lot lately.
+
+Doctor: Trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I've been having trouble falling asleep and staying asleep.
+
+Doctor: Feeling tired or having little energy?
+
+Patient: Yes, I feel tired all the time.
+
+Doctor: Poor appetite or overeating?
+
+Patient: I've lost my appetite, and I don't feel like eating much.
+
+Doctor: Feeling bad about yourself or that you are a failure or have let yourself or your family down?
+
+Patient: Yes, I feel like I'm a failure, and I've let everyone down.
+
+Doctor: Trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yes, I can't concentrate on anything, and I get distracted easily.
+
+Doctor: Moving or speaking so slowly that other people could have noticed? Or the opposite – being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I've been moving more slowly than usual, and I feel like I'm dragging myself through the day.
+
+Doctor: Thank you for answering these questions. Based on your responses, it seems like you are experiencing moderate to severe depression. 
+
+Patient: That's what I was afraid of. 
+
+Doctor: Depression is a medical condition that can affect anyone, and it's treatable. It's essential to seek help to manage your symptoms and improve your quality of life. 
+
+Patient: I'm willing to do whatever it takes to feel better. 
+
+Doctor: That's great to hear. We can start with therapy, medication, or a combination of both. We'll work together to find the best treatment plan for you. 
+
+Patient: Thank you, doctor. I appreciate your help. 
+
+Doctor: You're welcome. Remember, depression is not your fault, and it's nothing to be ashamed of. It takes courage to seek help, and I'm here to support you.

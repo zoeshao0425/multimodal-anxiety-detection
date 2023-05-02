@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? Have you been experiencing any specific symptoms?
+
+Patient: Yeah, I've been feeling really sad and hopeless. I don't enjoy things that I used to, and I've been having trouble sleeping. I also have no energy and feel tired all the time.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Not really. I've been eating normally, but I haven't had much of an appetite lately.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, definitely. I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself. But I do feel like life isn't worth living sometimes.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Have you been able to concentrate or make decisions?
+
+Patient: It's been really hard to focus lately. I feel like my brain is foggy and I can't think clearly.
+
+Doctor: Thank you for sharing all of that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to perform a PHQ-8 assessment to better understand your condition.
+
+Patient: Okay, that's fine.
+
+(Doctor performs PHQ-8 assessment)
+
+Doctor: Based on your answers to the PHQ-8 assessment, it appears that you do not currently meet the diagnostic criteria for major depressive disorder. However, it's important to keep an eye on your symptoms and seek help if they worsen or persist.
+
+Patient: Thank you, doctor. I appreciate your help and guidance.

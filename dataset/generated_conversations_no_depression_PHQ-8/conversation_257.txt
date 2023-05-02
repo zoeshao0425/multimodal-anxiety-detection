@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and hopeless.
+
+Doctor: Have you been experiencing a loss of interest in things you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and playing sports, but now I don't feel like doing anything.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating less than usual and have lost some weight.
+
+Doctor: Do you have trouble falling asleep or staying asleep?
+
+Patient: Yes, I have trouble sleeping and wake up frequently throughout the night.
+
+Doctor: Have you felt tired or low on energy?
+
+Patient: Yes, I feel exhausted all the time, even after a full night's sleep.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I have trouble focusing and making even simple decisions.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts of harming anyone, but I do feel like life isn't worth living sometimes.
+
+Doctor: Can you tell me more about your daily routine and how depression has affected it?
+
+Patient: Well, I used to be able to get up early and go to work, but now I struggle to get out of bed and often call in sick. I don't feel like doing anything, so I just stay at home and watch TV all day.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. However, it's important to note that depression is a medical condition that can be treated. I recommend that we schedule a follow-up appointment to discuss treatment options and develop a plan to help you feel better.

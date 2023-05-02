@@ -1,0 +1,39 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I don't have any energy and I'm not motivated to do anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating as much and I've lost a few pounds.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble falling asleep and staying asleep.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I've been having trouble focusing at work and making decisions has been really difficult.
+
+Doctor: Have you had any thoughts of hurting yourself or suicidal ideation?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, just the lack of energy and motivation.
+
+Doctor: Can you tell me a little bit about your personal background? Do you have a history of depression or mental illness in your family?
+
+Patient: No, not that I know of. I've never been diagnosed with depression before.
+
+Doctor: Okay, based on your answers, it seems like you may be experiencing some symptoms of depression. However, it's important to note that there could be other factors contributing to your feelings as well. I would like to run some tests to rule out any underlying medical conditions. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After reviewing your test results, I can confirm that you don't have depression. However, there are some lifestyle changes that you can make to improve your energy levels and overall mood. I recommend getting regular exercise, eating a balanced diet, and practicing stress-reducing activities like meditation or yoga. If you continue to experience these symptoms, please don't hesitate to come back in for further evaluation. 
+
+Patient: Thank you, I appreciate your help.

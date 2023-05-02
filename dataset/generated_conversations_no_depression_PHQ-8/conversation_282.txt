@@ -1,0 +1,29 @@
+Doctor: So, I understand that you have been feeling down lately. Can you tell me more about your symptoms?
+
+Patient: Yeah, I just feel really sad and hopeless all the time. I don't enjoy things that I used to like doing, and I don't have any energy.
+
+Doctor: How long have you been feeling like this?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been eating a lot less than usual, and I'm having trouble sleeping at night.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomach aches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Well, I lost my job a few months ago, and I've been having trouble finding a new one. And my dog passed away last month, which was really hard on me.
+
+Doctor: I see. Well, based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to do a PHQ-8 assessment to get a better understanding of your condition.
+
+Patient: Okay, sure.
+
+Doctor: Based on your responses, it looks like you're not experiencing depression at this time. However, I want to encourage you to continue to monitor your symptoms and come back to see me if they worsen or persist. In the meantime, I recommend practicing self-care activities like exercise, spending time with loved ones, and engaging in activities that bring you joy.

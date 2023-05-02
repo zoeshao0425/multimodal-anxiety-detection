@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? How often do you feel this way?
+
+Patient: It's been happening pretty frequently, almost every day for the past few weeks.
+
+Doctor: Have you noticed any changes in your sleeping patterns or appetite?
+
+Patient: Yeah, I've been having trouble sleeping and I've lost my appetite a bit. I just don't feel like eating much.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, actually. I've been feeling pretty worthless lately and I keep thinking about all the things I should be doing but just can't seem to motivate myself to do.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, thankfully not.
+
+Doctor: Have you experienced any physical symptoms like fatigue or headaches?
+
+Patient: Yeah, I've been feeling pretty tired and run down lately. And I've had a few headaches too.
+
+Doctor: Have you experienced any major life changes recently that could be contributing to your feelings?
+
+Patient: Well, I did lose my job a few months ago and I've been struggling to find work since then. That's definitely been weighing on me.
+
+Doctor: Okay, thank you for sharing all of that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, we'll need to do a more thorough assessment to confirm that diagnosis. 
+
+Patient: Okay, I understand. 
+
+Doctor: I'm going to ask you a few more questions to get a better sense of how you're feeling. On a scale of 0-3, how often have you been bothered by the following symptoms in the past two weeks: Little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating, and moving or speaking slowly?
+
+Patient: (answers questions)
+
+Doctor: Based on your answers, it seems like you may not be experiencing depression at this time. However, I would like to check in with you again in a few weeks to see how you're doing. In the meantime, if you notice any changes in your mood or symptoms, please don't hesitate to reach out to me.

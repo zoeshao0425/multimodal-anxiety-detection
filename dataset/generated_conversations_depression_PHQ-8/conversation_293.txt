@@ -1,0 +1,41 @@
+Doctor: Can you tell me how often you have been bothered by any of the following problems in the last two weeks? 
+
+Patient: Sure.
+
+Doctor: Little interest or pleasure in doing things?
+
+Patient: Almost every day. I used to enjoy playing sports and going out with friends, but now I just don't feel like doing anything.
+
+Doctor: Feeling down, depressed, or hopeless?
+
+Patient: Yes, I feel like that most days. I don't see the point in anything anymore.
+
+Doctor: Trouble falling or staying asleep, or sleeping too much?
+
+Patient: I have trouble sleeping. I toss and turn all night, and sometimes I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Feeling tired or having little energy?
+
+Patient: Yes, I have no energy. Even getting out of bed in the morning feels like a chore.
+
+Doctor: Poor appetite or overeating?
+
+Patient: I hardly eat anything anymore. I've lost weight because I just don't feel hungry.
+
+Doctor: Feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Yes, I feel like a failure. I used to be so confident, but now I doubt everything I do.
+
+Doctor: Trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yes, I have trouble concentrating. I used to be able to focus on my work, but now I find myself staring at the computer screen without really processing anything.
+
+Doctor: Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I move slowly. Everything feels like an effort, even getting dressed in the morning.
+
+Doctor: Based on your responses, it seems like you may be experiencing symptoms of depression. Can you tell me more about how you've been feeling lately and any other factors that may be contributing to your mood?
+
+Patient: I've just been feeling really down lately. My job is stressful, and I've been having trouble with my partner. I feel like I'm not good enough and that nothing will ever get better. 
+
+Doctor: It's important to know that depression is a treatable condition. I recommend that we discuss treatment options, such as therapy or medication, to help you manage your symptoms and improve your quality of life.

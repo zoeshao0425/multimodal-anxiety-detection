@@ -1,0 +1,35 @@
+Doctor: So, tell me about your symptoms. Have you been feeling down or depressed lately?
+
+Patient: Yes, I have been feeling really low for the past few weeks. I am not enjoying things that I used to like before. I feel hopeless and helpless.
+
+Doctor: How often do you feel this way? Is it every day, or just some days?
+
+Patient: It's almost every day. I wake up feeling sad and tired, and it stays with me throughout the day.
+
+Doctor: Do you have trouble sleeping at night or staying asleep?
+
+Patient: Yes, I have been having trouble sleeping. I either can't fall asleep or wake up too early in the morning.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite. I don't feel like eating anything, and I have lost some weight.
+
+Doctor: Do you feel tired or fatigued most of the time?
+
+Patient: Yes, I feel tired all the time. Even after getting enough sleep, I still feel exhausted.
+
+Doctor: Have you been experiencing any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like everything is my fault, and I am not good enough. I feel like a burden to my family and friends.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of self-harm or suicide.
+
+Doctor: Okay, based on your answers, it seems like you may be experiencing some symptoms of depression. However, I would like to rule out any other medical conditions that could be causing these symptoms. Can you tell me a bit more about your personal life and any recent events that may have triggered these feelings?
+
+Patient: I have been going through a tough time at work, and I recently went through a break-up with my partner. It has been hard for me to cope with these changes, and I feel like I am stuck in a rut.
+
+Doctor: I see. It sounds like you have been dealing with a lot of stress and changes in your life. However, based on our conversation and the PHQ-8 assessment, I do not believe that you have depression. Your symptoms may be related to the stress and changes you have been experiencing. I recommend that you focus on self-care, such as getting enough sleep, eating well, and engaging in activities that you enjoy. Additionally, it may be helpful for you to seek support from a therapist or counselor to help you cope with the changes in your life.
+
+Patient: Thank you, Doctor. I appreciate your help and advice.

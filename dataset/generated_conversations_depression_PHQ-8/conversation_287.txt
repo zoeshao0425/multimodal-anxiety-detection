@@ -1,0 +1,67 @@
+Doctor: So, I understand that you're here to talk about some symptoms you've been experiencing. Can you tell me a bit more about what's been going on?
+
+Patient: Yeah, sure. I've been feeling really down lately. Like, I just don't have any energy or motivation to do anything.
+
+Doctor: Okay, can you describe that feeling a bit more? Is it like a physical fatigue or more of a mental exhaustion?
+
+Patient: It's both, really. I just feel really drained all the time. And even when I do manage to get out of bed and go to work, I just feel like I'm going through the motions. Like I'm not really present.
+
+Doctor: I see. And have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. It takes me forever to fall asleep, and then I wake up a lot during the night. And even when I do get enough sleep, I still feel tired all the time.
+
+Doctor: Okay, and how about your appetite? Have you noticed any changes there?
+
+Patient: Yeah, I've lost my appetite. I used to love food, but now I just don't really care about it. I have to force myself to eat sometimes.
+
+Doctor: I understand. And have you been feeling sad or hopeless at all?
+
+Patient: Yeah, definitely. I just feel like everything is pointless. Like there's no point in even trying, because nothing ever gets better.
+
+Doctor: I'm sorry to hear that. And have you had any thoughts of hurting yourself or anyone else?
+
+Patient: No, nothing like that. I just feel really stuck and hopeless.
+
+Doctor: I understand. And have you experienced any of these symptoms for longer than two weeks?
+
+Patient: Yeah, it's been going on for a few months now.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a more formal assessment to get a better sense of the severity of your symptoms. 
+
+Patient: Okay, that makes sense.
+
+Doctor: So, I'm going to ask you eight questions about how you've been feeling over the past two weeks. For each question, I'd like you to tell me how often you've experienced that symptom, using a scale of 0 to 3. Zero means you haven't experienced the symptom at all, and 3 means you've experienced it nearly every day.
+
+Doctor: The first question is: Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Definitely a 3.
+
+Doctor: Okay, thank you. And over the past two weeks, how often have you been bothered by little interest or pleasure in doing things?
+
+Patient: Also a 3.
+
+Doctor: Thank you. And how often have you been bothered by trouble falling or staying asleep, or sleeping too much?
+
+Patient: That's probably a 2.
+
+Doctor: Okay, thank you. And how often have you been bothered by feeling tired or having little energy?
+
+Patient: Definitely a 3.
+
+Doctor: Understood. And how often have you been bothered by poor appetite or overeating?
+
+Patient: Probably a 2.
+
+Doctor: Thank you. And how often have you been bothered by feeling bad about yourself - or that you're a failure or have let yourself or your family down?
+
+Patient: That's definitely a 3.
+
+Doctor: I see. And how often have you been bothered by trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: That's probably a 2.
+
+Doctor: Okay, thank you. Based on your responses, it does seem like you are experiencing moderate to severe depression. 
+
+Patient: Wow, I had no idea it was that bad.
+
+Doctor: Yes, depression can be a very serious condition that affects many aspects

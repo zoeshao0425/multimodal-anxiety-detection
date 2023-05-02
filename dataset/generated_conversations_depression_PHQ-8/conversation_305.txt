@@ -1,0 +1,43 @@
+Doctor: So, can you tell me what brought you in today?
+
+Patient: Yeah, I've been feeling really down lately. Like, I don't have any motivation to do anything and I just feel really sad all the time.
+
+Doctor: Okay, I understand. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any other symptoms besides feeling sad and unmotivated?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I've lost my appetite too.
+
+Doctor: Alright, those are common symptoms of depression. Have you ever experienced depression before?
+
+Patient: Yeah, I've had it a few times in the past.
+
+Doctor: Okay, can you tell me a little bit about your past experiences with depression?
+
+Patient: Sure. The first time was when I was in college. I was really stressed out and overwhelmed with schoolwork and I just couldn't handle it. The second time was after I went through a breakup. And the third time was after I lost my job.
+
+Doctor: I see. Has anything stressful or difficult happened in your life recently that may have triggered these feelings?
+
+Patient: Not really. Things have been pretty stable in my life.
+
+Doctor: Alright. Have you noticed any changes in your energy levels or concentration?
+
+Patient: Yeah, I've been feeling really tired all the time and I can't focus on anything. It's hard for me to get anything done.
+
+Doctor: Okay. Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Alright, that's good to hear. Based on your symptoms and past experiences, it sounds like you may be experiencing depression again. I'm going to diagnose you with major depressive disorder. 
+
+Patient: Okay, what does that mean?
+
+Doctor: Major depressive disorder is a common mental illness that affects millions of people. It can cause feelings of sadness, hopelessness, and loss of interest in things you once enjoyed. It can also cause physical symptoms like fatigue, changes in appetite, and difficulty sleeping. There are many treatment options available for depression, including therapy and medication. I would recommend that you consider both options to help manage your symptoms.
+
+Patient: Okay, thank you for explaining that to me. What should I do next?
+
+Doctor: I'm going to refer you to a therapist who can help you work through your feelings and develop coping strategies. And I'll also prescribe you an antidepressant medication to help manage your symptoms. We'll schedule a follow-up appointment in a few weeks to see how you're doing and adjust your treatment plan if necessary.
+
+Patient: Okay, thank you so much for your help.

@@ -1,0 +1,35 @@
+Doctor: So, let's start by discussing your mood over the past two weeks. Have you been feeling down, depressed or hopeless?
+
+Patient: Yes, I have been feeling quite down and hopeless lately.
+
+Doctor: How often have you been feeling this way? Is it most of the day, every day, or just some of the time?
+
+Patient: It's been most of the day, every day for the past two weeks.
+
+Doctor: Have you lost interest or pleasure in doing things that you usually enjoy doing?
+
+Patient: Yes, I have lost interest in doing things that I used to enjoy doing.
+
+Doctor: Have you experienced any significant changes in your appetite or weight recently?
+
+Patient: Yes, I have been eating less and have lost some weight.
+
+Doctor: Have you had any difficulty sleeping or have you been sleeping too much?
+
+Patient: I have been having difficulty sleeping. It takes me a long time to fall asleep, and I wake up several times during the night.
+
+Doctor: Have you felt tired or had low energy most days?
+
+Patient: Yes, I have been feeling tired and have had low energy levels.
+
+Doctor: Have you felt guilty or worthless recently?
+
+Patient: Yes, I have been feeling guilty and worthless.
+
+Doctor: Have you had any thoughts about harming yourself or suicide?
+
+Patient: Yes, I have been having thoughts of harming myself.
+
+Doctor: Thank you for answering all these questions honestly. Based on your responses, it seems like you are experiencing symptoms of depression. Depression is a medical condition that requires treatment. We can discuss different treatment options that can help you feel better.
+
+Patient: Thank you, doctor. I appreciate your help.

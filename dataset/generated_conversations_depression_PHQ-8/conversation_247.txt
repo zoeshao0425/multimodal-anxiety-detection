@@ -1,0 +1,37 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Honestly, doctor, I've been feeling pretty down. I just don't have any energy or motivation to do anything.
+
+Doctor: Have you been experiencing any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I haven't really been hungry. I've lost some weight because of it.
+
+Doctor: Have you noticed any changes in your mood? Do you feel sad or hopeless a lot of the time?
+
+Patient: Yeah, I feel sad most of the time. I just don't feel like there's anything to look forward to.
+
+Doctor: Have you had any trouble concentrating or making decisions lately?
+
+Patient: Yeah, I've been having a lot of trouble with that. It's hard to focus on anything when I feel this way.
+
+Doctor: Have you noticed any physical symptoms, like headaches or body aches?
+
+Patient: Yeah, I've been getting headaches pretty frequently. My body just feels really heavy and tired all the time.
+
+Doctor: Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression.
+
+Patient: Really? I didn't think it was that serious.
+
+Doctor: Depression is a very common condition, and it's nothing to be ashamed of. It's important to address these symptoms so we can work together to help you feel better.
+
+Patient: That makes sense. What can we do to treat it?
+
+Doctor: There are a few different treatment options we can consider, depending on the severity of your symptoms. Therapy and medication are both effective treatments for depression. We can discuss which option might be best for you.
+
+Patient: Okay, I'm willing to try whatever will help me feel better.
+
+Doctor: That's great to hear. We'll work together to come up with a treatment plan that's tailored to your individual needs. And remember, you're not alone in this. There are many people who struggle with depression, and there is help available.

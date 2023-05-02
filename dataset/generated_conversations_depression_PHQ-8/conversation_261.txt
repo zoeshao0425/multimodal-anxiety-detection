@@ -1,0 +1,35 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I’ve been feeling really down lately. It’s like I just can’t shake this feeling of sadness.
+
+Doctor: I see. How long have you been feeling this way?
+
+Patient: It’s been a few months now. At first, I thought it was just stress from work, but it hasn’t gone away.
+
+Doctor: Okay. Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I’ve been having trouble sleeping. I either can’t fall asleep or I wake up in the middle of the night and can’t go back to sleep. And my appetite has been all over the place. Some days I don’t feel like eating at all, and other days I can’t stop snacking.
+
+Doctor: I understand. Have you experienced any loss of interest or pleasure in things you used to enjoy?
+
+Patient: Yeah, actually. I used to love going out with friends and playing sports, but lately, I just don’t feel like doing anything. Even things that used to make me happy just feel like a chore.
+
+Doctor: Okay. Have you had any thoughts of harming yourself or suicide?
+
+Patient: (pauses) Yes, actually. I’ve been having these thoughts lately, like maybe the world would be better off without me.
+
+Doctor: I’m sorry to hear that. Can you tell me a little bit about your personal life? Do you have any support system or close relationships?
+
+Patient: Not really. I’ve been feeling really isolated lately. My family lives far away, and I’ve been working a lot, so I haven’t had much time to socialize.
+
+Doctor: I see. Based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. I’d like to ask you a few more questions to get a better idea of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, feeling like you’re a failure, trouble concentrating on things like reading or watching TV, moving or speaking so slowly that other people could have noticed, or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I’ve been experiencing all of those symptoms almost every day for the past two weeks.
+
+Doctor: Okay, thank you for answering those questions. Based on what you’ve told me, I’m going to diagnose you with depression. It’s important to know that depression is a treatable illness, and there are many options available to help you feel better. I’d like to refer you to a therapist who can work with you to develop a treatment plan.
+
+Patient: Thank you, doctor. I really appreciate your help.

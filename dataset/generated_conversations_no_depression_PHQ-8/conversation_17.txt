@@ -1,0 +1,35 @@
+Doctor: So, I understand that you've been feeling down lately. Can you tell me more about what's been going on?
+
+Patient: Yeah, I just haven't been feeling like myself lately. I feel sad all the time and don't have any motivation to do anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been a few weeks now.
+
+Doctor: Have you experienced any changes in appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more and haven't had much of an appetite.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel exhausted all the time. Even simple tasks feel like a huge effort.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I feel like nothing I do matters and that I'm not good enough.
+
+Doctor: Have you been having any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for letting me know. Can you tell me a bit about your personal background and any recent life changes?
+
+Patient: Well, I recently lost my job and have been having trouble finding a new one. I also went through a breakup a few months ago that was really difficult for me.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to run some tests to confirm this diagnosis.
+
+Patient: Okay, that makes sense.
+
+Doctor: After conducting the PHQ-8 assessment, it appears that you do not meet the criteria for a diagnosis of depression. However, I would like to schedule a follow-up appointment to monitor your symptoms and ensure that they do not worsen.
+
+Patient: That's a relief. Thank you for taking the time to speak with me and for your help.

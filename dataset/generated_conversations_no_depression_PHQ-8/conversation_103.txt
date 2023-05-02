@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and hopeless. It's like I don't have any energy or motivation to do anything.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well at all. I wake up in the middle of the night and can't fall back asleep. And I've lost my appetite too.
+
+Doctor: Have you noticed any changes in your interest in activities that you used to enjoy?
+
+Patient: Definitely. I used to love going out with friends and playing sports, but now I just don't feel like doing anything. It's like everything is just too much effort.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling really worthless lately. Like I'm not good enough at anything and I'm just a burden on everyone around me.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, not really. It's mostly just been the lack of energy and motivation.
+
+Doctor: Have you experienced any major life changes or stressors recently?
+
+Patient: Well, I did lose my job a few months ago and it's been hard to find work since then. And my relationship with my partner has been strained lately.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to rule out any other possible causes for your symptoms. We will run some tests to see if there are any underlying medical conditions that could be contributing to your symptoms. 
+
+Patient: Okay, that makes sense. 
+
+Doctor: After conducting some tests, we have determined that there are no underlying medical conditions causing your symptoms. However, based on our conversation and the results of the PHQ-8 assessment, I do not believe that you are currently experiencing depression. It is possible that you may be experiencing some situational stress and anxiety related to your recent job loss and relationship issues. I would recommend that you seek therapy to help you cope with these stressors and develop healthy coping mechanisms.

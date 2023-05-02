@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. I just can't seem to shake this feeling of sadness and emptiness. I don't enjoy things that I used to love doing, and I have no motivation to do anything.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, my sleep has been really disrupted. I have trouble falling asleep and staying asleep. And my appetite has decreased a lot. I hardly feel like eating anything.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: Yes, I have. I don't have any plans to go through with it, but the thought has crossed my mind a few times.
+
+Doctor: Have you experienced any physical symptoms, like headaches or body aches?
+
+Patient: Yeah, I've been having headaches almost every day. And my body feels really heavy and achy all the time.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yes, definitely. I have trouble focusing on anything for more than a few minutes, and I feel like I can't make even simple decisions.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel exhausted all the time. Even getting out of bed in the morning is a struggle.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yes, I feel like everything is my fault and that I'm a burden on everyone around me. I just feel like I'm not good enough.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. I would like to refer you to a mental health professional who can provide you with a proper diagnosis and treatment plan. In the meantime, please know that you are not alone and that there is help available.

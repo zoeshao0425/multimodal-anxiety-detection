@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, I've been feeling pretty down. I've been having trouble sleeping, I don't have much of an appetite, and I just feel really sad most of the time.
+
+Doctor: Okay, let's go through some specific symptoms. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Every day. It's been really hard to shake this feeling.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost a bit of weight recently. I just don't feel like eating much.
+
+Doctor: Have you been feeling more tired than usual?
+
+Patient: Definitely. Even when I do sleep, I don't feel rested.
+
+Doctor: How about feelings of worthlessness or guilt?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like nothing I do really matters.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been tough to focus on anything. I feel like my mind is always clouded.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, not really. I don't think I'd ever do anything like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. It's important to know that you're not alone in this, and there are treatments available that can help. Would you be open to discussing some options for treatment?

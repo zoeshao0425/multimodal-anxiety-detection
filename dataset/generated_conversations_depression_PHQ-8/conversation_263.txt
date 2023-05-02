@@ -1,0 +1,39 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I just can't seem to shake this feeling of sadness and hopelessness.
+
+Doctor: I see. Can you tell me more about how you're feeling?
+
+Patient: Yeah, I just feel like everything is pointless. I don't enjoy anything anymore, even things that used to make me happy. I'm always tired, and I have trouble sleeping at night. I just feel like I'm stuck in this never-ending cycle of negativity.
+
+Doctor: I understand. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less than usual. I just don't feel hungry anymore. And I've lost some weight, too.
+
+Doctor: Okay. Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yeah, definitely. I have trouble focusing on anything for more than a few minutes, and I find it hard to make even simple decisions.
+
+Doctor: I see. Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, good. Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Alright. Can you tell me a bit about your personal background? Do you have a history of depression or other mental health issues in your family?
+
+Patient: My mom has struggled with depression in the past, and I've had a few family members who have dealt with anxiety. But I've never really had any issues myself until now.
+
+Doctor: I see. Well, based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better idea of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, feeling like you're a failure, trouble concentrating on things such as reading the newspaper or watching television, and moving or speaking so slowly that other people could have noticed?
+
+Patient: I've been experiencing all of those symptoms pretty much every day for the past two weeks.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it seems like you are experiencing moderate to severe depression. I'd like to recommend some treatment options for you, including therapy and medication. Would you be open to discussing these further?
+
+Patient: Yes, definitely. I just want to start feeling like myself again.

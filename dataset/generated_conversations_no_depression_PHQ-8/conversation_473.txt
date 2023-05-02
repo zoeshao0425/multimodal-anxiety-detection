@@ -1,0 +1,35 @@
+Doctor: Can you tell me about your mood over the past two weeks?
+
+Patient: I've been feeling pretty down. Like, really sad and hopeless.
+
+Doctor: Have you lost interest in things you normally enjoy?
+
+Patient: Yeah, I used to love playing video games but now I just don't feel like doing anything.
+
+Doctor: Have you had any changes in appetite or weight?
+
+Patient: I've been eating less than usual and have lost a bit of weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep and then I wake up really early feeling exhausted.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I'm always tired and don't have any motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your situation. Can you tell me about any recent life events that may have contributed to your current mood?
+
+Patient: My girlfriend and I broke up a few months ago and it's been really hard for me to move on. I also lost my job recently, which has been stressful.
+
+Doctor: Thank you for sharing that with me. It sounds like you've been through a lot lately. Based on our conversation, I don't think you meet the criteria for a diagnosis of depression. However, I would like to refer you to a therapist who can help you work through your feelings and develop coping strategies. Does that sound okay to you?
+
+Patient: Yes, that sounds good. Thank you for your help.

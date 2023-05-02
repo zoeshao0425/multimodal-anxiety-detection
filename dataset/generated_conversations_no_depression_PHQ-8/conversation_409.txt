@@ -1,0 +1,37 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling quite down for the past few weeks. I feel like I'm in a constant state of sadness and hopelessness.
+
+Doctor: Have you experienced a loss of interest or pleasure in activities you once enjoyed?
+
+Patient: Yes, I used to love going out with my friends, but now I just don't feel like it. I don't enjoy things that I used to find fun.
+
+Doctor: Have you had any trouble sleeping, either sleeping too much or too little?
+
+Patient: I've been having trouble falling asleep at night, and then I wake up early in the morning feeling tired.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite and have lost some weight recently.
+
+Doctor: Have you felt fatigued or low energy levels?
+
+Patient: Yes, I feel exhausted all the time, even when I haven't done anything.
+
+Doctor: Have you had any feelings of worthlessness or excessive guilt?
+
+Patient: Yes, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself, but I do feel like life isn't worth living sometimes.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can be caused by other factors as well. I recommend we run some tests to rule out any underlying medical conditions that could be causing your symptoms.
+
+Patient: Thank you, doctor. That makes sense. 
+
+Doctor: In the meantime, I would recommend that you try to get some exercise, eat healthy foods, and get enough sleep. These things can help improve your mood and energy levels. Additionally, it may be helpful to talk to a therapist or counselor about your feelings and experiences.
+
+Patient: That's a good idea. I'll try to take care of myself better and look into seeing a therapist. Thank you, doctor. 
+
+Doctor: You're welcome. Remember, there's no shame in seeking help when you need it.

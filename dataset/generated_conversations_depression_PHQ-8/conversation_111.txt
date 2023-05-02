@@ -1,0 +1,35 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: I see. Have you been experiencing this feeling for a while now?
+
+Patient: Yes, it's been going on for a few weeks.
+
+Doctor: Okay. Can you tell me more about your symptoms? Do you feel sad or empty most of the time?
+
+Patient: Yes, I do. It's like there's a cloud over my head that won't go away.
+
+Doctor: And have you noticed any changes in your appetite or sleep patterns?
+
+Patient: My appetite has decreased, and I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: I understand. Have you lost interest in activities that you used to enjoy?
+
+Patient: Yes, I don't feel like doing anything anymore. Even things that used to make me happy don't bring me joy anymore.
+
+Doctor: Okay. Have you been feeling tired or have low energy?
+
+Patient: Yes, I'm exhausted all the time. I have no motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm a burden to everyone around me. I feel like I'm not good enough.
+
+Doctor: Lastly, have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I have. Sometimes I feel like it would be better if I wasn't here.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing depression. I'm going to recommend some treatment options for you, including therapy and medication. Would you be open to that?
+
+Patient: Yes, I would. I just want to feel better.

@@ -1,0 +1,33 @@
+Doctor: Thank you for coming in. I understand that you have been experiencing some symptoms of depression. Can you tell me a little bit about what you've been feeling?
+
+Patient: Yes, I've been feeling really down lately. I don't have any energy and I don't enjoy doing things that I used to love.
+
+Doctor: Okay, can you tell me more about your lack of energy? Do you feel tired all the time or only at certain times of the day?
+
+Patient: I feel tired pretty much all the time. Even when I get a good night's sleep, I still feel exhausted throughout the day.
+
+Doctor: And what about your loss of interest in activities? Can you give me some examples of things you used to enjoy but no longer find pleasure in?
+
+Patient: Sure, I used to love going to the gym and working out, but now I just can't seem to motivate myself to go. I also used to enjoy reading and watching movies, but now I just feel like nothing is enjoyable.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Not really. I haven't been eating as much as I used to, but I haven't lost or gained any weight.
+
+Doctor: How about your sleep? Have you had trouble falling asleep or staying asleep?
+
+Patient: Yes, I've been having trouble falling asleep and I wake up several times throughout the night.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I've been having a lot of trouble concentrating at work and making decisions has been really difficult.
+
+Doctor: Okay, thank you for giving me that information. Now, can you tell me a little bit about your personal life? Are there any major stressors or life events that may be contributing to your symptoms?
+
+Patient: Well, I recently went through a breakup and it's been really hard for me. I've also been having some financial problems and it's been causing a lot of stress.
+
+Doctor: I see. Based on the information you've given me, it sounds like you may be experiencing symptoms of depression. However, I would like to administer a brief questionnaire to get a better idea of the severity of your symptoms. 
+
+(Patient completes PHQ-8 assessment)
+
+Doctor: Based on your answers, it looks like you are not currently experiencing symptoms of depression. However, if your symptoms persist or worsen, please don't hesitate to come back in and see me. In the meantime, I would recommend taking care of yourself by getting regular exercise, eating a balanced diet, and engaging in activities that bring you joy.

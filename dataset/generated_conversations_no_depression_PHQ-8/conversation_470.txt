@@ -1,0 +1,33 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down and hopeless for the past two weeks. I don't feel like doing anything, and I don't enjoy the things I used to.
+
+Doctor: Have you had a lack of interest in activities that you usually enjoy?
+
+Patient: Yes, I have lost interest in my hobbies, and I don't feel like doing anything with my friends or family.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite and have lost some weight as well.
+
+Doctor: Have you had trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: I have been having trouble sleeping at night, and I usually wake up feeling tired. But during the day, I feel sleepy and end up taking naps.
+
+Doctor: Have you experienced a decrease in energy or fatigue?
+
+Patient: Yes, I feel tired all the time, and I don't have the energy to do anything.
+
+Doctor: Have you had feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I am a burden to my family and friends, and I feel guilty for not being able to do anything.
+
+Doctor: Have you had difficulty concentrating, making decisions, or remembering things?
+
+Patient: Yes, I have been having trouble focusing on anything, and I forget things easily.
+
+Doctor: Have you had thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of harming myself or suicide.
+
+Doctor: Based on your answers, it seems like you are experiencing some symptoms of depression. However, it's not severe enough to diagnose you with depression. You may be going through a tough time, and I suggest you talk to someone about your feelings and seek support from your loved ones.

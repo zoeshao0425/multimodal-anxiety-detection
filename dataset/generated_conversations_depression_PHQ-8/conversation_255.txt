@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, I've been feeling really down. I just don't have any energy and I don't enjoy things like I used to.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and I've lost a few pounds recently.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I'm exhausted all the time. Even when I get enough sleep, I still feel tired.
+
+Doctor: Have you been feeling hopeless or helpless?
+
+Patient: Yeah, I just feel like nothing is going right in my life and I can't do anything to change it.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I can't focus on anything and I'm indecisive about everything.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any suicidal thoughts, but I just feel like life isn't worth living.
+
+Doctor: Thank you for answering these questions. Based on your responses, it seems like you may be experiencing symptoms of depression. Can you tell me more about what's been going on in your life lately?
+
+Patient: Well, I lost my job a few months ago and I've been struggling to find a new one. I also broke up with my girlfriend recently, so I've been feeling pretty lonely.
+
+Doctor: I see. Losing a job and a relationship can definitely be difficult to deal with. It's important that we address your depression so that we can help you feel better. I recommend that we start with therapy and possibly medication to manage your symptoms. Does that sound like something you'd be interested in?
+
+Patient: Yes, I'm willing to try anything to feel better.

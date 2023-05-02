@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: I've just been feeling really down. Like, I don't enjoy things that I used to enjoy, and I'm tired all the time.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yeah, I've actually lost my appetite. I've been losing weight without really trying.
+
+Doctor: Have you had any trouble sleeping?
+
+Patient: Yeah, I have. I either can't fall asleep, or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel like I have no energy at all. I'm just exhausted all the time.
+
+Doctor: Have you been feeling hopeless or helpless?
+
+Patient: Yeah, I have. I just feel like nothing is ever going to get better, and there's nothing I can do about it.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I have. I just feel like everything is my fault and I'm not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: Yeah, I have. I've been having these thoughts for a while now.
+
+Doctor: Based on your answers, it sounds like you are experiencing symptoms of depression. We will need to start a treatment plan to help you manage your symptoms. 
+
+Patient: What does that mean? What kind of treatment plan?
+
+Doctor: We will discuss the best treatment options for you, but it could include therapy, medication, or a combination of both. It's important that we work together to find the best approach for you.
+
+Patient: Okay, thank you. I just want to feel like myself again.

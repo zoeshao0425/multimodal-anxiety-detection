@@ -1,0 +1,39 @@
+Doctor: So, tell me about how you've been feeling lately.
+
+Patient: Well, I've been feeling really down. I'm having trouble sleeping and I just don't have any energy.
+
+Doctor: How long has this been going on?
+
+Patient: It's been a few weeks now. I just can't seem to shake this feeling.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite. I used to love eating, but now I just don't feel like it.
+
+Doctor: Do you ever feel guilty or worthless?
+
+Patient: Yeah, I do. I feel like I'm not good enough and that everything I do is wrong.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus lately. I feel like my mind is always wandering and I can't get anything done.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: (Pauses) Yeah, actually, I have. I don't know what to do about it.
+
+Doctor: Okay, thank you for being honest with me. Can you tell me a bit about your personal life? Are you under any stress or experiencing any major life changes?
+
+Patient: Well, my job has been really stressful lately, and I'm going through a divorce. It's been really hard to deal with everything.
+
+Doctor: I see. It sounds like you're going through a lot right now. Based on what you've told me, it seems like you may be experiencing symptoms of depression. I'd like to do a more thorough assessment to confirm this.
+
+Patient: Okay, that sounds good.
+
+(Doctor proceeds to administer the PHQ-8 assessment)
+
+Doctor: Based on your answers, it does appear that you are experiencing moderate to severe depression. I would like to refer you to a therapist and possibly prescribe medication to help manage your symptoms.
+
+Patient: Thank you, doctor. I appreciate your help.
+
+Doctor: Of course. Remember, depression is a treatable condition and there is hope for recovery. Let's work together to get you feeling better.

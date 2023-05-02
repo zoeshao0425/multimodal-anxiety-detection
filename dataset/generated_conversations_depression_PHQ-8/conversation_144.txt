@@ -1,0 +1,45 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Okay.
+
+Doctor: First, have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really down lately. I feel like I'm not worth anything and that nothing is going right in my life.
+
+Doctor: Okay, next, have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and doing fun things, but lately I just don't feel like doing anything at all.
+
+Doctor: Alright, have you been having trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: I can't fall asleep at night, and when I do, I wake up several times throughout the night. But during the day, I feel so tired that I end up sleeping for hours.
+
+Doctor: Okay, have you been feeling tired or having low energy most days?
+
+Patient: Yes, I feel exhausted all the time. Even getting out of bed in the morning feels like a huge task.
+
+Doctor: Next, have you been feeling bad about yourself or feeling like a failure or that you have let yourself or your family down?
+
+Patient: Yes, I feel like I'm not good enough and that I'm failing at everything. I feel like I'm letting everyone down, especially my family.
+
+Doctor: Okay, have you been having trouble concentrating on things such as reading the newspaper or watching television?
+
+Patient: Yes, I can't focus on anything. Even simple tasks like reading or watching TV are hard for me to do.
+
+Doctor: Lastly, have you had thoughts that you would be better off dead or hurting yourself in some way?
+
+Patient: Yes, I've had thoughts of hurting myself. I feel like there's no point in living because everything is so hard.
+
+Doctor: Thank you for answering these questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. 
+
+Patient: Really? I thought I was just feeling a little down.
+
+Doctor: Depression is a serious medical condition that can affect many aspects of your life. It's important to get help and treatment as soon as possible. 
+
+Patient: Okay, what kind of treatment do I need?
+
+Doctor: Treatment for depression can include therapy, medication, or a combination of both. We can discuss the best options for you based on your specific needs and preferences.
+
+Patient: Thank you for helping me understand what's going on. I'm glad I came in to see you today.
+
+Doctor: Of course, I'm here to help you. Let's work together to get you feeling better.

@@ -1,0 +1,33 @@
+Doctor: So, can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't have much energy, and I'm not interested in doing things that used to make me happy.
+
+Doctor: I see. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, but I haven't been eating as much.
+
+Doctor: That's a common symptom of depression. How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Okay. Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Alright. Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay. Have you had any major life changes or stressors recently that might be contributing to your feelings?
+
+Patient: Well, I did lose my job a few months ago, and I've been struggling to find a new one. That's been pretty stressful.
+
+Doctor: I see. Is there anything else going on in your personal life that might be affecting your mood?
+
+Patient: Not really. I've been feeling pretty isolated lately, though.
+
+Doctor: Okay. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, we'll need to do a more thorough assessment to make a diagnosis. I'm going to give you a questionnaire called the PHQ-8. It will ask you a series of questions about your mood and behavior over the past two weeks. Please fill it out honestly, and we'll go over the results together.
+
+(Patient fills out the questionnaire)
+
+Doctor: Based on your answers, it looks like you're not currently experiencing depression. However, it's important to keep an eye on your mood and reach out for help if you start to feel down again. In the meantime, I recommend focusing on self-care activities like exercise, healthy eating, and socializing with friends and family. If you do start to experience symptoms again, please don't hesitate to reach out to me or another mental health professional.

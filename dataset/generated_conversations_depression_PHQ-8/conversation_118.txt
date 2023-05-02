@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about what brings you in today?
+
+Patient: Yes, I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and I've lost a few pounds.
+
+Doctor: Have you had any trouble sleeping?
+
+Patient: Yes, I've been having trouble falling asleep at night and I wake up feeling tired.
+
+Doctor: Have you noticed a lack of energy or motivation?
+
+Patient: Yes, I feel like I have no energy and I don't feel motivated to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like everything is my fault and I'm not good enough.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: Yes, I've been having these thoughts lately.
+
+Doctor: Can you tell me a little bit about your personal life? Do you have any stressors or major life changes that may be contributing to how you're feeling?
+
+Patient: Well, I recently lost my job and I'm having trouble finding a new one. My relationship with my partner has also been strained lately.
+
+Doctor: Based on your symptoms and experiences, it sounds like you may be experiencing depression. I recommend that we further evaluate your condition and explore treatment options.
+
+Patient: Thank you, doctor. I appreciate your help.

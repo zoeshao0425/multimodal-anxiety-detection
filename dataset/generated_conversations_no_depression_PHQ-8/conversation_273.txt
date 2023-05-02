@@ -1,0 +1,35 @@
+Doctor: Hi, can you tell me a little bit about why you're here today?
+
+Patient: Yes, I've been feeling really down lately and I think I might be depressed.
+
+Doctor: Okay, can you describe some of the symptoms you've been experiencing?
+
+Patient: Well, I've been feeling really sad and hopeless. I don't enjoy things that I used to enjoy, and I have trouble sleeping at night. I've also been feeling really tired all the time, even when I get enough sleep.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've been eating a lot less than usual and I've lost some weight recently.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing on tasks and making decisions. It's been affecting my work and my personal life.
+
+Doctor: Have you noticed any physical symptoms, like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Have you experienced any traumatic events or major life changes recently?
+
+Patient: Yes, I lost my job a few months ago and it's been really stressful trying to find a new one. I also went through a breakup around the same time.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've described, it does sound like you may be experiencing some symptoms of depression. However, I would like to do a more thorough assessment to make sure. 
+
+(Doctor proceeds to administer the PHQ-8 assessment)
+
+Doctor: Based on your answers, it looks like you do not meet the criteria for a diagnosis of depression. However, it's clear that you've been going through a tough time recently and it's understandable that you've been feeling down. I would recommend that you continue to take care of yourself and seek support from friends and family. If your symptoms persist or worsen, please don't hesitate to come back and see me.
+
+Patient: Thank you, I appreciate your help.

@@ -1,0 +1,49 @@
+Doctor: So, tell me what brings you here today?
+
+Patient: I’ve been feeling really down lately. I just can’t seem to shake this feeling of sadness.
+
+Doctor: How long have you been feeling like this?
+
+Patient: It’s been going on for a few weeks now, and it’s starting to affect my daily life.
+
+Doctor: Can you describe what you mean by “affecting your daily life”?
+
+Patient: I’m having trouble sleeping, I’m not enjoying things that I used to love doing, and I feel like I’m always tired and unmotivated.
+
+Doctor: Okay, I understand. Have you had any changes in appetite or weight recently?
+
+Patient: Yes, I’ve lost a few pounds because I don’t feel like eating much.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any feelings of worthlessness or hopelessness?
+
+Patient: Yes, all the time. I feel like everything I do is pointless.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, it’s been really hard to focus on anything lately.
+
+Doctor: Have you noticed any physical symptoms such as headaches or stomach problems?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it sounds like you may be experiencing depression. I’d like to do a more thorough assessment to confirm this diagnosis.
+
+Patient: Okay, that sounds good.
+
+Doctor: I’m going to ask you a few more questions. Have you experienced any significant life changes recently, such as a break-up or job loss?
+
+Patient: Actually, yes. I lost my job a few months ago and haven’t been able to find another one yet.
+
+Doctor: Okay, that could definitely contribute to your current state. Have you ever experienced depression before?
+
+Patient: No, this is the first time.
+
+Doctor: Is there a history of depression in your family?
+
+Patient: Yes, my mother has struggled with it for years.
+
+Doctor: That’s good to know. Based on all of this information, I’m going to diagnose you with depression. It’s a treatable condition, and we can work together to find the best treatment plan for you.

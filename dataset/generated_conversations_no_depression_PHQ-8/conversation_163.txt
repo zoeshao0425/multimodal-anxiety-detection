@@ -1,0 +1,39 @@
+Doctor: Can you tell me more about how you've been feeling lately? Have you been experiencing any symptoms of depression?
+
+Patient: Yeah, I've been feeling really down lately. I'm not enjoying things that used to make me happy, and I feel like I have no energy.
+
+Doctor: Okay, can you describe your lack of enjoyment in more detail? What kind of things do you find yourself not enjoying anymore?
+
+Patient: Well, I used to love playing video games and watching movies, but now I just can't seem to get into them. Even when I try, it doesn't bring me any pleasure.
+
+Doctor: I see. And what about your energy levels? Have you been feeling fatigued or tired?
+
+Patient: Yes, definitely. I struggle to get out of bed in the morning, and even simple tasks like showering or cooking feel like a huge effort.
+
+Doctor: Have you had any changes in your appetite or sleep patterns?
+
+Patient: My appetite has decreased, and I've lost some weight as a result. As for sleep, I either have trouble falling asleep or wake up multiple times during the night.
+
+Doctor: Do you ever feel hopeless or have negative thoughts about yourself?
+
+Patient: Yeah, sometimes I feel like I'm worthless and that nothing will ever get better. I don't see the point in doing anything.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I just feel really down and stuck.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any major life events or stressors recently that may be contributing to your symptoms?
+
+Patient: Well, I lost my job a few months ago, and I've been struggling to find a new one. It's been really stressful and demoralizing.
+
+Doctor: I understand. Do you have any support systems in place, like family or friends?
+
+Patient: Yeah, I have a few close friends who have been helping me through this tough time.
+
+Doctor: Okay, based on your symptoms and the information you've provided, it's possible that you may be experiencing depression. However, it's important to note that there are other medical conditions that can cause similar symptoms. I would like to run some tests and rule out any underlying health issues before we move forward with treatment. 
+
+Patient: Okay, that sounds good. 
+
+Doctor: After reviewing your test results, I'm happy to say that you do not have depression. However, it's clear that you're going through a difficult time and could benefit from some support. I suggest you continue to lean on your friends and consider seeking out a therapist or support group to help you work through your feelings. Additionally, making lifestyle changes like exercising regularly and eating well can have a positive impact on your mental health. 
+
+Patient: Thank you, doctor. I appreciate your help and advice.

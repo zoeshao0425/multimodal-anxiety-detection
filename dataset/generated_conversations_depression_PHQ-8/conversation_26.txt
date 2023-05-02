@@ -1,0 +1,23 @@
+Doctor: Hi there, can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've just been feeling really down, you know? Like I don't have any energy, and everything seems kind of pointless.
+
+Doctor: Okay, that sounds like it could be depression. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down or hopeless, trouble falling asleep or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, or moving or speaking so slowly that other people could have noticed?
+
+Patient: Yeah, actually, I've been experiencing most of those symptoms.
+
+Doctor: Okay, can you tell me a little bit more about how these symptoms are affecting your daily life? For example, are you having trouble getting out of bed in the morning, or are you finding it hard to concentrate at work?
+
+Patient: Yeah, it's been really tough. I've been struggling to get motivated to do anything, and I've been calling in sick to work a lot because I just can't face going in. I've also been having trouble sleeping, which just makes everything worse.
+
+Doctor: I see. Have you experienced depression before, or is this the first time you've felt this way?
+
+Patient: I've had some issues with depression in the past, but nothing this severe.
+
+Doctor: Okay, that's good to know. Do you have any family history of depression or other mental health issues?
+
+Patient: Yeah, my mom has struggled with depression for as long as I can remember.
+
+Doctor: Alright, that's helpful information. Based on what you've told me, it does sound like you may be experiencing a major depressive episode. I'd like to refer you to a therapist who can help you work through some of these feelings and develop coping strategies. Additionally, I'd like to prescribe an antidepressant medication that may help alleviate some of your symptoms. Does that sound okay to you?
+
+Patient: Yes, that sounds good. Thank you for your help.

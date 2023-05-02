@@ -1,0 +1,65 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down lately. I just can’t seem to shake this feeling of sadness.
+
+Doctor: I see. Can you tell me a bit more about how you’re feeling?
+
+Patient: Well, I don’t have much energy or motivation to do anything. I’ve been sleeping a lot more than usual and I’m not enjoying things that I used to. I feel like I’m just going through the motions of my daily routine without any real purpose.
+
+Doctor: Are you experiencing any physical symptoms, such as changes in appetite or weight?
+
+Patient: Yes, I’ve noticed that I’ve been eating more than usual and have gained some weight. I also feel tired all the time, even after getting a full night’s sleep.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven’t had any thoughts like that.
+
+Doctor: That’s good to hear. Have you experienced any significant life events recently, such as a loss or major change?
+
+Patient: Actually, yes. My grandmother passed away a few months ago and it’s been really hard for me to cope with her loss.
+
+Doctor: I see. It’s common for people to experience depression after a significant loss. Have you ever experienced these symptoms before?
+
+Patient: Not to this extent. I’ve felt sad before, but never for this long or with these physical symptoms.
+
+Doctor: Based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. I’d like to ask you a few more questions to better understand your condition. 
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by feeling down, depressed or hopeless?
+
+Patient: Almost every day.
+
+Doctor: How often have you been bothered by little interest or pleasure in doing things?
+
+Patient: Almost every day.
+
+Doctor: How often have you been bothered by trouble falling or staying asleep, or sleeping too much?
+
+Patient: Almost every day.
+
+Doctor: How often have you been bothered by feeling tired or having little energy?
+
+Patient: Almost every day.
+
+Doctor: How often have you been bothered by poor appetite or overeating?
+
+Patient: Almost every day.
+
+Doctor: How often have you been bothered by feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Almost every day.
+
+Doctor: How often have you been bothered by trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Almost every day.
+
+Doctor: How often have you been bothered by moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: Almost every day.
+
+Doctor: Based on your answers, it seems like you are experiencing moderate to severe depression. I would like to recommend a treatment plan for you, which may include medication and therapy. Do you have any questions or concerns about this?
+
+Patient: No, I’m willing to try anything to feel better.
+
+Doctor: Great. Let’s discuss some options and come up with a plan that works best for you.

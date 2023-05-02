@@ -1,0 +1,31 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? What kind of thoughts have you been having?
+
+Patient: I just feel really sad all the time. Like nothing brings me joy anymore. And I keep thinking about how worthless I am and how I'm not good enough for anything.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I haven't been sleeping well at all. I wake up multiple times throughout the night and have trouble falling back asleep. And my appetite has been really low. I don't feel like eating much at all.
+
+Doctor: Have you experienced any physical symptoms, like aches or pains?
+
+Patient: Not really. I mean, I have had headaches and some stomach issues, but I don't think they're related to this.
+
+Doctor: Okay. Have you noticed any changes in your energy level or motivation?
+
+Patient: Yeah, I feel really tired all the time. Even getting out of bed feels like a huge effort. And I don't really have any motivation to do anything.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: I have had some thoughts about it, yeah. But I haven't made any plans or anything.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any of these symptoms for more than two weeks?
+
+Patient: Yeah, it's been going on for a few months now.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. I'd like to do a full assessment to confirm the diagnosis and determine the best course of treatment. 
+
+Patient: Okay, that makes sense.

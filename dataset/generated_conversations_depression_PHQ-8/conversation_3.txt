@@ -1,0 +1,33 @@
+Doctor: I'd like to ask you a few questions about your mood and how you've been feeling lately. Have you been experiencing any of the following symptoms in the past two weeks?
+
+Patient: Sure, go ahead.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down for quite some time now. I don't feel happy or excited about anything anymore.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love playing basketball with my friends, but now, I don't feel motivated to do it anymore.
+
+Doctor: Have you been experiencing changes in your appetite or weight?
+
+Patient: Yes, I've been eating less than usual, and I've lost some weight.
+
+Doctor: Have you been sleeping more or less than usual?
+
+Patient: I've been sleeping less than usual. I find it hard to fall asleep at night, and I wake up early in the morning feeling tired.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I feel tired all the time. Even getting out of bed feels like a chore.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and that everything I do is wrong.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I find it hard to concentrate on anything, and even simple decisions take me a long time to make.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression. It's important to know that depression is a medical condition that can be treated. I would like to discuss treatment options with you and help you feel better.

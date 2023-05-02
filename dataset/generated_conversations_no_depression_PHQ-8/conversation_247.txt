@@ -1,0 +1,37 @@
+Doctor: Hi, can you tell me about how you've been feeling lately?
+
+Patient: I've been feeling really down and hopeless. I don't have any motivation to do things that I used to enjoy.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I don't feel like eating much.
+
+Doctor: Have you noticed any changes in your energy levels or ability to concentrate?
+
+Patient: Yeah, I feel really tired all the time and I have trouble focusing on anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any significant life events or stressors recently?
+
+Patient: Well, I lost my job a few months ago and I've been having trouble finding a new one. It's been really stressful and it's made me feel pretty hopeless.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt this way.
+
+Doctor: Based on your responses, it sounds like you may be experiencing symptoms of depression. However, I would like to do a full assessment to determine the severity of your symptoms. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After reviewing your responses to the PHQ-8 assessment, it appears that you do not meet the criteria for a depression diagnosis. However, I would still like to discuss some treatment options with you to help manage your symptoms and improve your overall well-being.
+
+Patient: That's a relief to hear. Yes, I would appreciate any help and advice you can provide.
+
+Doctor: Great, we can discuss therapy, medication, and lifestyle changes that may be beneficial for you. It's important to remember that seeking help is a sign of strength, and I'm here to support you in any way I can.

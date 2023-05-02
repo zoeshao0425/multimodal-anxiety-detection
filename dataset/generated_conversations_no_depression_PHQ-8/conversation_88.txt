@@ -1,0 +1,37 @@
+Doctor: Can you tell me more about how you've been feeling lately?
+
+Patient: I've been feeling really down and sad most of the time. I don't feel like doing anything, even things that used to make me happy.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and have lost some weight as a result. I just don't feel like eating.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep. And then I'm tired during the day.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: My energy levels have definitely decreased. I feel tired all the time and don't have the motivation to do anything.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling really hopeless. I don't see the point in doing anything because nothing seems to make me happy anymore. And I feel like I'm not good enough for anything.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing on things and making decisions. It's like my mind is foggy and I can't think clearly.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on what you've told me, it seems like you may be experiencing symptoms of depression. However, I want to do a full assessment to make sure. 
+
+(Doctor proceeds with PHQ-8 assessment)
+
+Doctor: Based on your responses, it does not appear that you have depression. However, if your symptoms persist, I recommend seeking further evaluation. In the meantime, are there any stressors or life events that may be contributing to your current state of mind?
+
+Patient: Well, I recently lost my job and have been having trouble finding a new one. It's been causing me a lot of stress and worry.
+
+Doctor: That could definitely be contributing to how you're feeling. I recommend seeking support from friends, family, or a therapist to help you cope with this difficult time. And if your symptoms worsen, please don't hesitate to come back and see me.

@@ -1,0 +1,39 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and unmotivated. I just don't enjoy things like I used to.
+
+Doctor: Have you experienced any changes in appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you had any trouble sleeping or noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble falling asleep and staying asleep. I wake up a lot during the night.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I feel exhausted all the time. Even simple tasks seem so difficult to me.
+
+Doctor: Have you noticed any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything I do is wrong and that I'm a burden to everyone around me.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yes, I can't seem to focus on anything for very long and I struggle to make even simple decisions.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Can you tell me a bit about your personal life? Do you have any stressors or major life changes that could be contributing to these symptoms?
+
+Patient: Well, I recently lost my job and I've been struggling to find a new one. My relationship with my partner has also been strained lately.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it seems like you may be experiencing some symptoms of depression. However, since you haven't had any thoughts of self-harm or suicide, I don't think you meet the criteria for a major depressive episode. 
+
+Patient: Oh, okay. That's good to hear.
+
+Doctor: I would recommend continuing to monitor your symptoms and seeking support from a therapist or counselor if you feel like you need it. It's also important to prioritize self-care, such as getting regular exercise and eating well.
+
+Patient: Thank you, I appreciate your help.

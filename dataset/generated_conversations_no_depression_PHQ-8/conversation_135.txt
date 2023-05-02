@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about what's been going on lately? How have you been feeling?
+
+Patient: Well, I've been feeling pretty down lately. I just don't have much energy or motivation to do anything.
+
+Doctor: Have you been experiencing any feelings of worthlessness or guilt?
+
+Patient: Yeah, actually. I've been feeling like I'm not good enough and that everything is my fault.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I haven't been eating as much as I used to. I just don't feel hungry most of the time.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love playing basketball with my friends, but now I just don't feel like doing anything.
+
+Doctor: Are you having difficulty concentrating or making decisions?
+
+Patient: Yeah, I've been having trouble focusing at work and making even simple decisions has been really hard.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that depression can be caused by a variety of factors, including life events, genetics, and brain chemistry. Would you mind telling me a little bit more about your personal background and any recent changes in your life?
+
+Patient: Sure, I recently went through a breakup and it's been really hard for me. I also lost my job a few months ago and have been struggling to find a new one.
+
+Doctor: I'm sorry to hear that. It's understandable that those events could contribute to feelings of depression. However, based on our conversation today, I don't believe that you meet the criteria for a diagnosis of major depressive disorder. That being said, I would still like to monitor your symptoms and check in with you at our next appointment. In the meantime, I recommend that you try to engage in activities that you enjoy and that bring you pleasure, even if it feels difficult at first. Additionally, getting regular exercise, eating a healthy diet, and getting enough sleep can all be helpful in improving mood. If you continue to struggle with your symptoms, we can discuss other treatment options such as therapy or medication.

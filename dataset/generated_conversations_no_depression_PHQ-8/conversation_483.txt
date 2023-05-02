@@ -1,0 +1,39 @@
+Doctor: So, I understand that you're here to talk about your mental health. Can you tell me how you've been feeling lately?
+
+Patient: Yeah, I've been feeling really down and just not myself.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I'd say it's been about a month now.
+
+Doctor: Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling asleep, or sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed?
+
+Patient: Yeah, I've definitely been feeling a lot of those things. I don't feel like doing anything, I'm always tired, and I can't concentrate on anything for very long.
+
+Doctor: Okay, thank you for sharing that with me. Have there been any changes in your life recently that may have contributed to these feelings?
+
+Patient: Not really, everything has been pretty normal. I just started a new job, but I don't think that's the cause of it.
+
+Doctor: Are you experiencing any physical symptoms such as headaches, stomach aches, or muscle tension?
+
+Patient: No, nothing like that.
+
+Doctor: Have you ever experienced these feelings before?
+
+Patient: Yeah, I've had bouts of depression before, but this feels different.
+
+Doctor: Can you tell me a little bit more about what makes this different?
+
+Patient: I don't know, it just feels more intense. Like I can't shake it off no matter what I do.
+
+Doctor: I see. Well, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to administer a PHQ-8 assessment just to be sure.
+
+Patient: Okay, that sounds good.
+
+Doctor: (administers PHQ-8 assessment) Based on your responses, it appears that you do not meet the criteria for a diagnosis of depression. However, it's important to keep an eye on your symptoms and seek help if they persist or worsen.
+
+Patient: Okay, thank you for letting me know. What can I do to feel better?
+
+Doctor: There are a number of things you can try such as exercise, eating a balanced diet, getting enough sleep, and engaging in activities you enjoy. If those things don't seem to help, we can discuss other treatment options such as therapy or medication.
+
+Patient: Okay, I'll definitely give those things a try. Thank you for your help.

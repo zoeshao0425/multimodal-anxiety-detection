@@ -1,0 +1,63 @@
+Doctor: Hi, can you tell me how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't have much motivation to do anything, and I feel like I'm just going through the motions of life.
+
+Doctor: Have you been experiencing any other symptoms besides feeling sad?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. I also have no appetite and have lost weight.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Yeah, I went through a tough time a few years ago and had similar symptoms, but they went away after a while.
+
+Doctor: Have you noticed any triggers or events that may have caused your current symptoms?
+
+Patient: Not really. Nothing significant has happened recently that would explain why I feel this way.
+
+Doctor: Do you ever have thoughts of harming yourself or others?
+
+Patient: No, I don't have any thoughts of hurting myself or others.
+
+Doctor: Have you been able to go about your daily activities, such as work or school?
+
+Patient: It's been difficult. I've been calling out of work more often and have been struggling to keep up with my schoolwork.
+
+Doctor: Based on your symptoms and history, it sounds like you may be experiencing depression. I would like to do a more thorough assessment to confirm this diagnosis. 
+
+Patient: Okay, I'm willing to do whatever it takes to feel better.
+
+Doctor: Great. I'm going to ask you a series of questions from the PHQ-8 assessment. Please answer honestly.
+
+1. Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+Patient: Nearly every day.
+
+2. Over the past two weeks, how often have you been bothered by little interest or pleasure in doing things?
+Patient: Nearly every day.
+
+3. Over the past two weeks, how often have you been bothered by trouble falling or staying asleep, or sleeping too much?
+Patient: Nearly every day.
+
+4. Over the past two weeks, how often have you been bothered by feeling tired or having little energy?
+Patient: Nearly every day.
+
+5. Over the past two weeks, how often have you been bothered by poor appetite or overeating?
+Patient: Nearly every day.
+
+6. Over the past two weeks, how often have you been bothered by feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+Patient: Nearly every day.
+
+7. Over the past two weeks, how often have you been bothered by trouble concentrating on things, such as reading the newspaper or watching television?
+Patient: Nearly every day.
+
+8. Over the past two weeks, how often have you been bothered by moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+Patient: Nearly every day.
+
+Doctor: Based on your answers, it confirms that you are experiencing moderate to severe depression. I would like to discuss treatment options with you, including medication and therapy.
+
+Patient: Okay, I'm open to whatever will help me feel better.
+
+Doctor: That's great to hear. We will work together to find the best treatment plan for you.

@@ -1,0 +1,39 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Honestly, I've been feeling that way almost every day.
+
+Doctor: Okay, and how about feeling little interest or pleasure in doing things?
+
+Patient: Yes, that too. I used to enjoy going out with friends, but now I just don't feel like it.
+
+Doctor: Have you experienced any significant changes in your appetite, either eating more or less than usual?
+
+Patient: I've been eating less than usual. I just don't have much of an appetite lately.
+
+Doctor: How about trouble sleeping? Have you had difficulty falling asleep, staying asleep, or waking up too early?
+
+Patient: Yes, I've been having trouble sleeping. I wake up in the middle of the night and have a hard time falling back asleep.
+
+Doctor: Have you noticed any decrease in your energy level or feeling tired all the time?
+
+Patient: Yes, I feel exhausted all the time. Even when I get enough sleep, I still feel tired.
+
+Doctor: Have you had feelings of worthlessness or guilt?
+
+Patient: Yes, I've been feeling worthless and guilty about things that I shouldn't be feeling guilty about.
+
+Doctor: Have you had difficulty concentrating on things, such as work or hobbies?
+
+Patient: Yes, I've been having trouble focusing at work, and I've lost interest in my hobbies.
+
+Doctor: And finally, have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or suicide.
+
+Doctor: Based on your answers, it seems like you are experiencing some symptoms of depression. Can you tell me a bit more about what's been going on in your life lately?
+
+Patient: Well, I've been going through a lot of stress at work, and I recently broke up with my girlfriend. It's been tough to deal with everything at once.
+
+Doctor: I see. It's understandable that you're feeling this way given what's been going on in your life. However, based on your answers, it doesn't seem like your symptoms are severe enough to warrant a diagnosis of depression. That being said, it's important to take care of yourself and seek support if you need it. Would you be interested in talking to a therapist or counselor about what you're going through? 
+
+Patient: Yes, I think that would be helpful. Thank you for your help, doctor.

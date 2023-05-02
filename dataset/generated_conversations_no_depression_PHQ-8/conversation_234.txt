@@ -1,0 +1,75 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: I see. Can you tell me more about that? How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I've been having trouble sleeping and I don't have much energy. I just feel really hopeless.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost a bit of weight recently. I just don't have much of an appetite.
+
+Doctor: Okay. Have you been experiencing any feelings of guilt or worthlessness?
+
+Patient: Yeah, I have. I just feel like I'm not good enough and that everything is my fault.
+
+Doctor: I see. And have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I just feel really sad and hopeless.
+
+Doctor: Okay. Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yeah, I have. I just can't seem to focus on anything and I'm having trouble making even simple decisions.
+
+Doctor: Alright. And have you been experiencing any physical symptoms, such as headaches or stomach problems?
+
+Patient: No, nothing like that. It's mostly just the emotional stuff.
+
+Doctor: Okay. Can you tell me a bit about your personal background? Do you have a history of depression or other mental health issues?
+
+Patient: No, I've never really had any issues like this before. I've always been pretty happy and outgoing. But things have just been really tough lately.
+
+Doctor: I understand. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors, such as stress or a medical condition. I'd like to do some further testing to get a better understanding of what might be going on.
+
+Patient: Okay, that sounds good.
+
+Doctor: Great. I'm going to give you a PHQ-8 assessment. This is a questionnaire that will help me better understand your symptoms and how severe they are. There are eight questions, and I'd like you to answer each one based on how you've been feeling over the past two weeks. Are you ready?
+
+Patient: Yes, I'm ready.
+
+Doctor: Okay, here's the first question. Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Honestly, pretty much every day.
+
+Doctor: Okay. And how about feeling little interest or pleasure in doing things?
+
+Patient: Yeah, that's been happening a lot too.
+
+Doctor: Alright. Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've lost some weight recently.
+
+Doctor: Got it. How about trouble sleeping or sleeping too much?
+
+Patient: Definitely trouble sleeping.
+
+Doctor: Have you noticed any changes in your energy level?
+
+Patient: Yeah, I just feel really tired all the time.
+
+Doctor: Okay. Have you been feeling guilty or worthless?
+
+Patient: Yeah, I have.
+
+Doctor: And have you had any difficulty concentrating or making decisions?
+
+Patient: Yes, definitely.
+
+Doctor: Alright, last question. Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it does not appear that you have major depression. However, it's clear that you're going through a tough time right now. I would recommend that you take some time for self-care and seek out support from friends or family. If your symptoms persist or worsen, please don't hesitate to come back and see me.
+
+Patient: Thank you, doctor. I appreciate your help.

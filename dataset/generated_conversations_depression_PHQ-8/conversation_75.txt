@@ -1,0 +1,35 @@
+Doctor: So, tell me about how you've been feeling lately.
+
+Patient: Well, I've been feeling really down. Like, I don't have any energy or motivation to do anything.
+
+Doctor: Okay, can you describe that a bit more? Have you been feeling sad or hopeless?
+
+Patient: Yeah, definitely. I feel like everything is just pointless and there's no point in even trying to do anything.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, my appetite has been pretty low and I haven't been sleeping well. I either have trouble falling asleep or I wake up in the middle of the night and can't get back to sleep.
+
+Doctor: And have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, it's been really hard to focus on anything. I feel like my mind is just foggy all the time and I can't make decisions very easily.
+
+Doctor: Have you been feeling more tired than usual or have you lost interest in things you used to enjoy?
+
+Patient: Yeah, definitely. I used to love going out with friends or doing things around the house, but now I just don't have the energy or desire to do anything.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a bit about your personal life? Do you have any major stressors or life changes that could be contributing to your symptoms?
+
+Patient: Well, I recently went through a breakup and I've been having some financial struggles. But even before that, I was feeling pretty low.
+
+Doctor: Okay, that's helpful to know. Based on what you've told me, it sounds like you may be experiencing depression. I'd like to run through a few more questions to get a better idea of the severity and duration of your symptoms.
+
+Patient: Okay, sure.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, moving or speaking slowly, or thoughts that you would be better off dead or hurting yourself in some way?
+
+Patient: I would say I've been bothered by all of those things at least half the time.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers and what you've shared with me about your experiences, I'm going to diagnose you with depression. It's a very common condition and there are a lot of treatment options available. I'd like to refer you to a therapist who can help you work through some of these feelings and develop coping strategies, and we can also discuss medication options if you're interested.
+
+Patient: Okay, thank you. I'm glad to know what's going on and I appreciate your help.

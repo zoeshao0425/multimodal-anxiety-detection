@@ -1,0 +1,41 @@
+Doctor: Let's start by discussing your mood over the last two weeks. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down and hopeless for the past few weeks.
+
+Doctor: Okay, have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, I have lost interest in doing things that I used to enjoy like playing guitar and going out with friends.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I have lost my appetite and lost some weight as well.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have been having trouble sleeping. I usually wake up in the middle of the night and have difficulty falling back asleep.
+
+Doctor: Have you noticed a decrease in your energy levels or a feeling of fatigue?
+
+Patient: Yes, I feel tired all the time and don't have the energy to do anything.
+
+Doctor: Have you had difficulty concentrating or making decisions?
+
+Patient: Yes, I have been having difficulty concentrating and making even simple decisions.
+
+Doctor: Have you had thoughts of hurting yourself or thoughts of suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or suicide.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you are experiencing some symptoms of depression. Can you tell me a bit about your personal life and any recent events that may have contributed to your symptoms?
+
+Patient: Well, I recently lost my job and have been struggling to find a new one. It's been causing a lot of stress and financial strain.
+
+Doctor: I see. Losing a job can be a difficult experience. Have you been able to talk to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden my family or friends with my problems.
+
+Doctor: It's important to have a support system during difficult times. Have you considered talking to a therapist or counselor?
+
+Patient: I haven't really thought about it, but maybe it's something I should consider.
+
+Doctor: I think it would be a good idea to explore that option. In the meantime, I don't believe your symptoms meet the criteria for a diagnosis of depression, but it's important to keep an eye on them and seek help if they worsen. Let's schedule a follow-up appointment in a few weeks to check in on how you're doing.

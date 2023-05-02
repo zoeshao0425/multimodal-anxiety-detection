@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and hopeless. I don't have any energy or motivation to do anything.
+
+Doctor: Have you experienced a loss of interest in things you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and doing outdoor activities, but now I just want to stay in bed all day.
+
+Doctor: Have you had any changes in your appetite or weight?
+
+Patient: I've lost my appetite and have lost some weight as a result.
+
+Doctor: Do you have trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep and wake up frequently throughout the night. But during the day, I feel like sleeping all the time.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I find it hard to focus on anything and making even simple decisions is overwhelming.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any suicidal thoughts.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: I have been having frequent headaches and stomachaches, but I think it's because of the stress.
+
+Doctor: Can you tell me more about what's been causing you stress?
+
+Patient: I've been going through a tough time at work and my relationship with my partner has been strained.
+
+Doctor: Have you experienced depression before or have a family history of it?
+
+Patient: No, this is the first time I've experienced these symptoms and there's no family history of depression.
+
+Doctor: Based on your answers, it doesn't seem like you're experiencing clinical depression. However, it's important to address the stressors in your life and take care of your mental health. I recommend talking to a therapist or counselor to help you cope with these challenges.

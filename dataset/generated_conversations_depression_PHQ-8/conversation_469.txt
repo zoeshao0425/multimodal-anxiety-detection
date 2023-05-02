@@ -1,0 +1,31 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't have any energy, and I don't enjoy doing things that I used to love.
+
+Doctor: Have you been experiencing any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I haven't really been hungry lately, and I've lost some weight without meaning to.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having a hard time focusing on things, and I feel like my brain is foggy.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I feel like nothing I do matters and that I'm not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts of hurting anyone, but sometimes I do wonder if things would be better if I wasn't around.
+
+Doctor: Have you experienced any traumatic events in your life that might be contributing to how you're feeling now?
+
+Patient: Well, my dad passed away a few months ago, and that's been really hard on me. But even before that, I was feeling pretty down.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. I'd like to refer you to a therapist who can help you work through these feelings and develop coping strategies. We can also talk about medication options if you're interested. Does that sound okay to you?
+
+Patient: Yeah, that sounds good. Thank you for listening to me.

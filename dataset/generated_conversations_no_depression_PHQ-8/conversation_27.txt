@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and sad most of the time.
+
+Doctor: Can you describe your feelings of sadness? Do you feel hopeless or helpless?
+
+Patient: Yes, I feel like everything is pointless and that I can't do anything to change it. I don't enjoy doing things that I used to love, and I feel like I'm just going through the motions every day.
+
+Doctor: Have you experienced any changes in your sleep patterns or appetite?
+
+Patient: Yes, I have trouble sleeping at night and I wake up feeling exhausted. I also don't have much of an appetite and have lost some weight.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself, but sometimes I do wonder if things would be better if I wasn't around.
+
+Doctor: Have you noticed a decrease in your energy levels or motivation?
+
+Patient: Yes, I feel like I have no energy or motivation to do anything. Even getting out of bed in the morning feels like a struggle.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: Yes, I've been having headaches and stomachaches almost every day.
+
+Doctor: Have you experienced any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I find it hard to concentrate on anything and making decisions feels overwhelming.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yes, I feel guilty about not being able to do more and I feel like I'm not good enough.
+
+Doctor: Based on what you've described, it sounds like you may be experiencing symptoms of depression. However, after further assessment, I'm happy to inform you that you do not meet the criteria for a diagnosis of depression. It's important to keep track of your symptoms and seek help if they persist or worsen.

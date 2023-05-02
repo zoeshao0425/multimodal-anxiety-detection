@@ -1,0 +1,29 @@
+Doctor: So, tell me a little bit about what's been going on. How are you feeling?
+
+Patient: Honestly, I've been feeling pretty down lately. It's like I just don't have any energy or motivation to do anything.
+
+Doctor: Okay, can you describe that a little more? Are you having trouble getting out of bed in the morning? Are you struggling to complete tasks or find enjoyment in things you used to enjoy?
+
+Patient: Yeah, exactly. I just feel so tired all the time, and it's hard to get myself moving. And even when I do try to do things, I just don't feel any pleasure from them anymore.
+
+Doctor: I see. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, actually. I've been sleeping a lot more than usual, and I've lost my appetite. Food just doesn't seem appealing to me anymore.
+
+Doctor: Okay, and have you been experiencing any feelings of guilt or worthlessness?
+
+Patient: Yeah, I have. I just feel like I'm not good enough, like I'm not doing enough with my life. It's like I'm stuck in this rut and I can't get out.
+
+Doctor: I understand. And have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I just feel really hopeless sometimes, like things will never get better.
+
+Doctor: Thank you for being honest with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions if that's okay.
+
+Patient: Sure, go ahead.
+
+Doctor: In the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, moving or speaking so slowly that other people could have noticed? 
+
+Patient: I would say I've been bothered by all of those things pretty much every day.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it's clear that you are experiencing symptoms of depression. This is a common and treatable condition, and I'm glad you came to me for help. We can work together to find a treatment plan that works best for you.

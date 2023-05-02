@@ -1,0 +1,33 @@
+Doctor: Can you tell me about any feelings of sadness, hopelessness, or emptiness that you've experienced over the past two weeks?
+
+Patient: Yeah, I've been feeling really down lately. It's like nothing brings me joy anymore. I just feel empty and hopeless.
+
+Doctor: Have you experienced a loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Definitely. I used to love playing basketball with my friends, but now I just can't find the motivation to do it.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite lately. I just don't feel hungry anymore.
+
+Doctor: Have you had any trouble sleeping, either difficulty falling asleep or staying asleep?
+
+Patient: Yeah, I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you experienced any fatigue or loss of energy?
+
+Patient: Yes, definitely. I feel tired all the time, even when I haven't done anything.
+
+Doctor: Have you had feelings of worthlessness or excessive guilt?
+
+Patient: Yeah, I've been feeling like everything is my fault lately. I feel like I'm not good enough.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing on anything. I can't make simple decisions without second-guessing myself.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, it's important to note that there could be other underlying causes for your symptoms. Let's talk more about your personal life and any recent changes or stressors that may be contributing to how you're feeling.
+
+Patient: Well, I recently lost my job and have been struggling to find a new one. I also went through a breakup with my girlfriend, which has been really hard on me.
+
+Doctor: I'm sorry to hear that. It's understandable that those events could be contributing to your symptoms. However, based on our conversation and the PHQ-8 assessment, I don't believe that you have major depression. It's important to continue monitoring your symptoms and seeking support from loved ones or a mental health professional if needed.

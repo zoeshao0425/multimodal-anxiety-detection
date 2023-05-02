@@ -1,0 +1,31 @@
+Doctor: "So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?"
+
+Patient: "Yes, I have been feeling down, hopeless, and sad most of the time."
+
+Doctor: "Okay, have you lost interest in things you used to enjoy doing?"
+
+Patient: "Yes, I have lost interest in my hobbies and the things I used to love doing."
+
+Doctor: "Have you noticed any changes in your appetite or weight?"
+
+Patient: "I have been eating less than usual and have lost some weight."
+
+Doctor: "Have you had trouble sleeping or sleeping too much?"
+
+Patient: "I have been having trouble sleeping. I find it hard to fall asleep and stay asleep."
+
+Doctor: "Do you feel tired or have low energy most of the time?"
+
+Patient: "Yes, I have been feeling very tired and have low energy levels."
+
+Doctor: "Have you had trouble concentrating or making decisions?"
+
+Patient: "Yes, I have been struggling with concentration and making even simple decisions."
+
+Doctor: "Have you had thoughts of hurting yourself or thoughts of suicide?"
+
+Patient: "Yes, I have been having thoughts of hurting myself and have even thought about suicide."
+
+Doctor: "Thank you for answering those questions. Based on your responses, it seems like you may be experiencing depression. Depression is a serious condition that can affect your daily functioning and quality of life. I recommend that we explore treatment options together. Would you be open to that?"
+
+Patient: "Yes, I would be open to exploring treatment options. Thank you for taking the time to listen to me."

@@ -1,0 +1,31 @@
+Doctor: Can you tell me about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't have any motivation to do anything and I just feel like sleeping all day.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and I've lost some weight because of it.
+
+Doctor: Do you have trouble falling asleep or staying asleep?
+
+Patient: Yes, I have trouble falling asleep and I wake up multiple times throughout the night.
+
+Doctor: Have you noticed a decrease in your energy levels or ability to concentrate?
+
+Patient: Yes, I feel exhausted all the time and I can't seem to focus on anything.
+
+Doctor: Do you experience feelings of guilt or worthlessness?
+
+Patient: Yes, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I have had thoughts of hurting myself and I just feel like giving up sometimes.
+
+Doctor: Can you tell me more about your personal life and any recent events that may have contributed to these feelings?
+
+Patient: Well, my marriage has been struggling and we've been fighting a lot. I also lost my job recently, which has added a lot of stress to my life.
+
+Doctor: Based on your symptoms and experiences, I believe you may be suffering from depression. We can discuss treatment options and work together to help you feel better.
+
+Patient: Thank you, doctor. I appreciate your help.

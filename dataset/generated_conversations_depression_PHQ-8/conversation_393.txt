@@ -1,0 +1,37 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Yeah, I've been feeling really down. Like, all the time.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less and I've lost some weight.
+
+Doctor: Do you have trouble falling asleep or staying asleep?
+
+Patient: Yeah, I have a lot of trouble sleeping. I usually wake up a few times during the night.
+
+Doctor: Have you noticed a lack of energy or feeling tired all the time?
+
+Patient: Definitely. I'm always exhausted, even if I haven't done anything all day.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus on anything lately. I can't make decisions without second-guessing myself.
+
+Doctor: Have you felt guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough at anything. I feel like I'm letting everyone down.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: (Pauses) Yeah, I have. I don't know what to do about it.
+
+Doctor: Thank you for being honest with me. Based on your answers, it sounds like you may be experiencing symptoms of depression. It's important that we take this seriously and work together to find a treatment plan that works for you.
+
+Patient: (Sighs) I've been feeling like this for so long. I just want to feel better.
+
+Doctor: I understand. We'll work together to find a treatment plan that works for you, whether that's therapy, medication, or a combination of both. You're not alone in this, and there is help available.

@@ -1,0 +1,29 @@
+Doctor: Can you tell me a little bit about how you have been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't enjoy doing things that I used to love, and I have trouble sleeping at night. I feel tired all the time, and I just don't have any energy.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost some weight recently. I just don't have much of an appetite anymore.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like everything is my fault and I'm not good enough.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yeah, it's been really hard for me to focus lately. I can't seem to make decisions and I feel like I'm always second-guessing myself.
+
+Doctor: Have you had any trouble falling asleep or staying asleep?
+
+Patient: Yeah, I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Based on your answers, it sounds like you may be experiencing some symptoms of depression. However, I want to let you know that depression is a treatable condition. We can work together to come up with a treatment plan that will help you feel better.

@@ -1,0 +1,31 @@
+Doctor: So, tell me a little bit about how you're feeling lately. Have you been experiencing any symptoms of depression?
+
+Patient: Yeah, actually I have been feeling pretty down lately. It's been a struggle to get out of bed and do anything.
+
+Doctor: Can you describe that feeling a little more? Have you been feeling sad or hopeless?
+
+Patient: Yeah, definitely. I just feel like there's no point in doing anything because nothing really makes me happy anymore.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I haven't really had much of an appetite.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I've been feeling pretty exhausted all the time. Even small tasks seem to take so much effort.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, it's been hard to focus on anything lately. I feel like my mind is always wandering and I can't make decisions as easily as I used to.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it sounds like you may be experiencing some symptoms of depression. Can you tell me a little more about what's been going on in your life lately?
+
+Patient: Well, I recently lost my job and it's been really hard to find something new. I've also been having some issues in my personal life that have been causing a lot of stress.
+
+Doctor: I see. It's understandable that those things would be causing you stress and affecting your mood. However, based on your responses to the PHQ-8 questions, it doesn't appear that you have major depression. That being said, it's important to keep an eye on your symptoms and seek help if they worsen or persist. I can refer you to a therapist who can help you work through some of these issues and develop coping strategies.
+
+Patient: Thank you, that would be really helpful.

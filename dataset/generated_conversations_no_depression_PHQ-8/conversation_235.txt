@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and unmotivated. I just can't seem to get myself to do anything.
+
+Doctor: Have you been experiencing any feelings of hopelessness or worthlessness?
+
+Patient: Yes, I have. I feel like nothing I do matters and that I'm not good enough.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and have lost some weight.
+
+Doctor: Do you have trouble sleeping or have you been sleeping more than usual?
+
+Patient: I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling more tired than usual?
+
+Patient: Yes, I have. Even when I do get some sleep, I still feel exhausted all the time.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't have the energy or motivation for it.
+
+Doctor: Have you been feeling more irritable or easily agitated than usual?
+
+Patient: Yes, I have. Little things that normally wouldn't bother me now make me really upset.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your answers, it seems like you may be experiencing some symptoms of depression. However, it's important to note that there are many factors that can contribute to these symptoms, so we'll need to do some further testing to make a proper diagnosis. Can you tell me a bit about your personal background and any recent life events that may be contributing to how you're feeling?
+
+Patient: Well, I recently went through a breakup and have been having some financial issues. I also lost my job a few months ago, which has been really stressful.
+
+Doctor: Those are all really tough things to deal with. It's understandable that you're feeling down given everything that's been going on. However, based on what you've told me, I don't think you're experiencing clinical depression. It sounds like your symptoms may be related to situational stressors. I would recommend that you continue to take care of yourself by eating well, getting enough sleep, and engaging in activities that you enjoy. If your symptoms persist or get worse, please come back and see me.

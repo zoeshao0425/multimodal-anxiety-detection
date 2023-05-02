@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and hopeless.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and have lost some weight.
+
+Doctor: Have you been having trouble sleeping?
+
+Patient: Yes, I've been having trouble falling asleep and staying asleep.
+
+Doctor: Have you noticed a decrease in your energy levels?
+
+Patient: Yes, I feel tired all the time and don't have the motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I've been feeling really guilty about things that aren't even my fault and feel like I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I've been having thoughts of suicide.
+
+Doctor: Thank you for being honest with me. Can you tell me a little bit about your personal life and what might be causing these feelings?
+
+Patient: I've been going through a lot of stress at work and have been having trouble with my relationship. I also lost my father a few months ago, which has been really difficult for me.
+
+Doctor: I'm sorry to hear that. Based on your symptoms and experiences, it sounds like you may be experiencing depression. I would like to refer you to a mental health professional who can provide you with further support and treatment options. 
+
+Patient: Thank you, doctor. I appreciate your help.

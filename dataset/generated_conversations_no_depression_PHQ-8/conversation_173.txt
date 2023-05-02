@@ -1,0 +1,37 @@
+Doctor: So, what brings you to my office today?
+
+Patient: I have been feeling down and sad for a few weeks now, and I thought it would be best to talk to a doctor about it.
+
+Doctor: I understand. Can you tell me more about how you have been feeling? Have you been experiencing any specific symptoms?
+
+Patient: Yes, I have been feeling very low, hopeless, and helpless. I have lost interest in things that I used to enjoy doing, like going out with friends or reading books. I have also been having trouble sleeping and have been feeling tired all the time.
+
+Doctor: Okay, thank you for sharing that with me. Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite, and I have lost a few pounds in the past few weeks.
+
+Doctor: I see. Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of harming myself, but I have been feeling like life is not worth living, and I don't see any hope for the future.
+
+Doctor: Thank you for being honest with me. Have you experienced any other physical symptoms, like headaches or stomach problems?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Okay, thank you for answering those questions. Now, can you tell me a bit about your personal background? Have you experienced depression or anxiety before?
+
+Patient: Yes, I have struggled with depression and anxiety in the past, but I have never sought treatment for it.
+
+Doctor: That's important information. Have you experienced any major life events or stressors recently, like a loss of a job or a relationship?
+
+Patient: No, nothing major has happened recently. It just feels like everything is overwhelming, and I can't seem to shake this feeling of sadness.
+
+Doctor: I understand. Based on what you have shared with me, it sounds like you may be experiencing symptoms of depression. However, I would like to administer a PHQ-8 assessment to get a better understanding of your symptoms.
+
+Patient: Okay, that makes sense.
+
+Doctor: (administers PHQ-8 assessment) Based on your responses, it appears that you do not meet the criteria for a depression diagnosis. However, it's important to continue monitoring your symptoms and seek treatment if they persist or worsen.
+
+Patient: That's good to hear. Thank you for your help and for administering the assessment.
+
+Doctor: Of course. If you have any further concerns or questions, please don't hesitate to reach out to me.

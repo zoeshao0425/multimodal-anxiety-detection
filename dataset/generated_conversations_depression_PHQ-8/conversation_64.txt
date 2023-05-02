@@ -1,0 +1,35 @@
+Doctor: Thank you for coming in today. Can you tell me a little bit about what brought you in?
+
+Patient: I've been feeling really down lately. I just don't have any motivation to do anything and I'm always tired.
+
+Doctor: Okay, let's start with some questions to better understand your symptoms. Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Almost every day. It's like a cloud that won't go away.
+
+Doctor: And how often have you had little interest or pleasure in doing things?
+
+Patient: Same thing, almost every day. I used to love playing video games and hanging out with friends, but now I just can't get myself to do it.
+
+Doctor: Have you experienced any changes in appetite or weight?
+
+Patient: Yeah, I've lost some weight because I just don't feel like eating. Food doesn't taste good anymore.
+
+Doctor: And how about sleep? Have you been sleeping more or less than usual?
+
+Patient: Definitely more. I can sleep for 10 hours and still feel exhausted.
+
+Doctor: Have you noticed any changes in your energy levels or ability to concentrate?
+
+Patient: My energy is really low and I can't focus on anything. I used to be able to read a book in one sitting, but now I can barely get through a page.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: (pauses) Yeah, I have. I don't think I would actually do anything, but the thoughts are there.
+
+Doctor: Okay, thank you for being honest. Based on your answers, it sounds like you may be experiencing depression. It's a common condition and it's nothing to be ashamed of. I'd like to talk to you more about treatment options.
+
+Patient: (sighs) I'm just so tired of feeling this way. I want to get better.
+
+Doctor: That's a great attitude to have. There are a few different treatment options we can explore, including therapy and medication. It's important to find what works best for you. We'll work together to come up with a plan that fits your needs.
+
+Patient: Thank you, doctor. I appreciate it.

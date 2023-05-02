@@ -1,0 +1,67 @@
+Doctor: So, what brings you here today?
+
+Patient: I have been feeling really down lately. I don't know what's wrong with me.
+
+Doctor: Okay, can you tell me a little bit more about how you've been feeling?
+
+Patient: Well, I've been feeling really sad and hopeless. I don't enjoy things that I used to enjoy, and I feel like I'm just going through the motions every day.
+
+Doctor: How long have you been feeling like this?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you been experiencing any other symptoms, such as changes in appetite or sleep patterns?
+
+Patient: Yes, I've been sleeping a lot more than usual, and I haven't had much of an appetite.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I've been feeling really tired all the time.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. I would like to ask you a few more questions to get a better understanding of your condition. 
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things?
+
+Patient: Almost every day.
+
+Doctor: Feeling down, depressed, or hopeless?
+
+Patient: Almost every day.
+
+Doctor: Trouble falling or staying asleep, or sleeping too much?
+
+Patient: Almost every day.
+
+Doctor: Feeling tired or having little energy?
+
+Patient: Almost every day.
+
+Doctor: Poor appetite or overeating?
+
+Patient: Almost every day.
+
+Doctor: Feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Almost every day.
+
+Doctor: Trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Almost every day.
+
+Doctor: Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: Almost every day.
+
+Doctor: Based on your responses to these questions, it does not appear that you meet the diagnostic criteria for major depressive disorder. However, I would still like to recommend some strategies for improving your mood and coping with stress.
+
+Patient: Okay, thank you.
+
+Doctor: First, it may be helpful to engage in regular exercise or physical activity. This can help boost your mood and increase your energy levels. Additionally, practicing relaxation techniques such as deep breathing or meditation may be beneficial. Finally, I would encourage you to seek out social support from friends or family members, as this can help alleviate feelings of loneliness and isolation.
+
+Patient: Thank you, doctor. I will definitely try those things.

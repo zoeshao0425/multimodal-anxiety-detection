@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and sad. It's like I don't enjoy anything anymore.
+
+Doctor: Have you been experiencing any loss of interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love playing basketball with my friends, but now I just don't have the energy for it.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: I've been eating a lot more than usual, especially junk food. I've gained some weight too.
+
+Doctor: Do you have trouble sleeping at night or do you find yourself sleeping too much during the day?
+
+Patient: I have trouble falling asleep at night and then I wake up really early in the morning. I feel tired all day but I can't seem to take a nap.
+
+Doctor: Do you have trouble concentrating on things or making decisions?
+
+Patient: Yeah, I've been having trouble focusing at work and making even small decisions seems really hard.
+
+Doctor: Have you been feeling more tired or fatigued than usual?
+
+Patient: Yeah, I feel like I have no energy. Even getting out of bed in the morning is a struggle.
+
+Doctor: Have you noticed any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your answers, it doesn't appear that you have depression. However, there may be other factors contributing to your symptoms. Let's discuss some options for further evaluation and treatment.

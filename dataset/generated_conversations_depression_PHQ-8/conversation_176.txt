@@ -1,0 +1,31 @@
+Doctor: Can you tell me about any feelings of depression or hopelessness that you've been experiencing lately?
+
+Patient: Yeah, I've been feeling really down lately. It's like I don't enjoy anything anymore and I can't seem to find pleasure in anything.
+
+Doctor: Have you had any trouble sleeping or sleeping too much?
+
+Patient: Yeah, I've been having trouble sleeping. I'll lay in bed for hours and just can't seem to fall asleep. And then when I do finally fall asleep, I wake up feeling tired and groggy.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Actually, yeah. I've been eating a lot less than usual and have lost some weight because of it.
+
+Doctor: Have you been feeling tired or have low energy levels?
+
+Patient: Yeah, I feel exhausted all the time. Even doing simple tasks like getting out of bed or taking a shower feels like a huge effort.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I feel like I'm not good enough and that everything I do is wrong. I feel like I'm a burden on my family and friends and that they would be better off without me.
+
+Doctor: Have you been having any trouble concentrating or making decisions?
+
+Patient: Yeah, I can't seem to focus on anything for more than a few minutes. And when it comes to making decisions, even simple ones like what to wear or what to eat, I feel overwhelmed and stressed out.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: Yeah, I have. Sometimes I feel like there's no point in living anymore and that everyone would be better off if I wasn't around.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. I recommend that we start treatment as soon as possible to help you feel better. 
+
+Patient: Thank you, doctor. It's a relief to finally know what's going on with me. I'm ready to start feeling better.

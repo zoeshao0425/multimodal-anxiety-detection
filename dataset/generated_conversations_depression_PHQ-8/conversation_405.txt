@@ -1,0 +1,31 @@
+Doctor: So, I understand you've been feeling down lately. Can you tell me more about your symptoms?
+
+Patient: Yeah, it's been really tough. I just feel sad all the time and have no energy to do anything.
+
+Doctor: Okay, how often have you been feeling this way?
+
+Patient: It's been pretty much every day for the past few weeks.
+
+Doctor: I see. Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been having trouble sleeping and my appetite has decreased.
+
+Doctor: Okay, and have you lost interest in things you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends and doing things, but now I just don't feel like it anymore.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Do you ever have thoughts of harming yourself or ending your life?
+
+Patient: Yeah, sometimes I just feel like it would be easier if I wasn't here anymore.
+
+Doctor: I'm sorry to hear that. Have you experienced any trauma or significant life events recently?
+
+Patient: Well, my grandmother passed away a few months ago and that was really hard on me.
+
+Doctor: Okay, that could definitely contribute to your feelings of depression. Based on your answers, it sounds like you may be experiencing major depressive disorder. I would like to refer you to a therapist who can help you work through these feelings and develop coping strategies. Additionally, I would like to prescribe an antidepressant medication to help alleviate your symptoms. 
+
+Patient: Thank you, doctor. I appreciate your help.

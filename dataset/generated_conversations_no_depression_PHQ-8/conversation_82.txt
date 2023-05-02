@@ -1,0 +1,41 @@
+Doctor: So, can you tell me a little bit about what's been going on? What brings you in today?
+
+Patient: Well, I've been feeling really down lately. It's been going on for a few weeks now.
+
+Doctor: Okay, can you describe what you mean by feeling down?
+
+Patient: Yeah, I just feel really sad and hopeless all the time. I don't enjoy things that I used to enjoy, and I have trouble sleeping.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, I've been eating a lot less than usual. I just don't have much of an appetite.
+
+Doctor: Okay. Have you been having any trouble concentrating or making decisions?
+
+Patient: Yeah, definitely. I feel like I can't focus on anything, and even simple decisions seem really difficult.
+
+Doctor: Have you noticed any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. Just the lack of appetite and trouble sleeping.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for sharing all of that with me. Can you tell me a little bit about your personal background? Have you had any experiences with depression before?
+
+Patient: Yeah, I have. I was diagnosed with depression a few years ago and was on medication for a while. I went off it when I started feeling better, but now I'm wondering if I should go back on it.
+
+Doctor: I see. Have there been any recent changes in your life that might be contributing to your symptoms?
+
+Patient: Not really. Things have been pretty stable, actually.
+
+Doctor: Based on what you've told me, it sounds like you're experiencing some symptoms of depression. However, I'd like to give you a PHQ-8 assessment just to get a better idea of how severe your symptoms are.
+
+Patient: Okay, sure.
+
+Doctor: (administers PHQ-8 assessment)
+
+Doctor: Based on your answers, it looks like you're not currently experiencing depression. However, I would recommend that you continue to monitor your symptoms and come back if they worsen or if you have any thoughts of hurting yourself.
+
+Patient: Okay, thank you for your help.

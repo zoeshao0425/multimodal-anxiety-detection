@@ -1,0 +1,43 @@
+Doctor: Thank you for coming in today. Can you tell me a little bit about what's been going on with you?
+
+Patient: Yeah, I've been feeling really down lately. I don't have much energy and I'm not interested in doing things I used to enjoy.
+
+Doctor: I see. Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well and I've lost my appetite. I just don't feel like eating.
+
+Doctor: Okay. Have you noticed any changes in your mood? Do you feel sad or hopeless?
+
+Patient: Yeah, I've been feeling really sad and hopeless lately. I don't see the point in doing anything.
+
+Doctor: I understand. Have you had any thoughts of hurting yourself or suicidal ideation?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Have these symptoms been affecting your ability to function in your daily life?
+
+Patient: Yeah, I've been having trouble getting out of bed and going to work. I just don't have the energy.
+
+Doctor: Okay. Have you experienced any traumatic events recently or in the past?
+
+Patient: No, nothing traumatic has happened recently. But I did lose my job a few months ago, and I've been struggling to find work since then.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your condition.
+
+Patient: Okay.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: No, I don't think so.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having trouble focusing on things. It's hard to make decisions because I just don't care.
+
+Doctor: Okay. Based on what you've told me, it seems like you may be experiencing some symptoms of depression, but not enough to meet the criteria for a diagnosis. However, I would still like to monitor your symptoms and check in with you again in a few weeks to see how you're doing. In the meantime, there are some things you can do to help manage your symptoms, such as exercise, getting enough sleep, and talking to a therapist. Would you be interested in any of these options?
+
+Patient: Yeah, I think I would like to talk to a therapist. Thank you for your help.

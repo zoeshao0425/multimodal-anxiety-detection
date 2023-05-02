@@ -1,0 +1,35 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't have much energy, and I'm having trouble sleeping.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating as much as I used to. I've lost a bit of weight because of it.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like nothing I do really matters.
+
+Doctor: Have you had any thoughts of suicide or self-harm?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having a hard time focusing on things. It's been affecting my work too.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomach aches?
+
+Patient: No, not really. Just the lack of energy and trouble sleeping.
+
+Doctor: Can you tell me a bit about your personal life? How are things at home and at work?
+
+Patient: Things at home are okay, but work has been really stressful lately. I've been working long hours and it's been hard to balance everything.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to rule out any other potential causes for your symptoms. Let's run some tests and see if there's anything else going on.
+
+Patient: Okay, that makes sense. Thank you for taking the time to talk with me.

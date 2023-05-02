@@ -1,0 +1,67 @@
+Doctor: So, can you tell me about some of the symptoms you've been experiencing lately?
+
+Patient: Well, I've been feeling really down and sad. I don't have much energy, and I'm not interested in doing things that I used to enjoy.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been eating as much as usual, and I'm having trouble sleeping at night.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling pretty hopeless lately. I don't see the point in doing anything because nothing seems to make me happy.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Do you have a history of depression or other mental health issues?
+
+Patient: No, I've never been diagnosed with anything like that before.
+
+Doctor: Have you experienced any significant life events recently that may have contributed to these feelings?
+
+Patient: Well, my job has been really stressful lately, and I've been having some problems in my personal life too.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I'm going to ask you a few more questions to get a better idea of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Pretty much every day.
+
+Doctor: And how often have you been bothered by little interest or pleasure in doing things?
+
+Patient: Every day as well.
+
+Doctor: Have you experienced any of the following symptoms over the past two weeks: trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: Yes, I've been having trouble falling asleep and staying asleep.
+
+Doctor: Have you experienced any of the following symptoms over the past two weeks: feeling tired or having little energy?
+
+Patient: Yes, I've been feeling really tired lately.
+
+Doctor: Have you experienced any of the following symptoms over the past two weeks: poor appetite or overeating?
+
+Patient: Poor appetite.
+
+Doctor: Have you experienced any of the following symptoms over the past two weeks: feeling bad about yourself, feeling like a failure, or feeling like you've let yourself or your family down?
+
+Patient: Yes, I've been feeling pretty worthless.
+
+Doctor: Have you experienced any of the following symptoms over the past two weeks: trouble concentrating on things, such as reading the newspaper or watching TV?
+
+Patient: Yes, I've been having trouble focusing on things.
+
+Doctor: Have you experienced any of the following symptoms over the past two weeks: moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: No, I haven't experienced either of those.
+
+Doctor: Based on your answers, it seems like you may be experiencing some symptoms of depression. However, it doesn't appear to be severe enough to warrant a diagnosis of major depressive disorder. Instead, I would recommend that you focus on self-care, such as getting enough sleep, eating healthy foods, and engaging in activities that you enjoy. If your symptoms persist or worsen, we can explore other treatment options, such as therapy or medication. Do you have any questions or concerns?
+
+Patient: No, that all makes sense. Thank you for your help.

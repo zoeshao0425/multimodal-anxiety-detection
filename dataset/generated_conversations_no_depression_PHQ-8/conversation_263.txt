@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about what's been going on lately that has led you to seek help?
+
+Patient: Well, I've just been feeling really down lately. I don't have much energy or motivation to do anything. I've been having trouble sleeping and I've lost my appetite.
+
+Doctor: Have you noticed any changes in your mood or emotions?
+
+Patient: Yeah, I've been feeling really sad and hopeless. Sometimes I cry for no reason. I feel like I'm just going through the motions of life without any real purpose.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I thought it was just a phase, but it hasn't gone away.
+
+Doctor: Have you ever experienced anything like this before?
+
+Patient: Not to this extent. I've had some low periods in the past, but nothing like this.
+
+Doctor: Have you noticed any changes in your social life or relationships?
+
+Patient: Yeah, I've been withdrawing from my friends and family. I don't want to be around anyone and I don't feel like talking to anyone.
+
+Doctor: Have you been experiencing any physical symptoms such as headaches, stomachaches, or body aches?
+
+Patient: No, not really. Just the lack of appetite and trouble sleeping.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on what you're telling me, it sounds like you may be experiencing symptoms of depression. I'm going to give you a questionnaire to fill out that will help me better understand your symptoms and how severe they are.
+
+(Patient fills out PHQ-8 questionnaire)
+
+Doctor: Based on your responses, it looks like you do not meet the criteria for a diagnosis of depression. However, your symptoms are still concerning and I would like to schedule a follow-up appointment in a few weeks to check in and see how you're doing. In the meantime, I would recommend focusing on self-care activities such as exercise, healthy eating, and getting enough rest. It may also be helpful to talk to a therapist or counselor about what you're going through.

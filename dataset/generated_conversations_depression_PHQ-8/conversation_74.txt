@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you describe your feelings of being down a bit more?
+
+Patient: Yeah, it's like everything just feels really heavy and exhausting. I don't enjoy things that used to make me happy, and I'm having trouble sleeping.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, I've lost my appetite. Food doesn't seem appealing anymore.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like I'm not good enough, and I'm always criticizing myself.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, nothing like that.
+
+Doctor: Have you been able to concentrate on tasks or activities?
+
+Patient: No, I feel like I can't focus on anything for very long. My mind just feels foggy.
+
+Doctor: Have you experienced any physical symptoms like fatigue or aches?
+
+Patient: Yeah, I've been feeling really tired all the time, and my body feels achy.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. It's important to know that depression is a medical condition, and it's not your fault that you're feeling this way.
+
+Patient: That's good to know. I've been feeling really guilty about not being able to snap out of it.
+
+Doctor: It's not something you can just snap out of. Depression is a real illness that requires treatment. We have a few options for treatment, including therapy and medication. I'd like to refer you to a therapist who can help you work through some of these feelings and develop coping strategies. We can also discuss medication options if that's something you're interested in.
+
+Patient: Thank you, that sounds like a good plan. I'm ready to start feeling better.

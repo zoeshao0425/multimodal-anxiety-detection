@@ -1,0 +1,31 @@
+Doctor: Can you describe to me what you've been feeling lately?
+
+Patient: I've been feeling really down and just not myself. It's like everything is a chore, and I don't have any motivation to do anything.
+
+Doctor: Have you been experiencing any changes in your sleep patterns, such as difficulty falling asleep or staying asleep?
+
+Patient: Yes, I've been having trouble sleeping lately. I either can't fall asleep, or I wake up multiple times during the night.
+
+Doctor: How about your appetite? Have you noticed any changes in that area?
+
+Patient: I haven't been eating as much as I usually do. Food just doesn't seem appealing to me anymore.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you been feeling hopeless or worthless lately?
+
+Patient: Yes, I feel like I'm not good enough and that nothing I do matters.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and doing things, but now I just want to stay at home and be alone.
+
+Doctor: Do you have any family history of depression or other mental health conditions?
+
+Patient: Yes, my mother has struggled with depression in the past.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors. I recommend we run some tests to rule out any underlying medical conditions. 
+
+Patient: Thank you for your help, doctor.

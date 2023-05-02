@@ -1,0 +1,37 @@
+Doctor: So, let's start with your symptoms. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down for a while now. It's been going on for a few weeks.
+
+Doctor: Okay. Have you lost interest in doing things you used to enjoy?
+
+Patient: Yes, I have. I used to love going out with my friends, but now I just don't feel like it.
+
+Doctor: Have you experienced any changes in appetite? Have you been eating more or less than usual?
+
+Patient: I've been eating less than usual. I just don't feel hungry most of the time.
+
+Doctor: Do you have trouble sleeping? Have you been sleeping more or less than usual?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I have been feeling very tired lately. I just don't have the energy to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I have been feeling guilty about a lot of things. I feel like I'm not doing enough.
+
+Doctor: Have you had any thoughts of harming yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your responses, it sounds like you may be experiencing some symptoms of depression. Can you tell me a bit more about what's been going on in your life lately?
+
+Patient: Well, I recently lost my job, and it's been really hard finding a new one. I also broke up with my partner, and that's been tough too.
+
+Doctor: I see. It's understandable that you're feeling down given those circumstances. However, based on your responses, I don't think you meet the criteria for a diagnosis of major depressive disorder. That being said, it's important to keep an eye on your symptoms and seek help if they worsen. 
+
+Patient: Okay, thank you for letting me know. What can I do to start feeling better?
+
+Doctor: There are a few things you can try. First, make sure you're taking care of your physical health by getting enough sleep, eating well, and exercising regularly. You may also want to consider talking to a therapist or counselor about your feelings. Additionally, there are medications that can help with depression if your symptoms persist.

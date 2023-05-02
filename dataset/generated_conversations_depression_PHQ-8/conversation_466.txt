@@ -1,0 +1,35 @@
+Doctor: Hi, can you tell me about your mood in the last two weeks?
+
+Patient: I've been feeling really down lately. I don't feel like doing anything, and I'm always tired.
+
+Doctor: Have you experienced a decrease in interest or pleasure in activities you used to enjoy?
+
+Patient: Yes, I used to love painting, but I haven't picked up a brush in weeks.
+
+Doctor: How often have you felt hopeless or helpless in the last two weeks?
+
+Patient: Almost every day. I feel like nothing will ever get better.
+
+Doctor: Have you experienced any significant changes in your appetite or weight?
+
+Patient: I've been eating less than usual, and I've lost some weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble falling asleep, and I wake up several times during the night.
+
+Doctor: Have you noticed any changes in your energy level or fatigue?
+
+Patient: I feel drained all the time. Even small tasks like getting out of bed or taking a shower feel exhausting.
+
+Doctor: Have you had any negative thoughts about yourself or feelings of worthlessness?
+
+Patient: Yes, I feel worthless and like I'm a burden on my family and friends.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Sometimes I think about hurting myself, but I know I wouldn't actually do it.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. I would like to diagnose you with depression and discuss treatment options with you.
+
+Patient: Thank you for taking the time to listen to me. I'm glad I came in today.

@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and hopeless. I don't enjoy things I used to enjoy, and I'm having trouble sleeping.
+
+Doctor: Have you experienced a lack of energy or fatigue?
+
+Patient: Yes, I feel exhausted all the time even when I haven't done anything. It's hard to get out of bed in the morning.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite, and I've lost some weight as a result. I just don't feel like eating.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, it's been really difficult to focus on anything. I feel like my mind is always foggy, and I can't make decisions about even simple things.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: Yes, I've been feeling really hopeless and sometimes I wonder if life is worth living.
+
+Doctor: Have you experienced any physical symptoms such as headaches, stomachaches, or muscle pain?
+
+Patient: Yes, I've been having headaches and stomachaches, and my muscles often feel tense and sore.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yes, I'm having trouble falling asleep and staying asleep. I wake up frequently during the night and have trouble getting back to sleep.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yes, I often feel guilty for things that aren't my fault, and I feel like a burden to everyone around me.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a full assessment to confirm the diagnosis and discuss treatment options with you.

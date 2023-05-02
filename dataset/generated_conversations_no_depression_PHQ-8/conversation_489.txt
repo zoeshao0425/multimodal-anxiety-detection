@@ -1,0 +1,29 @@
+Doctor: So, I understand that you are here today to discuss your symptoms of depression. Can you tell me a little about what you have been experiencing?
+
+Patient: Yes, I've been feeling really down lately. I don't enjoy doing things that I used to love, like going out with friends or even watching my favorite TV shows. I just don't have the energy or motivation.
+
+Doctor: I see. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: My appetite has decreased, and I've lost a few pounds. And I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: How about your energy level? Have you been feeling tired or fatigued?
+
+Patient: Yes, I feel exhausted all the time. Even getting out of bed in the morning feels like a struggle.
+
+Doctor: Have you noticed any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault. I keep replaying past mistakes in my head and can't seem to let them go.
+
+Doctor: Do you ever have thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself. But I do feel like life isn't worth living sometimes.
+
+Doctor: Okay, thank you for answering those questions. Now, can you tell me a little about your personal background? Have you experienced any major life events recently that may have triggered these symptoms?
+
+Patient: Well, I recently went through a breakup, which was really hard for me. And work has been really stressful lately, which hasn't helped.
+
+Doctor: I see. It sounds like you have been dealing with a lot. Based on what you've told me, it does sound like you may be experiencing symptoms of depression. However, I would like to perform a PHQ-8 assessment to get a better understanding of your symptoms.
+
+After administering the PHQ-8 assessment, the doctor concludes:
+
+Doctor: Based on your responses, it appears that you do not meet the criteria for a diagnosis of depression. However, I understand that you are still struggling with some difficult emotions and life events. I would recommend that you continue to monitor your symptoms and seek support from friends, family, or a therapist if needed. Additionally, practicing self-care and engaging in activities that bring you joy may help improve your mood.

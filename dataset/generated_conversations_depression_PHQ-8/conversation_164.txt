@@ -1,0 +1,33 @@
+Doctor: Hi, can you tell me how you've been feeling lately?
+
+Patient: I've been feeling really down and sad all the time. I don't have any energy to do anything.
+
+Doctor: Have you been feeling hopeless or helpless?
+
+Patient: Yes, I feel like nothing will ever get better and there's no point in trying.
+
+Doctor: Do you have trouble sleeping or sleeping too much?
+
+Patient: I have trouble sleeping. I'm always tired but I can't fall asleep at night.
+
+Doctor: Do you have a loss of appetite or are you overeating?
+
+Patient: I've lost my appetite. I don't feel hungry at all.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm a burden to everyone around me and that I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I've been having thoughts of ending my life. It's been really hard to deal with.
+
+Doctor: Have you noticed a decrease in interest or pleasure in activities you used to enjoy?
+
+Patient: Yes, I used to love going out with my friends and doing things, but now I just want to stay in bed all day.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: Yes, I've been having headaches and stomachaches a lot lately.
+
+Doctor: Based on your answers, it sounds like you may be experiencing depression. It's important to know that depression is a medical condition and can be treated. We can work together to find the best treatment plan for you.

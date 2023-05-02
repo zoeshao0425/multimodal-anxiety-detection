@@ -1,0 +1,43 @@
+Doctor: Hi, I understand that you're here to discuss your symptoms of depression. Can you tell me what symptoms you've been experiencing?
+
+Patient: Yes, I've been feeling very sad and down lately. I have no motivation to do anything, and I've been feeling tired all the time.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I would say for about six months now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've lost weight because I don't have much of an appetite anymore.
+
+Doctor: Have you had any trouble sleeping?
+
+Patient: Yes, I have trouble falling asleep and staying asleep. I wake up feeling tired and groggy.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yes, I feel like I have no energy at all. I struggle to get out of bed in the morning and I just want to sleep all day.
+
+Doctor: Have you felt hopeless or helpless?
+
+Patient: Yes, I feel like there's no point in doing anything because nothing will ever change.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I have had thoughts of ending my life. I don't think I would act on them, but they are there.
+
+Doctor: Thank you for being so honest with me. Have you experienced any other symptoms that aren't related to your mood?
+
+Patient: No, I haven't noticed anything else.
+
+Doctor: Can you tell me a bit about your personal background? Have you experienced any major life changes recently?
+
+Patient: Well, my mother passed away about a year ago and that's when I started feeling really down. We were very close and it's been hard to cope without her.
+
+Doctor: I'm sorry to hear that. Have you talked to anyone about how you're feeling?
+
+Patient: No, I haven't really talked to anyone about it. I've just been trying to deal with it on my own.
+
+Doctor: I understand. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to refer you to a therapist who can help you work through your feelings and develop coping strategies. We can also discuss medication options if you're interested.
+
+Patient: Okay, thank you. I appreciate your help.

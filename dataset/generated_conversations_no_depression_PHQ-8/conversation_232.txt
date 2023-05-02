@@ -1,0 +1,37 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, to be honest, I've been feeling really down. I don't have much energy and I'm not interested in doing things that I used to enjoy.
+
+Doctor: Have you been feeling sad or hopeless?
+
+Patient: Yes, definitely. I feel like everything is just too much right now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping very well and I've lost my appetite.
+
+Doctor: How has this been affecting your daily life?
+
+Patient: It's been really hard to get motivated to do anything. I've been missing work and avoiding social situations.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't.
+
+Doctor: Have you experienced any physical symptoms such as headaches or body aches?
+
+Patient: No, not really.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: Yes, I have in the past.
+
+Doctor: Can you tell me a little bit about your personal life? Are there any stressful events going on right now?
+
+Patient: Well, my job has been really demanding lately and I've been having some issues in my relationship.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I want to let you know that there are many effective treatments available. We can discuss medication options and therapy referrals if you're interested.
+
+Patient: Actually, I think I might just need to take some time off work and focus on self-care. Thank you for your help, though.
+
+Doctor: Of course, I understand. Just know that I'm here if you ever need anything.

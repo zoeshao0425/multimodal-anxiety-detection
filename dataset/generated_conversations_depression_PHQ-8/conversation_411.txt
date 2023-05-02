@@ -1,0 +1,31 @@
+Doctor: So, tell me a little bit about what brings you in today.
+
+Patient: Well, I just haven't been feeling like myself lately. I've been really sad and unmotivated.
+
+Doctor: Okay, can you describe your symptoms a bit more? How often do you feel sad or down?
+
+Patient: It's pretty much every day. Sometimes it's worse than others, but I always feel this sense of sadness or hopelessness.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I either have trouble falling asleep or I wake up in the middle of the night and can't go back to sleep. And my appetite has been off too. I've been eating less than usual.
+
+Doctor: I see. And have you noticed any changes in your energy levels or interest in things you used to enjoy?
+
+Patient: Yeah, I just don't have the energy to do anything anymore. Even things that used to make me happy just don't interest me anymore.
+
+Doctor: Okay, and have you noticed any physical symptoms like headaches or stomach aches?
+
+Patient: Not really. I mean, I've had some headaches, but I think that's just from not sleeping well.
+
+Doctor: Alright, thank you for sharing that with me. Now, I want to ask you a few more questions about your personal life. Have you experienced any major life events recently, like a breakup or the loss of a loved one?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, and do you have a history of depression or other mental health issues?
+
+Patient: Yeah, I was diagnosed with depression a few years ago, but I haven't been on medication or seen a therapist in a while.
+
+Doctor: I see. Based on what you've shared with me today, it sounds like you may be experiencing a depressive episode. I would recommend that you speak with a therapist or mental health professional to help you manage your symptoms.
+
+Patient: Okay, thank you for your help.

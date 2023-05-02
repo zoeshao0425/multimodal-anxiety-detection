@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about what's been going on lately that made you come in today?
+
+Patient: Yeah, I've been feeling really down and out of it lately. I just don't have any motivation to do anything anymore.
+
+Doctor: How long has this been going on for?
+
+Patient: I'd say for the past few weeks or so. It's been getting worse and worse as time goes on.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been eating as much as I used to and I've been having trouble falling asleep at night.
+
+Doctor: Have you been experiencing any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything I do is wrong and that I'm not good enough.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any physical symptoms such as fatigue or aches and pains?
+
+Patient: Yeah, I've been feeling really tired all the time and my body just feels achy.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yeah, it's been really hard for me to focus on anything and I've been having trouble making even simple decisions.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to do some further testing to rule out any other possible conditions. 
+
+Patient: Okay, that makes sense.
+
+Doctor: After conducting the PHQ-8 assessment, it appears that you do not meet the criteria for depression. However, I recommend that you continue to monitor your symptoms and if they persist, we can explore other options for treatment. In the meantime, try to engage in activities that bring you joy and surround yourself with a supportive network of friends and family.

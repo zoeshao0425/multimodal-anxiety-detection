@@ -1,0 +1,55 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake it off.
+
+Doctor: Okay, let's talk about your symptoms. Have you been feeling sad or hopeless?
+
+Patient: Yeah, definitely. It's like a cloud that never goes away.
+
+Doctor: How often have you been feeling this way? Every day, most days, or some days?
+
+Patient: Every day, for the past few weeks.
+
+Doctor: Have you lost interest in things you used to enjoy?
+
+Patient: Yeah, I used to love playing video games and hanging out with friends, but now I just don't feel like doing anything.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: I've been eating less than usual, and I've lost a few pounds.
+
+Doctor: Have you had trouble sleeping or been sleeping too much?
+
+Patient: I've been having trouble falling asleep and staying asleep. And when I do sleep, I still feel tired in the morning.
+
+Doctor: Have you felt tired or low on energy?
+
+Patient: Yeah, I just feel drained all the time.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of harming yourself or ending your life?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, based on your answers, it sounds like you may be experiencing symptoms of depression. However, I would like to ask you a few more questions about your personal background and experiences to get a better understanding of your situation.
+
+Patient: Sure, go ahead.
+
+Doctor: Have you experienced any significant life changes or stressors recently?
+
+Patient: Well, I lost my job a few months ago, and my girlfriend broke up with me around the same time.
+
+Doctor: I see. And how have you been coping with these changes?
+
+Patient: Honestly, not very well. I've been isolating myself from friends and family and just trying to distract myself with TV and movies.
+
+Doctor: Okay, that's understandable. Have you ever experienced depression before?
+
+Patient: No, this is the first time.
+
+Doctor: Alright. Based on our conversation, I don't believe you meet the criteria for a diagnosis of major depressive disorder. However, your symptoms indicate that you may be experiencing some mild to moderate depression. I recommend that you try to stay active, maintain a healthy diet, and reach out to friends and family for support. If your symptoms persist or worsen, please don't hesitate to come back and see me.
+
+Patient: Thank you, doctor. I appreciate your help.

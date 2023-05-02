@@ -1,0 +1,51 @@
+Doctor: So, can you tell me a little bit about what brought you in today?
+
+Patient: I’ve been feeling really down lately. I just don’t have any energy and I’m having trouble sleeping.
+
+Doctor: Okay, let’s talk a little more about that. Have you been feeling sad or hopeless?
+
+Patient: Yeah, I’ve been feeling pretty down for a while now. I just don’t feel like doing anything anymore.
+
+Doctor: Have you lost interest in things that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don’t feel like it.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Not really, I’ve been eating about the same as usual.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I’ve been having trouble focusing at work and making decisions has been really hard.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I’ve been feeling really tired lately. Even when I get enough sleep, I still feel exhausted.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven’t had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it seems like you may be experiencing some symptoms of depression. However, it’s important to note that not everyone who experiences these symptoms has depression. I’d like to ask you a few more questions to get a better understanding of what’s going on.
+
+Patient: Okay, sure.
+
+Doctor: Have you experienced any major life changes recently, like a loss of a loved one or a change in job?
+
+Patient: No, nothing like that.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, I haven’t.
+
+Doctor: Are you currently taking any medications or have you recently stopped taking any medications?
+
+Patient: No, I’m not taking any medications.
+
+Doctor: Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: No, just the lack of energy and trouble sleeping.
+
+Doctor: Based on what you’ve told me, it doesn’t seem like you have depression. However, if your symptoms persist or worsen, please don’t hesitate to come back and see me. In the meantime, I’d recommend focusing on self-care activities like exercise, healthy eating, and getting enough sleep. Is there anything else you’d like to discuss today?
+
+Patient: No, that’s all. Thank you for your help.

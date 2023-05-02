@@ -1,0 +1,31 @@
+Doctor: Can you tell me about your symptoms? Have you been feeling depressed or down lately?
+
+Patient: Yes, I have been feeling quite down for a while now. I feel like I have lost interest in things that I used to enjoy doing. I feel tired all the time and have trouble sleeping at night.
+
+Doctor: How often do you feel this way?
+
+Patient: Almost every day. It's been going on for a few months now.
+
+Doctor: Do you find yourself feeling hopeless or helpless?
+
+Patient: Yes, I do. I feel like there's no point in doing anything because nothing will change.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite and have lost weight as a result.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I do. I find it hard to focus on anything, and even simple decisions seem overwhelming.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I have had thoughts of ending my life. It feels like the only way to escape the pain.
+
+Doctor: Thank you for sharing that with me. Can you tell me a bit about your personal background? Have you experienced any traumatic events recently?
+
+Patient: Yes, I have gone through a lot of stress lately. My job has been very demanding, and I recently went through a breakup with my partner.
+
+Doctor: I see. It sounds like you've been dealing with a lot lately. Based on what you've told me, it seems like you may be suffering from depression. We can explore some treatment options together, such as therapy or medication. 
+
+Patient: Thank you, doctor. I appreciate your help.

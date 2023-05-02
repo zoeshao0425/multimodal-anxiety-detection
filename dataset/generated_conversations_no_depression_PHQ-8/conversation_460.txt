@@ -1,0 +1,33 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling quite down lately. It's been difficult to get out of bed in the morning, and I've lost interest in things that I used to enjoy. Even spending time with my friends and family doesn't bring me much joy anymore.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I have noticed that I've been eating less than usual. I don't have much of an appetite, and when I do eat, I don't feel very hungry. As a result, I've lost a few pounds over the past few weeks.
+
+Doctor: Have you had any trouble sleeping or sleeping too much?
+
+Patient: I've definitely had trouble sleeping. I find myself lying awake at night, unable to quiet my mind. And even when I do fall asleep, I often wake up feeling tired and unrefreshed.
+
+Doctor: Have you felt tired or fatigued more than usual?
+
+Patient: Yes, definitely. I feel like I'm dragging myself through the day, even if I haven't done anything particularly strenuous. It's like I just don't have any energy.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I've noticed that my thinking feels foggy and slow. It's hard to focus on anything for very long, and I've been making mistakes at work that I wouldn't normally make.
+
+Doctor: Have you had any thoughts of worthlessness or guilt?
+
+Patient: Yes, I have. I've been feeling like a burden on my loved ones, and like I'm not good enough at anything. I keep replaying past mistakes in my head and feeling guilty about them.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself. But I do feel like life isn't worth living sometimes.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I'd like to ask a few more questions to get a better sense of your overall health and well-being. Have you experienced any major life changes or stressors recently?
+
+Patient: Well, I did lose my job a few months ago, and that's been weighing on me. I've been struggling to find work, and it's been difficult to make ends meet. On top of that, my relationship with my partner has been strained lately, which has added to my stress levels.
+
+Doctor: Thank you for sharing that with me. It's important to consider all aspects of your life when assessing your mental health. Based on our conversation, I don't believe that you have major depression, but it's clear that you are going through a tough time. I would recommend that you speak with a therapist or counselor who can help you work through your feelings and develop coping strategies. Additionally, there are some lifestyle changes you can make that may help improve your mood, such as regular exercise, healthy eating, and getting enough sleep.

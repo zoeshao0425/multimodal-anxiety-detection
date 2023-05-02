@@ -1,0 +1,39 @@
+Doctor: I'd like to ask you some questions about how you've been feeling lately. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down lately.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day for the past two weeks.
+
+Doctor: Have you lost interest in things that you used to enjoy doing?
+
+Patient: Yes, I have lost interest in my hobbies and activities that I used to love.
+
+Doctor: Have you been feeling tired or having trouble sleeping?
+
+Patient: Yes, I have been feeling very tired and I have trouble sleeping at night.
+
+Doctor: Have you been feeling bad about yourself or feeling like a failure?
+
+Patient: Yes, I have been feeling like a failure and I am very hard on myself.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I have been having trouble concentrating and making decisions.
+
+Doctor: Have you been having any thoughts of hurting yourself or suicide?
+
+Patient: No, I have not had any thoughts of hurting myself or suicide.
+
+Doctor: Thank you for answering these questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. Can you tell me more about what's going on in your life right now?
+
+Patient: Well, I recently lost my job and it's been difficult finding a new one. I also broke up with my partner a few months ago and I haven't been able to move on from that.
+
+Doctor: I see. It sounds like you have been dealing with a lot of stress and changes in your life. Have you talked to anyone about how you've been feeling?
+
+Patient: No, I haven't really talked to anyone about it. I just try to keep everything to myself.
+
+Doctor: I understand. It's important to know that depression is a common and treatable condition. However, based on your responses, it doesn't seem like you are experiencing severe symptoms of depression. I would recommend that you continue to take care of yourself by getting enough sleep, eating well, and exercising. It may also be helpful for you to talk to a therapist or counselor about what you're going through. Does that sound okay to you?
+
+Patient: Yes, that sounds good. Thank you for your help.

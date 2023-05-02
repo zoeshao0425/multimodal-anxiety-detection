@@ -1,0 +1,33 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and I've lost some weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you noticed any changes in your energy level?
+
+Patient: I feel tired all the time, even when I get enough sleep.
+
+Doctor: Have you lost interest in things that you used to enjoy?
+
+Patient: Yeah, I don't really feel like doing anything anymore. I used to love going out with friends, but now I just want to stay at home.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Can you tell me a little bit about your personal life? Are there any major stressors or life changes that could be contributing to your mood?
+
+Patient: Well, my job has been really stressful lately, and I just went through a breakup.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I don't think it's severe enough to warrant a diagnosis. I would recommend some lifestyle changes, such as exercise and spending time with loved ones, to help improve your mood. If your symptoms persist or worsen, we can revisit this conversation and explore other treatment options.

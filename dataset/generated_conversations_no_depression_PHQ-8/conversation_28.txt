@@ -1,0 +1,29 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling pretty down for the past few weeks. I don't really have any energy and I'm having trouble sleeping.
+
+Doctor: Do you feel sad or hopeless most of the time?
+
+Patient: Yeah, I do. It's like everything feels pointless and nothing brings me joy anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating less than usual and I've lost some weight, but I don't really feel hungry.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been difficult to focus on anything. Even simple tasks seem overwhelming.
+
+Doctor: Have you been feeling more tired than usual?
+
+Patient: Definitely. I can barely get out of bed in the morning and I feel exhausted all day.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it sounds like you may be experiencing symptoms of depression. It's important to remember that depression is a medical condition and there are treatments available. Would you like to talk about some options for treatment?
+
+Patient: Actually, I don't think I need any treatment. I recently lost my job and I think that's just been weighing on me. I'm confident that things will get better soon.
+
+Doctor: That's understandable. It's important to remember that depression can affect anyone, regardless of their personal circumstances. However, if you feel like you're able to manage your symptoms and you have a support system in place, that's great. Just know that if you ever need help, I'm here for you.

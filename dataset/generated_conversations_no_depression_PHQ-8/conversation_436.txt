@@ -1,0 +1,19 @@
+Doctor: Can you tell me how often you have been bothered by any of the following problems over the last two weeks? Little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, that you are a failure, or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed?
+
+Patient: Yes, I have been feeling down and depressed for the past few weeks. I have lost interest in things that I used to enjoy, like going out with friends or watching movies. I have trouble sleeping at night and feel tired all day. I have been eating less than usual and have lost some weight. I feel like I am a failure and have let my family down. I have trouble concentrating on work and sometimes find myself staring at the computer screen for hours without getting anything done. I feel like I am moving in slow motion and have no energy.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of harming myself or suicide.
+
+Doctor: Have you experienced any major life changes recently, such as the loss of a loved one, job, or relationship?
+
+Patient: Yes, I lost my job a few months ago, and it has been difficult finding a new one. I also broke up with my girlfriend around the same time.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I have felt like this.
+
+Doctor: Based on what you have told me, it seems like you may be experiencing some symptoms of depression. However, it's important to note that not everyone who experiences these symptoms has depression. I would like to rule out any underlying medical conditions that may be causing your symptoms. We will run some tests and see if there are any abnormalities. In the meantime, I recommend that you try to get some exercise, eat a healthy diet, and get enough sleep. If your symptoms persist or worsen, we can discuss other treatment options such as therapy or medication.
+
+Patient: Thank you, Doctor. I appreciate your help and advice.

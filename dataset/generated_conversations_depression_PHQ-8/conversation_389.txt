@@ -1,0 +1,37 @@
+Doctor: So, what brings you in today?
+
+Patient: I have been feeling really down lately. I don't know what's wrong with me.
+
+Doctor: Okay, let's start by discussing your symptoms. Have you been feeling sad or hopeless recently?
+
+Patient: Yes, I have been feeling sad for a few weeks now. It's like a cloud is hanging over me all the time.
+
+Doctor: How often have you been feeling this way? Is it every day or just some days?
+
+Patient: It's almost every day. I wake up feeling sad and it lasts throughout the day.
+
+Doctor: Have you experienced a loss of interest in things that you used to enjoy?
+
+Patient: Yes, I used to love playing video games and watching movies, but now I just can't seem to get into them anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: I've been eating less than usual, and I've lost a few pounds.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have been having trouble sleeping. I toss and turn all night and can't seem to get comfortable.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I feel exhausted all the time. It's hard to get out of bed in the morning.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I find it hard to focus on anything. My mind feels foggy all the time.
+
+Doctor: Finally, have you had any thoughts of harming yourself or suicide?
+
+Patient: (pauses) Yes, I have been having these thoughts lately. I don't know what to do.
+
+Doctor: Thank you for being honest with me. Based on your answers, it seems like you are experiencing symptoms of depression. I would like to refer you to a mental health specialist who can provide you with the support and treatment you need.

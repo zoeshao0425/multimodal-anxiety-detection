@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I’ve been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about how you’re feeling?
+
+Patient: Yeah, I just feel really sad all the time. I don’t enjoy things that I used to and I don’t have much energy. I’ve also been having trouble sleeping and I don’t have much of an appetite.
+
+Doctor: Have you noticed any changes in your weight or eating habits?
+
+Patient: Yeah, I’ve lost a few pounds because I just don’t feel like eating much.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I’ve been feeling pretty hopeless. It’s like nothing is worth doing because everything feels pointless.
+
+Doctor: Have you been having any trouble concentrating or making decisions?
+
+Patient: Yeah, I’ve been having trouble focusing on anything. Even simple decisions feel overwhelming.
+
+Doctor: Have you noticed any physical symptoms, like headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. However, I’d like to do a full assessment to make sure. 
+
+Patient: Okay, that makes sense. 
+
+(After conducting the PHQ-8 assessment)
+
+Doctor: Your score on the PHQ-8 is actually quite low, which means that you do not meet the criteria for depression. However, I still want to keep an eye on your symptoms and see if they improve over time. In the meantime, I’d recommend trying to get some exercise and spending time with friends or family to boost your mood. 
+
+Patient: That’s good to hear. Thank you for taking the time to assess me.

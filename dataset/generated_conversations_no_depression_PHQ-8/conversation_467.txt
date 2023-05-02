@@ -1,0 +1,35 @@
+Doctor: So, tell me what brings you in today.
+
+Patient: Well, I’ve been feeling really down lately. I just can’t seem to shake this feeling of sadness.
+
+Doctor: I see. Can you tell me more about how you’ve been feeling?
+
+Patient: Yeah, I just feel really hopeless and helpless. I don’t enjoy things like I used to, and I’ve lost interest in my hobbies. I’m also having trouble sleeping and eating.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yes, I feel tired all the time. Even getting out of bed in the morning is a struggle.
+
+Doctor: Okay. And have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven’t had any thoughts like that.
+
+Doctor: That’s good to hear. Can you tell me a little bit about your personal life? Do you have any stressors that might be contributing to your symptoms?
+
+Patient: Well, I recently went through a breakup, and that’s been really tough for me. But other than that, nothing major has been going on.
+
+Doctor: I see. And have you ever experienced these symptoms before?
+
+Patient: Not to this extent, no. I’ve had periods of feeling down before, but nothing like this.
+
+Doctor: Okay. Based on what you’ve told me, it sounds like you may be experiencing depression. I’d like to ask you a few more questions to get a better sense of how severe your symptoms are.
+
+Patient: Sure, go ahead.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things; Feeling down, depressed, or hopeless; Trouble falling or staying asleep, or sleeping too much; Feeling tired or having little energy; Poor appetite or overeating; Feeling bad about yourself - or that you are a failure or have let yourself or your family down; Trouble concentrating on things, such as reading the newspaper or watching television; Moving or speaking so slowly that other people could have noticed? 
+
+Patient: I’ve been bothered by all of those problems almost every day.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it does seem like you have symptoms of depression. However, I don’t think your symptoms are severe enough to warrant a diagnosis of major depression. It’s possible that you have mild to moderate depression, but I’d like to see you again in a few weeks to check in and see how you’re doing. In the meantime, I recommend that you try to get some exercise, eat healthy foods, and get plenty of rest. If your symptoms worsen or you start having thoughts of hurting yourself, please call me right away.
+
+Patient: Okay, thank you. That’s really helpful.

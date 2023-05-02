@@ -1,0 +1,69 @@
+Doctor: So, tell me a little bit about what's been going on. Have you been feeling down or depressed lately?
+
+Patient: Yeah, I've been feeling pretty low for a while now.
+
+Doctor: Can you tell me more about that? How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. I just feel really sad and hopeless most of the time.
+
+Doctor: Okay. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping and I've lost my appetite.
+
+Doctor: How about your energy levels? Have you been feeling more tired than usual?
+
+Patient: Yes, definitely. I feel exhausted all the time.
+
+Doctor: And have you been experiencing any physical symptoms like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay. Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Can you tell me a little bit about your personal life? Are you married? Do you have kids?
+
+Patient: I'm not married, but I do have a long-term partner. We don't have any kids.
+
+Doctor: And how has your depression been affecting your daily life? Are you still able to work or do things you enjoy?
+
+Patient: It's been really hard to get motivated to do anything. I've been missing work and I don't really enjoy doing anything anymore.
+
+Doctor: Okay. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'd like to ask you a few more questions to get a better sense of your symptoms.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things?
+
+Patient: Almost every day.
+
+Doctor: Feeling down, depressed, or hopeless?
+
+Patient: Almost every day.
+
+Doctor: Trouble falling or staying asleep, or sleeping too much?
+
+Patient: Almost every day.
+
+Doctor: Feeling tired or having little energy?
+
+Patient: Almost every day.
+
+Doctor: Poor appetite or overeating?
+
+Patient: Almost every day.
+
+Doctor: Feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Almost every day.
+
+Doctor: Trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Almost every day.
+
+Doctor: Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I've been moving slowly and feeling really lethargic.
+
+Doctor: Based on your responses, it doesn't seem like you have depression. However, if your symptoms persist or worsen, please don't hesitate to come back and see me. In the meantime, I suggest focusing on self-care and finding ways to boost your mood and energy levels.

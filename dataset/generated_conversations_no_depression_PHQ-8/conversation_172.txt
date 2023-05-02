@@ -1,0 +1,45 @@
+Doctor: Thank you for coming in today. I understand you're here to discuss some symptoms you've been experiencing?
+
+Patient: Yes, I've been feeling really down lately and it's been affecting my daily life.
+
+Doctor: I see. Can you tell me more about your symptoms? Have you been feeling sad or hopeless?
+
+Patient: Yes, I've been feeling really sad and hopeless. I just can't seem to shake this feeling no matter what I do.
+
+Doctor: How often have you been feeling this way? Is it most days or every day?
+
+Patient: It's been pretty much every day for the past few weeks.
+
+Doctor: Okay. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping and I've lost my appetite. I just don't feel like eating anything.
+
+Doctor: Have you experienced any loss of interest in things you used to enjoy doing?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like doing anything at all.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for letting me know. Can you tell me a little bit about your personal background? Have you experienced any significant life events recently?
+
+Patient: Well, I recently went through a breakup and it's been really hard for me to deal with. I also lost my job a few months ago, so that's been stressful.
+
+Doctor: I'm sorry to hear that. It sounds like you've been dealing with a lot of stressors lately. Based on your symptoms, it's possible that you may be experiencing depression. However, I would like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Okay, sure.
+
+Doctor: Have you noticed any changes in your energy levels or feelings of fatigue?
+
+Patient: Yeah, I've been feeling really tired lately. Even getting out of bed in the morning is a struggle.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having trouble focusing at work and making even simple decisions has been difficult.
+
+Doctor: Thank you for answering all of my questions. Based on your responses, it seems like you have been experiencing some symptoms of depression. However, I do not believe you meet the criteria for a diagnosis of major depressive disorder. 
+
+Patient: That's good to hear. What can I do to feel better?
+
+Doctor: There are several things you can do to help manage your symptoms. First, I recommend talking to a therapist or counselor who can help you work through some of the issues you're dealing with. Additionally, regular exercise, healthy eating habits, and getting enough sleep can all help improve your mood. Finally, if your symptoms persist or worsen, we can discuss medication options.

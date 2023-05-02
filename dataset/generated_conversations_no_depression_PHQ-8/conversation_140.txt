@@ -1,0 +1,31 @@
+Doctor: Thank you for coming in today. Can you tell me a bit about what brought you here?
+
+Patient: I've been feeling really down lately. I'm not sure what's wrong with me, but I just can't seem to shake this feeling.
+
+Doctor: I see. Can you tell me more about how you've been feeling?
+
+Patient: Well, I've been feeling really sad and hopeless. I don't enjoy things that I used to enjoy, and I have trouble sleeping at night. I also feel really tired all the time, even when I get enough sleep.
+
+Doctor: Okay, those are all symptoms of depression. Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite lately. I don't feel hungry, and I've lost some weight as a result.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I've noticed that I have trouble focusing on tasks at work. I've also been making mistakes that I wouldn't normally make.
+
+Doctor: And have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Can you tell me a bit about your personal background? Have you experienced any major life events recently?
+
+Patient: Well, I lost my job a few months ago, and I've been having trouble finding a new one. That's been really stressful for me. I've also been having some relationship problems with my partner.
+
+Doctor: I see. It sounds like you've been under a lot of stress lately, which could be contributing to your symptoms. However, based on your answers to the PHQ-8 assessment, I don't believe you meet the criteria for a diagnosis of depression. 
+
+Patient: Really? That's a relief.
+
+Doctor: Yes, it's possible that your symptoms are related to the stress you've been experiencing. I would recommend trying some relaxation techniques, such as meditation or deep breathing exercises, to help manage your stress. It might also be helpful to talk to a therapist about your feelings and experiences.
+
+Patient: Thank you, doctor. I'll definitely try those things.

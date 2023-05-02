@@ -1,0 +1,25 @@
+Doctor: So, let's start by talking about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks: little interest or pleasure in doing things, feeling down, depressed or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed? 
+
+Patient: No, I haven't been experiencing any of those symptoms.
+
+Doctor: That's good to hear. Can you tell me more about how you've been feeling lately?
+
+Patient: Well, I have been feeling a bit stressed out lately due to work and family responsibilities, but nothing too overwhelming. I've been able to manage it pretty well.
+
+Doctor: Okay, that's understandable. How has this stress been impacting your daily life? Have you noticed any changes in your sleep or appetite?
+
+Patient: I've been sleeping pretty well, but sometimes I do wake up feeling a bit tired. As for my appetite, it's been pretty normal. I haven't noticed any significant changes.
+
+Doctor: Have you been experiencing any physical symptoms such as headaches or body aches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: That's good to hear. Have you ever experienced depression in the past?
+
+Patient: No, I haven't.
+
+Doctor: Okay. Can you tell me a bit more about your personal background? Do you have a support system in place such as friends or family members you can talk to if you're feeling overwhelmed?
+
+Patient: Yes, I have a close group of friends and family members who are always there for me if I need them. I also try to take care of myself by exercising regularly and eating healthy.
+
+Doctor: That's great to hear. It sounds like you have a good support system in place and are taking care of yourself. Based on what you've told me, I don't think you're experiencing depression at this time. However, if you start experiencing any of the symptoms we discussed earlier, please don't hesitate to come back and see me. It's important to take care of your mental health just as much as your physical health.

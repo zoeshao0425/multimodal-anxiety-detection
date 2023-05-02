@@ -1,0 +1,35 @@
+Doctor: "How have you been feeling lately?"
+
+Patient: "Honestly, not great. I've been feeling really down and unmotivated."
+
+Doctor: "Can you tell me more about what you mean by feeling down?"
+
+Patient: "It's like I just don't have any energy or interest in anything anymore. I used to love going out with friends, but now I just want to stay in bed all day."
+
+Doctor: "Have you noticed any changes in your appetite or sleep patterns?"
+
+Patient: "Yeah, I've been sleeping a lot more than usual and haven't had much of an appetite. I've lost some weight because of it."
+
+Doctor: "Have you experienced any feelings of hopelessness or worthlessness?"
+
+Patient: "Definitely. I feel like nothing I do matters and that I'm just a burden on everyone around me."
+
+Doctor: "Have you had any thoughts of self-harm or suicide?"
+
+Patient: "No, I haven't had any thoughts like that."
+
+Doctor: "Have you experienced any physical symptoms like headaches or stomachaches?"
+
+Patient: "No, it's mostly just been the lack of energy and motivation."
+
+Doctor: "Have you experienced any major life events recently that may have contributed to these feelings?"
+
+Patient: "Not really. Things have been pretty stable in my life."
+
+Doctor: "Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to administer the PHQ-8 assessment to get a better understanding of your symptoms."
+
+(Patient completes PHQ-8 assessment)
+
+Doctor: "Based on your responses to the PHQ-8, it appears that you do not meet the criteria for a diagnosis of depression. However, your symptoms are still concerning, and I would like to continue monitoring your mood over the next few weeks. In the meantime, there are some lifestyle changes you can make that may help improve your mood, such as regular exercise and a healthy diet. I also recommend scheduling a follow-up appointment with me in a few weeks to check in on how you're feeling." 
+
+Patient: "Thank you, doctor. I appreciate your help and advice."

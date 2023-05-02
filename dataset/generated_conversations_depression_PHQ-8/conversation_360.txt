@@ -1,0 +1,51 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down lately. I just don’t feel like myself.
+
+Doctor: Okay, can you tell me a little bit more about that? How long have you been feeling this way?
+
+Patient: It’s been going on for a few weeks now. I just feel really sad and hopeless all the time.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I’ve been having trouble sleeping at night and I haven’t had much of an appetite.
+
+Doctor: Have you lost or gained any weight recently?
+
+Patient: I’ve lost a few pounds.
+
+Doctor: Okay, have you noticed any changes in your energy level or motivation?
+
+Patient: Yeah, I’ve been feeling really tired and I don’t have much motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I’ve been feeling like I’m not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: Sometimes I feel like it would be easier if I wasn’t here anymore, but I don’t think I would actually do anything.
+
+Doctor: Thank you for being honest with me. Based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. I’d like to ask you a few more questions to get a better understanding of your condition.
+
+Patient: Okay.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time.
+
+Doctor: Do you have a family history of depression?
+
+Patient: Yes, my mom has struggled with depression for years.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: My dog passed away a few weeks ago and that’s when I started feeling really down.
+
+Doctor: That’s understandable. Losing a pet can be very difficult. Are you currently taking any medications or using any substances?
+
+Patient: No, I’m not taking anything.
+
+Doctor: Okay, thank you for answering my questions. Based on your symptoms and history, I’m going to diagnose you with depression. It’s important that we address this as soon as possible so that you can start feeling better. There are several treatment options available, including therapy and medication. Would you be open to exploring these options?
+
+Patient: Yes, I’m willing to try anything to feel better.

@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and hopeless. It's been hard to get out of bed in the morning and I don't have much interest in doing things that I used to enjoy.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well and I've lost my appetite. I've also been feeling really tired all the time.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Yeah, I've had bouts of depression in the past.
+
+Doctor: Are there any specific triggers that you think might be causing your depression?
+
+Patient: Not really, it just seems to come on without warning.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I've been having a hard time focusing and making even simple decisions has been difficult.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Based on your answers, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that not everyone who experiences these symptoms has depression. 
+
+Patient: Oh, okay. 
+
+Doctor: I would like to run some tests to rule out any other medical conditions that could be causing your symptoms. In the meantime, I recommend practicing self-care, such as getting enough sleep, eating nutritious foods, and engaging in activities that bring you joy. 
+
+Patient: Thank you, doctor.

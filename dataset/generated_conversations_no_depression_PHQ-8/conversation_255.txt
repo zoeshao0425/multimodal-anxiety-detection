@@ -1,0 +1,33 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Yeah, I've been feeling really down and sad. It's been hard to get out of bed in the morning, and I don't have much energy to do anything.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and I've been losing weight. I just don't feel like eating much anymore.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep, or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling more tired than usual?
+
+Patient: Yeah, I'm always tired. Even when I do manage to get some sleep, I still feel exhausted.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I feel like nothing I do matters and that I'm not good enough. It's like I'm stuck in this cycle of negative thoughts.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus on anything. I feel like my mind is always foggy and I can't think clearly.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, it's important to note that there are other conditions that can cause similar symptoms. I'd like to run some tests and do a physical exam to rule out any other potential causes.
+
+Patient: Okay, that sounds good.
+
+Doctor: After conducting some tests and examining you, I don't believe you have depression. Your symptoms may be caused by stress or another condition. I recommend that you focus on self-care, such as getting enough sleep, eating a healthy diet, and engaging in activities that bring you joy. If your symptoms persist, please come back and see me.

@@ -1,0 +1,39 @@
+Doctor: Thank you for coming in today. I understand that you've been experiencing symptoms of depression. Can you tell me a bit more about what you've been feeling?
+
+Patient: Yes, I've been feeling really down lately. I don't have any energy and I don't feel like doing anything. I've been having trouble sleeping and I've lost my appetite.
+
+Doctor: I see. Have you noticed any changes in your mood or feelings of sadness?
+
+Patient: Yeah, I've been feeling really sad and hopeless. I don't see the point in doing anything anymore.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, not really. I just feel really overwhelmed and like I can't handle anything right now.
+
+Doctor: Okay, thank you for letting me know. Have you experienced any changes in your concentration or ability to focus?
+
+Patient: Yeah, I've noticed that I have a hard time staying focused on anything. I feel like my mind is always wandering.
+
+Doctor: I understand. Have you been experiencing any physical symptoms, such as headaches or body aches?
+
+Patient: No, not really. Just the lack of energy and appetite.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any of these symptoms for more than two weeks?
+
+Patient: Yes, it's been going on for a few months now.
+
+Doctor: I see. Have you experienced any major life changes or stressful events recently?
+
+Patient: Well, I lost my job a few months ago and I've been having trouble finding a new one. It's been really stressful.
+
+Doctor: I'm sorry to hear that. Have you talked to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden anyone with my problems.
+
+Doctor: That's understandable, but it's important to reach out for support when you're struggling. Have you considered talking to a therapist or counselor?
+
+Patient: Yeah, I've thought about it but I don't know if it's right for me.
+
+Doctor: It might be worth considering. Therapy can be really helpful for managing symptoms of depression and finding ways to cope with stress. Based on what you've told me, I'm going to diagnose you with mild depression. However, it's important to note that depression is a treatable condition and there are many resources available to help you feel better.
+
+Patient: Thank you, doctor. I appreciate your help.

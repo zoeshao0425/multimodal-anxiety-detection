@@ -1,0 +1,35 @@
+Doctor: So, tell me a bit about how you have been feeling lately?
+
+Patient: Well, I've been feeling pretty down. I don't feel like doing much of anything, and I'm having trouble sleeping.
+
+Doctor: Okay, can you tell me more about the trouble sleeping? Are you having trouble falling asleep or staying asleep?
+
+Patient: It's mostly trouble staying asleep. I wake up in the middle of the night and then can't fall back asleep.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yeah, I've been eating less than usual and have lost some weight.
+
+Doctor: How about your energy level? Have you been feeling more tired than usual?
+
+Patient: Yes, definitely. I feel tired all the time, even after getting a full night's sleep.
+
+Doctor: Have you had any thoughts of hurting yourself or suicidal thoughts?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, have you noticed any difficulty concentrating or making decisions?
+
+Patient: Yeah, I've been having trouble focusing at work and making even small decisions seems really difficult.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like I'm not good enough and I'm constantly second-guessing myself.
+
+Doctor: Thank you for sharing all of that with me. Based on your answers, it sounds like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can also be indicative of other medical conditions, so we'll need to do some further testing to rule those out.
+
+Patient: Okay, that makes sense.
+
+Doctor: In the meantime, I would recommend trying to get regular exercise, eating a healthy diet, and getting enough sleep. Also, consider talking to a therapist to help you work through some of these feelings.
+
+Patient: Thank you, doctor. I will definitely try those things.

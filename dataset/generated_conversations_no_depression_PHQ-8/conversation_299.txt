@@ -1,0 +1,33 @@
+Doctor: So, I understand that you’ve been feeling down lately. Can you tell me more about what’s been going on?
+
+Patient: Yeah, I’ve been feeling really sad and hopeless. It’s been going on for a few weeks now.
+
+Doctor: Have you been feeling less interested in things you used to enjoy?
+
+Patient: Yeah, definitely. I used to love playing basketball with my friends, but now I just don’t have the energy for it.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I’ve been sleeping a lot more than usual. I’ll sleep for like 10 hours and still feel exhausted.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, I’ve been eating a lot less. Food just doesn’t seem appealing to me anymore.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I’ve been feeling really worthless. Like I’m not good enough for anything.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yeah, I’ve been struggling with that a lot. It’s hard to focus on anything and I second-guess myself all the time.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven’t had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. However, it’s important to note that depression is a medical condition that can be treated. Would you like to explore treatment options?
+
+Patient: Actually, I think I might just be going through a tough time right now. I recently lost my job and my girlfriend broke up with me, so I’ve been feeling pretty down. But I appreciate you taking the time to talk to me about it.
+
+Doctor: Of course, I understand. It’s important to take care of yourself during tough times. If you ever need to talk or if things get worse, please don’t hesitate to reach out.

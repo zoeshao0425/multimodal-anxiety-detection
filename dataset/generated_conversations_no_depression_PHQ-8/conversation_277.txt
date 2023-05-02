@@ -1,0 +1,29 @@
+Doctor: I understand that you are here to discuss your mood and feelings. Can you tell me more about what's been going on?
+
+Patient: Yes, I've been feeling really down lately. It's been hard to get out of bed and do anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been a few weeks now. I just can't seem to shake this feeling of sadness.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't had much of an appetite lately, and I've been sleeping a lot more than usual.
+
+Doctor: Have you experienced any loss of interest in things you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and doing things, but now I just don't feel like it.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomach problems?
+
+Patient: No, not really. It's mostly just the emotional stuff.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. However, I want to rule out any other medical conditions that could be causing your symptoms. We'll run some tests and go from there.
+
+Patient: Okay, that makes sense. Thank you for taking the time to talk to me.
+
+Doctor: Of course, we'll get to the bottom of this together. In the meantime, try to take care of yourself and reach out to loved ones for support.

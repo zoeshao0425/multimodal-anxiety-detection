@@ -1,0 +1,50 @@
+Doctor: So, tell me about how you've been feeling lately.
+
+Patient: Well, I've been feeling really down and sad. I don't have any energy, and I've lost interest in things that used to make me happy.
+
+Doctor: Okay, can you tell me more about these feelings of sadness? How often do you feel this way?
+
+Patient: It's pretty much every day. I wake up feeling hopeless and like there's no point in doing anything.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual. And I don't really have much of an appetite anymore.
+
+Doctor: I see. Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I feel like I'm not good enough and that I'm a burden on everyone around me.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, not really. I just feel really hopeless and like things will never get better.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a bit about your personal life? Are you going through any significant life changes or stressors?
+
+Patient: Well, I recently lost my job, and I've been having some relationship issues with my partner.
+
+Doctor: I'm sorry to hear that. Losing a job and experiencing relationship problems can be really tough to deal with. Have you talked to anyone about these issues?
+
+Patient: Not really. I've been keeping everything to myself because I don't want to burden anyone.
+
+Doctor: I understand how you feel, but it's important to reach out for support when you're going through a tough time. Have you considered talking to a therapist or counselor?
+
+Patient: I haven't really thought about it, but maybe it could help.
+
+Doctor: I think it would be a good idea to explore that option. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'd like to do a quick assessment to get a better understanding of your condition.
+
+Patient: Okay.
+
+Doctor: I'm going to ask you eight questions about how you've been feeling over the past two weeks. Please answer each question based on how often you've experienced each symptom.
+
+1. Little interest or pleasure in doing things - Patient: Almost every day.
+2. Feeling down, depressed, or hopeless - Patient: Almost every day.
+3. Trouble falling or staying asleep, or sleeping too much - Patient: Almost every day.
+4. Feeling tired or having little energy - Patient: Almost every day.
+5. Poor appetite or overeating - Patient: Almost every day.
+6. Feeling bad about yourself - or that you are a failure or have let yourself or your family down - Patient: Almost every day.
+7. Trouble concentrating on things, such as reading the newspaper or watching television - Patient: Almost every day.
+8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual - Patient: Almost every day.
+
+Doctor: Based on your responses, it appears that you are experiencing symptoms of depression. However, I would like to clarify that you do not meet the diagnostic criteria for major depressive disorder. I think it would be beneficial for you to seek therapy to help you cope with the stressors in your life and improve your mood. Additionally, I recommend that you engage in self-care activities such as exercise, healthy eating, and spending time with loved ones. 
+
+Patient: Thank you for your help, doctor. I'll take your advice and seek therapy.

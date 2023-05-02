@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately? Have you been experiencing any symptoms of depression?
+
+Patient: Yes, I have been feeling really down lately. I have no motivation to do anything and I feel like I'm just going through the motions every day. 
+
+Doctor: Can you describe your mood over the past two weeks? Have you felt sad or hopeless most days?
+
+Patient: Yes, I have felt sad almost every day. I don't see any hope for the future and I feel like nothing will ever get better.
+
+Doctor: Have you experienced a loss of interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with my friends and doing things, but now I just want to stay in bed all day. I don't see the point in doing anything anymore.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been eating a lot less than usual and I've been having trouble sleeping. I wake up frequently during the night and have trouble falling back asleep.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like everything is my fault and I'm not good enough. I can't seem to shake these negative thoughts.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself, but I just feel like giving up sometimes.
+
+Doctor: Have you experienced any physical symptoms such as fatigue or aches and pains?
+
+Patient: Yes, I've been feeling really tired all the time and I have no energy to do anything. My body also feels really achy and sore.
+
+Doctor: Based on your symptoms and experiences, it sounds like you may be experiencing some symptoms of depression. However, after our conversation and reviewing the PHQ-8 assessment, I do not believe you meet the criteria for a diagnosis of depression. I would recommend that you continue to monitor your symptoms and seek help if they persist or worsen. It's important to take care of yourself and reach out for support when you need it.

@@ -1,0 +1,33 @@
+Doctor: So, tell me a little bit about what’s been going on lately. Have you been feeling down or depressed?
+
+Patient: Yeah, I’ve been feeling pretty low for a while now. It’s been hard to get out of bed in the morning, and I’m just not enjoying things like I used to.
+
+Doctor: Okay, can you tell me more about those feelings? How often do they happen, and how long do they usually last?
+
+Patient: It’s been happening almost every day for the past few weeks. I feel like I’m in a fog and can’t really focus on anything. And it’s been going on for at least a few hours each day.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I’ve been eating less than usual and having trouble falling asleep at night. I’m also waking up earlier than I used to.
+
+Doctor: And have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, that’s good to hear. Can you tell me a little bit about your personal life? Are you going through any major changes or stressors right now?
+
+Patient: Well, my job has been pretty stressful lately, and I’ve been having some problems with my partner. We’ve been arguing a lot, and it’s been really hard on me.
+
+Doctor: That sounds tough. Have you talked to anyone about these issues, like a therapist or counselor?
+
+Patient: No, I haven’t really thought about it. I just figured it was something I could handle on my own.
+
+Doctor: I understand, but sometimes it can be helpful to talk to someone who is trained to help with these kinds of problems. Based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. I’m going to give you a questionnaire called the PHQ-8 to help me better understand your symptoms.
+
+Patient: Okay, sounds good.
+
+Doctor: (After giving the questionnaire) Based on your responses, it looks like you do not meet the criteria for a diagnosis of depression. However, I would still recommend that you talk to a therapist or counselor about what you’re going through. They can help you develop coping strategies and provide support as you work through these issues.
+
+Patient: That makes sense. Thank you for your help.
+
+Doctor: Of course. And if you ever have any other concerns or questions, don’t hesitate to reach out.

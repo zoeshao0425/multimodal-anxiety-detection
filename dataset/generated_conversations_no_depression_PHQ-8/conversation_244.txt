@@ -1,0 +1,33 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling pretty down for a while now. It's been hard to get out of bed in the mornings and I've lost interest in things that I used to enjoy.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well and I've lost my appetite. I've also been feeling really tired all the time.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel like I have no energy at all. It's hard to get through the day sometimes.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling pretty hopeless lately. It feels like there's no point in doing anything.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'd like to do a full assessment to make sure. 
+
+After conducting the full assessment, the doctor concludes:
+
+Doctor: Based on your responses, it doesn't seem like you're experiencing depression at this time. However, if your symptoms persist or worsen, please don't hesitate to reach out to me or another healthcare provider. It's important to take care of your mental health just as much as your physical health.

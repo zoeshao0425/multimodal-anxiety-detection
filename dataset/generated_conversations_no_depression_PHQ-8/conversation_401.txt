@@ -1,0 +1,29 @@
+Doctor: So, first of all, I would like to ask you about your mood. How often do you feel down, depressed, or hopeless?
+
+Patient: Well, I have been feeling very low for the past few weeks. It's like a cloud of sadness that never leaves me alone.
+
+Doctor: Okay, and how often do you feel little interest or pleasure in doing things?
+
+Patient: Almost every day. I used to enjoy going out with friends, but now I just don't feel like doing anything.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite, and I have lost some weight too.
+
+Doctor: Do you have trouble sleeping or do you sleep too much?
+
+Patient: I have trouble sleeping. I can't fall asleep easily, and I wake up several times during the night.
+
+Doctor: Do you feel tired or have low energy?
+
+Patient: Yes, I feel tired all the time, even when I haven't done anything.
+
+Doctor: Have you noticed any changes in your ability to concentrate, such as difficulty focusing on things?
+
+Patient: Yes, I find it hard to focus on anything. My mind feels foggy, and I can't seem to remember things.
+
+Doctor: Have you had any thoughts of hurting yourself or thoughts of suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or suicide.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you are not experiencing depression. However, I would still like to discuss some coping strategies that may help with your low mood.

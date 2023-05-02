@@ -1,0 +1,43 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I'm not sure what's going on.
+
+Doctor: Can you tell me a bit more about how you're feeling?
+
+Patient: Well, I just feel really sad all the time. I don't enjoy things that I used to enjoy, and I'm having trouble sleeping.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or energy levels?
+
+Patient: Yeah, I've been eating less and feeling really tired all the time.
+
+Doctor: Do you ever have thoughts of harming yourself or others?
+
+Patient: No, not really.
+
+Doctor: Okay. Have you experienced any significant life events recently, like the loss of a loved one or a job?
+
+Patient: No, nothing like that.
+
+Doctor: Okay. Have you ever experienced these symptoms before?
+
+Patient: Yeah, I've had episodes of depression in the past.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing depression. I'd like to ask you a few more questions to better understand your condition.
+
+Patient: Sure, go ahead.
+
+Doctor: Over the last two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, or that you are a failure or have let yourself or your family down, trouble concentrating on things, such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed, or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I've been experiencing all of those symptoms almost every day for the past two weeks.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you're experiencing moderate to severe depression. I'd like to recommend some treatment options that can help you feel better. Have you considered therapy or medication in the past?
+
+Patient: I've tried therapy before, but it didn't really help me. I've never tried medication, though.
+
+Doctor: Okay, well I think a combination of therapy and medication could be really beneficial for you. I'd like to refer you to a therapist who specializes in treating depression, and I can also prescribe an antidepressant medication that can help alleviate your symptoms. We'll work together to find the right treatment plan for you.
+
+Patient: Thank you, doctor. I really appreciate your help.

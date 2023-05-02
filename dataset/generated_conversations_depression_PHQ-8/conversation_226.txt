@@ -1,0 +1,37 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling pretty down. I don't really enjoy things that I used to enjoy, and I feel really tired all the time.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping at night and I haven't been eating as much as usual.
+
+Doctor: Have you noticed any changes in your energy levels? Do you feel more fatigued than usual?
+
+Patient: Definitely. I feel like I have no energy at all these days.
+
+Doctor: Have you had any thoughts of hurting yourself or suicidal ideation?
+
+Patient: No, not really. I just feel really down and unmotivated.
+
+Doctor: Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like nothing I do really matters.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yeah, it's been hard to focus on anything lately. I feel like my mind is always wandering.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: Not really, just the fatigue and lack of appetite.
+
+Doctor: Based on your responses, it sounds like you may be experiencing symptoms of depression. I'd like to recommend some treatment options for you.
+
+Patient: That sounds good. I just want to feel better.
+
+Doctor: I'm going to prescribe you some medication to help manage your symptoms, and I'd also like to refer you to a therapist who can help you work through some of the underlying issues that may be contributing to your depression. It's important to remember that depression is a treatable condition, and with the right support, you can start to feel better soon.

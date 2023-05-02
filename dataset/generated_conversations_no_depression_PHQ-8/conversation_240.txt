@@ -1,0 +1,37 @@
+Doctor: So, tell me a little bit about how you've been feeling lately.
+
+Patient: Well, I've just been feeling really down. Like, I don't enjoy things that I used to enjoy, and I feel like I have no energy.
+
+Doctor: Okay, those are definitely symptoms of depression. Have you been experiencing any other symptoms, like trouble sleeping or changes in appetite?
+
+Patient: Yeah, actually. I've been having trouble sleeping at night, and I haven't really been eating much.
+
+Doctor: Okay, and have you noticed any changes in your mood? Do you feel sad or hopeless most of the time?
+
+Patient: Yeah, I feel pretty hopeless a lot of the time. Like things will never get better.
+
+Doctor: Okay, and have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, not really. I mean, I've thought about how much easier it would be if I just didn't exist, but I wouldn't actually hurt myself.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any of these symptoms for more than two weeks?
+
+Patient: Yeah, it's been going on for a few months now.
+
+Doctor: Okay, and has this been impacting your daily life? Are you having trouble functioning at work or with your relationships?
+
+Patient: Yeah, it's been really hard. I've been struggling to get out of bed in the morning, and I've been calling in sick to work a lot.
+
+Doctor: Okay, I understand. Can you tell me a little bit about your personal background? Have you experienced any trauma or major life changes recently?
+
+Patient: Well, my mom passed away last year, and that's been really hard for me. And I've been going through a rough patch with my partner too.
+
+Doctor: I'm sorry to hear that. It sounds like you've been dealing with a lot. Based on what you've told me, I'm going to diagnose you with mild depression. However, I don't think you meet the criteria for major depression.
+
+Patient: Okay, that makes sense.
+
+Doctor: I'm going to recommend that you start seeing a therapist to work through some of these feelings and develop coping strategies. And I can also prescribe medication if you're interested.
+
+Patient: Yeah, I think therapy would be really helpful. And I'm open to trying medication too.
+
+Doctor: Great, I'll get you a referral for a therapist and we can discuss medication options at your next appointment.

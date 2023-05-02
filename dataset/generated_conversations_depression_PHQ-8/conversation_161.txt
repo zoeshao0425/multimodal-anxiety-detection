@@ -1,0 +1,49 @@
+Doctor: I'd like to ask you a few questions about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Sure, go ahead.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really down lately. I don't know why, but I just feel sad all the time.
+
+Doctor: Have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yeah, I used to love playing basketball and hanging out with my friends, but now I just don't feel like it anymore.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I lie awake at night thinking about everything and can't seem to turn my brain off.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yes, I've been feeling really tired lately. Even after a good night's sleep, I still feel exhausted.
+
+Doctor: Have you been having trouble with your appetite or eating too much?
+
+Patient: I've been eating a lot less than usual. I just don't feel hungry most of the time.
+
+Doctor: Have you been feeling bad about yourself or feeling like a failure?
+
+Patient: Yeah, I've been feeling really down on myself. I feel like I'm not good enough and that I'm failing at everything.
+
+Doctor: Have you been having trouble concentrating on things, such as reading or watching TV?
+
+Patient: Yes, I've been having a hard time focusing on anything. My mind just wanders and I can't seem to stay on task.
+
+Doctor: Have you had thoughts of hurting yourself or thoughts of suicide?
+
+Patient: (pauses) Yes, I have had thoughts of hurting myself. I don't know what to do about it.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you may be experiencing depression. I'd like to talk to you more about your symptoms and how they're impacting your daily life. Can you tell me a little more about what's been going on?
+
+Patient: Well, I've just been feeling really down lately. I don't feel like doing anything, and I'm not interested in things that used to make me happy. I'm having trouble sleeping and I feel tired all the time. I'm also having a hard time concentrating on things, and I just feel like I'm failing at everything.
+
+Doctor: I'm sorry to hear that. Have there been any major changes or stressors in your life recently that might be contributing to these feelings?
+
+Patient: Not really. Things have been pretty normal, but I just can't seem to shake this feeling of sadness.
+
+Doctor: That's understandable. Depression can be caused by a variety of factors, including genetics, brain chemistry, and life events. It's important to get a better understanding of what's going on so we can develop a treatment plan that works for you. Would you be open to trying therapy or medication to help manage your symptoms?
+
+Patient: Yes, I'm willing to try anything that might help.
+
+Doctor: Great. We'll work together to come up with a treatment plan that's tailored to your specific needs. In the meantime, please know that you're not alone and that there is help available.

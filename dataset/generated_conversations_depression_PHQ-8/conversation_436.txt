@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not good, doctor. I've been feeling really down.
+
+Doctor: Can you describe your symptoms for me?
+
+Patient: Well, I've been feeling sad and hopeless a lot of the time. I don't enjoy things that used to make me happy, and I feel like I have no energy.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been eating less than usual and having trouble sleeping. I wake up early in the morning and can't get back to sleep.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you experienced any major life events or stressors recently?
+
+Patient: Well, my grandmother passed away a few months ago, and I've been having trouble coping with it. I also lost my job around the same time.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: Yes, I was diagnosed with depression a few years ago and was on medication for a while.
+
+Doctor: Have you been taking any medication or receiving any therapy since your symptoms started?
+
+Patient: No, I haven't done anything about it yet.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression again. I would like to diagnose you with depression and recommend that you start treatment, which may include medication and therapy. Would you be open to that?
+
+Patient: Yes, I'm willing to try anything to feel better.

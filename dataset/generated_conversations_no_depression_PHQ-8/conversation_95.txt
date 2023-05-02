@@ -1,0 +1,49 @@
+Doctor: So, I understand you're here to discuss your mental health. Can you tell me a bit about what's been going on?
+
+Patient: Yeah, I've been feeling pretty down lately. Like, just really sad and unmotivated.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I'd say it's been going on for a few months now.
+
+Doctor: Okay, and have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been having trouble sleeping lately. And I don't really feel like eating much either.
+
+Doctor: Have you experienced any feelings of worthlessness or hopelessness?
+
+Patient: Yeah, definitely. I just feel like nothing I do really matters.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Have you had any other symptoms, like difficulty concentrating or loss of interest in things you used to enjoy?
+
+Patient: Yeah, I've definitely been having trouble focusing lately. And I don't really feel like doing anything I used to enjoy.
+
+Doctor: Okay. Can you tell me a bit about what's been going on in your life recently? Any major stressors or changes?
+
+Patient: Well, I lost my job a few months ago, so that's been pretty stressful. And I've been having some relationship issues with my partner.
+
+Doctor: I see. Those are definitely tough things to deal with. Have you talked to anyone about how you're feeling?
+
+Patient: Not really. I haven't wanted to burden anyone with my problems.
+
+Doctor: I understand. But it's important to reach out for help when you need it. Have you ever considered therapy or counseling?
+
+Patient: Yeah, I've thought about it. But I don't really know where to start.
+
+Doctor: I can give you some resources for therapists in the area if you'd like. And in the meantime, I can prescribe you some medication to help manage your symptoms.
+
+Patient: That sounds good. Thank you.
+
+Doctor: Of course. And just to be sure, I'm going to administer a PHQ-8 assessment to see if you meet the diagnostic criteria for depression.
+
+(Administers assessment)
+
+Doctor: Based on your responses, it looks like you're not currently experiencing depression. However, your symptoms are still cause for concern, and I recommend seeking therapy or counseling to help manage them.
+
+Patient: Okay, thank you. I really appreciate your help.
+
+Doctor: Of course. Take care of yourself, and don't hesitate to reach out if you need anything else.

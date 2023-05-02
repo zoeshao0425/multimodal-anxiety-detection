@@ -1,0 +1,45 @@
+Doctor: So, tell me a bit about what's been going on. Have you been feeling down or depressed lately?
+
+Patient: Yeah, I've been feeling pretty down for a while now. It's been hard to get out of bed in the morning and I don't feel like doing much of anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less than usual and I've lost some weight.
+
+Doctor: Have you had any trouble sleeping?
+
+Patient: Yeah, I've been having trouble falling asleep and staying asleep.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I feel exhausted all the time even though I'm not doing much.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling pretty hopeless lately. Like nothing will ever get better.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression. However, I would like to do a more thorough assessment to make sure. 
+
+Patient: Okay, that sounds good.
+
+Doctor: Alright, I'm going to ask you a few more questions. Have you experienced any significant life events recently, such as the loss of a loved one or a job?
+
+Patient: No, nothing like that has happened recently.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, I haven't.
+
+Doctor: Do you have a history of mental illness in your family?
+
+Patient: Yes, my mother has struggled with depression in the past.
+
+Doctor: Okay, thank you for sharing that. Based on your answers, it doesn't seem like you have depression at this time. However, if your symptoms persist or worsen, please don't hesitate to come back and see me. In the meantime, I recommend getting regular exercise, eating a balanced diet, and getting enough sleep. It's also important to talk to someone you trust about how you're feeling.

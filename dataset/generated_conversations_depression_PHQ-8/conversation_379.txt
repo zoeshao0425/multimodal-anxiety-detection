@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and sad most of the time.
+
+Doctor: Can you tell me more about that? How often do you feel this way?
+
+Patient: It's pretty much every day. I wake up feeling really low, and it doesn't really go away throughout the day.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been having trouble sleeping at night. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And my appetite has been all over the place. Sometimes I don't feel like eating at all, and other times I just eat junk food all day.
+
+Doctor: Do you have any trouble concentrating or making decisions?
+
+Patient: Yeah, definitely. I find it really hard to focus on anything for very long, and I've been making a lot of mistakes at work because of it.
+
+Doctor: Have you lost interest in things you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing fun things, but now I just don't feel like it. I don't even feel like watching TV or reading anymore.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling like nothing really matters and that I'm just a burden on everyone around me.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: (pauses) Yeah, I have. I don't know what to do about it.
+
+Doctor: Thank you for being honest with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to refer you to a mental health professional who can help you further. In the meantime, please know that you are not alone and there is help available.

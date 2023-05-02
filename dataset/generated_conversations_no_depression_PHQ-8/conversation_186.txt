@@ -1,0 +1,35 @@
+Doctor: So, tell me, how have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you describe that feeling a bit more? Are you feeling sad or empty most of the time?
+
+Patient: Yeah, I feel really sad a lot of the time. It's like this heavy weight on my chest that won't go away.
+
+Doctor: I see. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been eating much lately and I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Okay. And have you lost interest in activities you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't have the energy or motivation for it.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and I'm not good enough.
+
+Doctor: And have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: That's good to hear. Can you tell me a bit about your personal background? Have you experienced any traumatic events or significant stressors recently?
+
+Patient: Well, I did lose my job a few months ago, and that's been really stressful. I've also been having some relationship issues with my partner.
+
+Doctor: I see. Those are definitely tough situations to deal with. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to run some tests to confirm. 
+
+Patient: Okay, that makes sense. 
+
+Doctor: After conducting the PHQ-8 assessment, I can confidently say that you do not have depression. However, I do recommend that you speak with a therapist or counselor to help you cope with the stressors in your life and improve your mental health. 
+
+Patient: Thank you, doctor. I appreciate your help and recommendation.

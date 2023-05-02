@@ -1,0 +1,37 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed or hopeless?
+
+Patient: Well, I would say pretty much every day. It's been hard to shake off this feeling of sadness.
+
+Doctor: Okay, and have you experienced a loss of interest or pleasure in activities that you normally enjoy?
+
+Patient: Yes, I used to love going out with friends and doing things, but now I just don't feel like it. I don't find joy in anything anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yeah, I've been eating a lot less than usual. I just don't feel hungry most of the time.
+
+Doctor: And have you had trouble sleeping or been sleeping too much?
+
+Patient: Sleeping has been really difficult for me lately. I wake up in the middle of the night and can't fall back asleep. It's been affecting my energy levels during the day.
+
+Doctor: Have you felt tired or had a lack of energy lately?
+
+Patient: Definitely. I just feel drained all the time, even when I haven't done anything physically demanding.
+
+Doctor: Have you noticed any feelings of worthlessness or excessive guilt?
+
+Patient: Yeah, I've been feeling like everything is my fault and that I'm not good enough. It's been really hard to shake off those thoughts.
+
+Doctor: Have you had difficulty concentrating or making decisions recently?
+
+Patient: Yes, I've been finding it hard to focus on anything. My mind just feels foggy most of the time.
+
+Doctor: And finally, have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Thank you for answering all those questions. Based on your answers, it seems like you are experiencing some symptoms of depression. However, it's important to note that a diagnosis can only be made after a full evaluation. Let's discuss your personal background and any other factors that could be contributing to your symptoms.
+
+Patient: Well, I recently went through a breakup and that's been really hard for me. I've also been under a lot of stress at work, which hasn't helped.
+
+Doctor: Okay, those are definitely factors that could contribute to depression symptoms. It's important to address those issues as well as the depression itself. However, based on our conversation today, it does not seem like you are at risk for self-harm or suicide. I would recommend seeking therapy or counseling to help manage your symptoms and work through any underlying issues.

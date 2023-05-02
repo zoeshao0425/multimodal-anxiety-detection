@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really down lately. There are days when I don't even want to get out of bed.
+
+Doctor: Have you lost interest in activities that you used to enjoy? Do you find yourself withdrawing from social situations?
+
+Patient: Yes, I used to love going out with friends and doing things, but now I just don't have the energy for it. I feel like I'm not interested in anything anymore.
+
+Doctor: Have you experienced any changes in appetite or weight?
+
+Patient: I've noticed that I'm not really hungry anymore. I used to love food, but now I just don't feel like eating. I've also lost some weight recently.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I'll lay in bed for hours and just can't seem to fall asleep. Then I end up sleeping in late and feeling even worse.
+
+Doctor: Have you felt tired or fatigued?
+
+Patient: Yes, I feel exhausted all the time. Even getting dressed in the morning feels like a huge effort.
+
+Doctor: Have you had any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like everything is my fault and that I'm not good enough. I keep thinking about all the mistakes I've made and how I could have done things differently.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: (pauses) Sometimes I feel like it would be easier if I wasn't around anymore. But I don't think I would ever actually do anything.
+
+Doctor: Thank you for being honest with me. Based on your answers, it seems like you are experiencing symptoms of depression. We can work together to come up with a treatment plan that will help you feel better.

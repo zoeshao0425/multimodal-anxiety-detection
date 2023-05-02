@@ -1,0 +1,37 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down and hopeless. I feel like nothing I do is good enough, and I can't seem to shake this feeling.
+
+Doctor: Have you lost interest in doing things you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and hiking, but now I don't have the energy or motivation to do those things anymore.
+
+Doctor: Have you experienced changes in your appetite or weight?
+
+Patient: My appetite has decreased, and I've lost a few pounds recently.
+
+Doctor: Do you have trouble falling asleep or staying asleep?
+
+Patient: Yes, I have trouble falling asleep, and when I do sleep, I wake up frequently throughout the night.
+
+Doctor: Do you feel tired or have low energy throughout the day?
+
+Patient: Yes, I feel exhausted all the time, even after a full night's sleep.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Yes, I have trouble focusing on tasks and making decisions. It's like my mind is foggy.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of self-harm or suicide.
+
+Doctor: Based on your responses, it seems like you may be experiencing some symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors such as stress or a medical condition. Let's discuss your personal background and any additional information that may be relevant to your current situation.
+
+Patient: I've been dealing with a lot of stress at work lately, and I recently went through a breakup. I also have a family history of depression.
+
+Doctor: Thank you for sharing that information. Given your current symptoms and personal background, it's possible that your depression-like symptoms are related to your recent breakup and work stress. However, based on our conversation and the PHQ-8 assessment, I do not believe that you meet the criteria for a diagnosis of depression at this time. 
+
+Patient: That's a relief to hear. What can I do to manage these symptoms and feel better?
+
+Doctor: There are many things you can do to manage stress and improve your mood, such as exercise, getting enough sleep, eating a healthy diet, and practicing relaxation techniques like meditation or deep breathing. I can also refer you to a therapist who can provide additional support and guidance.

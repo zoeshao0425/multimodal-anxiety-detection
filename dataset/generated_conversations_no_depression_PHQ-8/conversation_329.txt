@@ -1,0 +1,35 @@
+Doctor: Can you tell me about any feelings of depression you've been experiencing lately?
+
+Patient: Well, I've been feeling really down for the past few weeks. I just can't seem to find joy in anything anymore.
+
+Doctor: I see. Have you been feeling hopeless or helpless?
+
+Patient: Yeah, definitely. I feel like nothing I do makes a difference and that things will never get better.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Actually, yeah. I've been eating a lot less than usual and have lost a few pounds.
+
+Doctor: And how about your sleep? Have you been having trouble falling asleep or staying asleep?
+
+Patient: Yeah, I've been waking up in the middle of the night and then struggling to fall back asleep.
+
+Doctor: Have you noticed a decrease in your energy or motivation levels?
+
+Patient: Definitely. I used to be really active and outgoing, but now I just don't have the energy or desire to do anything.
+
+Doctor: Have you been feeling more irritable or easily agitated than usual?
+
+Patient: Yeah, I've been snapping at people a lot more than I normally would.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. Can you tell me a bit more about your personal life and any recent events that may have contributed to your current state?
+
+Patient: Well, I've been going through a lot of stress at work lately and have been having some relationship issues with my partner.
+
+Doctor: I see. It's understandable that those things could be contributing to your feelings of depression. However, based on your responses to the PHQ-8 assessment, it doesn't seem like your symptoms are severe enough to warrant a diagnosis of depression. That being said, it's still important to address any negative feelings you may be experiencing and seek support if needed. Would you be open to discussing some potential treatment options or resources that could help you manage your symptoms?
+
+Patient: Yes, definitely. I would appreciate any guidance you can give me.

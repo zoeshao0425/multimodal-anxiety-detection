@@ -1,0 +1,25 @@
+Doctor: I'd like to ask you some questions to better understand what's been going on with you. Have you been feeling down or depressed lately?
+
+Patient: Yes, I have been feeling really sad and low for the past few weeks.
+
+Doctor: Can you tell me more about how you've been feeling? Have you lost interest in things that you used to enjoy doing?
+
+Patient: Yes, I used to love going out with my friends and doing things, but now I just don't feel like doing anything. I don't even want to get out of bed most days.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: I haven't been eating much lately, and I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling tired or low on energy?
+
+Patient: Yes, I'm always tired and I don't have any energy to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like everything is my fault and I'm not good enough. I feel like I'm a burden on everyone around me.
+
+Doctor: Have you been having any thoughts of harming yourself or ending your life?
+
+Patient: Yes, I have been having thoughts of ending my life. I just feel like there's no point in living anymore.
+
+Doctor: Thank you for sharing all of this with me. Based on your answers, it sounds like you may be experiencing symptoms of depression. I would like to refer you to a mental health professional for further evaluation and treatment. Depression is a treatable illness, and there are many effective treatments available.

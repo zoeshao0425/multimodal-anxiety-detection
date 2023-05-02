@@ -1,0 +1,37 @@
+Doctor: Hi, can you tell me about any symptoms that you have been experiencing lately?
+
+Patient: Well, I have been feeling really down and sad. I don't really enjoy things that I used to like, and I have trouble sleeping.
+
+Doctor: How often do you feel this way?
+
+Patient: It's been happening pretty much every day for the past few weeks.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't really been eating much lately. I've lost a few pounds.
+
+Doctor: Do you ever feel guilty or worthless?
+
+Patient: Yeah, sometimes I feel like I'm not good enough or that I'm a burden on others.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: Not really, just feeling tired all the time.
+
+Doctor: Have you experienced any major life changes or stressors recently?
+
+Patient: My job has been really stressful lately, and I've been having some relationship issues.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, we will need to run some tests to confirm that diagnosis.
+
+Patient: Okay, thank you.
+
+Doctor: In the meantime, I want you to know that there are treatments available that can help you feel better. We can talk more about those options once we have a better understanding of your condition.
+
+Patient: That sounds good. Thank you for your help.
+
+Doctor: Of course. Remember, you don't have to go through this alone. We will work together to find the best plan for you.

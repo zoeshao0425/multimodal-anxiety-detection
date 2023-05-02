@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? When did these feelings start?
+
+Patient: It's been going on for a few weeks now. I just feel really sad all the time, even when things are going well. I've lost interest in things I used to enjoy, like going out with friends or playing sports. And I'm having trouble sleeping, even though I'm always tired.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual. I just don't feel hungry, and when I do eat, it doesn't taste as good as it used to. I've lost a bit of weight too.
+
+Doctor: Have you been feeling tired or low on energy?
+
+Patient: Yeah, I'm always tired. Even when I get a good night's sleep, I wake up feeling exhausted. And I don't have much motivation to do anything, even simple tasks like getting dressed or doing the dishes feel like a huge effort.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault, even things that aren't. And I keep thinking about all the things I've done wrong in the past, even though I know I can't change them now.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. But sometimes I do feel like life isn't worth living anymore.
+
+Doctor: Have you experienced any other physical symptoms, like headaches or stomach problems?
+
+Patient: No, not really. Just the tiredness and lack of appetite.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a more thorough assessment to confirm that diagnosis and see how severe your symptoms are. Would you be willing to fill out a questionnaire for me?
+
+Patient: Sure, I'll do whatever it takes to feel better.
+
+Doctor: Great. The questionnaire is called the PHQ-8, and it asks about the same symptoms we just talked about. It will help me get a better idea of how you're feeling and what kind of treatment might be best for you.

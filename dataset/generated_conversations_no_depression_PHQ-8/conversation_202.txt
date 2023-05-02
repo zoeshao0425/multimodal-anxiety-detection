@@ -1,0 +1,37 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: Okay, let's talk about your symptoms. Have you been feeling little interest or pleasure in doing things lately?
+
+Patient: Yes, actually. I used to love going out with friends and doing things, but now I just don't feel like it.
+
+Doctor: How often have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you been feeling more tired or having trouble sleeping?
+
+Patient: Yeah, I've been having a hard time sleeping at night and I'm exhausted during the day.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating less than usual and have lost a bit of weight.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, based on your answers, it seems like you may be experiencing symptoms of depression. Can you tell me a bit more about your personal background and any stressors in your life?
+
+Patient: Well, I recently went through a breakup and it's been really hard on me. I've also been struggling at work and don't feel like I'm making any progress.
+
+Doctor: I see. It sounds like you're dealing with a lot right now. However, based on your answers, you do not meet the criteria for a diagnosis of major depressive disorder. Instead, it seems like you may be experiencing a normal reaction to the stressors in your life. 
+
+Patient: That's a relief to hear. What can I do to start feeling better?
+
+Doctor: I recommend focusing on self-care, such as getting enough sleep, eating well, and exercising regularly. It may also be helpful to talk to a therapist or counselor about your feelings and experiences. Additionally, if your symptoms persist or worsen, please come back and see me.

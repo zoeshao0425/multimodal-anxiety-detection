@@ -1,0 +1,55 @@
+Doctor: Thank you for coming in today. Can you tell me a little bit about what brings you here?
+
+Patient: Yes, I've been feeling really down lately and I think I might be depressed.
+
+Doctor: Okay, can you describe for me what you mean by feeling down?
+
+Patient: Well, I just don't have much energy or motivation to do anything. I feel sad most of the time and I'm not enjoying things that I used to love doing.
+
+Doctor: I see. Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been eating less and having trouble sleeping at night.
+
+Doctor: And have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I've been having trouble focusing at work and making even simple decisions has been difficult.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a little bit about your personal background? Are there any recent life events that may have contributed to your current state?
+
+Patient: Well, I just went through a breakup with my partner a few months ago and it's been really hard for me to move on from that.
+
+Doctor: I see. And how has your mood been since the breakup?
+
+Patient: It's been up and down. I had some good days at first but lately it's just been getting worse.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it does sound like you may be experiencing symptoms of depression. However, I would like to ask you a few more questions to get a better idea of the severity of your symptoms.
+
+Patient: Okay.
+
+Doctor: Have you lost interest in things that you used to enjoy?
+
+Patient: Yes, I have.
+
+Doctor: Have you been feeling tired or having trouble sleeping?
+
+Patient: Yes, both of those things.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I have.
+
+Doctor: Have you been having thoughts of suicide or self-harm?
+
+Patient: No, not at all.
+
+Doctor: Based on your answers, it does not appear that you are experiencing severe depression. However, I would still like to recommend that you speak with a therapist or counselor to help you work through the emotions you are experiencing. Additionally, there are some lifestyle changes that you can make to help improve your mood, such as getting regular exercise, eating a healthy diet, and getting enough sleep.
+
+Patient: Okay, thank you for your help.

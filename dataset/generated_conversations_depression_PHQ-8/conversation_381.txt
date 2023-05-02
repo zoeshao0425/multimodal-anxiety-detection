@@ -1,0 +1,33 @@
+Doctor: So, can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down for a while now. I don't have much energy, and I'm not really interested in doing anything.
+
+Doctor: Have you been experiencing any other symptoms? Like changes in appetite or sleep patterns?
+
+Patient: Yeah, my appetite has been pretty low. I don't really feel hungry most of the time. And I've been having trouble sleeping too. I wake up a lot during the night, and I have a hard time falling back asleep.
+
+Doctor: Okay, and have you noticed any changes in your mood or emotions?
+
+Patient: Yeah, I feel really sad a lot of the time. And I get really irritable too. Little things that wouldn't normally bother me just make me really angry.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yeah, sometimes I feel like life isn't worth living. But I haven't made any plans or anything like that.
+
+Doctor: Okay, thank you for being honest with me. Can you tell me a bit about your personal background? Do you have a family history of depression?
+
+Patient: Yeah, my mom has struggled with depression for most of her life. And I've had some issues with anxiety in the past too.
+
+Doctor: That's helpful to know. And have you experienced any major life changes or stressors recently?
+
+Patient: Well, my job has been really stressful lately. And I went through a breakup a few months ago that was pretty tough.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a more formal assessment to see how severe your symptoms are. 
+
+(Doctor proceeds to administer PHQ-8 assessment)
+
+Doctor: Based on your responses, it looks like you have moderate depression. I'm going to recommend that we start treatment with therapy and possibly medication. Would you be open to that?
+
+Patient: Yeah, I think that could be helpful. I just want to feel better.
+
+Doctor: Great, I'm glad to hear that. We'll work together to come up with a treatment plan that's tailored to your needs. And if you ever have any concerns or questions, please don't hesitate to reach out to me.

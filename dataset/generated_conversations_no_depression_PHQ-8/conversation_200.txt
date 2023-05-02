@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood over the last two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down and hopeless lately. It's been hard to get out of bed in the morning and do anything.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've been eating a lot less than usual and have lost some weight.
+
+Doctor: How has your sleep been lately? Have you been sleeping more or less than usual?
+
+Patient: I've been having trouble sleeping at night and have been waking up early in the morning. I feel tired all the time.
+
+Doctor: Have you been feeling tired or fatigued during the day?
+
+Patient: Yes, I feel exhausted all the time. It's been hard to focus on anything or get anything done.
+
+Doctor: Have you noticed any changes in your interest or pleasure in activities that you used to enjoy?
+
+Patient: Yes, I don't really feel like doing anything anymore. Even things I used to love don't seem appealing anymore.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yes, I've been feeling really worthless and like I'm not good enough for anything.
+
+Doctor: Have you had any thoughts of suicide or self-harm?
+
+Patient: No, I haven't had any thoughts of hurting myself, but I do feel like life isn't worth living sometimes.
+
+Doctor: Based on your responses, it doesn't appear that you meet the criteria for a diagnosis of depression. However, it's important to continue monitoring your symptoms and seeking help if they worsen. Are there any other concerns or questions you'd like to discuss?

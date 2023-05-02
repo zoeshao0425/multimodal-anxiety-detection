@@ -1,0 +1,45 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I'm not sure what's wrong with me.
+
+Doctor: Can you tell me more about how you're feeling?
+
+Patient: Well, I just feel really sad all the time. I can't seem to shake it off. I have trouble sleeping and I've lost my appetite.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any other symptoms, like a lack of energy or interest in things you used to enjoy?
+
+Patient: Yes, actually. I used to love going out with friends but now I don't really feel like doing anything.
+
+Doctor: Have you noticed any changes in your weight or difficulty concentrating?
+
+Patient: I've lost a bit of weight and I find it hard to focus on anything.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to better understand your condition.
+
+Patient: Sure, go ahead.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, moving or speaking slowly or being fidgety or restless, and thoughts that you would be better off dead or hurting yourself in some way?
+
+Patient: I've been feeling down and depressed every day, I have trouble sleeping almost every night, I feel tired all the time, I've lost my appetite, I feel bad about myself, and I have trouble concentrating.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing moderate to severe depression. However, I'd like to ask you a few more questions to better understand your situation.
+
+Patient: Alright.
+
+Doctor: Have you experienced any major life changes recently, such as the loss of a loved one, a breakup, or a job loss?
+
+Patient: No, nothing like that.
+
+Doctor: Do you have a history of depression or other mental health conditions in your family?
+
+Patient: Yes, my mother has struggled with depression for most of her life.
+
+Doctor: Thank you for sharing that information. Based on everything we've discussed, I don't believe you have depression. However, I would still recommend that you take some time to focus on self-care and make sure you're taking care of yourself physically and mentally. If you continue to experience these symptoms, please don't hesitate to come back and see me.

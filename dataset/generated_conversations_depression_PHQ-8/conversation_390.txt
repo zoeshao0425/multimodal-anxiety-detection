@@ -1,0 +1,43 @@
+Doctor: So, let's start by discussing how you've been feeling lately. Have you been experiencing any of the following symptoms in the past two weeks?
+
+Patient: Yes, I have been feeling down, hopeless, and sad.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day.
+
+Doctor: Have you lost interest in things you used to enjoy doing?
+
+Patient: Yes, I don't feel motivated to do anything anymore.
+
+Doctor: Have you experienced changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite and have lost some weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have been having trouble sleeping. I wake up several times during the night and find it hard to fall asleep again.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I feel exhausted all the time, even when I haven't done anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like everything is my fault, and I'm not good enough.
+
+Doctor: Have you had thoughts of hurting yourself or suicide?
+
+Patient: Yes, I have been having thoughts of suicide.
+
+Doctor: Thank you for answering these questions. Based on your answers, it seems like you are experiencing symptoms of depression.
+
+Patient: Is that what's wrong with me?
+
+Doctor: Yes, depression is a common mental health condition that affects many people. It's essential to seek treatment to help manage your symptoms and improve your quality of life. 
+
+Patient: What kind of treatment do you recommend?
+
+Doctor: There are different types of treatments available, including therapy and medication. We can discuss which options might work best for you based on your personal situation and preferences.
+
+Patient: Thank you, doctor. I appreciate your help.

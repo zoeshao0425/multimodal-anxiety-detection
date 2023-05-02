@@ -1,0 +1,35 @@
+Doctor: Can you tell me a bit about your mood over the past two weeks? Have you been feeling down or depressed?
+
+Patient: Yes, I have been feeling really down lately. I've been struggling to find joy in things that used to make me happy.
+
+Doctor: How often have you been experiencing these feelings?
+
+Patient: Almost every day for the past two weeks.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been sleeping a lot more than usual and my appetite has decreased.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I've been feeling extremely tired even after getting a full night's sleep.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I've been having a hard time concentrating at work and making simple decisions has become a challenge.
+
+Doctor: Have you been feeling hopeless or helpless?
+
+Patient: Yes, I've been feeling like there's no point in trying because nothing ever seems to get better.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Can you tell me a bit about your personal life? Do you have any stressors or life events that may be contributing to your current mood?
+
+Patient: Well, my job has been really stressful lately and I'm going through a breakup with my partner. It's been a lot to handle.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors such as stress or a medical condition. Let's do a full assessment and see if there are any underlying issues that may be contributing to your mood.
+
+After conducting the full assessment, the doctor determines that the patient is not experiencing depression but rather situational stress and recommends therapy and self-care practices to help manage their stress levels.

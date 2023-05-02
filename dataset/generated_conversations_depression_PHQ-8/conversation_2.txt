@@ -1,0 +1,23 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks: little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down and hopeless. I don't enjoy doing anything anymore.
+
+Doctor: I see. Have you experienced a decrease in your energy levels or noticed changes in your appetite or sleep patterns?
+
+Patient: Yes, I feel tired all the time, and I've lost my appetite. I also have trouble sleeping at night.
+
+Doctor: Okay, thank you for sharing that. Have you noticed any difficulty concentrating, making decisions, or remembering things?
+
+Patient: Yes, I have trouble focusing on anything. I can't make decisions, and I forget things easily.
+
+Doctor: I understand. Have you experienced any feelings of worthlessness or excessive guilt?
+
+Patient: Yes, I feel like everything is my fault, even when it's not. I feel like I'm not good enough.
+
+Doctor: That's tough. Have you had any thoughts of death or suicide?
+
+Patient: Yes, I have been thinking about suicide a lot lately. It feels like the only way out.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing depression. It's a medical condition that affects many people, and it's nothing to be ashamed of. We can work together to find a treatment plan that works for you. 
+
+Patient: Okay, thank you. I really appreciate your help.

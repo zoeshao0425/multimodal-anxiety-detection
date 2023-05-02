@@ -1,0 +1,39 @@
+Doctor: So, I understand you're here because you've been experiencing some symptoms of depression. Can you tell me a bit more about what you've been going through?
+
+Patient: Yeah, I've just been feeling really down lately. Like, I don't have any energy or motivation to do anything. I'm always tired, even when I get enough sleep. And I just feel really sad all the time.
+
+Doctor: Okay, those are definitely some common symptoms of depression. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, actually. I've been eating a lot less than usual, and I've lost a few pounds.
+
+Doctor: Alright. And have you been having trouble sleeping, either falling asleep or staying asleep?
+
+Patient: Yeah, I have. I usually wake up in the middle of the night and can't get back to sleep for a while.
+
+Doctor: Okay. Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I've been having a hard time focusing on anything. Even simple tasks seem really difficult sometimes.
+
+Doctor: Got it. And have you been feeling more irritable or easily frustrated than usual?
+
+Patient: Yeah, definitely. Little things that wouldn't normally bother me have been setting me off lately.
+
+Doctor: Alright. Now, let me ask you a few questions about your personal background. Have you ever been diagnosed with depression before?
+
+Patient: No, I haven't.
+
+Doctor: Okay. Have you experienced any major life changes or stressful events recently that might be contributing to your symptoms?
+
+Patient: Well, my job has been really stressful lately, and I've been having some problems in my relationship.
+
+Doctor: I see. And do you have a history of substance abuse or any other mental health conditions?
+
+Patient: No, I don't.
+
+Doctor: Alright. Based on your answers, it does sound like you're experiencing some symptoms of depression. However, it's important to note that there are other medical conditions that can cause similar symptoms, so I'd like to do a physical exam and some blood work just to rule out any other possibilities.
+
+Patient: Okay, that makes sense.
+
+Doctor: In the meantime, I'd also like to recommend some lifestyle changes that might help alleviate your symptoms. Things like regular exercise, a healthy diet, and stress management techniques can all be helpful. And if your symptoms are severe enough to interfere with your daily functioning, we can discuss medication options as well.
+
+Patient: Okay, thank you.

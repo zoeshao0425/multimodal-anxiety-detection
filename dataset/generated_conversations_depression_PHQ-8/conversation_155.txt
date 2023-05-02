@@ -1,0 +1,31 @@
+Doctor: Can you tell me about the symptoms you've been experiencing lately?
+
+Patient: Sure. I've been feeling really down and sad most of the time. I don't enjoy things that used to make me happy, like spending time with friends or hobbies. I've also been having trouble sleeping and I feel tired all the time.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've lost some weight recently. I don't have much of an appetite and I don't feel hungry very often.
+
+Doctor: Do you ever feel hopeless or helpless?
+
+Patient: Yes, I do. I feel like everything is pointless and there's no reason to try anymore.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: Yes, I have. Sometimes I feel like it would be easier if I wasn't around anymore.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. It's mostly just the emotional stuff.
+
+Doctor: Have you noticed any changes in your energy level or ability to concentrate?
+
+Patient: Yeah, I have. I feel really drained all the time and I have trouble focusing on anything for very long.
+
+Doctor: Have you experienced any trauma or major life changes recently?
+
+Patient: Well, my dad passed away a few months ago and that's been really hard on me. I've also been going through a lot of stress at work.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. I would like to refer you to a therapist who can help you work through these feelings and develop coping strategies. We can also discuss medication options if that's something you're interested in.
+
+Patient: Okay, thank you. I appreciate you taking the time to listen to me and help me figure out what's going on.

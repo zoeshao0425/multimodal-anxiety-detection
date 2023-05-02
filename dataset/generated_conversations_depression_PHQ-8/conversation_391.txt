@@ -1,0 +1,27 @@
+Doctor: "So, how have you been feeling lately?"
+
+Patient: "Not great, to be honest. I've been feeling really down and unmotivated."
+
+Doctor: "Can you tell me more about these feelings? When did they start?"
+
+Patient: "It's been going on for a few months now. I just don't feel like doing anything anymore. I used to enjoy going out with friends or doing hobbies, but now I just want to stay in bed all day."
+
+Doctor: "Have you noticed any changes in your appetite or sleep patterns?"
+
+Patient: "Yeah, I've been sleeping a lot more than usual and I've lost my appetite. I just don't feel hungry anymore."
+
+Doctor: "Do you ever feel hopeless or worthless?"
+
+Patient: "All the time. I feel like nothing I do matters and that I'm just a burden on everyone around me."
+
+Doctor: "Have you had any thoughts of self-harm or suicide?"
+
+Patient: "Yes, I have. I don't know what to do anymore."
+
+Doctor: "Okay, thank you for being honest with me. Have you experienced any other symptoms, such as fatigue or difficulty concentrating?"
+
+Patient: "Yeah, I feel tired all the time and I can't focus on anything. It's affecting my work and my relationships."
+
+Doctor: "Thank you for sharing all of this with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a full assessment to confirm this diagnosis and discuss treatment options with you."
+
+Patient: "Okay, thank you. I just want to feel better."

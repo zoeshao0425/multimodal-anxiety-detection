@@ -1,0 +1,31 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not too good, to be honest. I've been feeling really down and unmotivated.
+
+Doctor: Can you describe your mood over the past two weeks?
+
+Patient: It's been pretty consistent. I wake up feeling sad and hopeless, and it doesn't really go away throughout the day.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I don't really have much of an appetite.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, definitely. I've been having trouble focusing at work and even simple decisions like what to eat for dinner feel overwhelming.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love playing basketball and hanging out with friends, but lately I just haven't had the energy or desire to do those things.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Can you tell me a bit about your personal life and any recent events that may have contributed to how you're feeling?
+
+Patient: Well, my girlfriend and I broke up a few months ago and it's been really hard for me to move on. We were together for a long time and I thought we were going to get married. It's been tough adjusting to life without her.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, it's important to note that there could be other factors contributing to how you're feeling. I'd like to refer you to a therapist who can help you explore these feelings further and develop coping strategies. 
+
+Patient: Thank you, doctor. I appreciate your help.

@@ -1,0 +1,31 @@
+Doctor: Can you tell me more about the symptoms you've been experiencing lately?
+
+Patient: Well, I've been feeling really down and sad for no particular reason. I don't enjoy things that used to make me happy, and I have trouble sleeping at night.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for about two weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Not really. I still have a normal appetite, but sometimes I forget to eat because I'm not feeling hungry.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I've been feeling very fatigued lately. I have trouble getting out of bed in the morning and don't have much energy throughout the day.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I've been having trouble focusing on tasks and making decisions. I feel like my mind is foggy and I can't think clearly.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I've been feeling like I'm not good enough and that I'm a burden to others. I also feel guilty for not being able to do things that I used to be able to do.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or ending my life.
+
+Doctor: Based on your answers, it doesn't seem like you meet the criteria for a diagnosis of depression. However, it's important to continue monitoring your symptoms and seek help if they worsen or persist. Is there anything else you'd like to discuss or any questions you have? 
+
+Patient: No, that's all. Thank you for your time, doctor.

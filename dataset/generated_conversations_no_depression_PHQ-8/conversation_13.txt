@@ -1,0 +1,41 @@
+Doctor: So, I understand you're here to talk about your mental health. Can you tell me a little bit about what's been going on?
+
+Patient: Yeah, I've just been feeling really down lately. Like, I don't have any energy and I don't really enjoy things that I used to.
+
+Doctor: Okay, I see. Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, actually. I haven't been sleeping very well and I've noticed that I'm not really hungry anymore.
+
+Doctor: And how long has this been going on for?
+
+Patient: I'd say it's been about a month now.
+
+Doctor: Okay. Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Definitely. I feel like I can't focus on anything and even simple decisions feel really overwhelming.
+
+Doctor: And have you been experiencing any feelings of worthlessness or guilt?
+
+Patient: Yeah, I guess so. I just feel like I'm not doing anything right and that everything is my fault.
+
+Doctor: Okay. And have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Can you tell me a little bit about your personal background? Do you have a history of depression or any other mental health issues in your family?
+
+Patient: Not really. I mean, I've had some anxiety in the past but nothing like this.
+
+Doctor: Okay. And have you experienced any significant life events recently that could be contributing to your symptoms?
+
+Patient: Well, I did lose my job a few months ago and I've been struggling to find something new. But I don't think that's really causing this.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to perform a PHQ-8 assessment to get a better understanding of your condition.
+
+Patient: Okay, sure.
+
+Doctor: (asks PHQ-8 questions)
+
+Doctor: Based on your answers, it looks like you do not meet the criteria for a depression diagnosis. However, it's clear that you've been struggling with some difficult emotions lately. I would recommend that you continue to monitor your symptoms and consider seeking therapy or counseling if they persist or worsen.
+
+Patient: Okay, thank you. I appreciate your help.

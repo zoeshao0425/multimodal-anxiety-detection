@@ -1,0 +1,33 @@
+Doctor: So, you mentioned that you have been feeling down lately. Can you tell me more about how you have been feeling?
+
+Patient: Yeah, I just feel really sad and hopeless most of the time. Nothing seems to make me happy anymore.
+
+Doctor: Okay, have you experienced any changes in your appetite or weight recently?
+
+Patient: Yeah, I've been eating a lot less than usual and have lost some weight.
+
+Doctor: Have you been experiencing any trouble sleeping, such as difficulty falling asleep or staying asleep?
+
+Patient: Yeah, I've been having trouble falling asleep and staying asleep. I wake up feeling tired and unmotivated.
+
+Doctor: Have you noticed a decrease in your energy levels or motivation to do things?
+
+Patient: Definitely. I used to be really active and enjoy going out with friends, but now I just don't have the energy or desire to do anything.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: (pauses) Yes, I have had thoughts of ending my life. It's like everything just feels too hard and overwhelming.
+
+Doctor: Thank you for being honest with me. Have you been experiencing any feelings of guilt or worthlessness?
+
+Patient: Yeah, I just can't help feeling like everything is my fault and that I'm not good enough.
+
+Doctor: Okay, based on what you have told me, it sounds like you may be experiencing symptoms of depression. I would like to diagnose you with depression and discuss treatment options with you. Is there any additional information you would like to share with me about your personal life or experiences that could be impacting your mental health?
+
+Patient: Well, I recently went through a breakup and have been struggling with some financial stress. I also lost my job a few months ago, which has been really tough.
+
+Doctor: I see. It sounds like you have been dealing with a lot of stressors recently, which can certainly contribute to depression. I would like to refer you to a therapist who can help you work through these issues and develop coping strategies. In addition, I recommend starting on an antidepressant medication to help alleviate your symptoms. Do you have any questions or concerns about these recommendations?
+
+Patient: No, that all makes sense to me. Thank you for taking the time to listen to me and help me figure out what's going on.
+
+Doctor: Of course, that's what I'm here for. We will work together to get you feeling better.

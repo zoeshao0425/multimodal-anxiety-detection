@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? Have you been feeling sad or empty most of the day, nearly every day?
+
+Patient: Yeah, that's exactly how I feel. It's like there's a constant weight on my chest.
+
+Doctor: Have you noticed a lack of interest or pleasure in things you used to enjoy?
+
+Patient: Definitely. I used to love going out with friends and doing things, but now I just don't feel like it anymore.
+
+Doctor: Have you been experiencing changes in appetite or weight?
+
+Patient: My appetite has been all over the place. Some days I don't feel like eating at all, and other days I can't stop eating.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: Both, actually. Some nights I can't fall asleep at all, and other nights I sleep for 12 hours straight.
+
+Doctor: Have you been feeling tired or having low energy?
+
+Patient: Yes, all the time. Even getting out of bed feels like a huge effort.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, definitely. I feel like I'm a burden on everyone around me.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Absolutely. It's like my brain is in a fog and I can't focus on anything.
+
+Doctor: Based on your responses, it sounds like you may be experiencing symptoms of depression. Have you ever been diagnosed with depression before?
+
+Patient: No, I haven't. But I've been feeling this way for a while now and it's starting to impact my daily life.
+
+Doctor: I'm sorry to hear that. Depression is a medical condition that can be treated with therapy, medication, or a combination of both. I'd like to refer you to a mental health professional who can help you manage your symptoms and improve your quality of life.

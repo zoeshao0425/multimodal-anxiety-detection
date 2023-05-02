@@ -1,0 +1,31 @@
+Doctor: Thank you for coming in today. I would like to ask you a few questions about how you've been feeling lately. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down lately. It's been hard for me to get out of bed and do things that I used to enjoy.
+
+Doctor: I see. Have you experienced a lack of interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, I have. I used to love going to the gym and hanging out with my friends, but lately, I just don't feel like doing anything.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I have lost some weight recently. I haven't been eating as much as I used to.
+
+Doctor: Have you experienced any trouble sleeping, such as difficulty falling asleep, staying asleep, or waking up too early?
+
+Patient: Yes, I have been having trouble sleeping. I have trouble falling asleep at night and then I wake up multiple times throughout the night.
+
+Doctor: Have you noticed a decrease in your energy or an increase in fatigue?
+
+Patient: Yes, I have been feeling very tired lately. It's hard for me to get through the day without taking a nap.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yes, I have been feeling very guilty about not being able to do things that I used to enjoy. I feel like I'm letting everyone down.
+
+Doctor: Have you had any thoughts of death or suicide?
+
+Patient: Yes, I have had thoughts of suicide. I feel like there's no point in living anymore.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression. I would like to diagnose you with depression and discuss treatment options with you. 
+
+Patient: Thank you for taking the time to listen to me and diagnose me. I'm ready to start feeling better.

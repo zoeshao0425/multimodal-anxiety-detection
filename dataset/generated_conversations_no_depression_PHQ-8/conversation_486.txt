@@ -1,0 +1,31 @@
+Doctor: Thank you for coming in today. Can you tell me a bit about what's been going on?
+
+Patient: I've been feeling really down lately. I just don't have any energy and I can't seem to get motivated to do anything.
+
+Doctor: Have you been experiencing any other symptoms like trouble sleeping or changes in appetite?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I haven't had much of an appetite lately.
+
+Doctor: Have you noticed any changes in your mood or feelings of hopelessness?
+
+Patient: Yeah, I've been feeling pretty hopeless lately. Like nothing is ever going to get better and there's no point in even trying.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Yeah, I've had bouts of depression in the past.
+
+Doctor: Can you tell me a bit about your personal life? Are there any stressors or major life changes that could be contributing to your symptoms?
+
+Patient: Well, I recently lost my job and I've been having trouble finding a new one. My relationship with my partner has also been strained lately.
+
+Doctor: I see. Have you been engaging in any activities that you used to enjoy?
+
+Patient: No, not really. I just don't have the energy or motivation to do anything.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. I'm going to give you a PHQ-8 assessment to get a better understanding of your symptoms.
+
+(Patient completes PHQ-8 assessment)
+
+Doctor: Based on your responses, it doesn't appear that you meet the criteria for a diagnosis of depression. However, given your recent life stressors, I would recommend seeking therapy to help you cope with these challenges.
+
+Patient: Thank you, doctor. I appreciate your help.

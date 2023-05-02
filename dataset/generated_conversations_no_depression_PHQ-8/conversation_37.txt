@@ -1,0 +1,43 @@
+Doctor: So, I understand that you're here today to talk about some symptoms you've been experiencing. Can you tell me a little bit about what's been going on?
+
+Patient: Yeah, sure. Lately, I've been feeling really down and unmotivated. I don't enjoy things like I used to, and I have trouble sleeping at night.
+
+Doctor: I see. How long has this been going on?
+
+Patient: It's been a few weeks now. At first, I thought it was just a phase, but it hasn't gone away.
+
+Doctor: Okay. Have you noticed any changes in your appetite or weight?
+
+Patient: Not really. I still eat normally, but I don't have much of an appetite.
+
+Doctor: And how about your energy levels? Do you feel tired all the time?
+
+Patient: Yeah, I do. Even when I get enough sleep, I still feel exhausted.
+
+Doctor: I understand. Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, definitely. I have trouble focusing on anything for too long, and I second-guess myself a lot.
+
+Doctor: Okay. Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, sometimes. I feel like I'm not good enough or that I'm letting people down.
+
+Doctor: I see. And have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Well, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I'd like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Okay, sure.
+
+Doctor: Have you experienced any significant life events recently, such as a breakup, job loss, or death in the family?
+
+Patient: No, nothing like that.
+
+Doctor: Okay. And do you have a history of depression or any other mental health conditions?
+
+Patient: No, I don't.
+
+Doctor: Alright. Well, based on our conversation and the PHQ-8 assessment, it doesn't seem like you meet the criteria for a diagnosis of depression. However, if your symptoms persist or worsen, I would encourage you to come back and see me.
+
+Patient: Okay, thank you for your help.

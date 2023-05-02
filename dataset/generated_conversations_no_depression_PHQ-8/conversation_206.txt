@@ -1,0 +1,35 @@
+Doctor: Can you tell me a bit about what's been going on lately that led you to come in today?
+
+Patient: Yeah, I've just been feeling really down and hopeless lately. It's been hard to get out of bed and do anything.
+
+Doctor: How long has this been going on for?
+
+Patient: I'd say it's been about three weeks now.
+
+Doctor: Okay, have you experienced any changes in appetite or sleep patterns?
+
+Patient: Yeah, my appetite has been pretty low and I haven't been sleeping well at all.
+
+Doctor: And have you noticed any changes in your energy levels or motivation to do things you normally enjoy?
+
+Patient: Yeah, I've just had no motivation to do anything. Even things I used to love doing just don't interest me anymore.
+
+Doctor: Have you been feeling more irritable or easily agitated than usual?
+
+Patient: Yeah, I've definitely been more irritable than usual. Little things seem to set me off more easily.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for letting me know. Have you experienced any significant life events or stressors recently that could be contributing to how you're feeling?
+
+Patient: Not really, nothing major has happened. It just feels like everything is overwhelming and hopeless.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to do a full evaluation to better understand your condition. 
+
+After completing the PHQ-8 assessment, the doctor comes to the conclusion that the patient does not meet the criteria for depression.
+
+Doctor: Based on your responses, it doesn't appear that you meet the criteria for depression. However, I do want to keep an eye on how you're feeling and make sure we address any concerns that come up. If you continue to experience these symptoms or they worsen, please don't hesitate to reach out to me.
+
+Patient: Thank you, I appreciate your help and understanding.

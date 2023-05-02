@@ -1,0 +1,57 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you describe your symptoms for me?
+
+Patient: Sure. I've been feeling really sad and empty most of the time. I don't enjoy things that used to bring me pleasure, like hanging out with friends or watching movies. I've also been having trouble sleeping and I'm always tired.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Yes, definitely. I feel like my mind is foggy all the time and I can't focus on anything for very long. It's been affecting my work too.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: I have to admit, I have been having those thoughts. I don't think I would actually do anything, but the thoughts are there.
+
+Doctor: Thank you for being honest with me. Have you experienced any other stressful life events recently?
+
+Patient: Well, my dad passed away a few months ago and that's when I started feeling this way. We were really close and it's been really hard for me to cope.
+
+Doctor: I'm sorry to hear that. Based on what you've told me, it sounds like you may be experiencing depression. I'd like to do a more formal assessment to see if that's the case.
+
+Patient: Okay, that sounds good.
+
+Doctor: I'm going to ask you a few more questions from the PHQ-8 assessment. Have you been feeling down, depressed, or hopeless for more than half the days in the past two weeks?
+
+Patient: Yes, definitely.
+
+Doctor: Have you had little interest or pleasure in doing things for more than half the days in the past two weeks?
+
+Patient: Yes, that's been a big problem for me.
+
+Doctor: Have you experienced trouble falling asleep, staying asleep, or sleeping too much for more than half the days in the past two weeks?
+
+Patient: Yes, I've been having trouble sleeping almost every night.
+
+Doctor: Have you been feeling tired or having little energy for more than half the days in the past two weeks?
+
+Patient: Yes, I feel like I'm always tired no matter how much sleep I get.
+
+Doctor: Have you had poor appetite or overeating for more than half the days in the past two weeks?
+
+Patient: Yes, I've been eating a lot less than usual.
+
+Doctor: Have you felt bad about yourself or like you're a failure, or have you criticized yourself or felt guilty for more than half the days in the past two weeks?
+
+Patient: Yeah, I've been really hard on myself lately and I feel like I can't do anything right.
+
+Doctor: Have you had trouble concentrating on things, such as reading the newspaper or watching television, for more than half the days in the past two weeks?
+
+Patient: Yes, I feel like my mind is always wandering and I can't focus on anything for very long.
+
+Doctor: Based on your answers, it does seem like you are experiencing depression. We can talk about treatment options, such as therapy or medication, that may help you feel better. It's important to remember that depression is a treatable condition and there is hope for recovery.

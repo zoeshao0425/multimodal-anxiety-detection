@@ -1,0 +1,27 @@
+Doctor: Can you describe the symptoms that you have been experiencing lately?
+
+Patient: Well, I have been feeling really down and sad for no apparent reason. I have also lost interest in things that I used to enjoy doing like going out with friends or watching movies. I feel tired all the time, even after sleeping for long hours. I have trouble concentrating on anything, and my mind feels foggy. Sometimes I feel like I am worthless and that nothing I do matters.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few months now. At first, I thought it was just stress from work, but it hasn't gone away.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite, and I have lost some weight too.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of self-harm, but sometimes I feel like life isn't worth living.
+
+Doctor: Have you experienced any physical symptoms like headaches, body aches or stomach problems?
+
+Patient: Yes, I have been experiencing headaches and body aches. Sometimes I feel nauseous, and I have trouble sleeping at night.
+
+Doctor: Have you experienced any traumatic events or major life changes recently?
+
+Patient: Yes, I lost my job a few months ago, and it has been difficult finding a new one. My relationship with my partner has also been strained lately.
+
+Doctor: Based on the symptoms you have described, it seems like you are experiencing depression. I would like to recommend that you see a therapist who can help you work through your feelings and develop coping strategies. Additionally, medication may be helpful in treating your symptoms. 
+
+Patient: Thank you, Doctor. I appreciate your help.

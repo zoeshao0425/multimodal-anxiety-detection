@@ -1,0 +1,37 @@
+Doctor: So, what brings you here today?
+
+Patient: I've been feeling really down lately. I'm not sure what's wrong with me.
+
+Doctor: Can you describe your symptoms for me?
+
+Patient: Well, I've been feeling really sad and hopeless. I don't have any motivation to do anything, and I've lost interest in things that used to make me happy. I'm also having trouble sleeping and I'm always tired.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've been eating less than usual and I've lost some weight.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your symptoms, it sounds like you may be experiencing depression. Can you tell me a little bit about your personal background and any recent life events?
+
+Patient: Sure. I recently went through a breakup, and I'm also dealing with some financial stress. I've also been feeling pretty isolated lately because I've been working from home and haven't been able to see my friends as much.
+
+Doctor: I see. Those are certainly stressful situations that could contribute to depression. Have you talked to anyone about how you're feeling?
+
+Patient: Not really. I've been trying to deal with it on my own, but it's just not getting better.
+
+Doctor: I understand. It's important to know that depression is a medical condition, and it's not something you can just "snap out of." I would like to give you a PHQ-8 assessment to help me better understand your symptoms. 
+
+Patient: Okay, that sounds good.
+
+Doctor: (reads the PHQ-8 assessment questions) Based on your answers, it looks like you're not experiencing depression at this time. However, I would still like to monitor your symptoms and schedule a follow-up appointment in a few weeks. In the meantime, I recommend that you try to get some exercise, eat a healthy diet, and spend time with friends or family.
+
+Patient: Okay, thank you for your help. It's good to know that I'm not alone and that there are things I can do to feel better.
+
+Doctor: Absolutely. Remember that seeking help is a sign of strength, not weakness. Don't hesitate to reach out if you need anything.

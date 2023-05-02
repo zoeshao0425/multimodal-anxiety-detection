@@ -1,0 +1,33 @@
+Doctor: So, tell me about how you've been feeling lately.
+
+Patient: Well, I've been feeling really down and hopeless. I don't have much interest in anything anymore, and I'm always tired.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've actually lost some weight because I don't feel like eating much.
+
+Doctor: And how about your sleep? Have you had trouble falling asleep or staying asleep?
+
+Patient: Yeah, I've been having trouble sleeping lately. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you noticed a decrease in your energy levels or motivation?
+
+Patient: Definitely. I used to be really active and motivated, but now I struggle to even get out of bed in the morning.
+
+Doctor: Have you had any thoughts of harming yourself or anyone else?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Now, can you tell me a bit about your personal background and any major life events that may have contributed to these symptoms?
+
+Patient: Well, I've been going through a lot of stress at work lately, and I also recently went through a break-up.
+
+Doctor: I see. That can definitely be difficult to deal with. Have you tried any coping strategies to manage your stress and emotions?
+
+Patient: I've been trying to exercise and spend time with friends, but it doesn't seem to be helping much.
+
+Doctor: Okay, based on your responses, it sounds like you may be experiencing symptoms of depression. However, it's important to note that there can be other factors that contribute to these symptoms, such as stress or a recent life event. I would like to conduct further assessments to determine the best course of treatment for you. 
+
+Patient: Okay, that makes sense. Thank you for your help.
+
+Doctor: After further assessment, I can confirm that you are not experiencing depression. However, I do suggest that you take some time to focus on yourself and engage in self-care practices to manage your stress and emotions.

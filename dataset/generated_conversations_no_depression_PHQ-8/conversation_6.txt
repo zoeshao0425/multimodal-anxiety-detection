@@ -1,0 +1,49 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I don't have any energy and I can't seem to enjoy anything anymore.
+
+Doctor: Okay, that's understandable. Have you been experiencing any other symptoms?
+
+Patient: Yeah, I've been having trouble sleeping. I either sleep too much or not at all. And I've lost my appetite.
+
+Doctor: How long have you been feeling like this?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Based on what you've told me, it sounds like you may be experiencing depression. Let's go through the PHQ-8 assessment to get a better idea of your symptoms.
+
+Doctor: Over the past two weeks, how often have you been bothered by feeling down, depressed or hopeless?
+
+Patient: Pretty much every day.
+
+Doctor: And how about feeling little interest or pleasure in doing things?
+
+Patient: Yeah, I haven't been enjoying anything lately.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: All the time.
+
+Doctor: Have you had trouble sleeping, either sleeping too much or not enough?
+
+Patient: Yes, I've been having trouble sleeping.
+
+Doctor: Have you been feeling bad about yourself, feeling like a failure, or feeling guilty?
+
+Patient: Yeah, I've been feeling pretty worthless.
+
+Doctor: Have you been having trouble concentrating on things, such as reading the newspaper or watching TV?
+
+Patient: Yeah, it's been hard to focus on anything.
+
+Doctor: Have you had any thoughts of moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: No, I haven't experienced that.
+
+Doctor: Based on your answers, it does not appear that you meet the criteria for a diagnosis of depression. However, I would like to suggest some lifestyle changes that may improve your mood and energy levels. It's important to get enough sleep, eat a healthy diet, and exercise regularly. Additionally, consider talking to a therapist or counselor about your feelings. They may be able to provide additional support and coping strategies.
+
+Patient: Thank you, doctor. I will definitely take your advice and try to make those changes.

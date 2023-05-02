@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down. I just can't seem to shake this feeling of sadness.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just feel so hopeless and empty.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot more than usual and I've gained some weight.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I don't find pleasure in anything anymore. I used to love reading and watching movies, but now I just can't seem to focus on anything.
+
+Doctor: Have you been feeling tired or low on energy?
+
+Patient: Yes, I've been feeling exhausted all the time. Even getting out of bed in the morning is a struggle.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of harming yourself?
+
+Patient: No, I haven't had any suicidal thoughts.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, after further assessment, I have determined that you do not meet the criteria for a diagnosis of depression at this time. It's possible that you may be experiencing a temporary period of sadness or stress, but we can work together to develop strategies to manage those feelings and improve your overall well-being.

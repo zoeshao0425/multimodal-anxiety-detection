@@ -1,0 +1,39 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been feeling down, depressed, or hopeless?
+
+Patient: Honestly, I've been feeling that way almost every day.
+
+Doctor: And how often have you had little interest or pleasure in doing things?
+
+Patient: Every day. I used to love playing video games and watching movies, but now I just don't feel like doing anything.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yeah, I've lost some weight because I haven't been eating as much. I just don't feel hungry anymore.
+
+Doctor: How about changes in your sleep? Have you been sleeping more or less than usual?
+
+Patient: I've been sleeping a lot more than usual. I usually get up at 7 am, but now I'm sleeping until noon or later.
+
+Doctor: Have you noticed any changes in your energy level?
+
+Patient: I feel tired all the time. Even when I wake up after sleeping for a long time, I still feel exhausted.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I feel like I'm not good enough and that everything I do is wrong.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: It's been really hard to focus on anything. I can't even decide what to eat for breakfast without feeling overwhelmed.
+
+Doctor: And finally, have you had any thoughts of hurting yourself or suicide?
+
+Patient: I've had fleeting thoughts of suicide, but I haven't made any plans or attempted anything.
+
+Doctor: Thank you for answering these questions. Based on your responses, it seems like you may be experiencing symptoms of depression. Can you tell me a little bit about your personal life and any recent events that may have triggered these feelings?
+
+Patient: Well, my girlfriend and I broke up a few months ago, and I've been feeling pretty lonely since then. I also lost my job recently, which has been really stressful.
+
+Doctor: I'm sorry to hear that. It's understandable that these events would have an impact on your mental health. I'd like to refer you to a therapist who can help you work through these feelings and develop coping strategies.
+
+Patient: That sounds good to me. Thank you for listening and taking me seriously.

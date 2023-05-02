@@ -1,0 +1,41 @@
+Doctor: So, let's start by discussing your symptoms. Have you been feeling down, depressed or hopeless lately?
+
+Patient: Yes, I have been feeling quite low for a while now. I feel like I am stuck in a rut and unable to shake off this feeling.
+
+Doctor: How often have you been feeling this way? Is it most days, more than half the days or just a few days?
+
+Patient: It's most days, I would say.
+
+Doctor: Okay, have you lost interest in activities that you used to enjoy earlier, such as hobbies, socializing or work-related tasks?
+
+Patient: Yes, I have lost interest in almost everything that I used to love doing. I don't feel motivated to do anything anymore.
+
+Doctor: Do you feel tired or fatigued most of the time? Has there been a change in your sleep pattern, such as difficulty falling asleep or staying asleep?
+
+Patient: Yes, I feel tired all the time, even after getting enough sleep. I have been having trouble falling asleep and staying asleep too.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: No, my appetite and weight are pretty much the same as before.
+
+Doctor: Do you feel guilty or worthless often? Do you have negative thoughts about yourself or your abilities?
+
+Patient: Yes, I feel guilty and worthless most of the time. I keep thinking about my past mistakes and how I could have done things differently. I also have negative thoughts about myself, and I feel like I'm not good enough.
+
+Doctor: Have you had difficulty concentrating or making decisions lately?
+
+Patient: Yes, I find it hard to focus on anything, and making decisions feels overwhelming.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or taking my life.
+
+Doctor: Based on your responses, it seems that you have been experiencing some symptoms of depression. However, since you haven't had any thoughts of self-harm or suicide, I would not diagnose you with major depression.
+
+Patient: That's a relief to hear. What can I do to feel better?
+
+Doctor: There are several things you can do to improve your mood and mental health. These include regular exercise, healthy eating, getting enough sleep, and engaging in activities that you enjoy. You could also consider talking to a therapist or counselor who can help you work through your feelings and develop coping strategies.
+
+Patient: Thank you, Doctor. I will definitely try to make some positive changes in my life and seek help if needed.
+
+Doctor: You're welcome, and please don't hesitate to reach out if you need further support or have any concerns.

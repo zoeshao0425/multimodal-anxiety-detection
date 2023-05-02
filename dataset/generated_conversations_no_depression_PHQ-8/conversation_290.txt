@@ -1,0 +1,23 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling asleep, staying asleep, or sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure, trouble concentrating on things, such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed?
+
+Patient: Well, doctor, I have been feeling down and hopeless for the past few weeks. I haven't been able to get much sleep, and when I do, I wake up feeling exhausted. I've also lost my appetite and have been feeling like a failure lately. 
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a little bit more about what's been going on in your life recently that might be contributing to these feelings?
+
+Patient: Honestly, I'm not sure. I've just been feeling really overwhelmed and stressed out lately. I've been having trouble at work, and my relationship with my partner has been strained. I feel like I can't keep up with everything that's going on in my life.
+
+Doctor: I see. Have you ever experienced anything like this before? Do you have a history of depression or anxiety?
+
+Patient: No, I've never felt like this before. I've always been a pretty happy person, and I don't have a history of depression or anxiety. 
+
+Doctor: Okay, that's good to know. Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. Just the fatigue and lack of appetite.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to administer a PHQ-8 assessment to get a better understanding of your symptoms. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After reviewing your PHQ-8 assessment, it appears that you do not meet the criteria for a diagnosis of depression. However, I would still like to keep an eye on your symptoms and recommend some lifestyle changes that may help improve your mood, such as exercise, eating a healthy diet, and getting enough sleep. I would also recommend seeking therapy or counseling to help you work through any stress or difficulties you may be experiencing in your life.
+
+Patient: Thank you, doctor. I appreciate your help and guidance.

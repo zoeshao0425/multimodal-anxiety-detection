@@ -1,0 +1,39 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down.
+
+Doctor: Can you tell me more about that? Have you been feeling sad or hopeless?
+
+Patient: Yeah, definitely. It's like a cloud is hanging over me all the time. I just can't seem to shake it.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I don't really feel like eating much either.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, very much so. It's hard to get motivated to do anything.
+
+Doctor: Have you been having any trouble concentrating or making decisions?
+
+Patient: Yeah, I feel like my mind is always foggy. I can't focus on anything for very long.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Sometimes, yeah. Like I'm not good enough or I'm letting people down.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I wouldn't do anything like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it sounds like you may be experiencing symptoms of depression. 
+
+Patient: Really? I didn't even realize that was a possibility.
+
+Doctor: Yes, depression is a common condition that affects many people. It's important to recognize the symptoms and seek treatment if necessary. 
+
+Patient: What kind of treatment options are available?
+
+Doctor: There are a variety of treatments available for depression, including medication, therapy, and lifestyle changes. We can discuss which options might be best for you.
+
+Patient: Okay, that sounds good. Thank you for taking the time to talk to me about this.

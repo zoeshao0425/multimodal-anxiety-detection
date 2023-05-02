@@ -1,0 +1,35 @@
+Doctor: Hi, I understand that you are here to discuss your symptoms of depression. Can you tell me what symptoms you have been experiencing?
+
+Patient: Yes, I've been feeling really down lately. I don't enjoy doing things I used to love, and I feel like I'm just going through the motions of life.
+
+Doctor: I see. Have you been feeling this way for a while?
+
+Patient: Yes, it's been about 2 months now.
+
+Doctor: Okay. Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yes, I've been eating less and have lost some weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble falling asleep and staying asleep. And when I do sleep, I don't feel rested.
+
+Doctor: Have you noticed any changes in your energy levels or motivation?
+
+Patient: Yes, I feel tired all the time and I don't feel motivated to do anything.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts of hurting myself or others.
+
+Doctor: Okay, thank you for answering those questions. Can you tell me a bit about your personal background? Do you have any history of depression or other mental health issues in your family?
+
+Patient: Yes, my mother has struggled with depression for most of her life. And I've also had some struggles with anxiety in the past.
+
+Doctor: I see. And how has your depression been impacting your daily functioning?
+
+Patient: It's been really difficult. I've been missing work and struggling to keep up with my responsibilities at home. I just don't have the energy or motivation to do anything.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. I would like to diagnose you with depression and recommend some treatment options. Would you be open to discussing those options with me?
+
+Patient: Yes, I would appreciate that.

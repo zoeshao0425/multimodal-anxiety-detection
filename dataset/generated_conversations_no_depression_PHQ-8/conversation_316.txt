@@ -1,0 +1,47 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Okay, sure.
+
+Doctor: Have you been feeling little interest or pleasure in doing things?
+
+Patient: Yes, definitely. I used to love going out with friends, but now I just don't feel like it.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really sad and hopeless lately. It's like I can't shake off this feeling.
+
+Doctor: Have you been having trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: I have been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yes, I feel exhausted all the time. Even getting out of bed in the morning feels like a huge task.
+
+Doctor: Have you been having poor appetite or overeating?
+
+Patient: I haven't been eating as much as I used to. Food just doesn't seem appealing to me anymore.
+
+Doctor: Have you been feeling bad about yourself or feeling like a failure or letting yourself or your family down?
+
+Patient: Yes, I have been feeling like a failure lately. I feel like I'm not good enough and that I'm letting everyone around me down.
+
+Doctor: Have you been having trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yes, I have been having trouble concentrating on anything. My mind feels foggy all the time.
+
+Doctor: Have you been moving or speaking so slowly that other people could have noticed? Or the opposite, being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I haven't really noticed any changes in my movements or speech.
+
+Doctor: Based on your answers, it seems like you may be experiencing some symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your situation. Can you tell me a bit about your personal background and any recent life events that may have contributed to how you're feeling?
+
+Patient: Well, I recently lost my job, which has been really difficult for me. I also went through a breakup with my partner, which has added to my sadness.
+
+Doctor: I see. Losing a job and going through a breakup can definitely be tough. How have these events been impacting your daily functioning?
+
+Patient: It's been hard to get out of bed in the morning and motivate myself to do anything. I've been isolating myself from friends and family, and I just feel really down all the time.
+
+Doctor: Based on what you've told me, it seems like your symptoms may be related to these recent life events rather than clinical depression. However, I would still recommend seeking support from a therapist or counselor to help you process these experiences and develop coping strategies. Additionally, there are some lifestyle changes you can make to improve your mood, such as getting regular exercise, eating a healthy diet, and practicing relaxation techniques like meditation or deep breathing. Would you be interested in pursuing therapy or making any of these changes?
+
+Patient: Yes, I think that would be helpful. Thank you for your guidance.

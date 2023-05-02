@@ -1,0 +1,33 @@
+Doctor: So, can you tell me a little bit about what's been going on with you lately?
+
+Patient: Well, I've been feeling really down and unmotivated. I don't enjoy things that used to make me happy, and I have trouble sleeping.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and have lost a few pounds.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yes, I feel tired all the time and have trouble getting out of bed in the morning.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like everything I do is wrong and that I'm not good enough.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I can't focus on anything and have trouble making even simple decisions.
+
+Doctor: Based on your responses, it sounds like you're experiencing symptoms of depression. However, it's important to rule out any other underlying medical conditions that could be causing these symptoms. Let's run some tests and see if we can find any other causes.
+
+Patient: Okay, that sounds good.
+
+After running tests, the doctor determines that the patient does not have depression but is experiencing symptoms related to a thyroid condition. The doctor prescribes medication to treat the thyroid condition and advises the patient to follow up in a few weeks to see how they're feeling.

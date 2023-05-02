@@ -1,0 +1,45 @@
+Doctor: So, I understand that you are here to discuss your symptoms of depression. Can you tell me a bit more about what you've been experiencing?
+
+Patient: Yes, I've been feeling really down lately. I have no energy, and I don't enjoy things that used to make me happy.
+
+Doctor: Okay, how long have you been feeling this way?
+
+Patient: It's been going on for about two months now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: My appetite has decreased, and I have trouble falling asleep at night.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't.
+
+Doctor: Okay, can you tell me a bit more about your personal life? Do you have any stressors or major life events that could be contributing to your symptoms?
+
+Patient: Well, my job has been really stressful lately, and I'm going through a divorce.
+
+Doctor: I see. Those are definitely significant stressors. How have your symptoms impacted your daily functioning?
+
+Patient: I've been having trouble getting out of bed in the morning, and it's hard for me to concentrate at work. I've also been isolating myself from friends and family.
+
+Doctor: Based on what you've told me, it does sound like you are experiencing symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your condition. 
+
+Patient: Okay.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, I haven't.
+
+Doctor: Have you experienced any changes in your sex drive?
+
+Patient: Yes, it's decreased.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it does not appear that you meet the criteria for a diagnosis of major depression. However, I would still like to discuss some treatment options with you to help alleviate your symptoms and improve your overall well-being.
+
+Patient: That sounds good to me. Thank you for taking the time to talk with me. 
+
+Doctor: Of course, it's my pleasure. Let's work together to find a treatment plan that works for you.

@@ -1,0 +1,39 @@
+Doctor: So, how have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you describe what you mean by feeling down?
+
+Patient: Yeah, I just feel really sad all the time. I don't enjoy things that used to make me happy, and I don't have much motivation to do anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't had much of an appetite lately, and I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Do you have any physical symptoms, like headaches or stomach problems?
+
+Patient: Not really, just some fatigue and a general feeling of being unwell.
+
+Doctor: Have you experienced any significant life events or stressors recently that might be contributing to how you're feeling?
+
+Patient: Well, my job has been really stressful lately, and I went through a breakup a few months ago that was pretty tough.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing depression. I'm going to give you a questionnaire to fill out that will help me better understand your symptoms and how severe they are. 
+
+Patient: Okay, sure.
+
+Doctor: (hands over PHQ-8 questionnaire) This questionnaire asks about how often you've been bothered by certain symptoms over the past two weeks, including feeling down, having little interest in doing things, and feeling tired. Please fill it out as honestly as possible.
+
+Patient: (fills out questionnaire)
+
+Doctor: Okay, based on your responses, it looks like you have moderate depression. I'm going to recommend some treatment options for you, including therapy and medication. 
+
+Patient: Okay, thank you.

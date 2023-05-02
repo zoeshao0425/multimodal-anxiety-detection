@@ -1,0 +1,27 @@
+Doctor: So, I understand that you've been feeling down lately. Can you tell me more about how you've been feeling?
+
+Patient: Yeah, I just haven't been myself lately. I feel sad all the time, even when there's no reason to be.
+
+Doctor: Have you been experiencing any other symptoms? Like changes in appetite or sleep patterns?
+
+Patient: Yeah, my appetite has been really off. I have no interest in eating, and even when I do eat, it doesn't taste good. And I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you noticed a decrease in your energy levels or motivation?
+
+Patient: Definitely. I used to be really active and enjoy going out with friends, but now I just don't have the energy for it. I don't even want to get out of bed most days.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I feel like nothing I do matters and that I'm just a burden on everyone around me.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: (pauses) Yes, I have. I haven't acted on it, but the thoughts are there.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any of these symptoms for more than two weeks?
+
+Patient: Yeah, it's been going on for a few months now.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. It's important to remember that depression is a medical condition and not a personal failure. There are treatments available that can help. Would you be open to discussing some options?
+
+Patient: Yes, I would like to explore some options. Thank you for taking the time to listen to me.

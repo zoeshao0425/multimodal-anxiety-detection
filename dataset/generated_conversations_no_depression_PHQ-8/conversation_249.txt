@@ -1,0 +1,29 @@
+Doctor: Can you tell me about how you’ve been feeling lately?
+
+Patient: I’ve been feeling really down and sad. It’s been hard for me to enjoy things that I used to love doing.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I’ve been having trouble sleeping. I either can’t fall asleep or I wake up in the middle of the night and can’t go back to sleep.
+
+Doctor: How about your appetite? Have you been eating more or less than usual?
+
+Patient: I’ve been eating a lot less than usual. I just don’t have much of an appetite anymore.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I’ve been feeling exhausted all the time. Even when I get enough sleep, I still feel tired.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I’ve been feeling like everything is my fault and like I’m not good enough.
+
+Doctor: Have you been having any trouble concentrating or making decisions?
+
+Patient: Yeah, it’s been really hard for me to focus on anything. I can’t seem to make even simple decisions.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven’t had any thoughts like that.
+
+Doctor: Based on your answers, it doesn't look like you have depression. However, if your symptoms persist, please don't hesitate to come back and see me.

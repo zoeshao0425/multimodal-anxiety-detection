@@ -1,0 +1,35 @@
+Doctor: Hi, can you tell me a bit about how you've been feeling lately?
+
+Patient: Honestly, I've been feeling pretty down. I'm not finding joy in things that used to make me happy, and I feel really tired all the time.
+
+Doctor: Have you been experiencing any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been having trouble sleeping and I've lost my appetite. I just don't feel like eating.
+
+Doctor: How about your energy levels? Have you been feeling more fatigued than usual?
+
+Patient: Definitely. It's hard to get out of bed in the morning, and even when I do, I feel like I'm dragging myself through the day.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I've been having trouble focusing at work, and even small decisions feel overwhelming.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like nothing I do really matters.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it sounds like you may be experiencing symptoms of depression. Can you tell me a bit about what's been going on in your life recently?
+
+Patient: Well, I've been going through a lot of stress at work, and my relationship with my partner has been rocky. I also lost my pet recently, which was really hard for me.
+
+Doctor: I'm sorry to hear that. It sounds like you've been dealing with a lot. Have you talked to anyone about these issues?
+
+Patient: Not really. I don't want to burden my friends or family with my problems.
+
+Doctor: I understand how you feel, but it's important to have a support system when you're going through a tough time. I'm going to refer you to a therapist who can help you work through these issues and develop coping strategies for your symptoms. We can also discuss medication options if that's something you're interested in.
+
+Patient: Thank you, doctor. I appreciate your help.

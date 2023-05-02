@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yeah, I've been feeling pretty down lately. It's been hard to get out of bed in the morning, and I just feel like I don't have any energy. I'm not really interested in doing anything, and I just feel sad all the time.
+
+Doctor: Have you experienced any loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, I used to love playing soccer with my friends, but lately I just don't feel like doing anything. Even when I do try to play, it just doesn't feel the same.
+
+Doctor: Have you had any trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I'll lay in bed for hours and just can't seem to fall asleep. And then when I do finally fall asleep, I'll wake up multiple times throughout the night.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't really been eating much lately. I just don't really feel hungry. And I've lost some weight because of it.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: No, I haven't had any thoughts of hurting myself or anything like that.
+
+Doctor: Have you experienced any feelings of worthlessness or excessive guilt?
+
+Patient: Yeah, I feel like I'm not really good at anything anymore. I used to be really good at soccer, but now I just feel like I'm not good at anything.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been hard to focus on anything lately. I'll start doing something, and then my mind will just wander off. And making decisions has been really hard too.
+
+Doctor: Based on what you've told me, it does seem like you're experiencing some symptoms of depression. However, I don't think you meet the criteria for a diagnosis of major depressive disorder. We can discuss some treatment options if you'd like, but it's ultimately up to you.

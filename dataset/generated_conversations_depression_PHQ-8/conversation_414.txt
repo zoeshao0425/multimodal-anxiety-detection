@@ -1,0 +1,41 @@
+Doctor: So, how have you been feeling lately?
+
+Patient: Honestly, I've been feeling pretty down. I just can't seem to shake this feeling of sadness and hopelessness.
+
+Doctor: Okay, can you tell me more about that? Have you been experiencing any other symptoms?
+
+Patient: Yeah, I've been having trouble sleeping. I either sleep too much or not enough. And I've lost my appetite. Food just doesn't taste good anymore.
+
+Doctor: I see. Have you noticed any changes in your energy levels or motivation?
+
+Patient: Yeah, I feel exhausted all the time. Even small tasks feel like a huge effort. And I don't really feel like doing anything anymore.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you ever experienced anything like this before?
+
+Patient: Yeah, I've had episodes of depression in the past. But this feels different. It's like it's even harder to get out of bed in the morning.
+
+Doctor: Have you noticed any changes in your mood or emotions?
+
+Patient: I just feel so sad all the time. And sometimes I get really irritable or angry for no reason at all.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, I haven't. I just feel like I'm stuck in this never-ending cycle of sadness.
+
+Doctor: Okay, I understand. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a full assessment to get a better understanding of your condition. 
+
+(Patient completes PHQ-8 assessment)
+
+Doctor: Based on your responses to the PHQ-8, it looks like you are experiencing moderate to severe depression. 
+
+Patient: (sighs) I was afraid of that.
+
+Doctor: It's okay. Depression is a common and treatable condition. There are many different treatment options we can explore, including therapy and medication. 
+
+Patient: I just feel so helpless. Like I'm never going to get better.
+
+Doctor: I know it can feel overwhelming, but there is hope. With the right treatment and support, you can start feeling better. We'll work together to come up with a treatment plan that works for you.

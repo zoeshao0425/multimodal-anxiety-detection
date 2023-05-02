@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, I've been feeling pretty down. I've been having trouble sleeping and I haven't been interested in doing things that I used to enjoy.
+
+Doctor: Can you tell me more about how you're feeling?
+
+Patient: Yeah, I just feel really sad all the time. I don't have much energy and I'm not motivated to do anything. I've also been having trouble concentrating.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Not really. I haven't been eating as much as usual, but I don't think it's a big difference.
+
+Doctor: How about your sleep? Have you been having trouble falling asleep or staying asleep?
+
+Patient: Yeah, I've been having trouble falling asleep and I wake up a lot during the night. I usually feel pretty tired during the day because of it.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any major life changes recently that could be contributing to how you're feeling?
+
+Patient: Well, my job has been really stressful lately and I've been having some problems in my personal life too.
+
+Doctor: Okay, that's good to know. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'm going to give you a PHQ-8 assessment to help us understand your symptoms better.
+
+Patient: Okay, sure.
+
+Doctor: (proceeds to administer the assessment)
+
+Doctor: Based on your responses, it doesn't seem like you meet the criteria for a diagnosis of depression. However, it's important to address the stress and other issues that you're dealing with. I recommend that you try to find ways to manage your stress, such as exercise or talking to a therapist. It might also be helpful to make some changes in your work or personal life to reduce the sources of stress.
+
+Patient: Okay, thank you for your help. I'll try to take your advice and make some changes.

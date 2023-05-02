@@ -1,0 +1,41 @@
+Doctor: So, I understand that you're here because you've been feeling down lately. Can you tell me more about what you've been experiencing?
+
+Patient: Yeah, I just feel really sad all the time. It's like I can't shake this feeling of hopelessness.
+
+Doctor: I see. How often have you been feeling this way?
+
+Patient: Almost every day for the past few weeks.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you had any trouble sleeping?
+
+Patient: Yeah, I've been having trouble falling asleep and staying asleep.
+
+Doctor: Have you noticed a decrease in your energy levels or motivation?
+
+Patient: Definitely. I don't feel like doing anything anymore.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Now, can you tell me a bit about your personal life? Do you have any major stressors or life changes that may be contributing to how you're feeling?
+
+Patient: Well, I did just go through a breakup recently. It's been pretty tough.
+
+Doctor: I'm sorry to hear that. Have you been able to talk to anyone about how you're feeling?
+
+Patient: Not really, I've been keeping it to myself.
+
+Doctor: I see. Well, based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, it's important to note that there are many different factors that can contribute to how someone is feeling. In your case, it seems like the breakup may be a major factor. I would recommend that you try to talk to someone about how you're feeling, whether that's a friend, family member, or a mental health professional. Additionally, there are some lifestyle changes you can make that may help, such as getting regular exercise, eating a healthy diet, and getting enough sleep. 
+
+Patient: Okay, thank you for your advice. 
+
+Doctor: Of course. And just to be thorough, I'm going to ask you one last question. On a scale of 0-3, how often have you been bothered by any of the following symptoms in the past two weeks: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating, and moving or speaking slowly?
+
+Patient: Well, I've been feeling down and hopeless almost every day, but the other symptoms are less frequent. So, I would say a 2 for those.
+
+Doctor: Okay, based on your answers, it seems like you don't meet the criteria for a diagnosis of depression. However, it's still important to take care of yourself and seek support if you need it. If your symptoms persist or worsen, please don't hesitate to come back and see me.

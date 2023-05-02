@@ -1,0 +1,33 @@
+Doctor: Can you tell me more about how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. It's been hard for me to find enjoyment in things that I used to love doing.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day for the past few weeks.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been having trouble sleeping and I've lost my appetite.
+
+Doctor: Do you feel tired or have low energy throughout the day?
+
+Patient: Yes, I feel exhausted all the time.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough and I'm constantly beating myself up over things.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yes, it's been really hard for me to focus and make decisions lately.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I want to run some tests to rule out any other potential causes. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After conducting some tests, I don't believe that you are experiencing depression. It's possible that you may be going through a difficult time, but it doesn't meet the criteria for a clinical diagnosis. However, if these symptoms persist, please don't hesitate to come back and see me. In the meantime, I would suggest finding ways to practice self-care and seeking support from loved ones.

@@ -1,0 +1,57 @@
+Doctor: Can you tell me about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and hopeless. I just don't have any motivation to do anything anymore.
+
+Doctor: Have you been experiencing any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I don't really have much of an appetite.
+
+Doctor: Have you noticed any changes in your energy levels or ability to concentrate?
+
+Patient: Yeah, I feel really tired all the time and I'm having trouble focusing on things.
+
+Doctor: Have you been feeling more irritable or anxious than usual?
+
+Patient: Yeah, I've been getting really anxious about everything and I'm easily irritated by things that wouldn't usually bother me.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Can you tell me a bit about your personal background and any life events that may have triggered these symptoms?
+
+Patient: Well, I recently lost my job and my marriage is going through a rough patch. It's been really stressful and I just feel like I can't cope with everything.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'm going to ask you a few more questions to get a better understanding of your condition.
+
+Patient: Okay.
+
+Doctor: Have you been experiencing little interest or pleasure in doing things?
+
+Patient: Yes, I've lost interest in doing things that I used to enjoy.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I've been feeling really down and hopeless.
+
+Doctor: Have you been having trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: I've been sleeping a lot more than usual.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yes, I've been feeling really tired all the time.
+
+Doctor: Have you been having trouble with your appetite or overeating?
+
+Patient: I haven't really been eating much lately.
+
+Doctor: Have you been feeling bad about yourself, or feeling like a failure?
+
+Patient: Yeah, I've been feeling like a failure lately.
+
+Doctor: Have you been having trouble concentrating on things, such as reading or watching TV?
+
+Patient: Yes, I've been having trouble focusing on things.
+
+Doctor: Based on your answers, it doesn't appear that you meet the criteria for a diagnosis of depression. However, I would still like to schedule a follow-up appointment to check in on you and discuss any other concerns you may have. In the meantime, I recommend practicing self-care and seeking support from loved ones or a therapist if needed.

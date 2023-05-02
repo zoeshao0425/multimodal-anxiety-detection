@@ -1,0 +1,29 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: I've been feeling really down and hopeless. It's hard for me to find joy in things that used to make me happy.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and have lost some weight.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and have trouble falling back asleep.
+
+Doctor: Have you noticed a lack of energy or motivation to do things?
+
+Patient: Definitely. It's been hard for me to get out of bed in the morning and I don't feel like doing anything.
+
+Doctor: Have you been feeling more irritable or easily agitated?
+
+Patient: Yes, I've been getting upset over small things that wouldn't normally bother me.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: I've had fleeting thoughts of not wanting to be alive, but I don't have any plans to harm myself.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: Not really, just some general aches and pains.
+
+Doctor: Thank you for answering all of those questions. Based on your answers, it sounds like you may be experiencing depression. I want to work with you to come up with a treatment plan that will help you start feeling better.

@@ -1,0 +1,43 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Honestly, I've been feeling that way almost every day.
+
+Doctor: Okay. And how about feeling little interest or pleasure in doing things?
+
+Patient: Yeah, that too. I used to enjoy going out with friends, but now I just don't feel like it.
+
+Doctor: I see. Have you experienced any significant changes in your appetite or weight?
+
+Patient: Not really. I eat normally, but sometimes I don't feel like eating at all.
+
+Doctor: Alright. How about trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I have trouble falling asleep, and I wake up several times during the night. But I don't sleep too much.
+
+Doctor: Okay. Have you felt tired or had little energy lately?
+
+Patient: Yes, I feel exhausted all the time, even when I haven't done anything.
+
+Doctor: And have you felt bad about yourself or felt like you're a failure or let yourself or your family down?
+
+Patient: Yes, I've been feeling guilty for no reason, and I feel like I'm not good enough.
+
+Doctor: I see. Have you had trouble concentrating on things, such as reading the newspaper or watching TV?
+
+Patient: Yes, I find myself zoning out a lot, and I can't focus on anything for too long.
+
+Doctor: And finally, have you had thoughts that you would be better off dead or hurting yourself in some way?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Okay, thank you for answering the questions. Based on your responses, it seems like you're experiencing some symptoms of depression. Can you tell me more about what's been going on in your life lately?
+
+Patient: Well, I lost my job a few months ago, and I've been struggling to find a new one. My finances are getting tight, and I'm worried about how I'm going to pay my bills. I also recently went through a breakup, which has been really hard for me.
+
+Doctor: I see. It sounds like you're dealing with a lot of stressors right now. Have you tried any coping mechanisms, such as exercise or talking to someone about your feelings?
+
+Patient: I've been trying to exercise more, but it's hard to motivate myself. And I haven't really talked to anyone about how I'm feeling.
+
+Doctor: Okay. Well, based on what you've told me, I don't think you have depression. However, I do think that you could benefit from some support during this difficult time. Would you be open to seeing a therapist or counselor to talk about your feelings and develop coping strategies?
+
+Patient: Yes, I think that would be helpful. Thank you for your help, doctor.

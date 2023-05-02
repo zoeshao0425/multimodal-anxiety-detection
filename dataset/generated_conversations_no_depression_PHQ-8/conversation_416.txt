@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little about how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't have much energy, and I've lost interest in things that used to make me happy.
+
+Doctor: Have you been feeling this way for a while?
+
+Patient: Yeah, it's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well at all. And I've been eating a lot less than usual.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Definitely. It's been hard to focus on anything, and I've been second-guessing myself a lot.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel really tired all the time. Even getting out of bed in the morning is a struggle.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors, such as stress or a medical condition. I'd like to run some tests to rule out any underlying medical issues. 
+
+Patient: Okay, that sounds good. 
+
+Doctor: In the meantime, I'd like you to try and focus on self-care. Make sure you're getting enough rest, eating well, and engaging in activities that bring you joy. We'll follow up after the test results come back.

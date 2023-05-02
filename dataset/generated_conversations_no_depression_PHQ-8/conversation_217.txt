@@ -1,0 +1,41 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and unmotivated.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I either have trouble falling asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you experienced any changes in your appetite?
+
+Patient: I haven't been eating as much as I usually do. I just don't feel hungry.
+
+Doctor: Have you lost interest in things you used to enjoy doing?
+
+Patient: Yeah, I used to love playing video games and watching movies, but now I just don't have the energy or motivation to do them.
+
+Doctor: Have you been feeling more tired than usual?
+
+Patient: Definitely. I feel exhausted all the time, even if I haven't done anything that day.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Sometimes. I just feel like nothing I do matters and that I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your answers, it seems like you may be experiencing some symptoms of depression. However, it's important to note that there could be other factors contributing to your feelings as well. Let's talk more about your personal life and experiences to get a better understanding of what could be causing these symptoms.
+
+Patient: Well, I recently went through a breakup and it's been really tough for me. I also lost my job a few months ago and I've been struggling to find a new one.
+
+Doctor: Those are definitely significant stressors that could be contributing to your feelings. It's important to take care of yourself during difficult times like these. I would recommend seeking support from friends and family, as well as considering therapy or counseling to help you work through your emotions.
+
+Patient: That's a good idea. I'll definitely consider it.
+
+Doctor: Based on our conversation, I don't believe you meet the criteria for a diagnosis of depression at this time. However, if your symptoms persist or worsen, please don't hesitate to reach out to me or another healthcare provider for further evaluation and treatment.

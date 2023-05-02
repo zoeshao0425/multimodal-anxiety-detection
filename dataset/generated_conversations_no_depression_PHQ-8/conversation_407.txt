@@ -1,0 +1,35 @@
+Doctor: So, tell me a bit about what's been going on. How have you been feeling lately?
+
+Patient: Well, I've been feeling really down lately. I don't have much energy, and I don't really enjoy things that I used to like doing.
+
+Doctor: Okay, can you elaborate on that? What kind of things don't you enjoy anymore?
+
+Patient: Well, I used to love going out with friends or doing things around the house, but now I just feel like I don't have the energy for it. Even getting out of bed in the morning is a struggle sometimes.
+
+Doctor: I see. Have you noticed any changes in your sleeping patterns? Do you have trouble falling asleep or staying asleep?
+
+Patient: Yeah, I've been having trouble sleeping lately. Sometimes I'll wake up in the middle of the night and just lay there for hours.
+
+Doctor: Okay, and have you noticed any changes in your appetite? Are you eating more or less than usual?
+
+Patient: I haven't really been hungry lately. I'll eat because I know I have to, but I don't really enjoy it.
+
+Doctor: Alright. Have you been feeling hopeless or worthless lately? Do you ever have thoughts of hurting yourself?
+
+Patient: No, I don't have thoughts of hurting myself, but I do feel pretty worthless sometimes. I feel like I'm not doing anything right, and that I'm just a burden on everyone.
+
+Doctor: Okay, and have you noticed any changes in your ability to concentrate or focus?
+
+Patient: Yeah, I've been having trouble concentrating lately. It's hard for me to focus on anything for very long.
+
+Doctor: Alright, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Okay, sure.
+
+Doctor: Can you tell me a bit about your personal life? Do you have any major stressors or changes happening right now?
+
+Patient: Well, I recently lost my job, and that's been really stressful. I'm also going through a breakup, which has been really hard for me.
+
+Doctor: I see. It's not uncommon for major life changes to trigger symptoms of depression. However, based on your responses to the PHQ-8 assessment, it doesn't seem like your symptoms are severe enough to warrant a diagnosis of depression. That being said, I would still recommend seeking support from a therapist or counselor to help you cope with the stressors in your life and manage your symptoms. 
+
+Patient: Okay, thank you for your help.

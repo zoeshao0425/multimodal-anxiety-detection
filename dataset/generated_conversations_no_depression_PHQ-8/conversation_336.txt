@@ -1,0 +1,33 @@
+Doctor: So, can you tell me about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down lately. I just don't have any motivation to do anything.
+
+Doctor: Have you been experiencing any feelings of hopelessness or worthlessness?
+
+Patient: Yes, definitely. I feel like nothing I do matters and that I'm just a burden on everyone.
+
+Doctor: How about your sleep patterns? Have you been sleeping more or less than usual?
+
+Patient: I've been sleeping a lot more than usual. I just don't have the energy to get out of bed in the morning.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual. Food just doesn't seem appealing to me anymore.
+
+Doctor: Do you find yourself easily getting agitated or irritated?
+
+Patient: Yes, definitely. Little things that wouldn't usually bother me are now setting me off.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it seems like you may be experiencing symptoms of depression. Can you tell me a bit more about your personal life and what might be causing these feelings?
+
+Patient: Well, I recently lost my job and I've been having trouble finding a new one. It's been really stressful and I just feel like a failure.
+
+Doctor: That's understandable. Losing a job can be a difficult experience. However, based on your responses to the PHQ-8 assessment, I don't believe you meet the criteria for a diagnosis of depression. It sounds like you're going through a tough time right now, but it's important to remember that things will get better. Have you considered talking to a therapist or counselor to help you cope with these feelings?
+
+Patient: No, I haven't thought about that. But I think it could be helpful.
+
+Doctor: Great, I can refer you to a therapist who can provide you with some support and guidance during this difficult time. In the meantime, try to take care of yourself as best you can. Make sure you're getting enough sleep, eating well, and engaging in activities that you enjoy. And if you ever start experiencing any thoughts of self-harm or suicide, please don't hesitate to reach out for help.

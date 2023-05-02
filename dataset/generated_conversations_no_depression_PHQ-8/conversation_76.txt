@@ -1,0 +1,35 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately, and I'm not sure why.
+
+Doctor: Okay, can you tell me a bit more about how you've been feeling?
+
+Patient: Well, I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't get back to sleep.
+
+Doctor: That's a common symptom of depression. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating as much as usual, and I've lost a few pounds.
+
+Doctor: Okay. Have you been feeling hopeless or helpless? Do you feel like things will never get better?
+
+Patient: Yeah, I feel like nothing I do matters and that I'll never be happy again.
+
+Doctor: Have you lost interest in things you used to enjoy doing? Like hobbies or spending time with friends?
+
+Patient: Yeah, I don't really feel like doing anything anymore. Even things I used to love don't bring me any joy.
+
+Doctor: Have you been feeling tired or fatigued a lot lately?
+
+Patient: Yeah, I'm always tired no matter how much sleep I get.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yeah, I can't seem to focus on anything for very long, and even simple decisions are really difficult.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, based on your answers, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors, such as stress or a medical condition. I would like to run some tests to rule out any underlying medical issues. In the meantime, I recommend you try to get some exercise, eat healthy, and get enough sleep. We'll follow up after the test results come back.
+
+Patient: Thank you, doctor. I appreciate your help.

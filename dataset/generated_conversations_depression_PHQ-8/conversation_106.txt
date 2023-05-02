@@ -1,0 +1,43 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling.
+
+Doctor: Okay, can you tell me more about that feeling? How long have you been experiencing it?
+
+Patient: It's been going on for a few months now. I just feel really sad and hopeless all the time. I don't enjoy things that I used to like anymore.
+
+Doctor: I see. Have you noticed any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep. And I've lost my appetite. I have to force myself to eat.
+
+Doctor: Have you noticed any changes in your energy levels or motivation?
+
+Patient: Yeah, I feel exhausted all the time. Even getting out of bed in the morning feels like a huge effort. And I don't feel motivated to do anything.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts of hurting anyone. But sometimes I feel like life isn't worth living.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any major life events or stressors recently?
+
+Patient: My dad passed away a few months ago, and since then, I haven't been able to get over it. We were very close.
+
+Doctor: I'm sorry to hear that. That's definitely a difficult thing to go through. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better sense of how severe it is.
+
+Patient: Okay.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I can't seem to focus on anything. Even simple decisions feel overwhelming.
+
+Doctor: Thank you for answering those questions. Based on your responses, I believe that you are experiencing moderate to severe depression. I'd like to recommend a course of treatment that may include therapy and medication. Would you be open to that?
+
+Patient: Yes, I'm willing to try anything to feel better.
+
+Doctor: Great. I'll refer you to a therapist and prescribe an antidepressant. We'll also schedule a follow-up appointment in a few weeks to see how you're doing. Is there anything else you'd like to talk about or ask me?
+
+Patient: No, I think that covers everything. Thank you for listening and for your help.

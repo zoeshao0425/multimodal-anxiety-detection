@@ -1,0 +1,29 @@
+Doctor: Can you tell me a little bit about how you have been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't really have any energy or motivation to do anything.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yeah, I haven't really been eating much and I've lost some weight.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble falling asleep and staying asleep. And when I do sleep, I still feel tired when I wake up.
+
+Doctor: Have you noticed any changes in your concentration or ability to focus?
+
+Patient: Yeah, I have a hard time concentrating and I feel like I'm in a fog most of the time.
+
+Doctor: Have you been feeling more irritable or easily agitated than usual?
+
+Patient: Yes, I've been getting really frustrated and angry over things that wouldn't usually bother me.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any significant life events or stressors recently?
+
+Patient: Well, my job has been really stressful lately and I've been going through a tough time with my partner.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to recommend some treatment options for you, including therapy and possibly medication.

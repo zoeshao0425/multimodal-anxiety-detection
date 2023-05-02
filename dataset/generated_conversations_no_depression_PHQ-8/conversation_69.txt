@@ -1,0 +1,39 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Honestly, I've been feeling that way almost every day for the past month or so.
+
+Doctor: Okay, and have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite lately, and I've lost a few pounds without really trying.
+
+Doctor: Have you had any trouble falling asleep or staying asleep?
+
+Patient: Yes, I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you felt tired or had a lack of energy recently?
+
+Patient: Yeah, I've been feeling really lethargic lately. It's hard to get motivated to do anything.
+
+Doctor: Have you noticed any changes in your interest or pleasure in doing things?
+
+Patient: Definitely. I used to enjoy going out with friends and doing hobbies, but now I just don't feel like doing anything.
+
+Doctor: Have you felt guilty or worthless lately?
+
+Patient: Yeah, I've been feeling pretty worthless lately. I feel like I'm not good enough at anything.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, it's been hard to focus on anything lately. Even simple decisions seem overwhelming.
+
+Doctor: Lastly, have you had any thoughts of hurting yourself or thoughts of suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or suicide.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other medical conditions or life circumstances. Can you tell me more about what's been going on in your life lately?
+
+Patient: Well, I recently lost my job, and it's been hard to find a new one. I also broke up with my partner, and I've been feeling really lonely.
+
+Doctor: That's understandable. It sounds like you're going through a lot right now, and it's important to take care of yourself. I don't think you have depression, but I would recommend that you talk to a therapist or counselor to help you cope with these life changes. They can provide you with tools to manage your stress and emotions.
+
+Patient: Okay, thank you for your help. I'll look into seeing a therapist.

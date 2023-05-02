@@ -1,0 +1,41 @@
+Doctor: Can you tell me a little bit about what's been going on lately that made you come in today?
+
+Patient: Well, I've been feeling really down lately. Like, I just don't have any energy or motivation to do anything. Even things I used to enjoy, like going out with friends or watching movies, don't really interest me anymore.
+
+Doctor: I see. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, but even when I wake up I still feel tired. And I haven't really been hungry either - sometimes I'll go all day without eating anything.
+
+Doctor: Okay. Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, actually. I feel like I'm not good enough at anything and I've been beating myself up over it a lot lately.
+
+Doctor: And have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I just feel really down and hopeless most of the time.
+
+Doctor: Alright. Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: Not really, no.
+
+Doctor: Okay. And how long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. At first I thought it was just a bad mood, but it hasn't really gone away.
+
+Doctor: I understand. Can you tell me a little bit about your personal life? Do you have any major stressors or changes happening right now?
+
+Patient: Well, I recently lost my job, so that's been pretty stressful. And my relationship with my girlfriend has been a little rocky lately too.
+
+Doctor: I see. That could definitely be contributing to your mood. Have you talked to anyone about how you're feeling?
+
+Patient: Not really, no. I've been trying to keep it to myself.
+
+Doctor: I understand. Well, based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'm going to give you a questionnaire to fill out to help me better understand your symptoms and make a more accurate diagnosis.
+
+Patient: Okay.
+
+(Several minutes pass as the patient fills out the PHQ-8 assessment)
+
+Doctor: Based on your answers, it looks like you have some symptoms of depression, but they don't quite meet the diagnostic criteria. However, I would still recommend that you seek out therapy or counseling to help you cope with the stressors in your life and improve your mood.
+
+Patient: Okay, thank you for your help.

@@ -1,0 +1,41 @@
+Doctor: So, let's talk about your mood. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really low lately. I don't feel like doing anything, and I'm always tired.
+
+Doctor: Okay. How often have you been feeling this way in the past two weeks?
+
+Patient: Every day. It's been really hard to get motivated to do anything.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Not really. I haven't been eating as much as I usually do, but I haven't lost or gained any weight.
+
+Doctor: What about your sleep? Have you been sleeping too much or too little?
+
+Patient: I've been sleeping a lot more than usual. I can sleep for 10 hours and still feel exhausted.
+
+Doctor: Have you been feeling restless or slowed down?
+
+Patient: Definitely slowed down. I feel like everything is just too much effort.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, it's been really difficult to focus on anything. Even simple decisions seem overwhelming.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. Can you tell me more about what's been going on in your life recently?
+
+Patient: Well, I lost my job a few months ago, and I've been struggling to find work. I've also been having some relationship problems with my partner.
+
+Doctor: I see. It sounds like you've been dealing with a lot of stress lately. Have you talked to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden my friends or family with my problems.
+
+Doctor: It's important to reach out for support when you're going through a difficult time. Have you considered talking to a therapist or counselor?
+
+Patient: I haven't, but maybe that would be a good idea.
+
+Doctor: I think it would be a good idea to explore some treatment options for your depression. However, based on your responses to the PHQ-8 assessment, it doesn't seem like your symptoms are severe enough to warrant a diagnosis of major depression. We can discuss some self-care strategies and lifestyle changes that may help improve your mood, as well as referrals to mental health professionals if you're interested.

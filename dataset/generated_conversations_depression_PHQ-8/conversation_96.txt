@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and low-energy.
+
+Doctor: Have you been experiencing any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, definitely. I feel like nothing I do really matters and that I'm just a burden on everyone around me.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I toss and turn all night and wake up feeling exhausted.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating as much as usual and I've lost some weight.
+
+Doctor: Have you been feeling more irritable or easily agitated than usual?
+
+Patient: Yes, I've been snapping at people for no reason and getting upset over things that normally wouldn't bother me.
+
+Doctor: Have you been having any physical symptoms like headaches or stomachaches?
+
+Patient: Not really, but I have been feeling really fatigued and achy.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: (pauses) Yeah, I have. Sometimes it feels like the only way out.
+
+Doctor: Thank you for being honest with me. Can you tell me a little bit about what's been going on in your life lately?
+
+Patient: Well, I lost my job a few months ago and I haven't been able to find anything else. Money's been really tight and I've been feeling like a failure because of it. And then my girlfriend and I broke up recently, which has been really hard.
+
+Doctor: I'm sorry to hear that. It sounds like you've been dealing with a lot of stressors lately. Based on what you've told me, I think you may be experiencing depression. I'd like to refer you to a therapist who can help you work through these feelings and develop coping strategies. In the meantime, I'm going to prescribe you an antidepressant to help manage your symptoms.

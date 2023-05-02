@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling down and unmotivated.
+
+Doctor: Can you tell me more about those feelings? How often do you experience them?
+
+Patient: It's been pretty consistent for the past few weeks. I just feel sad and empty most of the time. I don't really have any interest in doing things that used to bring me joy.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping at night and I've lost my appetite. I just don't feel hungry anymore.
+
+Doctor: Do you ever feel hopeless or like things will never get better?
+
+Patient: Yeah, sometimes it feels like there's no point in trying because nothing will ever change.
+
+Doctor: Have you experienced any physical symptoms, like headaches or body aches?
+
+Patient: Yeah, I've been getting headaches pretty frequently and my body just feels tired all the time.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Not really, everything has been pretty normal. I've just been feeling really down for no apparent reason.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors. I would like to run some tests to rule out any underlying medical conditions that could be causing your symptoms. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After running some tests, we found that there are no underlying medical conditions causing your symptoms. While you are experiencing some symptoms of depression, they do not meet the criteria for a clinical diagnosis. However, it's important to take care of yourself and seek help if your symptoms worsen or if you begin to have thoughts of harming yourself. 
+
+Patient: Thank you, doctor. I appreciate your help and advice.

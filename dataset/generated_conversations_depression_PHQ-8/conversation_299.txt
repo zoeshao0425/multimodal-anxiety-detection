@@ -1,0 +1,35 @@
+Doctor: Hi, can you tell me how you've been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you describe what you mean by feeling down?
+
+Patient: It's like I just don't have any energy or motivation to do anything. I feel like I'm stuck in this rut and can't get out of it.
+
+Doctor: Have you been experiencing any changes in your sleep or appetite?
+
+Patient: Yeah, I've been having trouble sleeping and I don't really have much of an appetite anymore.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like doing anything. Everything seems pointless.
+
+Doctor: Have you been feeling more irritable or angry than usual?
+
+Patient: Yeah, sometimes I snap at people for no reason. I just feel so frustrated all the time.
+
+Doctor: Have you been having any thoughts of harming yourself or suicide?
+
+Patient: (pauses) Yeah, I have. I don't know what to do about it.
+
+Doctor: I'm glad you told me that. It's important that we address those thoughts and make sure you're safe. Have you ever had depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Okay, thank you for answering my questions. Based on your symptoms, it sounds like you may be experiencing depression. I would like to refer you to a therapist who can help you work through these feelings and develop coping strategies. Additionally, I would like to prescribe medication to help alleviate your symptoms. Do you have any questions or concerns about this plan?
+
+Patient: I'm just glad to know that there's something I can do to feel better. Thank you, Doctor.

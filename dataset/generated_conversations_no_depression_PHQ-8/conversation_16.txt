@@ -1,0 +1,47 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. It's been affecting my work and relationships.
+
+Doctor: Can you tell me a bit more about how you're feeling?
+
+Patient: I just feel really sad all the time. I don't enjoy things that I used to like doing, and I have no energy. I can barely get out of bed in the morning.
+
+Doctor: How long have you been feeling this way?
+
+Patient: For the past few weeks.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: No, not like this.
+
+Doctor: Okay. Let's go through some questions to help me understand your symptoms better. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, all the time.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with friends, but now I just want to be alone.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been sleeping a lot more than usual.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I haven't had much of an appetite lately, and I've lost a few pounds.
+
+Doctor: Do you feel restless or have trouble sitting still?
+
+Patient: No, I feel pretty lethargic.
+
+Doctor: Have you had thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, since you haven't had these symptoms before and they've only been present for a few weeks, I don't think you meet the criteria for a diagnosis of major depression. It's possible that you're experiencing a temporary mood disturbance due to stress or other factors.
+
+Patient: That makes sense. What can I do to feel better?
+
+Doctor: I recommend focusing on self-care and stress reduction. Make sure you're getting enough sleep, eating well, and exercising regularly. You may also benefit from talking to a therapist or counselor about your feelings.
+
+Patient: Thank you, doctor. I appreciate your help.

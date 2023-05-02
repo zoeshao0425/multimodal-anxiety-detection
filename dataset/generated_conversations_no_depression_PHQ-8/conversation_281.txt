@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood over the past two weeks?
+
+Patient: I've been feeling really down. Like, there's no point in doing anything because nothing makes me happy.
+
+Doctor: Have you experienced a lack of interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, definitely. I used to love going out with my friends, but now I just don't feel like it.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you had trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: I've been having trouble falling asleep and I wake up a lot during the night. But then I'm exhausted during the day and I end up taking naps.
+
+Doctor: Have you noticed any changes in your energy levels or your ability to concentrate?
+
+Patient: I feel really tired all the time, and I can't focus on anything. Even simple tasks take me forever to complete.
+
+Doctor: Have you felt guilty or worthless, or had thoughts of self-harm or suicide?
+
+Patient: I do feel guilty a lot, like I'm not good enough or I'm letting people down. But I haven't had any thoughts of hurting myself.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: Yeah, I've had headaches and my stomach has been upset a lot lately.
+
+Doctor: Thank you for answering those questions. Based on your responses, it doesn't seem like you meet the criteria for a diagnosis of depression. However, I would still like to discuss some strategies for managing your low mood and lack of interest in activities.

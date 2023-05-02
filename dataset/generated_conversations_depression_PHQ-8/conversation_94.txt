@@ -1,0 +1,53 @@
+Doctor: Can you tell me a little bit about what's been going on lately that made you come in today?
+
+Patient: Well, I've just been feeling really down lately. I don't have much energy and I'm having trouble sleeping.
+
+Doctor: Okay. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been very hungry lately and I've lost a few pounds.
+
+Doctor: And how about your mood? Have you been feeling sad or hopeless?
+
+Patient: Yeah, I've been feeling really sad. I just feel like nothing makes me happy anymore.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I've been having trouble focusing at work and making even simple decisions feels overwhelming.
+
+Doctor: Okay. Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself. But sometimes I do wonder if things would be better if I wasn't around.
+
+Doctor: I see. Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Alright. Have you ever experienced any of these symptoms before?
+
+Patient: Yeah, I went through a rough patch a few years ago and felt similar to this.
+
+Doctor: Okay. Can you tell me a little bit about your personal life? Are you married, do you have kids, or any major stressors going on right now?
+
+Patient: I'm not married, but I do have a long-term partner. We've been having some issues lately, which has been stressful. And work has been really busy, which hasn't helped either.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better sense of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Pretty much every day.
+
+Doctor: And how often have you had little interest or pleasure in doing things?
+
+Patient: Every day as well.
+
+Doctor: Alright. Based on your responses, it looks like you're experiencing moderate to severe depression. I'd like to talk to you about some treatment options.
+
+Patient: Okay.
+
+Doctor: There are a few different approaches we can take, including therapy and medication. I'd like to refer you to a therapist who can help you work through some of the underlying issues that may be contributing to your depression. And if you're interested, we can also discuss medication options.
+
+Patient: That sounds like a good plan.
+
+Doctor: Great. I'm glad we were able to identify what's been going on and come up with a plan to address it. Remember, depression is a treatable condition and there's no shame in seeking help.

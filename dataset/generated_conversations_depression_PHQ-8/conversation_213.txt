@@ -1,0 +1,33 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Yeah, I've been feeling really down. It's like everything is just too much for me to handle.
+
+Doctor: Have you been feeling down or hopeless most days in the past two weeks?
+
+Patient: Yeah, pretty much every day.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like it.
+
+Doctor: Have you had any changes in your appetite or weight?
+
+Patient: My appetite has been really low, and I've lost a bit of weight because of it.
+
+Doctor: Have you had trouble sleeping or have you been sleeping too much?
+
+Patient: I've had trouble sleeping. I wake up a lot during the night and have trouble falling back asleep.
+
+Doctor: Have you felt tired or had no energy most days in the past two weeks?
+
+Patient: Yeah, I've been really tired all the time. It's hard to get motivated to do anything.
+
+Doctor: Have you felt guilty or worthless most days in the past two weeks?
+
+Patient: Yeah, I feel like I'm not good enough and that I'm letting everyone down.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: (pauses) Yeah, I have. I don't know what to do anymore.
+
+Doctor: Based on your answers, it sounds like you may be experiencing depression. This is a common condition that can be treated with therapy and/or medication. It's important that we work together to find a treatment plan that works best for you.

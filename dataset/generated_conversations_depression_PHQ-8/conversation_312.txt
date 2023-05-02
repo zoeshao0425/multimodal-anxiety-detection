@@ -1,0 +1,37 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Yeah, I've been feeling really down. Like, just sad all the time.
+
+Doctor: Have you been experiencing any other symptoms along with the sadness?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I've lost my appetite, I just don't feel like eating anything.
+
+Doctor: Okay, have you noticed any changes in your energy levels?
+
+Patient: Yeah, I'm always tired. I don't have any motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and I'm not good enough.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: Yes, I have. Sometimes I just feel like it would be easier if I wasn't here.
+
+Doctor: Have you experienced any physical symptoms, like headaches or body aches?
+
+Patient: No, not really.
+
+Doctor: Have you been able to concentrate on tasks or are you easily distracted?
+
+Patient: No, I can't focus on anything. I try to read or watch TV but my mind just wanders.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing depression. I want to assure you that this is a common and treatable condition.
+
+Patient: Okay, thank you for letting me know.
+
+Doctor: I'd like to talk to you about treatment options. There are several different approaches we can take, including therapy and medication. I think it would be best if we discussed these options further and came up with a plan together.
+
+Patient: That sounds good to me. I just want to feel better.
+
+Doctor: Of course, that's what we're here for. Let's work together to get you on the path to feeling better.

@@ -1,0 +1,41 @@
+Doctor: So, you mentioned that you have been feeling down lately. Can you tell me more about what you mean by that?
+
+Patient: Yes, I just feel really sad and hopeless most of the time. It's like nothing brings me joy anymore.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just can't seem to shake it.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping at night and I've lost my appetite. I just don't feel hungry anymore.
+
+Doctor: Okay, and have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I've been feeling really worthless lately. Like I'm not good enough at anything and I'm letting everyone down.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing some symptoms of depression. However, I'd like to ask a few more questions to get a better understanding of your situation. 
+
+Patient: Sure, go ahead.
+
+Doctor: Have you experienced any significant life events recently, like a breakup or loss of a loved one?
+
+Patient: No, nothing like that.
+
+Doctor: Have you ever been diagnosed with depression before?
+
+Patient: No, I haven't.
+
+Doctor: Okay, based on our conversation today and the PHQ-8 assessment, it seems like you may not have depression at this time. However, I would still recommend that you continue to monitor your symptoms and seek help if they persist or worsen. In the meantime, is there anything else you'd like to discuss or any questions you have for me? 
+
+Patient: No, I think that's it. Thank you for your help. 
+
+Doctor: You're welcome. Don't hesitate to reach out if you need anything in the future.

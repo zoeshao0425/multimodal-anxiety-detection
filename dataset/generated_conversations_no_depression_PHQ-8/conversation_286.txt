@@ -1,0 +1,29 @@
+Doctor: So, tell me how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed? 
+
+Patient: Yes, I have been feeling down and hopeless for a while now. I don't find pleasure in doing things that I used to enjoy, and I have trouble sleeping at night. I feel tired all the time, and I have lost my appetite. I feel like a failure and that I'm letting my family down. It's hard for me to concentrate on anything, and I feel like I'm moving and speaking slowly.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you experienced depression before?
+
+Patient: No, this is the first time I've felt this way.
+
+Doctor: Have you gone through any significant changes or events in your life recently that may have triggered these feelings?
+
+Patient: My job has been stressful lately, and I've been having trouble with my spouse. It's been causing a lot of tension in our home.
+
+Doctor: Do you have a history of mental health issues in your family?
+
+Patient: Yes, my mother suffered from depression, and so did my grandfather.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'd like to run some tests and do a thorough evaluation to make sure. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After conducting the tests and evaluation, I am happy to say that you do not have depression. However, it's important to take care of your mental health and seek support when needed. If you ever experience these symptoms again, please don't hesitate to come back and see me.

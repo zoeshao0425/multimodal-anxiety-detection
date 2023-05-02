@@ -1,0 +1,33 @@
+Doctor: Hi, can you tell me a little bit about what brings you in today?
+
+Patient: Yeah, I've been feeling really down lately. I just don't have any energy and I'm having trouble enjoying things that I used to love.
+
+Doctor: Okay, can you tell me more about how you're feeling? Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed or hopeless, trouble falling asleep or sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you're a failure, trouble concentrating on things or moving or speaking so slowly that other people could have noticed?
+
+Patient: Yeah, actually, I've been experiencing most of those symptoms. I just feel really unmotivated and like nothing is enjoyable anymore. I've been having trouble sleeping and I just feel really tired all the time.
+
+Doctor: I see. Can you tell me a little bit about your personal life? Are you currently going through any major life changes or stressors?
+
+Patient: Well, I recently lost my job and I've been struggling to find a new one. It's been really stressful and I just feel like I'm not good enough.
+
+Doctor: Losing a job can definitely be a stressful experience. Can you tell me more about how you've been coping with this situation?
+
+Patient: Honestly, I haven't been coping very well. I've just been isolating myself and not really talking to anyone about how I'm feeling.
+
+Doctor: Okay, well it's great that you're here today to talk about how you're feeling. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to ask you a few more questions to better understand your condition. 
+
+Patient: Sure, go ahead.
+
+Doctor: Have you been feeling down, depressed, or hopeless for most of the day, nearly every day?
+
+Patient: No, not really. I mean, I have my good days and bad days.
+
+Doctor: Have you had little interest or pleasure in doing things for most of the day, nearly every day?
+
+Patient: Yeah, that's definitely been a problem.
+
+Doctor: Okay, based on your answers, it seems like you may be experiencing some symptoms of depression, but not enough to meet the criteria for a diagnosis. However, I would still recommend that you speak with a therapist or counselor to discuss your feelings and develop coping strategies to help you through this difficult time. Would you be open to that?
+
+Patient: Yes, I think that would be helpful. Thank you for your time and advice. 
+
+Doctor: Of course, anytime. Don't hesitate to reach out if you have any further concerns or questions.

@@ -1,0 +1,31 @@
+Doctor: So, how have you been feeling lately?
+
+Patient: Honestly, not great. I’ve been feeling really down and hopeless.
+
+Doctor: Can you describe what that feels like?
+
+Patient: It’s like I wake up every day and just feel sad. I don’t really see the point in doing anything because nothing seems to make me happy anymore. Even things that used to bring me joy don’t seem to do it anymore.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It’s been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I’ve been having trouble sleeping. I either can’t fall asleep or I wake up in the middle of the night and can’t go back to sleep. And my appetite has been really low. I don’t really feel hungry anymore.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven’t had any thoughts of hurting anyone else, but I have had thoughts of hurting myself.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any other physical symptoms like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: Yes, I have. It runs in my family.
+
+Doctor: Okay, thank you for letting me know. Based on what you’ve told me, it sounds like you may be experiencing depression again. I’m going to diagnose you with depression and recommend some treatment options for you. 
+
+Patient: Okay, thank you.

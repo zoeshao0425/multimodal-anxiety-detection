@@ -1,0 +1,39 @@
+Doctor: So, how have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? How often do you feel this way?
+
+Patient: It's been pretty consistent for the past few weeks. I wake up feeling sad and it's hard to get out of bed. I don't have much energy throughout the day and I've lost interest in things I used to enjoy.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I don't have much of an appetite. I've lost a bit of weight because of it.
+
+Doctor: Do you ever feel hopeless or like life isn't worth living?
+
+Patient: Sometimes, yeah. I've been having some pretty dark thoughts lately.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomach aches?
+
+Patient: Not really, no.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Yeah, I've struggled with depression in the past.
+
+Doctor: Okay, that's good to know. Can you tell me a bit about your personal life? Are you under a lot of stress at work or at home?
+
+Patient: I've been going through a rough patch with my partner lately, but other than that, things are pretty stable.
+
+Doctor: How has your depression been affecting your daily life? Are you able to work or carry out daily tasks?
+
+Patient: It's been really difficult. I've had to take a few days off work because I just can't seem to focus or get anything done. I've been neglecting my personal responsibilities too, like cleaning and cooking.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'd like to administer a PHQ-8 assessment to get a better idea of your symptoms and severity.
+
+Patient: Okay, that sounds good.
+
+Doctor: After reviewing your responses, I'm actually not seeing any major signs of depression. It's possible that you're just going through a tough time right now, and that's completely normal. However, if your symptoms persist or worsen, please don't hesitate to come back and see me.
+
+Patient: Thank you, doctor. I appreciate your help.

@@ -1,0 +1,51 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Okay.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day.
+
+Doctor: Have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, I have.
+
+Doctor: Have you experienced a significant change in appetite or weight recently?
+
+Patient: No, not really.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: Yes, I've been having trouble sleeping.
+
+Doctor: Have you felt tired or had a lack of energy?
+
+Patient: Yes, I have.
+
+Doctor: Have you felt guilty or worthless?
+
+Patient: Yes, I have.
+
+Doctor: Have you had difficulty concentrating or making decisions?
+
+Patient: Yes, I have.
+
+Doctor: Based on your responses, it seems like you're experiencing several symptoms of depression. Can you tell me more about how these symptoms are affecting your daily life?
+
+Patient: Well, I've been having trouble getting out of bed in the morning and finding the motivation to do anything. I used to love going for walks and spending time with friends, but now I just feel like isolating myself. It's hard to focus at work, and I'm making mistakes that I wouldn't normally make. I just feel really down all the time.
+
+Doctor: I appreciate you sharing that with me. Can you tell me a bit more about what might be causing these feelings? Is there anything stressful going on in your life right now?
+
+Patient: Well, my mom has been really sick, and I'm worried about her. And work has been really busy and stressful lately.
+
+Doctor: I can understand how those things might be contributing to your feelings of depression. Have you ever experienced depression before?
+
+Patient: No, I haven't.
+
+Doctor: Okay. Well, based on our conversation, it seems like you're experiencing some symptoms of depression, but not enough to meet the diagnostic criteria for major depressive disorder. However, I think it would still be helpful for you to talk to a therapist or counselor about what you're going through. They can work with you to develop coping strategies and provide support as you navigate this difficult time.
+
+Patient: Okay, thank you. I appreciate your help.

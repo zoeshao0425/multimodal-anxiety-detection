@@ -1,0 +1,41 @@
+Doctor: So, what brings you here today?
+
+Patient: I've been feeling really down lately. I don't know why, but I just can't seem to shake this feeling.
+
+Doctor: Okay, can you tell me more about how you're feeling?
+
+Patient: Well, I feel sad most of the time. I don't enjoy things that I used to love doing, and I have no motivation to do anything. I'm also having trouble sleeping and eating. I've lost a lot of weight recently.
+
+Doctor: How long have you been feeling like this?
+
+Patient: It's been about two months now.
+
+Doctor: Have you ever felt like this before?
+
+Patient: Yes, I've had episodes like this in the past, but they usually go away after a few weeks.
+
+Doctor: Have you experienced any other symptoms, such as feelings of hopelessness or worthlessness?
+
+Patient: Yes, I've been feeling really hopeless lately. I feel like nothing I do matters and that I'm a burden to everyone around me.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't.
+
+Doctor: Okay, let's move on to some other questions. Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I've noticed that I'm having trouble focusing at work, and I'm making more mistakes than usual.
+
+Doctor: Have you been feeling tired or having low energy?
+
+Patient: Yes, I'm always tired, even after a full night's sleep.
+
+Doctor: Lastly, have you been experiencing any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, I haven't noticed any physical symptoms.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to rule out any other possible causes. Have you recently experienced any major life changes or stressors?
+
+Patient: Yes, I recently went through a divorce and lost my job.
+
+Doctor: I'm sorry to hear that. It's possible that these events could be contributing to your symptoms. However, based on your answers to the PHQ-8 assessment, I don't believe that you meet the criteria for a diagnosis of depression at this time. I would recommend that you continue to monitor your symptoms and seek support from friends, family, or a therapist if needed. Additionally, practicing self-care, such as exercise and healthy eating, can also help improve your mood.

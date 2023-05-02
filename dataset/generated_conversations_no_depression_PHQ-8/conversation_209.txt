@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: I've been feeling really down and sad most of the time. I don't have much energy or motivation to do anything.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping at night and I don't really feel like eating much.
+
+Doctor: Have you noticed a decrease in your interest in things you used to enjoy?
+
+Patient: Definitely. I used to love going out with friends and doing things, but now I just want to stay home and be alone.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything is my fault and I'm not good enough.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I've been having a hard time focusing on things and making decisions seems impossible.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomach aches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Based on your answers, it sounds like you may be experiencing some symptoms of depression. It's important to know that depression is a common medical condition and there are treatment options available. I would like to refer you to a mental health professional who can provide further evaluation and treatment recommendations.
+
+Patient: Thank you for your help, but I don't think I need to see a mental health professional. I've been going through a lot of stress lately and I think that's why I'm feeling this way. I'm confident that I can manage my symptoms on my own.
+
+Doctor: I understand your concerns, but it's important to take your mental health seriously. If you change your mind, please don't hesitate to reach out to me or a mental health professional for help.

@@ -1,0 +1,35 @@
+Doctor: So, I understand that you're here today because you've been experiencing some symptoms of depression. Can you tell me a little bit about what you've been feeling?
+
+Patient: Yeah, sure. Lately, I've been feeling really down and sad most of the time. It's like I don't have any energy or motivation to do anything.
+
+Doctor: I see. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping lately. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And as for my appetite, I've been eating a lot less than usual.
+
+Doctor: Have you noticed any changes in your mood or how you feel about yourself?
+
+Patient: Yeah, I feel really worthless and hopeless most of the time. I don't really see the point in doing anything anymore.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. Just the lack of energy and motivation.
+
+Doctor: Okay, thank you for sharing that with me. Now, I'm going to ask you a few more questions to get a better understanding of your situation. Have you experienced any traumatic events or significant life changes recently?
+
+Patient: Well, my grandmother passed away a few months ago, and that was really hard for me. But other than that, nothing major has happened.
+
+Doctor: I see. And do you have any history of depression or other mental health conditions in your family?
+
+Patient: Yeah, my mom has struggled with depression in the past.
+
+Doctor: Okay, that's good to know. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I'm going to ask you a few more questions to determine the severity of your symptoms.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating, and moving or speaking slowly or being restless?
+
+Patient: Well, I've been bothered by all of those things except for the last one.
+
+Doctor: I see. Based on your answers, it sounds like you may be experiencing some mild symptoms of depression. However, because you haven't experienced all of the symptoms listed and they haven't been present for a prolonged period of time, I don't think you meet the criteria for a diagnosis of major depressive disorder. That being said, I would recommend that you continue to monitor your symptoms and come back to see me if they worsen or persist.
+
+Patient: Okay, thank you for your help.

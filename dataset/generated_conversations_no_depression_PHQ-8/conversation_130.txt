@@ -1,0 +1,39 @@
+Doctor: So, can you tell me what symptoms you've been experiencing lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't really enjoy doing things that I used to love, like going out with friends or reading. I also have trouble sleeping and have lost my appetite.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your energy levels or motivation?
+
+Patient: Yes, I feel really tired all the time and have no motivation to do anything.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I have been feeling like I'm not good enough and I often blame myself for things that are out of my control.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: No, I haven't had any thoughts of harming myself.
+
+Doctor: Have you experienced any physical symptoms like headaches, stomachaches, or body pain?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Have you experienced any significant life events recently, like a breakup or job loss?
+
+Patient: No, nothing significant has happened recently.
+
+Doctor: Have you ever experienced symptoms like these before?
+
+Patient: No, this is the first time I've felt this way.
+
+Doctor: Based on your responses, it seems like you have been experiencing symptoms of depression. However, it's important to note that depression is a clinical diagnosis and requires further evaluation. 
+
+Patient: Okay, but what does that mean?
+
+Doctor: I would like to refer you to a mental health professional who can conduct a more in-depth assessment and provide a diagnosis. In the meantime, I suggest focusing on self-care, such as getting enough sleep, exercise, and eating a healthy diet. 
+
+Patient: Thank you, Doctor.

@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about why you're here today?
+
+Patient: Yeah, I've been feeling really down lately. Like, I don't want to do anything and I just feel sad all the time.
+
+Doctor: I'm sorry to hear that. Can you tell me more about how long you've been feeling this way?
+
+Patient: It's been going on for a few months now. At first, I thought it was just stress from work and stuff, but it hasn't gone away.
+
+Doctor: Okay. Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I usually wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Do you have any trouble concentrating or making decisions?
+
+Patient: Yeah, I've noticed that I'm having a hard time focusing at work and it's been harder to make decisions.
+
+Doctor: Have you felt tired or low energy?
+
+Patient: Yeah, I feel exhausted all the time. Even when I get enough sleep, I still feel tired.
+
+Doctor: Have you noticed any feelings of worthlessness or guilt?
+
+Patient: Yeah, I've been feeling like I'm not good enough and like everything is my fault.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Thank you for answering those questions. Based on your responses, it sounds like you may be experiencing depression. I'd like to discuss some treatment options with you and refer you to a therapist who can help you work through these feelings.
+
+Patient: Okay, thank you.

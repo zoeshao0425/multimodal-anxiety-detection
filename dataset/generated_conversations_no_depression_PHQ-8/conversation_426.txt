@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really sad and down for a while now.
+
+Doctor: Can you tell me more about that? When did it start?
+
+Patient: I think it's been going on for a few months now. I just feel like I'm not enjoying things as much as I used to, and I don't have as much energy.
+
+Doctor: Have you noticed any other symptoms, like changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping lately. I either can't fall asleep or I wake up in the middle of the night and can't get back to sleep. And I haven't been eating as much as usual.
+
+Doctor: Okay, those are definitely symptoms we look for when assessing depression. Have you noticed any changes in your mood or feelings about yourself?
+
+Patient: Yeah, I just feel really down and hopeless a lot of the time. Like nothing really matters and I'm not worth much.
+
+Doctor: That sounds tough. Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: That's good to hear. Have you noticed any impact on your daily functioning, like at work or with your relationships?
+
+Patient: Yeah, I've been having trouble concentrating at work and I just feel really disconnected from my friends and family.
+
+Doctor: Okay, thank you for sharing that. Based on what you've told me, it does sound like you're experiencing some symptoms of depression. Would you be willing to fill out a questionnaire to help me better understand your symptoms?
+
+Patient: Sure, I'll do whatever I need to do to feel better.
+
+Doctor: Great, I'm going to give you a PHQ-8 questionnaire to fill out. It asks about the symptoms we've been talking about, as well as a few others. Take your time and answer as honestly as you can.
+
+Patient: Okay, I'm done filling it out.
+
+Doctor: Thank you for completing that. Based on your answers, it looks like you don't meet the criteria for a diagnosis of depression. However, you are experiencing some symptoms that could benefit from treatment. I'd like to refer you to a therapist who can help you work through these feelings and develop coping strategies.
+
+Patient: That sounds like a good idea. Thank you for listening to me and helping me figure this out.
+
+Doctor: Of course, that's what I'm here for. Remember, you're not alone and there are people who want to help you feel better.

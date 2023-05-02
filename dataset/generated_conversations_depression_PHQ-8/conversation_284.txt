@@ -1,0 +1,31 @@
+Doctor: So, I understand that you've been experiencing some symptoms of depression. Can you tell me more about what you've been feeling?
+
+Patient: Yeah, it's been really tough lately. I've been feeling really down and sad most of the time. I don't enjoy things that I used to enjoy before. I feel like I'm not interested in anything anymore.
+
+Doctor: Okay, I see. Have you been feeling tired or fatigued lately?
+
+Patient: Yes, I have been feeling really tired all the time. Even when I get enough sleep, I still feel exhausted.
+
+Doctor: Have you been experiencing any changes in your appetite or weight recently?
+
+Patient: Yes, I've noticed that I've been eating a lot less than usual. I've also lost some weight without trying.
+
+Doctor: Have you had trouble sleeping or have you been sleeping too much?
+
+Patient: I've been having trouble sleeping lately. It takes me a long time to fall asleep and then I wake up multiple times throughout the night.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I've been feeling really guilty about everything. Even small things that wouldn't normally bother me make me feel really bad about myself.
+
+Doctor: Have you been having trouble concentrating or making decisions lately?
+
+Patient: Yes, I've been having a lot of trouble focusing on anything. I feel like my mind is always wandering and I can't make decisions like I used to.
+
+Doctor: Have you been having thoughts of harming yourself or suicide?
+
+Patient: Yes, I have been having thoughts of hurting myself. I haven't acted on them, but they're there.
+
+Doctor: Thank you for being so honest with me. Based on your answers, it sounds like you may be experiencing symptoms of depression. I would like to diagnose you with depression and recommend some treatment options.
+
+Patient: Okay, thank you for taking the time to listen to me. I'm ready to start feeling better.

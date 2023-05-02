@@ -1,0 +1,47 @@
+Doctor: So, let's start by talking about how you've been feeling lately. Have you been experiencing any of the following symptoms in the past two weeks?
+
+Patient: Yes, I have been feeling down and sad most of the time.
+
+Doctor: How often do you feel this way?
+
+Patient: Almost every day.
+
+Doctor: Have you lost interest in things you used to enjoy doing?
+
+Patient: Yes, I don't find pleasure in anything anymore.
+
+Doctor: Do you have trouble sleeping or sleeping too much?
+
+Patient: I have trouble sleeping, I toss and turn all night.
+
+Doctor: Have you felt tired or had a lack of energy?
+
+Patient: Yes, I feel exhausted all the time.
+
+Doctor: Have you experienced changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite, and I have lost some weight.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I find it hard to concentrate, and I can't make decisions.
+
+Doctor: Have you had thoughts of harming yourself or suicidal thoughts?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Okay, thank you for answering those questions. Can you tell me more about your daily life? Are there any significant events that have happened recently?
+
+Patient: Well, I lost my job a few months ago, and I haven't been able to find work since then. I'm also going through a divorce, and it's been difficult to cope with all the changes.
+
+Doctor: I see. It sounds like you've been going through a lot of stress lately. Do you have any support from friends or family?
+
+Patient: My family lives far away, and I don't have many friends in this city.
+
+Doctor: That must be tough. Have you considered seeking help from a therapist or counselor?
+
+Patient: I haven't thought about it, but I'm open to the idea.
+
+Doctor: Okay, I recommend that you speak with a therapist about your situation. Based on our conversation and the PHQ-8 assessment, it doesn't seem like you have depression. However, it's essential to address the stress and changes in your life so that you can feel better.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Have you been experiencing any loss of interest or pleasure in activities you used to enjoy?
+
+Patient: Yeah, definitely. I used to love going to the gym and hanging out with friends, but lately, I just don't feel like doing anything.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating a lot less than usual, and I've lost a few pounds.
+
+Doctor: Do you have trouble falling asleep or staying asleep?
+
+Patient: Yeah, I've been having a lot of trouble sleeping lately. I usually lie awake for hours before finally falling asleep.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I've been feeling really exhausted all the time. Even when I do manage to get some sleep, I wake up feeling drained.
+
+Doctor: Do you have feelings of worthlessness or excessive guilt?
+
+Patient: Sometimes. I just feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Definitely. I can't seem to focus on anything for very long, and even simple decisions feel overwhelming.
+
+Doctor: Have you had any thoughts of death or suicide?
+
+Patient: Yes, I have. I don't think I would ever act on those thoughts, but they're there.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. It's important that we work together to develop a treatment plan that will help you feel better.

@@ -1,0 +1,39 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Almost every day, doctor.
+
+Doctor: Okay. And how about little interest or pleasure in doing things? How often have you experienced that feeling in the last two weeks?
+
+Patient: Same, almost every day.
+
+Doctor: Alright. Have you experienced any significant changes in your sleep pattern lately?
+
+Patient: Yeah, I've been having trouble sleeping. I usually wake up in the middle of the night and can't go back to sleep.
+
+Doctor: I see. And how about changes in your appetite or weight?
+
+Patient: I haven't been eating much lately. I've lost some weight.
+
+Doctor: Got it. Have you experienced any fatigue or loss of energy?
+
+Patient: Yes, I feel tired all the time. I don't have the energy to do anything.
+
+Doctor: Okay. Have you noticed any changes in your concentration or ability to focus?
+
+Patient: Yes, I find it hard to concentrate on anything. Even simple tasks seem overwhelming.
+
+Doctor: And how about feelings of worthlessness or excessive guilt?
+
+Patient: Yeah, I feel like I'm not good enough for anything. I keep blaming myself for everything that goes wrong.
+
+Doctor: Alright. Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts of hurting anyone. But sometimes I feel like life isn't worth living.
+
+Doctor: Thank you for answering those questions. Based on your answers, it seems like you're experiencing symptoms of depression. It's important to know that depression is a medical condition that can be treated.
+
+Patient: Oh, I see. Thank you, doctor. What kind of treatment is available?
+
+Doctor: There are several types of treatment available, including medication and therapy. We can discuss which options might be best for you. But first, I'd like to know a bit more about your personal background and any other factors that might be contributing to your depression.
+
+Patient: Sure, doctor. What would you like to know?

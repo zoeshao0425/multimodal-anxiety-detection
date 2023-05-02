@@ -1,0 +1,59 @@
+Doctor: So, tell me a little bit about how you've been feeling lately.
+
+Patient: Honestly, I've been feeling pretty down. I just don't have any energy and I'm not really interested in doing anything.
+
+Doctor: Okay, can you tell me more about that? Have you been experiencing any other symptoms?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I've lost my appetite too. I just don't feel like eating.
+
+Doctor: I see. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I thought it was just stress from work, but it's not getting any better.
+
+Doctor: Have you noticed any changes in your mood or your ability to enjoy things?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like it. I don't really enjoy anything anymore.
+
+Doctor: Okay. And have you had any thoughts of hurting yourself or anyone else?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. I have a few more questions to ask you to help me understand your condition better.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things?
+
+Patient: Pretty much every day.
+
+Doctor: Feeling down, depressed, or hopeless?
+
+Patient: Yeah, every day.
+
+Doctor: Trouble falling or staying asleep, or sleeping too much?
+
+Patient: Yeah, I've had trouble sleeping almost every night.
+
+Doctor: Feeling tired or having little energy?
+
+Patient: Definitely. I'm always tired.
+
+Doctor: Poor appetite or overeating?
+
+Patient: Poor appetite. I just don't feel like eating.
+
+Doctor: Feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Yeah, I've been feeling pretty worthless lately.
+
+Doctor: Trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yeah, I can't focus on anything.
+
+Doctor: Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I've been moving pretty slowly. I just don't have any energy.
+
+Doctor: Okay, based on your answers to those questions, it does seem like you are experiencing symptoms of depression. I would like to recommend some treatment options for you, such as therapy or medication.
+
+Patient: Okay, that sounds good. Thank you for taking the time to talk to me about this.

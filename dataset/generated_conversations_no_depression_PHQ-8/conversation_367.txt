@@ -1,0 +1,33 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms in the past two weeks?
+
+Patient: Sure, I can try my best to answer your questions.
+
+Doctor: Great. Have you been feeling down, depressed, or hopeless?
+
+Patient: Honestly, I have been feeling a bit low for the past few weeks. I feel like everything is pointless and I'm not sure what the purpose of anything is.
+
+Doctor: Okay. Have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, actually. I used to love going out with friends and doing outdoor activities, but now I just don't feel like it. I don't find joy in anything anymore.
+
+Doctor: Have you been experiencing changes in your appetite or weight?
+
+Patient: Not really. I eat normally, but I have lost a little bit of weight unintentionally.
+
+Doctor: How about changes in your sleep patterns? Have you been sleeping too much or too little?
+
+Patient: I have been having trouble sleeping lately. I wake up in the middle of the night and can't fall back asleep. Then, I'm exhausted during the day.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I feel like I have no energy to do anything. Even simple tasks seem like a big effort.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Sometimes, yeah. I feel like I'm not good enough and that I'm a burden to those around me.
+
+Doctor: Lastly, have you been having thoughts of death or suicide?
+
+Patient: No, I haven't had any suicidal thoughts.
+
+Doctor: Thank you for answering these questions. Based on your responses, it seems like you are not currently experiencing depression. However, I would still like to discuss some coping mechanisms and ways to improve your mood.

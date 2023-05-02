@@ -1,0 +1,35 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Honestly, I've been feeling pretty down. I don't have much energy, and I'm having trouble sleeping.
+
+Doctor: Have you been experiencing any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, actually. I feel like nothing I do really matters, and I'm just going through the motions.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: My appetite has definitely decreased, and I've lost a few pounds recently.
+
+Doctor: And how about your ability to concentrate or make decisions?
+
+Patient: It's been really difficult. I feel like I can't focus on anything for very long, and I'm second-guessing myself all the time.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any suicidal thoughts, but sometimes I do wonder if things would be better if I just didn't exist.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a bit about what's been going on in your life recently?
+
+Patient: Well, I lost my job a few months ago, and I've been struggling to find something else. Plus, my relationship with my partner has been really strained lately.
+
+Doctor: I see. It sounds like you've been dealing with a lot of stressors lately. Based on what you've told me, it's possible that you're experiencing symptoms of depression. I'd like to ask you a few more questions to get a better sense of what's going on.
+
+Patient: Okay, sure.
+
+Doctor: In the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling asleep, sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed, or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I would say I've been bothered by all of those things at least some of the time.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it's clear that you're experiencing significant symptoms of depression. I'd like to talk to you about some treatment options that might be helpful.
+
+Patient: Okay, that sounds good.

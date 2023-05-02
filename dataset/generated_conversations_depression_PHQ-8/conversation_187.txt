@@ -1,0 +1,23 @@
+Doctor: Hi, can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't enjoy things that I used to enjoy, and I feel like I have no energy.
+
+Doctor: Have you had any trouble sleeping or eating?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I've lost my appetite. I don't feel hungry, and when I do eat, I don't enjoy it.
+
+Doctor: Have you noticed any changes in your mood or behavior?
+
+Patient: Yeah, I've been feeling really irritable and easily agitated. I get upset over small things, and I feel like I'm on edge all the time. I've also been isolating myself from friends and family. I don't want to be around people, and I don't feel like talking to anyone.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yeah, I've been having thoughts of hurting myself. I don't have any plans to do it, but the thoughts are there.
+
+Doctor: Have you experienced any significant life events recently, such as a loss or major change?
+
+Patient: My partner and I broke up a few months ago, and it's been really hard for me. I've been feeling really alone and hopeless since then.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'm going to diagnose you with depression and recommend some treatment options.
+
+Patient: Okay, thank you for your help.

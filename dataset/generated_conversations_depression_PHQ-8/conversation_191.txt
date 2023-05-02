@@ -1,0 +1,37 @@
+Doctor: Thank you for coming in today. I'm here to discuss your recent symptoms and see if we can determine what's causing them. Can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't have much energy, and I've lost interest in things that used to make me happy.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. At first, I thought it was just stress from work, but it hasn't gone away.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been having trouble sleeping at night. I either can't fall asleep or wake up frequently during the night. And I haven't had much of an appetite lately. I've lost some weight because of it.
+
+Doctor: Have you been feeling guilty or worthless at all?
+
+Patient: Yeah, sometimes. I feel like I'm not good enough and that everything I do is wrong.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomach problems?
+
+Patient: Not really. I've had some headaches, but I think they're related to my lack of sleep.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. Depression is a common mental health condition that affects many people. It's important to know that you're not alone and that there are treatments available to help you feel better.
+
+Patient: That's good to know. I've been feeling really isolated lately and haven't talked to anyone about how I'm feeling.
+
+Doctor: It's understandable to feel that way. Depression can make it difficult to reach out for help. But I'm here to support you and help you find the best treatment options. We can discuss therapy, medication, or a combination of both.
+
+Patient: That sounds good. I want to feel like myself again and be able to enjoy the things I used to.
+
+Doctor: Absolutely. It's important to prioritize your mental health and take steps towards feeling better. I'll refer you to a therapist who can help you work through your feelings and develop coping strategies. And we can also discuss medication options if that's something you're interested in.
+
+Patient: Thank you so much. I really appreciate your help.
+
+Doctor: Of course. Remember, you're not alone in this. We'll work together to find the best treatment plan for you.

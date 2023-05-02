@@ -1,0 +1,33 @@
+Doctor: Thank you for coming in today. I understand that you've been feeling down lately. Can you tell me more about what's been going on?
+
+Patient: Yes, I've been feeling really sad and hopeless. It's like I don't find pleasure in anything anymore.
+
+Doctor: I see. How often have you been feeling this way?
+
+Patient: Almost every day for the past two weeks.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and haven't had much of an appetite.
+
+Doctor: And have you noticed any changes in your energy levels?
+
+Patient: I feel really tired all the time and don't have much motivation to do anything.
+
+Doctor: Okay, thank you for letting me know. Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: That's good to hear. Can you tell me a bit more about your personal background? Have you experienced depression before?
+
+Patient: No, this is the first time I've felt this way. I've had some stressful things going on in my life recently, though.
+
+Doctor: I understand. Have you been able to carry out your daily activities, like going to work or school?
+
+Patient: It's been really hard to focus at work, but I've still been going in.
+
+Doctor: Thank you for letting me know. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'm going to diagnose you as not having depression. Your symptoms are mild and they have only been present for a short period of time. I suggest that you continue to monitor your symptoms and seek help if they worsen or persist. Would you like me to refer you to a therapist or counselor who can help you cope with the stress in your life? 
+
+Patient: Yes, please. That would be helpful. Thank you for your help, doctor. 
+
+Doctor: Of course. Take care of yourself and don't hesitate to reach out if you need anything else.

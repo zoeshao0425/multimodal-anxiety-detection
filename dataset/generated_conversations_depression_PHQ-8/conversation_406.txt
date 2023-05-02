@@ -1,0 +1,31 @@
+Doctor: Can you tell me about any feelings of depression or hopelessness you've experienced in the past two weeks?
+
+Patient: Yeah, I've been feeling really down lately. It's like everything feels pointless and I just don't have any energy.
+
+Doctor: Have you experienced a loss of interest or pleasure in activities you used to enjoy?
+
+Patient: Yeah, I used to love playing guitar, but lately I just can't seem to get into it. Even going out with friends doesn't seem appealing anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost a few pounds.
+
+Doctor: Have you had any trouble sleeping, either sleeping too much or too little?
+
+Patient: I've been having trouble falling asleep and staying asleep. I wake up in the middle of the night and can't get back to sleep for hours.
+
+Doctor: Have you felt tired or fatigued even after getting enough sleep?
+
+Patient: Yeah, I feel exhausted all the time, even if I've slept for eight hours.
+
+Doctor: Have you experienced feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything is my fault and I'm not good enough. It's like I can't do anything right.
+
+Doctor: Have you had any thoughts of death or suicide?
+
+Patient: (hesitates) Yeah, I've had some thoughts like that. I don't think I would actually do anything, but the thoughts are there.
+
+Doctor: Thank you for sharing that with me. Based on your answers, it sounds like you may be experiencing symptoms of depression. I would like to refer you to a mental health professional who can help you further. Would that be okay with you?
+
+Patient: Yeah, that's fine. Thank you for listening and taking me seriously.

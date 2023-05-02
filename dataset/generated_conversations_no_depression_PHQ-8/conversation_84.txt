@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and hopeless. I don't really have any interest in doing things that used to make me happy, and I've been having trouble sleeping.
+
+Doctor: How long have you been feeling this way?
+
+Patient: Probably for the past few weeks. It's been getting worse as time goes on.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Have you been feeling fatigued or lacking in energy?
+
+Patient: Yes, definitely. I feel tired all the time and I don't have much energy to do anything.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yeah, I've noticed that I'm having a harder time focusing on things and making even small decisions feels overwhelming.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like nothing I do really matters.
+
+Doctor: Have you noticed any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. It's mostly just the emotional stuff.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors, such as stress or a medical condition. I'd like to run some tests to rule out any other possible causes before we make a diagnosis.

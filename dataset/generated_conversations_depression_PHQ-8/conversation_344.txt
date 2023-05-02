@@ -1,0 +1,17 @@
+Doctor: How have you been feeling lately? Have you experienced any of the following symptoms in the past two weeks: little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really down lately. I don't enjoy doing things that I used to love, and I feel like I'm just going through the motions.
+
+Doctor: Okay, have you experienced any changes in your appetite or weight, trouble sleeping or sleeping too much, feeling tired or having little energy, feeling bad about yourself, feeling like a failure or feeling guilty?
+
+Patient: Yes, I've lost my appetite and I've lost some weight. I have trouble sleeping at night, and I feel tired all the time. I've been feeling like a failure at work, and I feel guilty for not being able to do better.
+
+Doctor: Have you had any trouble concentrating on things, such as reading a book or watching TV, or have you been moving or speaking so slowly that other people have noticed?
+
+Patient: Yes, I've been having trouble focusing on anything. I can't even watch TV without my mind wandering. I feel like I'm moving in slow motion, and my coworkers have been asking if I'm okay because I seem distant.
+
+Doctor: Have you had any thoughts of hurting yourself or thoughts of suicide?
+
+Patient: Yes, I have been having thoughts of hurting myself. I don't have a plan, but I just feel like everything would be better if I wasn't here.
+
+Doctor: Thank you for answering these questions. Based on your responses, it seems like you may be experiencing symptoms of depression. It's important that we address this right away. Depression is a treatable illness, and there are many options available to help you feel better. Would you be open to discussing treatment options with me?

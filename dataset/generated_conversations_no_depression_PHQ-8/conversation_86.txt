@@ -1,0 +1,37 @@
+Doctor: So, I understand you are here today to discuss your mental health. Can you tell me a little bit about what has been going on?
+
+Patient: Yeah, I've just been feeling really down lately. Like, I don't have any motivation to do anything and I just feel really sad all the time.
+
+Doctor: I see. Have you been experiencing any other symptoms along with feeling sad?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I've lost my appetite. I used to love eating but now I just don't feel like it.
+
+Doctor: Okay, have you noticed any changes in your energy level?
+
+Patient: Yeah, I feel really tired all the time. I used to be able to get through the day without feeling exhausted but now I just want to lay in bed all day.
+
+Doctor: Have you been having any thoughts of worthlessness or guilt?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault. I keep thinking about all the mistakes I've made in my life.
+
+Doctor: Okay, and have you been having any thoughts of suicide or self-harm?
+
+Patient: No, I haven't been thinking about hurting myself.
+
+Doctor: Alright, thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression. However, in order to make a formal diagnosis, I would like to ask you a few more questions.
+
+Patient: Okay.
+
+Doctor: Have you experienced any trauma or stressful events in your life recently?
+
+Patient: Not really. I mean, I've had some stress at work but nothing out of the ordinary.
+
+Doctor: Okay. Do you have a history of depression or other mental health disorders in your family?
+
+Patient: Yeah, my mom has struggled with depression for most of her life.
+
+Doctor: I see. And have you been taking any medications or using any substances that could be affecting your mood?
+
+Patient: No, I haven't been taking anything.
+
+Doctor: Alright, thank you for answering those questions. Based on your responses, I do not believe you meet the criteria for a diagnosis of depression at this time. However, it is important to continue monitoring your symptoms and seeking help if they worsen. I recommend that you try to get regular exercise, eat a healthy diet, and practice good sleep hygiene. Additionally, if you find that your symptoms persist or interfere with your daily functioning, I would recommend that you consider seeking therapy or medication.

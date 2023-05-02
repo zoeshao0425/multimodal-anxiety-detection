@@ -1,0 +1,33 @@
+Doctor: So, let's start with some questions to better understand your current state. Have you been feeling down, depressed, or hopeless lately?
+
+Patient: Yes, I have been feeling quite low for the past few weeks.
+
+Doctor: Okay, have you lost interest in activities that you used to enjoy doing before?
+
+Patient: Yes, I don't feel like doing anything anymore. It feels like everything is just pointless.
+
+Doctor: Have you noticed any significant changes in your appetite? Are you eating more or less than usual?
+
+Patient: I have been eating less than usual. I don't feel like eating anything most of the time.
+
+Doctor: Have you had trouble sleeping lately? Are you sleeping too much or too little?
+
+Patient: I have been having trouble sleeping. I wake up in the middle of the night and can't go back to sleep. And then I feel tired throughout the day.
+
+Doctor: Have you been feeling tired or fatigued lately?
+
+Patient: Yes, I feel exhausted all the time. Even small tasks seem like a burden.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yes, I feel like I am not good enough and that everything is my fault.
+
+Doctor: Have you had thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any such thoughts.
+
+Doctor: Based on your answers, it seems like you are experiencing some symptoms of depression. Can you tell me more about your personal life and experiences that might be contributing to your current state?
+
+Patient: Well, I lost my job a few months ago, and since then, I have been struggling to find a new one. It has been very stressful, and I feel like a failure because of it.
+
+Doctor: I see. Losing a job can be very challenging, and it's understandable that it's affecting your mental health. However, based on our conversation, I don't think you have depression. Your symptoms are mild, and they seem to be related to your current life situation. I recommend that you try to focus on finding a new job and seek support from family and friends. If your symptoms persist or worsen, please don't hesitate to come back and see me.

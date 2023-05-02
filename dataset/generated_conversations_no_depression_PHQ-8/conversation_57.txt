@@ -1,0 +1,43 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you experienced any of the following symptoms in the past two weeks?
+
+Patient: Okay.
+
+Doctor: Have you been feeling down, depressed or hopeless?
+
+Patient: No, not really.
+
+Doctor: Have you had little interest or pleasure in doing things?
+
+Patient: I have been feeling a bit low and uninterested in doing things I used to enjoy.
+
+Doctor: Can you tell me more about that?
+
+Patient: I used to love playing video games, but now I just don't feel like it anymore. I also used to enjoy spending time with my friends, but now I just don't feel like being around people.
+
+Doctor: Do you experience any changes in your appetite or weight?
+
+Patient: I've lost a bit of weight recently, but I think that's because I've been too busy to eat properly.
+
+Doctor: How about trouble sleeping or sleeping too much?
+
+Patient: I have been having trouble sleeping. I often wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Do you feel tired or have low energy?
+
+Patient: Yes, I feel tired all the time, even when I get enough sleep.
+
+Doctor: Have you felt guilty or worthless?
+
+Patient: No, I don't feel guilty or worthless.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I do have trouble concentrating. I find it hard to focus on anything for too long.
+
+Doctor: Based on what you've told me, it seems like you're experiencing some symptoms of depression. However, it's important to note that you haven't experienced all of the symptoms necessary for a diagnosis of major depressive disorder. 
+
+Patient: Okay, that's good to know.
+
+Doctor: In your case, it might be helpful to try some self-care strategies like getting enough sleep, eating well, and engaging in activities that you enjoy. It might also be helpful to talk to a therapist or counselor who can help you work through some of the feelings you've been experiencing.
+
+Patient: Thank you, doctor. I appreciate your advice.

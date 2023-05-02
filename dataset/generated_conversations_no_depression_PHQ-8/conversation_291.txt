@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Yeah, I've been feeling really down and sad. It's been hard to get out of bed in the morning and I don't feel motivated to do anything.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been eating much and I have trouble falling asleep at night.
+
+Doctor: How about your energy levels? Have you noticed any changes there?
+
+Patient: Yeah, I feel really tired all the time. Even when I do manage to get out of bed, I don't have much energy to do anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling really worthless lately. Like nothing I do really matters.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, it's been really hard to focus on anything lately. I feel like my mind is always foggy.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it sounds like you might be experiencing some symptoms of depression. Would you mind telling me a little bit about your personal background?
+
+Patient: Sure. I've been dealing with a lot of stress lately, both at work and in my personal life. I recently went through a breakup and it's been really hard for me to cope with that.
+
+Doctor: I see. That definitely sounds like it could be contributing to your symptoms. Have you tried any coping mechanisms or talked to anyone about how you're feeling?
+
+Patient: I've tried talking to friends and family, but it doesn't seem to help much. I've also tried exercising more and doing things I enjoy, but it's hard to find the motivation.
+
+Doctor: I understand. Based on everything you've told me, it doesn't sound like you have major depression. However, I would recommend seeking counseling or therapy to help you cope with the stress and emotions you're experiencing. Would that be something you're interested in?
+
+Patient: Yeah, I think that could be helpful. Thank you for your help, doctor.

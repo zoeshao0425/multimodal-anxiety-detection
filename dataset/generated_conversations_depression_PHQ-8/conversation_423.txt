@@ -1,0 +1,25 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Honestly, doctor, I've been feeling pretty down. It's like everything just seems really hard to do, even things that used to be easy.
+
+Doctor: I see. Can you give me some examples of things that feel difficult now?
+
+Patient: Sure. Getting out of bed in the morning is a struggle. And then once I'm up, I just feel so tired and unmotivated. I used to love going for runs, but now even going for a walk feels like too much effort.
+
+Doctor: That sounds tough. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, my appetite has definitely decreased. I used to love cooking and trying new recipes, but now I just don't have any interest in food. And I've been having trouble sleeping too - I either can't fall asleep at night or I wake up multiple times during the night.
+
+Doctor: Okay, thank you for sharing that. Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, I feel like I'm not good enough at anything anymore. I used to be really confident in my work, but now I just feel like I'm not doing a good job. And I can't help but think that things will never get better.
+
+Doctor: I understand. Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. But sometimes I do wonder if it would be easier if I just didn't exist.
+
+Doctor: I appreciate you being honest with me. Finally, have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, definitely. It's like my brain is always foggy and I can't focus on anything for very long. Even simple decisions, like what to wear in the morning, feel overwhelming.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to do a full assessment to better understand your situation and come up with a treatment plan.

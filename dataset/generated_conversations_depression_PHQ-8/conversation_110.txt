@@ -1,0 +1,29 @@
+Doctor: Can you tell me about the symptoms you've been experiencing lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't enjoy things that I used to like doing, and I've lost interest in my hobbies. I'm also having trouble sleeping, and sometimes I sleep too much.
+
+Doctor: How often have you been experiencing these feelings?
+
+Patient: It's been going on for a few weeks now. At first, I thought it was just a bad day, but it's been getting worse.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yes, I've been eating less than usual. I don't feel hungry, and when I do eat, I don't enjoy it.
+
+Doctor: Do you ever feel tired or fatigued?
+
+Patient: Yes, I feel tired all the time. Even when I sleep for hours, I wake up feeling exhausted.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts of hurting anyone, but sometimes I do feel like I would be better off dead.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomach aches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Can you tell me a little bit about your personal life? Are there any major changes or stressors that could be contributing to your symptoms?
+
+Patient: Well, I recently went through a breakup, and it's been really hard for me. I also lost my job a few months ago, and I've been struggling to find work. I feel like I'm stuck in a rut, and I don't see a way out.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. I'd like to do a more thorough assessment to confirm the diagnosis and determine the best course of treatment.

@@ -1,0 +1,45 @@
+Doctor: Thank you for coming in today. Can you tell me a little bit about how you've been feeling lately?
+
+Patient: I've been feeling really down lately. Like, nothing seems to make me happy anymore.
+
+Doctor: Okay, can you describe that feeling a little more? Do you feel sad, empty, or hopeless?
+
+Patient: Yeah, all of those things. I just feel like nothing is worth doing anymore.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well at all. And I've lost my appetite too.
+
+Doctor: How about your energy levels? Have you been feeling tired or fatigued?
+
+Patient: Yeah, I'm always tired. It's hard to get out of bed in the morning.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I've noticed that it's been harder to focus on things lately.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Now, can you tell me a little bit about what's been going on in your life lately? Have you experienced any major life changes or stressful events?
+
+Patient: Well, I recently lost my job and my girlfriend broke up with me. It's been really hard to deal with all of that.
+
+Doctor: I'm sorry to hear that. Losing a job and a relationship can definitely be stressful. Have you been able to talk to anyone about what you're going through?
+
+Patient: Not really. I don't have a lot of close friends or family nearby.
+
+Doctor: Okay, well, it's good that you came in today. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to do a more thorough assessment to be sure.
+
+After administering the PHQ-8 assessment, the doctor concludes:
+
+Doctor: Based on your answers, it doesn't seem like you are currently experiencing depression. However, given the recent stressors in your life, it's important to keep an eye on your mental health and seek help if you notice any changes in your symptoms.
+
+Patient: Thank you, doctor. That's a relief to hear.
+
+Doctor: Of course. If you ever need someone to talk to, don't hesitate to reach out. And if you notice any changes in your symptoms, please come back and see me.

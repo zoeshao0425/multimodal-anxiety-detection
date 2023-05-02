@@ -1,0 +1,35 @@
+Doctor: So, how are you feeling today?
+
+Patient: I'm feeling very low and hopeless. I've been feeling this way for a while now.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been about six months now.
+
+Doctor: Have you experienced any significant changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been sleeping a lot more than usual, and my appetite has decreased significantly.
+
+Doctor: Have you noticed any changes in your energy levels or motivation to do things?
+
+Patient: Yes, I've been feeling very tired all the time, and I don't feel like doing anything. Even simple tasks feel overwhelming.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yes, I feel like I'm a burden on my family and friends, and I don't feel like I'm contributing anything to society.
+
+Doctor: Have you had any suicidal thoughts or thoughts of harming yourself?
+
+Patient: Yes, I have had thoughts of ending my life. It's been a constant struggle to keep those thoughts at bay.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomach aches?
+
+Patient: Yes, I've been having frequent headaches and stomach aches.
+
+Doctor: Have you experienced any significant life events or stressors recently?
+
+Patient: Yes, I lost my job a few months ago, and I've been struggling to find another one. It's been causing a lot of financial stress.
+
+Doctor: Thank you for sharing all of that with me. Based on what you've told me, I believe you may be experiencing depression. I would like to recommend some treatment options for you, including therapy and medication. 
+
+Patient: Okay, thank you.

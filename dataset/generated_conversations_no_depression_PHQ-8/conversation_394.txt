@@ -1,0 +1,37 @@
+Doctor: I'd like to ask you a few questions about your mental health. Have you been feeling down, depressed, or hopeless lately?
+
+Patient: Yes, I have been feeling very down for a while now. It's been hard for me to enjoy things that I used to enjoy doing.
+
+Doctor: I see. Have you experienced a lack of interest or pleasure in doing things such as hobbies, work, or spending time with family and friends?
+
+Patient: Yes, I have. I used to love playing video games, but now it just feels like a chore. I don't really feel like doing anything anymore.
+
+Doctor: Okay. Have you had any trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping lately. I find myself tossing and turning at night and waking up early in the morning feeling tired.
+
+Doctor: I understand. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I've lost my appetite. I used to love eating, but now I just don't feel hungry. I've also lost a few pounds.
+
+Doctor: Have you felt tired or fatigued lately?
+
+Patient: Yes, I have. Even after a good night's sleep, I still feel tired throughout the day.
+
+Doctor: I see. Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I have. It's been hard for me to focus on anything and I find myself forgetting things easily.
+
+Doctor: Lastly, have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or suicide.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. However, I would like to explore further to ensure an accurate diagnosis. Can you tell me a little bit about your personal life and any recent events that may have caused stress or sadness?
+
+Patient: Well, I recently lost my job and have been having trouble finding a new one. It's been causing a lot of financial stress for me and my family.
+
+Doctor: I see. That can definitely be a difficult situation to deal with. Have you been able to talk to anyone about your feelings or seek any support?
+
+Patient: Yes, I've talked to my wife about it, but I still feel like I'm in a rut.
+
+Doctor: I understand. Based on your personal life and recent events, it seems like your symptoms may be related to situational depression rather than clinical depression. However, I would still recommend seeking support from a therapist or counselor to help you cope with your current situation. Additionally, practicing self-care such as exercise, healthy eating, and getting enough sleep can also help improve your mood.

@@ -1,0 +1,35 @@
+Doctor: So, can you tell me about the symptoms you're experiencing that led you to seek medical attention?
+
+Patient: Sure. I've been feeling really down lately. I don't enjoy things that I used to enjoy, and I'm having trouble sleeping at night. I also feel really tired all the time, even when I haven't done anything.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: About a month or so.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: I've noticed that I've been eating more than usual, but I haven't gained any weight.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Not to this extent. I've had periods of feeling down before, but it usually goes away after a few days.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I find it hard to focus on things, even simple tasks like reading a book or watching TV.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like I'm not good enough for anything and that I'm letting everyone down.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, according to the PHQ-8 assessment, you do not meet the criteria for a diagnosis of depression.
+
+Patient: Oh, okay. So what does that mean?
+
+Doctor: It means that while you may be experiencing some symptoms of depression, they are not severe enough to warrant a formal diagnosis. However, I would still recommend that you take steps to address your symptoms, such as talking to a therapist or counselor, getting regular exercise, and practicing self-care.
+
+Patient: Okay, thank you. I will definitely look into those things.

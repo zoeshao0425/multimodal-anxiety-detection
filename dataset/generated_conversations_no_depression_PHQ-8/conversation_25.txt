@@ -1,0 +1,41 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: Okay, have you experienced a loss of interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and doing things, but now I just don't feel like doing anything.
+
+Doctor: Have you had any trouble sleeping, either too much or too little?
+
+Patient: I have been having trouble sleeping. I wake up in the middle of the night and have a hard time falling back asleep.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I haven't been eating as much as I used to, and I've lost some weight recently.
+
+Doctor: Have you felt tired or lacking in energy?
+
+Patient: Yes, I've been feeling really tired lately. Even when I get enough sleep, I still feel exhausted.
+
+Doctor: Have you experienced feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of harming myself or suicide.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your situation. Can you tell me about any recent stressors or life events that may have contributed to your current mood?
+
+Patient: Well, I recently lost my job, and I've been having trouble finding another one. It's been really stressful trying to make ends meet.
+
+Doctor: I see. Have you talked to anyone about your feelings, like a friend or family member?
+
+Patient: Not really. I don't want to burden anyone with my problems.
+
+Doctor: It's important to have a support system during difficult times. Have you considered talking to a therapist or counselor?
+
+Patient: I haven't, but maybe that's something I should look into.
+
+Doctor: I think that would be a good idea. Based on our conversation, it doesn't appear that you have major depression at this time. However, I would like to schedule a follow-up appointment in a few weeks to check in and see how you're doing. In the meantime, I recommend trying to get some exercise, eating a healthy diet, and getting enough sleep. And remember, it's okay to ask for help when you need it.

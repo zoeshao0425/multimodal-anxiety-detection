@@ -1,0 +1,31 @@
+Doctor: Thank you for coming in today. I understand that you're here to talk about some symptoms you've been experiencing. Can you tell me a little bit about what's been going on?
+
+Patient: Yeah, I've been feeling really down lately. I just can't seem to shake this feeling of sadness and hopelessness.
+
+Doctor: Okay, that's definitely something we need to address. Have you been experiencing any other symptoms besides feeling sad?
+
+Patient: Yeah, I've been having trouble sleeping. I'll either have trouble falling asleep or I'll wake up in the middle of the night and can't get back to sleep. And I've lost my appetite, I just don't feel like eating anything.
+
+Doctor: Okay, those are definitely common symptoms of depression. Have you noticed any changes in your energy levels or motivation?
+
+Patient: Yeah, I just don't have the energy or motivation to do anything. I used to love going out with my friends and doing things, but now I just want to stay in bed all day.
+
+Doctor: That's understandable. Have you noticed any changes in your ability to concentrate or remember things?
+
+Patient: Yeah, I've been having trouble concentrating at work. I'll start a task but then my mind will wander and I'll forget what I was doing.
+
+Doctor: Okay, thank you for sharing that. Have you ever experienced these symptoms before?
+
+Patient: Not to this extent, no. I've had times where I've felt down, but it's never lasted this long.
+
+Doctor: Alright. Have you experienced any significant life events recently that may have triggered these symptoms?
+
+Patient: My grandmother passed away a few months ago, but I don't think that's the only reason for how I'm feeling.
+
+Doctor: That's understandable. Have you ever received any treatment for depression before?
+
+Patient: No, I haven't.
+
+Doctor: Okay. Based on what you've shared with me, it sounds like you may be experiencing depression. I'm going to recommend that we do further testing to confirm the diagnosis and discuss treatment options.
+
+Patient: Okay, thank you.

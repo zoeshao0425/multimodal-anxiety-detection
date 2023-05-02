@@ -1,0 +1,47 @@
+Doctor: Hi, can you tell me a bit about what brought you in today?
+
+Patient: I've been feeling really down lately. I just don't have the energy or motivation to do anything.
+
+Doctor: Okay, let's start with some basic questions. Have you been feeling down, depressed, or hopeless in the past two weeks?
+
+Patient: Yes, definitely.
+
+Doctor: Have you experienced a loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going for walks and cooking, but now I just don't feel like doing anything.
+
+Doctor: Have you had any trouble sleeping or sleeping too much?
+
+Patient: I've been sleeping a lot more than usual, but I still feel tired all the time.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating a lot less than usual and have lost some weight.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I just feel like I'm not good enough and can't do anything right.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Definitely. It's hard to focus on anything and I feel like I can't make even simple decisions.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Okay, based on your answers it seems like you may be experiencing symptoms of depression. Can you tell me a bit more about how this has been impacting your daily life?
+
+Patient: It's been really hard. I can barely get out of bed in the morning and I've been missing work a lot. I just feel like I'm not myself anymore.
+
+Doctor: Have you experienced any major life changes or stressors recently?
+
+Patient: Well, I did lose my job a few months ago and have been struggling to find work since then.
+
+Doctor: That could definitely be a contributing factor to how you're feeling. Are you currently taking any medications or have any medical conditions?
+
+Patient: No, I'm not taking any medications and don't have any medical conditions.
+
+Doctor: Based on our conversation, it seems like you may be experiencing symptoms of depression. However, since you haven't had any thoughts of self-harm or suicide, I don't think you need immediate medical intervention. I would recommend seeking therapy to help manage your symptoms and address any underlying issues that may be contributing to your depression. 
+
+Patient: Okay, thank you for your help.

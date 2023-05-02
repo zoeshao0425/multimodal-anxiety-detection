@@ -1,0 +1,37 @@
+Doctor: Can you tell me how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't feel like doing anything, and I've lost interest in things that used to make me happy.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and have lost a few pounds.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I have trouble falling asleep and staying asleep.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: I feel tired all the time, even when I haven't done anything.
+
+Doctor: Have you been feeling hopeless or helpless?
+
+Patient: Yes, I feel like nothing will ever get better, and I can't do anything about it.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, just the lack of appetite and trouble sleeping.
+
+Doctor: Can you tell me a little bit about your personal life and what's been going on lately?
+
+Patient: I've been going through a lot of stress at work, and I recently went through a breakup with my partner.
+
+Doctor: Based on your symptoms and personal background, I don't believe you are experiencing depression. However, I recommend seeking therapy to help cope with the stress and emotions you are currently experiencing.

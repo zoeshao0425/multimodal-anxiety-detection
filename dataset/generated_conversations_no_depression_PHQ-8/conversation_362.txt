@@ -1,0 +1,53 @@
+Doctor: Hi, I'm Dr. Smith. How can I assist you today?
+
+Patient: Hello, doctor. I've been feeling down lately and I'm not sure what's going on.
+
+Doctor: Okay, let's talk about it. Have you been feeling sad or hopeless recently?
+
+Patient: Yes, I have. It's been going on for a few weeks now.
+
+Doctor: How often do you feel this way? Every day or just occasionally?
+
+Patient: It's pretty much every day.
+
+Doctor: Have you lost interest in things you used to enjoy doing?
+
+Patient: Yes, I have. I used to love going out with friends and reading books, but now I don't have the energy or motivation to do those things anymore.
+
+Doctor: Are you having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite and have lost some weight as a result.
+
+Doctor: Do you find yourself feeling tired or fatigued most days?
+
+Patient: Yes, I do. I feel exhausted even after getting a good night's sleep.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Sure, go ahead.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Yes, I lost my job a few months ago and I'm having trouble finding a new one. It's been really stressful.
+
+Doctor: That could definitely be a contributing factor. Have you talked to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden anyone with my problems.
+
+Doctor: It's important to have a support system during difficult times. Have you considered seeing a therapist or counselor?
+
+Patient: I haven't, but maybe that's something I should look into.
+
+Doctor: I think it would be a good idea. In the meantime, I'm going to recommend some lifestyle changes that may help improve your mood. I also want to schedule a follow-up appointment in a few weeks to see how you're doing.
+
+Patient: Okay, thank you, doctor.
+
+Doctor: You're welcome. And just to clarify, based on your answers, I don't believe you're experiencing severe depression. However, it's important to address these symptoms before they worsen.

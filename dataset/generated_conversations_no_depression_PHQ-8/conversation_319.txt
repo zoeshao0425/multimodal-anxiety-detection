@@ -1,0 +1,49 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Have you been feeling this way for a while now?
+
+Patient: Yes, it's been about a month or so.
+
+Doctor: Have you experienced any of the following symptoms in the past two weeks: little interest or pleasure in doing things, feeling down or depressed, trouble falling asleep or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, and moving or speaking slowly?
+
+Patient: Yes, I've experienced most of those symptoms.
+
+Doctor: Can you describe your experience with feeling down or depressed?
+
+Patient: It's like a constant weight on my shoulders. I just feel sad all the time, and it's hard to shake it off.
+
+Doctor: And how about the little interest or pleasure in doing things?
+
+Patient: Yeah, I used to really enjoy going out with friends or doing hobbies, but now I just don't have the energy or motivation to do anything.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I have trouble falling asleep at night and then I wake up early in the morning feeling exhausted.
+
+Doctor: What about your appetite? Have you noticed any changes there?
+
+Patient: I've been eating less than usual. I just don't have much of an appetite anymore.
+
+Doctor: And how about feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything is my fault and that I'm just a burden on everyone.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing at work and making even simple decisions has been really difficult.
+
+Doctor: And have you noticed any physical symptoms, like headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'd like to do a full assessment to get a better understanding of your situation.
+
+Patient: Okay, that makes sense.
+
+(After conducting the PHQ-8 assessment)
+
+Doctor: Based on your responses, it seems like you're not experiencing depression at this time. However, if your symptoms persist or worsen, please don't hesitate to come back and see me.
+
+Patient: Thank you, doctor. It's a relief to know that I don't have depression, but I appreciate your help and support regardless.

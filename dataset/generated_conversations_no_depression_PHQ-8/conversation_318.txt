@@ -1,0 +1,45 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately.
+
+Doctor: Can you tell me more about that? How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just don't feel like doing anything anymore. I don't enjoy the things I used to, and I have trouble sleeping.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual. I just don't have much of an appetite anymore.
+
+Doctor: Have you been feeling more tired than usual?
+
+Patient: Yes, definitely. I have trouble getting out of bed in the morning, and I feel exhausted all day.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like I'm not good enough at anything. I keep thinking about all the mistakes I've made in my life.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I've been having a lot of trouble with that. Even simple tasks seem overwhelming.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors, like stress or a medical condition. 
+
+Patient: That makes sense. I have been under a lot of stress lately.
+
+Doctor: Yes, stress can definitely take a toll on our mental health. Have you tried any coping strategies, like exercise or meditation?
+
+Patient: I've tried exercising, but it doesn't seem to help much.
+
+Doctor: Okay, well I'm going to recommend that you see a therapist to talk more about your feelings and develop some coping strategies that work for you. In the meantime, I want you to know that depression is a treatable condition, and there are many resources available to help you feel better.
+
+Patient: Thank you, doctor. I appreciate your help.
+
+Doctor: Of course, take care of yourself.

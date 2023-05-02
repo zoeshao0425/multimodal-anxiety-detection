@@ -1,0 +1,37 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms in the past two weeks?
+
+Patient: Okay, sure.
+
+Doctor: Have you been feeling down, depressed or hopeless?
+
+Patient: Not really. I mean, I have my ups and downs like everyone else, but nothing that has lasted for more than a few days.
+
+Doctor: Okay, that's good. Have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: No, not really. I still enjoy doing the things I used to do.
+
+Doctor: Have you had trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: No, my sleep has been fine. I haven't had any issues with it.
+
+Doctor: Have you been feeling tired or having low energy?
+
+Patient: Well, I do feel tired sometimes, but it's mostly because of work. I usually feel fine after a good night's sleep.
+
+Doctor: Have you had a poor appetite or been overeating?
+
+Patient: No, my appetite has been normal. I eat when I'm hungry and stop when I'm full.
+
+Doctor: Have you been feeling bad about yourself or feeling like you're a failure or have let yourself or your family down?
+
+Patient: No, not really. I'm pretty happy with who I am and what I've accomplished so far.
+
+Doctor: Have you had trouble concentrating on things like reading, watching TV, or even talking to people?
+
+Patient: No, I haven't had any issues with concentration. I can focus on things pretty well.
+
+Doctor: Have you had thoughts that you would be better off dead or hurting yourself in some way?
+
+Patient: No, I haven't had any suicidal thoughts or thoughts of hurting myself.
+
+Doctor: Based on your responses, it doesn't seem like you're experiencing symptoms of depression. However, if you ever do start to experience any of these symptoms, please don't hesitate to reach out to me or another mental health professional. It's always better to seek help sooner rather than later.

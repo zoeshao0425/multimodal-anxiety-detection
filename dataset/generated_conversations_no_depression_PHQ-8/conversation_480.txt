@@ -1,0 +1,35 @@
+Doctor: So, what brings you here today?
+
+Patient: I've been feeling very down lately. I don't have the energy to do anything, and I'm having trouble sleeping.
+
+Doctor: Okay, that sounds like depression. Can you tell me a bit more about how you're feeling?
+
+Patient: Well, I just feel really sad all the time. I don't enjoy things that used to make me happy, and I'm not interested in doing anything anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual. I've lost some weight, but I don't really care about it.
+
+Doctor: How about your sleep? Are you having trouble falling asleep or staying asleep?
+
+Patient: Yeah, I usually can't fall asleep until really late at night, and then I wake up really early in the morning and can't go back to sleep.
+
+Doctor: And how has this been affecting your daily life? Are you having trouble with work or relationships?
+
+Patient: Yeah, I've been having a hard time concentrating at work, and I've been avoiding my friends and family because I just don't feel like being around anyone.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a bit more about your personal background? Do you have a history of depression or other mental health issues?
+
+Patient: No, I've never had any mental health issues before. I've always been pretty happy and outgoing.
+
+Doctor: Alright, based on what you've told me, it does sound like you're experiencing symptoms of depression. However, I'd like to ask you a few more questions to get a better idea of how severe your symptoms are.
+
+Patient: Sure, go ahead.
+
+Doctor: Have you had thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Alright, that's good to hear. Based on your answers to the questions I've asked, it seems like you're experiencing mild to moderate symptoms of depression. However, you don't meet the criteria for a diagnosis of major depressive disorder. I would recommend that you try some self-care strategies, such as exercise and relaxation techniques, and consider seeing a therapist if your symptoms persist.
+
+Patient: Okay, thank you. That's a relief to hear.

@@ -1,0 +1,31 @@
+Doctor: So, can you tell me about the symptoms that you've been experiencing lately?
+
+Patient: Yes, I've been feeling really sad and down most of the time. I don't feel like doing anything or seeing anyone.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been eating less than usual, and I have trouble falling asleep at night.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: Yes, I have been thinking about ending my life.
+
+Doctor: How has this been affecting your daily life? Are you able to work, take care of yourself, and maintain relationships with others?
+
+Patient: No, it's been really difficult to do anything. I've been calling in sick to work, neglecting my personal hygiene, and avoiding social situations.
+
+Doctor: Can you tell me a bit about your personal life? Do you have any stressors or recent life changes that may have contributed to your current state?
+
+Patient: Yes, I recently went through a breakup and have been having financial troubles. It's been really overwhelming.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. I would like to refer you to a mental health professional for further evaluation and treatment.
+
+Patient: Okay, thank you for your help.

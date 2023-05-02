@@ -1,0 +1,25 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down and hopeless lately. I don't find pleasure in doing things that I used to enjoy.
+
+Doctor: Okay, have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I have lost my appetite and have lost some weight as well.
+
+Doctor: How about your sleep? Have you been having difficulty sleeping or sleeping too much?
+
+Patient: I have been having trouble sleeping at night, but during the day, I feel lethargic and sleepy.
+
+Doctor: Have you noticed a decrease in your energy levels or motivation?
+
+Patient: Yes, I have been feeling very tired all the time and have no motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yes, I have been feeling very guilty and worthless. I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any suicidal thoughts or thoughts of harming yourself?
+
+Patient: Yes, I have been having thoughts of ending my life. I feel like there's no point in living anymore.
+
+Doctor: Thank you for sharing that with me. Based on your responses, it seems that you may be experiencing symptoms of depression. It's essential to understand that depression is a medical condition that requires treatment. There are various treatment options available, including therapy and medication. We will work together to develop a treatment plan that works best for you.

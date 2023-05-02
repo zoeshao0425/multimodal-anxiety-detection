@@ -1,0 +1,39 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: My appetite has decreased, and I've lost a few pounds.
+
+Doctor: Have you lost interest in things you used to enjoy?
+
+Patient: Yeah, I don't find joy in anything anymore. I used to love going out with friends or watching movies, but now I just don't care.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I feel exhausted all the time, even when I haven't done anything.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like I'm not good enough and everything is my fault.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yeah, it's been hard to focus on anything. I feel like my mind is always foggy.
+
+Doctor: Based on your responses, it appears that you are experiencing symptoms of depression. I would like to refer you to a therapist who can provide additional support and treatment options. 
+
+Patient: Thank you, doctor. It's good to know that there's help available.

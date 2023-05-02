@@ -1,0 +1,33 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Yes, I have been feeling down and depressed.
+
+Doctor: Can you tell me more about that? How often have you been feeling down or depressed?
+
+Patient: Almost every day, especially in the mornings.
+
+Doctor: Okay. Have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, I don't feel like doing anything anymore. Even things I used to love doing don't interest me anymore.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I've lost weight because I haven't been eating as much as I used to.
+
+Doctor: Have you had trouble sleeping, or have you been sleeping more than usual?
+
+Patient: I've been having trouble sleeping. I can't fall asleep easily, and I wake up several times during the night.
+
+Doctor: Have you felt tired or had a lack of energy recently?
+
+Patient: Yes, I feel tired all the time. Even small tasks seem to require so much effort.
+
+Doctor: Have you felt guilty or worthless recently?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, based on your answers, you've experienced some of the symptoms of depression. However, it doesn't seem severe enough to be diagnosed as depression. We'll keep an eye on your symptoms and schedule a follow-up appointment to see how you're doing. In the meantime, I recommend trying to get more exercise, eating well, and getting enough rest. If you need any help or support, please don't hesitate to reach out to me.

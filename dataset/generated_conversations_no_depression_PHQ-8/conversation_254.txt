@@ -1,0 +1,69 @@
+Doctor: So, you mentioned that you have been feeling down lately. Can you tell me more about that?
+
+Patient: Yeah, I just feel sad all the time. I don't enjoy things that I used to, and I don't have much energy.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been having trouble sleeping and I haven't been eating as much as usual.
+
+Doctor: Do you ever feel hopeless or like life isn't worth living?
+
+Patient: Sometimes, but I try to push those thoughts away.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Well, I lost my job a few months ago, and it's been hard to find work since then.
+
+Doctor: That can definitely be a stressful situation. Have you talked to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden anyone with my problems.
+
+Doctor: It's important to reach out for help when you're struggling. Based on what you've told me, it sounds like you may be experiencing depression. However, let's go through a few more questions to get a better idea of your symptoms.
+
+Doctor: Over the past two weeks, how often have you been bothered by little interest or pleasure in doing things?
+
+Patient: All the time. I used to love playing video games and watching movies, but now I just can't seem to enjoy anything.
+
+Doctor: How about feeling down, depressed, or hopeless?
+
+Patient: Yeah, I feel that way most days.
+
+Doctor: Have you experienced any trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I have trouble falling asleep and staying asleep.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yeah, I feel exhausted most of the time.
+
+Doctor: Have you had a poor appetite or been overeating?
+
+Patient: I haven't been eating as much as usual.
+
+Doctor: Have you felt bad about yourself, or that you are a failure, or have let yourself or your family down?
+
+Patient: Yeah, I feel like I'm not good enough and that I've let my family down by losing my job.
+
+Doctor: Have you had trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yeah, I can't seem to focus on anything for very long.
+
+Doctor: Lastly, have you had thoughts that you would be better off dead, or of hurting yourself in some way?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your answers, it seems like you may be experiencing some symptoms of depression. However, I don't believe it's severe enough to warrant a diagnosis. It's important to take care of yourself and seek support when you need it. Would you like me to refer you to a therapist or counselor to talk about your feelings more in-depth?
+
+Patient: Yes, I think that would be helpful. Thank you for your help, doctor.

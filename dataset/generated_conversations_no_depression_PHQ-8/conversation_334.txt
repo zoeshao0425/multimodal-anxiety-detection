@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling pretty down and unmotivated.
+
+Doctor: Can you tell me more about how you're feeling?
+
+Patient: Well, I just feel like I don't have any energy or enthusiasm for anything. I used to enjoy going out with my friends or doing things around the house, but now I just don't feel like doing anything.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I've lost my appetite. I used to love eating, but now food just doesn't appeal to me anymore.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any feelings of worthlessness or hopelessness?
+
+Patient: Yeah, I just feel like everything is pointless and that I'm not good at anything. I don't see the point in trying anymore.
+
+Doctor: Have you been able to focus or concentrate on tasks?
+
+Patient: Not really. I find myself getting distracted easily and I can't seem to focus on anything for very long.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to do some further testing to make sure. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After reviewing your test results, it appears that you do not have depression. However, if your symptoms persist or worsen, please do not hesitate to come back and see me.

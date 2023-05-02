@@ -1,0 +1,35 @@
+Doctor: Can you tell me how you've been feeling lately?
+
+Patient: I've been feeling really down and hopeless. It's like there's a cloud over me all the time.
+
+Doctor: Have you been experiencing any loss of interest or pleasure in things you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't have the energy or motivation for it.
+
+Doctor: Have you been feeling tired or having trouble sleeping?
+
+Patient: I've been having trouble sleeping. I can't fall asleep at night and then I'm exhausted during the day.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite and I've lost some weight.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I can't seem to focus on anything and I'm always second-guessing myself.
+
+Doctor: Have you been having any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, based on your answers, it seems like you may be experiencing symptoms of depression. Can you tell me more about what's been going on in your life recently?
+
+Patient: Well, I lost my job a few months ago and I've been having trouble finding a new one. My relationship with my partner has also been strained lately.
+
+Doctor: I see. It sounds like you've been going through a lot of stressors. It's important to remember that depression is a medical condition and it's not your fault. I would recommend some lifestyle changes like exercise, healthy eating, and getting enough sleep. I'll also refer you to a therapist who can help you work through your feelings and develop coping strategies.
+
+Patient: Thank you, doctor.

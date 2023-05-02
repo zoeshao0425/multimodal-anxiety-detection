@@ -1,0 +1,37 @@
+Doctor: I'd like to ask you a few questions regarding your mental health. Are you experiencing any of the following symptoms?
+
+Patient: Sure, go ahead.
+
+Doctor: Over the past two weeks, have you felt down, depressed, or hopeless?
+
+Patient: No, not really.
+
+Doctor: Have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Not really, but I have been feeling a bit unmotivated lately.
+
+Doctor: Have you experienced significant changes in your appetite or weight?
+
+Patient: No, not really.
+
+Doctor: Are you having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping lately.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I've been feeling exhausted lately.
+
+Doctor: Have you been feeling worthless or excessively guilty about things?
+
+Patient: No, not really.
+
+Doctor: Have you had difficulty concentrating or making decisions?
+
+Patient: Yes, I've been struggling with that lately.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, not at all.
+
+Doctor: Based on your responses, it seems like you're not experiencing depression. However, if you continue to have trouble sleeping and concentrating, I recommend you come back for a follow-up visit.

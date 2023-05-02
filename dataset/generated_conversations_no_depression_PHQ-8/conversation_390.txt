@@ -1,0 +1,47 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down and unmotivated lately. I just don’t feel like myself.
+
+Doctor: I see. Can you tell me more about how you’ve been feeling?
+
+Patient: Well, I’ve been feeling sad most of the time, and I don’t enjoy things that I used to. I’ve also been having trouble sleeping and eating.
+
+Doctor: How long has this been going on for?
+
+Patient: About two months now.
+
+Doctor: Have you experienced any changes in your energy level or concentration?
+
+Patient: Yeah, I’ve been feeling really tired and I can’t focus on anything. I’ve been missing deadlines at work because of it.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay. Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Not to this extent. I’ve had periods of feeling down before, but this feels different.
+
+Doctor: Have you gone through any major life changes recently that could be contributing to these feelings?
+
+Patient: My grandmother passed away a few months ago, but other than that, things have been pretty normal.
+
+Doctor: Okay. Based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. I’m going to ask you a few more questions to help me understand your condition better.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed?
+
+Patient: I’ve been bothered by all of those things except for feeling bad about myself.
+
+Doctor: Okay. Based on your answers, it appears that you have some symptoms of depression, but not enough to meet the criteria for a diagnosis. However, I would still like to monitor your symptoms and see how they progress. In the meantime, there are some things you can do to help manage your symptoms. Have you considered therapy or counseling?
+
+Patient: Yes, I’ve thought about it.
+
+Doctor: I can refer you to a therapist who can help you work through your feelings and develop coping strategies. Additionally, there are some lifestyle changes you can make that may help, such as exercising regularly, eating a healthy diet, and getting enough sleep.
+
+Patient: Okay, thank you. I appreciate your help.

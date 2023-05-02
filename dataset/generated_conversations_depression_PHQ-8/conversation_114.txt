@@ -1,0 +1,29 @@
+Doctor: Can you tell me how often you have been bothered by any of the following problems over the last two weeks? Little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down for a while now. I don't enjoy things that I used to love doing. I feel hopeless and helpless most of the time.
+
+Doctor: Have you experienced a decrease in appetite or increase in appetite?
+
+Patient: I have lost my appetite. I barely eat anything, and when I do, I don't feel hungry at all.
+
+Doctor: Have you experienced any sleep disturbances, such as difficulty falling asleep or staying asleep, or sleeping too much?
+
+Patient: I have trouble sleeping at night. I wake up several times during the night and can't go back to sleep. During the day, I feel tired and sleepy all the time.
+
+Doctor: Have you noticed a decrease or increase in your energy levels?
+
+Patient: I have no energy at all. I feel tired and exhausted all the time. I don't even have the energy to get out of bed most days.
+
+Doctor: Have you experienced feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough for anything. I feel guilty for everything, even things that aren't my fault.
+
+Doctor: Have you had difficulty concentrating on things, such as reading or watching TV?
+
+Patient: Yes, I can't focus on anything. I can't even watch TV or read a book without losing interest after a few minutes.
+
+Doctor: Have you had thoughts of death or suicide?
+
+Patient: Yes, I have been having suicidal thoughts for a while now. I feel like there's no point in living anymore.
+
+Doctor: Based on your answers, it seems like you are experiencing symptoms of depression. I recommend that you seek treatment as soon as possible. Depression is a treatable illness, and with the right treatment, you can feel better.

@@ -1,0 +1,31 @@
+Doctor: Can you tell me about any feelings of sadness or hopelessness you have been experiencing?
+
+Patient: Yeah, I've been feeling really down lately. It's like everything is just too much to handle and I don't see the point in doing anything.
+
+Doctor: I understand. Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having a lot of trouble sleeping lately. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Okay. How about your appetite? Have you noticed any changes in that area?
+
+Patient: I haven't really been hungry lately. I usually have to force myself to eat something.
+
+Doctor: I see. Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends or playing video games, but now I just don't feel like doing anything.
+
+Doctor: That's understandable. Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I'm always tired no matter how much sleep I get. It's like I just can't seem to recharge my batteries.
+
+Doctor: I see. Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm a burden to everyone around me. Like I'm not good enough for anything.
+
+Doctor: I understand. Have you had any thoughts of self-harm or suicide?
+
+Patient: Sometimes I feel like it would be easier if I wasn't around anymore. But I wouldn't actually do anything.
+
+Doctor: I appreciate your honesty. Based on your answers, it seems like you are experiencing symptoms of depression. It's important to know that depression is a common condition and there are effective treatments available. Would you be open to discussing treatment options with me?
+
+Patient: Yes, I would like that. Thank you for taking the time to talk to me.

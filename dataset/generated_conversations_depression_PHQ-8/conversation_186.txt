@@ -1,0 +1,35 @@
+Doctor: So, let's start with some questions about your mood. Have you been feeling down, depressed, or hopeless lately?
+
+Patient: Yes, I have been feeling really low for the past few weeks. It's like there's a cloud hanging over me all the time.
+
+Doctor: Okay, that's one symptom of depression. Have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, I used to love going out with friends, but now I don't feel like doing anything. Even my favorite activities don't bring me joy anymore.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I've lost a lot of weight without trying. I don't feel hungry most of the time, and even when I eat, I can only manage small portions.
+
+Doctor: Okay, that's another symptom of depression. Have you had trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep, and even when I do, I wake up several times during the night. I also find it hard to get out of bed in the morning, and I often feel tired during the day.
+
+Doctor: I understand. Have you felt tired or lacking in energy lately?
+
+Patient: Yes, I feel exhausted all the time. Even simple tasks like taking a shower or making breakfast seem like a huge effort.
+
+Doctor: That's a common symptom of depression. Have you felt guilty or worthless lately?
+
+Patient: Yes, I feel like I'm a burden on my family and friends. I feel like I'm not good enough at anything and that I'm letting everyone down.
+
+Doctor: I see. Have you had trouble concentrating or making decisions lately?
+
+Patient: Yes, I can't seem to focus on anything for more than a few minutes. Even simple decisions like what to wear or what to eat are a struggle for me.
+
+Doctor: Okay, that's the last symptom of depression. Based on your answers, it seems like you have been experiencing depression symptoms. How long have you been feeling this way?
+
+Patient: It's been about three weeks now.
+
+Doctor: I'm sorry to hear that. Depression is a serious medical condition, but it's also treatable. I would like to recommend some treatment options for you, including therapy and medication. Would you be open to exploring these options?
+
+Patient: Yes, I would like to try anything that could help me feel better. Thank you for listening to me and taking me seriously.

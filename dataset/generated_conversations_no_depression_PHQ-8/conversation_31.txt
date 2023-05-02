@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't enjoy doing things I used to love, like going out with friends or watching movies. And I feel tired all the time, even when I've slept enough.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I thought it was just a phase, but it's not getting any better.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite, and I've lost some weight too.
+
+Doctor: Have you had trouble sleeping or staying asleep?
+
+Patient: Yeah, I find it hard to fall asleep at night, and I wake up several times during the night. I'm always tired in the morning.
+
+Doctor: Have you been feeling more irritable or angry than usual?
+
+Patient: Not really. I just feel sad and hopeless most of the time.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any significant life events recently that may have contributed to your feelings?
+
+Patient: Well, my grandma passed away a few weeks ago, but I don't think that's the only reason I'm feeling this way.
+
+Doctor: Based on what you've described, it sounds like you may be experiencing symptoms of depression. However, I would like to administer the PHQ-8 assessment to gather more information. 
+
+Patient: Okay, sure.
+
+Doctor: (After administering the PHQ-8 assessment) Your score indicates that you do not have depression. However, it's important to continue monitoring your symptoms and seek help if they persist or worsen. It's also important to take care of yourself by eating well, getting enough sleep, and engaging in activities that bring you joy. If you need any further assistance, please don't hesitate to reach out to me or another healthcare provider.

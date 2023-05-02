@@ -1,0 +1,33 @@
+Doctor: So, I understand that you have been feeling down lately. Can you tell me more about your experience? How often have you been feeling this way?
+
+Patient: Yes, I have been feeling really sad and hopeless for the past few weeks. It's been happening almost every day.
+
+Doctor: Have you been experiencing a loss of interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and playing sports, but I just don't feel like doing those things anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating less than usual and have lost a few pounds.
+
+Doctor: Do you have trouble sleeping, or do you find yourself sleeping too much?
+
+Patient: I have trouble falling asleep at night, and I wake up feeling tired even after sleeping for a long time.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yes, it's been hard to focus on anything, and I find myself second-guessing my choices all the time.
+
+Doctor: Have you felt guilty or worthless recently?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I've been having thoughts of ending my life. I feel like I'm a burden to everyone around me.
+
+Doctor: Thank you for sharing that with me. Based on your responses, it seems like you may be experiencing symptoms of depression. Have you ever been diagnosed with depression before?
+
+Patient: No, I haven't.
+
+Doctor: Okay. I would like to refer you to a mental health professional who can help you manage your symptoms and develop a treatment plan. In the meantime, it's important to take care of yourself by getting enough sleep, eating well, and staying active. Remember that depression is a treatable condition, and there is hope for recovery.

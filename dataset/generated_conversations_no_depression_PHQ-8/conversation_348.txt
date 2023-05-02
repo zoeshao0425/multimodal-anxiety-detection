@@ -1,0 +1,43 @@
+Doctor: So, let's start with some questions to understand your condition better. Over the last two weeks, how often have you been bothered by feeling down, depressed or hopeless?
+
+Patient: Honestly, I've been feeling that way almost every day.
+
+Doctor: Okay, and how often have you been bothered by having little interest or pleasure in doing things?
+
+Patient: That's been happening a lot too. I just don't feel motivated to do anything.
+
+Doctor: Have you experienced any significant changes in your appetite or weight recently?
+
+Patient: Yes, I've been eating less than usual and have lost some weight.
+
+Doctor: And have you had trouble sleeping, either sleeping too much or not being able to sleep at all?
+
+Patient: I've been having trouble falling asleep and staying asleep.
+
+Doctor: Have you noticed a decrease in your energy levels or feeling fatigued?
+
+Patient: Yes, I've been feeling really tired lately, even after getting enough sleep.
+
+Doctor: Have you experienced feelings of worthlessness or excessive guilt?
+
+Patient: Yeah, sometimes I feel like I'm not good enough or that everything is my fault.
+
+Doctor: Have you had difficulty concentrating or making decisions?
+
+Patient: Yes, it's been hard to focus on anything and I feel like I can't make decisions.
+
+Doctor: Finally, have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression. Can you tell me a bit more about what's been going on in your life lately?
+
+Patient: Well, I've been going through a lot of stress at work and in my personal life. I've also been feeling isolated and lonely since I moved to a new city.
+
+Doctor: That sounds really difficult. How has depression impacted your daily functioning?
+
+Patient: I've been having trouble getting out of bed in the morning and going to work. I've also lost interest in things I used to enjoy, like reading and going for walks.
+
+Doctor: I see. It's important to remember that depression is a medical condition and can be treated. However, based on your responses, it doesn't seem like you meet the criteria for a diagnosis of depression at this time. That being said, I'd still like to discuss some strategies for managing stress and improving your mood. 
+
+Patient: That would be great, thank you.

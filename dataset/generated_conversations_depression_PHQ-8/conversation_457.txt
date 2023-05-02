@@ -1,0 +1,29 @@
+Doctor: Can you tell me about the symptoms you've been experiencing lately?
+
+Patient: Well, I've been feeling really down and sad for no reason. I don't enjoy things that I used to love doing, and I have trouble sleeping at night.
+
+Doctor: How long have you been feeling like this?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less than usual and have lost some weight.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I find it hard to focus on anything and even simple decisions seem overwhelming.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Can you tell me a bit about your personal life? Are you dealing with any stressors or major life changes?
+
+Patient: Well, I recently lost my job and have been having financial issues. My relationship with my partner is also strained.
+
+Doctor: Thank you for sharing that with me. Based on your symptoms and personal situation, I believe you may be experiencing depression. It's important that we work together to come up with a treatment plan that works best for you.

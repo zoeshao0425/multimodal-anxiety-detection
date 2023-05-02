@@ -1,0 +1,33 @@
+Doctor: So, tell me a bit about your mood and feelings lately. Have you been feeling down or depressed?
+
+Patient: Yes, I have been feeling really low lately. I just don't feel like myself anymore.
+
+Doctor: Can you describe how you've been feeling in more detail? Do you feel sad or empty most of the time?
+
+Patient: Yes, I feel sad and empty a lot of the time. It's like there's a cloud over my head that won't go away.
+
+Doctor: And have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't have the energy or motivation for it.
+
+Doctor: How about your sleep patterns? Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't get back to sleep.
+
+Doctor: And have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and I've lost some weight because of it.
+
+Doctor: Have you been feeling guilty or worthless lately? Do you have negative thoughts about yourself?
+
+Patient: Yes, I feel like I'm not good enough and that I'm a burden on others. I keep thinking about all the mistakes I've made in the past and how I could have done better.
+
+Doctor: And have you had any thoughts of harming yourself or suicide?
+
+Patient: Sometimes I just feel like giving up, but I haven't had any specific thoughts of suicide.
+
+Doctor: Thank you for sharing all of that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to further evaluate you and develop a treatment plan. 
+
+Patient: Okay, that sounds good. What kind of treatment do you recommend?
+
+Doctor: We can discuss different options, but I think therapy and medication may be helpful for you. It's important to address depression early on and get the support you need.

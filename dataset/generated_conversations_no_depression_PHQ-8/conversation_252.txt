@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and hopeless. It's been hard to get out of bed in the morning and I've lost interest in things I used to enjoy.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been eating less and having trouble sleeping. Sometimes I'll stay up all night and other times I'll sleep for hours on end.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: I feel tired all the time, even when I haven't done anything physically demanding. It's like I can't find the motivation to do anything.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any specific thoughts of harming myself, but I do feel like life isn't worth living sometimes.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yes, I feel like everything is my fault and that I'm not good enough. I keep thinking about all the mistakes I've made in the past.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, it's been really hard to focus on anything. Even simple tasks seem overwhelming and I can't make decisions without second-guessing myself.
+
+Doctor: Have you noticed any physical symptoms, like headaches or body aches?
+
+Patient: Yes, I've been getting headaches and my body feels achy all over. It's like I'm carrying a heavy weight around with me all the time.
+
+Doctor: Thank you for answering those questions. Based on your answers, it seems like you may be experiencing some symptoms of depression. However, after further evaluation, I don't believe you meet the criteria for a diagnosis of major depressive disorder. 
+
+Patient: That's a relief to hear. What can I do to start feeling better?
+
+Doctor: There are a few things you can try to improve your mood and overall well-being. Regular exercise, a healthy diet, and getting enough sleep can all help. It's also important to make time for activities you enjoy and to connect with friends and family. If your symptoms persist or worsen, we can explore other treatment options, like therapy or medication.

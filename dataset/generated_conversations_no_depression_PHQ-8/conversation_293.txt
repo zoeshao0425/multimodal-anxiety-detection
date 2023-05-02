@@ -1,0 +1,33 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and unmotivated. I don't have much energy and I'm having trouble sleeping.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less than usual and I've lost a bit of weight.
+
+Doctor: Have you been experiencing any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything I do is wrong and I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yeah, it's been hard to focus on anything and I've been second-guessing myself a lot.
+
+Doctor: Have you noticed any changes in your interest or pleasure in activities you used to enjoy?
+
+Patient: Yeah, I haven't been interested in doing anything lately. Even things I used to love don't seem appealing anymore.
+
+Doctor: Based on your answers, it seems like you may be experiencing some symptoms of depression. However, I'd like to ask a few more questions to get a better understanding of your situation. Can you tell me a bit about your personal life and any recent events that may have contributed to how you're feeling?
+
+Patient: Well, I recently lost my job and I'm having trouble finding a new one. I've also been having some problems in my relationship.
+
+Doctor: It's understandable that those things would be causing you stress and affecting your mood. However, based on the information you've provided, I don't believe you meet the criteria for a diagnosis of major depression. That being said, it's still important to address these symptoms and work on improving your mental health. I'd recommend making an appointment with a therapist to discuss these issues further and develop a plan for managing your symptoms.

@@ -1,0 +1,41 @@
+Doctor: So, you mentioned that you've been feeling down lately. Can you tell me more about that?
+
+Patient: Yeah, I just feel really sad all the time. I don't have any energy, and I don't enjoy things like I used to.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I haven't been eating as much.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything is my fault, and I'm not good enough.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus on anything lately.
+
+Doctor: Have you noticed any physical symptoms, like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing depression. 
+
+Patient: Really? I didn't think it was that serious.
+
+Doctor: Depression is a common condition that affects many people. It's important to take it seriously and get the help you need. There are treatments available that can help you feel better.
+
+Patient: What kind of treatments are there?
+
+Doctor: There are different types of treatments for depression, including therapy and medication. We can discuss which options might be best for you based on your specific needs and preferences.
+
+Patient: Okay, that sounds good. Thank you for listening to me and helping me figure out what's going on.
+
+Doctor: Of course, that's what I'm here for. We'll work together to help you feel better and improve your quality of life.

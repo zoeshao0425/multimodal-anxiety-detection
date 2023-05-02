@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad a lot of the time. It's like I don't have any energy or motivation to do anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: Probably for a few weeks now. It's been getting worse over time.
+
+Doctor: Have you noticed any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been having trouble sleeping at night and I've lost my appetite. I just don't feel hungry anymore.
+
+Doctor: Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, I feel like I'm not good enough at anything and that nothing is ever going to get better.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, I haven't noticed any physical symptoms.
+
+Doctor: Have you been experiencing any difficulty concentrating or making decisions?
+
+Patient: Yeah, I've been having a hard time focusing on anything and I feel like I can't make decisions anymore.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, it's important to note that depression is a medical condition that can be treated. Would you be open to discussing treatment options with me?
+
+Patient: Actually, I think I might just be going through a tough time right now. I've been dealing with some personal issues that have been causing a lot of stress, but I don't think it's depression.
+
+Doctor: That's understandable. It's important to remember that everyone goes through difficult times, and it's normal to feel sad or down at times. However, if you ever feel like your symptoms are getting worse or you're having trouble coping, please don't hesitate to reach out to me or a mental health professional for help.

@@ -1,0 +1,39 @@
+Doctor: Can you tell me about any feelings of sadness or hopelessness that you have been experiencing lately?
+
+Patient: Yes, I have been feeling really down lately. I feel like nothing is going right in my life and I don't see any way out of it.
+
+Doctor: How often have you been experiencing these feelings over the past two weeks?
+
+Patient: Almost every day. It's been really hard to shake off these feelings.
+
+Doctor: Have you lost interest in things that you used to enjoy doing?
+
+Patient: Yes, I used to love going out with my friends and doing things, but lately, I just don't feel like doing anything. I just want to stay at home and be alone.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I haven't been eating as much as I used to. I've lost a few pounds recently.
+
+Doctor: Have you had any trouble sleeping, such as difficulty falling asleep or waking up too early?
+
+Patient: Yes, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I've been feeling really tired lately. Even when I get enough sleep, I still feel exhausted.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I've been feeling like everything is my fault and I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of self-harm or suicide.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to do some further testing to make sure. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After conducting the PHQ-8 assessment, it appears that you do not meet the criteria for depression. However, if you continue to experience these symptoms or they worsen, please come back and see me.
+
+Patient: Thank you, doctor. I appreciate your help.

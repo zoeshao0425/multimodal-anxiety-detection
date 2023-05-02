@@ -1,0 +1,25 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed or hopeless, trouble falling asleep or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, feeling like a failure or letting your family down, trouble concentrating on things such as reading, and moving or speaking so slowly that other people could have noticed?
+
+Patient: Yes, I have been feeling down and hopeless for a while now. I don't find pleasure in doing things that I used to enjoy, and I feel like I'm not good enough. I have trouble sleeping at night, and even when I do, I wake up feeling tired and drained. I've lost my appetite, and I've been eating very little. I also have trouble focusing on things, and I feel like I'm moving slowly.
+
+Doctor: I see. How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any significant life events recently that could have triggered these feelings?
+
+Patient: Not really. I've just been feeling like this for no apparent reason.
+
+Doctor: Okay. Have you ever experienced these symptoms before?
+
+Patient: Yes, I have. It happened a few years ago, and I was diagnosed with depression.
+
+Doctor: I see. Have you received any treatment for depression in the past?
+
+Patient: Yes, I went to therapy and took medication for a while. It helped me a lot, and I was able to get back to my normal self.
+
+Doctor: That's good to hear. Based on what you've told me, it seems like you're experiencing symptoms of depression again. However, I would like to ask a few more questions to determine the severity of your symptoms. Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't.
+
+Doctor: That's good to hear. Based on your responses, it seems like you're experiencing mild symptoms of depression. However, it's important to note that depression can impact your daily functioning and quality of life. I would recommend that you continue to monitor your symptoms and seek treatment if they persist or worsen.

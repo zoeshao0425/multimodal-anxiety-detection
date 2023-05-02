@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, I've been feeling pretty down. I just don't have the energy to do anything anymore.
+
+Doctor: Have you been experiencing any specific symptoms of depression?
+
+Patient: Yeah, I've been feeling really sad and hopeless. I'm also having trouble sleeping and I've lost my appetite.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your mood or behavior?
+
+Patient: Yeah, I've been feeling more irritable and I've lost interest in things that used to make me happy.
+
+Doctor: Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any traumatic events recently?
+
+Patient: No, nothing traumatic has happened. I just feel like I can't shake this feeling of sadness.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: Yes, I was diagnosed with depression a few years ago and I was on medication for a while.
+
+Doctor: Have you been taking any medication or seeking any treatment for your current symptoms?
+
+Patient: No, I haven't sought any treatment yet.
+
+Doctor: Based on your symptoms and history of depression, it appears that you may be experiencing depression again. I recommend that you seek treatment, whether it's medication, therapy, or a combination of both. Depression can have a significant impact on your daily functioning and it's important to address it as soon as possible.

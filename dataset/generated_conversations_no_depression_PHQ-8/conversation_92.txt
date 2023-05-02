@@ -1,0 +1,45 @@
+Doctor: Thank you for coming in today. Can you tell me a little bit about why you're here?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: Okay, that's understandable. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. At first, I thought it was just a bad mood, but it hasn't gone away.
+
+Doctor: I see. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping and I don't really feel like eating much.
+
+Doctor: Okay, those are common symptoms of depression. Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel really tired all the time. Even doing simple tasks feels exhausting.
+
+Doctor: And have you noticed any changes in your interest in activities you used to enjoy?
+
+Patient: Yeah, I don't really feel like doing anything anymore. I used to love going out with friends or watching movies, but now I just don't have the energy or motivation.
+
+Doctor: Okay, those are all symptoms of depression. Can you tell me a little bit about your personal life? Are there any major stressors or life changes that could be contributing to how you're feeling?
+
+Patient: Well, I recently went through a breakup and it's been really hard for me. I've also been struggling at work and feeling really overwhelmed.
+
+Doctor: I see. Those are definitely things that could contribute to how you're feeling. Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Okay, well I'm glad you came in to talk about it. Based on what you've told me, it does sound like you're experiencing symptoms of depression. However, I'd like to do a full assessment to be sure.
+
+Patient: Okay, that makes sense.
+
+Doctor: So, I'm going to ask you a few more questions. On a scale of 0-3, how often have you been bothered by the following symptoms in the past two weeks: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you're a failure, trouble concentrating on things, moving or speaking so slowly that other people could have noticed?
+
+Patient: Well, I would say that I've been bothered by feeling down, depressed, or hopeless almost every day. I've also had trouble sleeping, felt tired, and had little interest in doing things. The other symptoms haven't been as frequent.
+
+Doctor: Okay, based on your answers to those questions, it does sound like you're experiencing symptoms of depression. However, I'd like to rule out any other possible causes for your symptoms. I'd like to run some blood tests and do a physical exam to make sure there's nothing else going on.
+
+Patient: Okay, that sounds good.
+
+Doctor: In the meantime, I'd like to recommend some lifestyle changes that can help alleviate depression symptoms. These include getting regular exercise, eating a healthy diet, getting enough sleep, and engaging in activities you enjoy. I'd also like to refer you to a therapist who can help you work through your feelings and develop coping strategies.
+
+Patient: Okay, thank you for your help.
+
+Doctor: Of course. We'll schedule a follow-up appointment once we have the results of your blood tests and physical exam. In the meantime, if you have any concerns or questions, don't hesitate to reach out.

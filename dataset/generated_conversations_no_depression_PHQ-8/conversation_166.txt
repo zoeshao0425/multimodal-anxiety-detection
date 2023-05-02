@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, honestly, I've been feeling pretty down. It's been hard to get out of bed in the morning and I just don't have much energy.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've noticed that I'm not really hungry anymore and I have trouble falling asleep at night.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your interest in activities you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like it.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling pretty worthless lately. I just feel like nothing I do matters.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Have you experienced any traumatic events recently that may be contributing to how you're feeling?
+
+Patient: No, nothing traumatic has happened recently.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to rule out any medical conditions that could be causing these symptoms. We will need to run some tests to make sure everything is okay.

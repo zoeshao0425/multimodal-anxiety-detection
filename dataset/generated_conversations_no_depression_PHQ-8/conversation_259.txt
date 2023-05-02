@@ -1,0 +1,67 @@
+Doctor: So, I understand that you're here to discuss some symptoms of depression that you've been experiencing. Can you tell me a bit more about what you've been feeling?
+
+Patient: Yeah, I've just been feeling really down lately. Like, I don't have any energy and I just don't enjoy things like I used to.
+
+Doctor: Okay, so you're feeling a lack of energy and enjoyment in things that you normally would enjoy. Have you been experiencing any other symptoms, like changes in your appetite or sleep patterns?
+
+Patient: Yeah, actually. I've been eating a lot less than usual and having trouble sleeping at night. I just can't seem to turn my brain off.
+
+Doctor: That's definitely something we want to keep an eye on. Have you noticed any changes in your mood, like feeling more irritable or hopeless?
+
+Patient: Yeah, I've definitely been feeling more irritable than usual. And sometimes it just feels like everything is hopeless, like there's no point in even trying.
+
+Doctor: I see. Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I don't think I would ever do anything like that.
+
+Doctor: Okay, that's good to hear. Have you experienced any physical symptoms, like headaches or stomach issues?
+
+Patient: Not really, no.
+
+Doctor: Alright. So based on what you've told me, it sounds like you may be experiencing symptoms of depression. But before we move forward with any treatment options, I'd like to ask you a few more questions to get a better idea of what's going on. 
+
+Patient: Sure, go ahead.
+
+Doctor: Have you experienced any major life changes recently, like a job loss or the death of a loved one?
+
+Patient: No, nothing like that.
+
+Doctor: Okay. And have you ever experienced symptoms like this before?
+
+Patient: Yeah, I have. A few years ago, I went through a really tough time and was diagnosed with depression. But I've been doing a lot better since then.
+
+Doctor: Alright, that's good to know. Based on what you've told me, it's possible that you're experiencing a relapse of your depression. However, I'd like to administer a PHQ-8 assessment to get a better idea of the severity of your symptoms. 
+
+Patient: Okay, sure.
+
+Doctor: Alright, let's start with the first question. Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Pretty much every day.
+
+Doctor: Okay. And how about over the past two weeks, how often have you been bothered by little interest or pleasure in doing things?
+
+Patient: Every day as well.
+
+Doctor: Got it. And over the past two weeks, how often have you been bothered by trouble falling or staying asleep, or sleeping too much?
+
+Patient: Every day.
+
+Doctor: Alright. And how about over the past two weeks, how often have you been bothered by feeling tired or having little energy?
+
+Patient: Every day.
+
+Doctor: Okay. And over the past two weeks, how often have you been bothered by poor appetite or overeating?
+
+Patient: Poor appetite, every day.
+
+Doctor: Alright. And how about over the past two weeks, how often have you been bothered by feeling bad about yourself, or feeling like you're a failure or have let yourself or your family down?
+
+Patient: Every day.
+
+Doctor: Okay. And over the past two weeks, how often have you been bothered by trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Every day.
+
+Doctor: Okay. And finally, over the past two weeks, how often have you been bothered by moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: Moving slowly pretty much every

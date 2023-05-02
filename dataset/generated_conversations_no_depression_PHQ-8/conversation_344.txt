@@ -1,0 +1,43 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about how you're feeling?
+
+Patient: Well, I just feel really sad all the time. I don't enjoy things like I used to and I don't have much energy. I'm also having trouble sleeping.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, actually. I've been eating a lot less than usual.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, definitely. I just feel like nothing I do matters and I'm not good at anything.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having a lot of trouble with that too.
+
+Doctor: Have you noticed any physical symptoms like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Can you tell me a little bit about your personal life? Are there any major stressors or changes happening?
+
+Patient: Well, I recently went through a breakup and it's been really hard for me. That's probably part of why I'm feeling so down.
+
+Doctor: I see. Based on your answers, it sounds like you might be experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors. Let's talk a little more about your situation and see if we can figure out what's going on.
+
+Patient: Okay.
+
+Doctor: Have you tried any coping mechanisms or self-care techniques to help with your symptoms?
+
+Patient: I've been trying to exercise and eat healthy, but it hasn't really been helping.
+
+Doctor: Okay. Well, based on our conversation and the PHQ-8 assessment, I'm going to diagnose you as not having depression. It sounds like your symptoms may be related to the recent breakup and other stressors in your life. I would recommend continuing with self-care techniques and also considering therapy or counseling to help you work through these issues.
+
+Patient: Thank you, doctor. That makes me feel a little better.

@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down and hopeless for the past few weeks. I have lost interest in things that I used to enjoy doing, and I feel like I have no energy.
+
+Doctor: Have you experienced a decrease in appetite or weight loss over the past two weeks?
+
+Patient: No, my appetite has been normal, but I have noticed that I have been eating more junk food than usual.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have been having trouble sleeping. I wake up frequently during the night and have trouble falling back asleep.
+
+Doctor: Have you noticed a decrease in your ability to concentrate or make decisions?
+
+Patient: Yes, I have been having trouble concentrating at work, and it's been affecting my performance.
+
+Doctor: Have you felt restless or slowed down physically?
+
+Patient: I have been feeling restless and agitated, but at the same time, I feel like I have no energy to do anything.
+
+Doctor: Have you had thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of harming myself or suicide.
+
+Doctor: Can you tell me a little bit about what's been going on in your life recently?
+
+Patient: I've been going through a tough time at work, and I've been having trouble with my relationship. It's been stressing me out a lot.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, you do not meet the criteria for a diagnosis of major depression. We can discuss some treatment options that may help you feel better.

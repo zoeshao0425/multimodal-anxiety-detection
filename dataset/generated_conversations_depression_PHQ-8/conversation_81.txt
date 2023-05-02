@@ -1,0 +1,43 @@
+Doctor: So, let's start with some questions about your mood. Over the past two weeks, how often have you felt down, depressed or hopeless?
+
+Patient: Almost every day.
+
+Doctor: Okay, and have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, I don't feel like doing anything anymore.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I've been eating less and have lost weight.
+
+Doctor: How about trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep and then wake up early in the morning feeling tired.
+
+Doctor: Have you felt tired or had a lack of energy lately?
+
+Patient: Yes, I feel drained all the time.
+
+Doctor: Have you felt guilty or worthless recently?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Lastly, have you had any thoughts of harming yourself or suicide?
+
+Patient: Yes, I have been having suicidal thoughts.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you are experiencing symptoms of depression. Can you tell me more about what's been going on in your life?
+
+Patient: Well, I lost my job a few months ago, and I haven't been able to find another one. It's been really hard on me financially, and I feel like a failure. I also lost a family member recently, and it's been really difficult to cope with their loss.
+
+Doctor: I'm sorry to hear that. It sounds like you've been through a lot. Depression can be caused by a variety of factors, including genetics, life events, and chemical imbalances in the brain. I would like to diagnose you with depression and recommend some treatment options to help you feel better.
+
+Patient: What kind of treatment options are available?
+
+Doctor: There are several options, including therapy, medication, and lifestyle changes. Therapy can help you work through your feelings and develop coping strategies. Medication can help balance the chemicals in your brain that are causing your symptoms. And lifestyle changes such as exercise, healthy eating, and stress reduction techniques can also be helpful.
+
+Patient: Okay, I'm willing to try anything to feel better.
+
+Doctor: Great, I will refer you to a therapist who can help you work through your feelings, and I will also prescribe an antidepressant medication for you to take. It's important to remember that it may take some time for the medication to start working, so be patient and keep up with your treatment plan.
+
+Patient: Thank you, doctor. I appreciate your help and support.

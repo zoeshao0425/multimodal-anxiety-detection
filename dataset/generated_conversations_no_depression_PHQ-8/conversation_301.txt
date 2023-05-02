@@ -1,0 +1,29 @@
+Doctor: Can you tell me about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't have as much energy as I used to, and I don't enjoy things that I used to like doing.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I haven't had much of an appetite either.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Definitely. It's been hard for me to focus on anything, and I feel like I can't make even small decisions without it being overwhelming.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced depression before, or does it run in your family?
+
+Patient: I have a family history of depression, but this is the first time I've experienced it myself.
+
+Doctor: Can you tell me a little bit about what's been going on in your life recently?
+
+Patient: Well, I've been going through a tough time at work, and I've also been having some relationship issues.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, after assessing your symptoms using the PHQ-8, it appears that you do not meet the criteria for a diagnosis of depression. That being said, I would still recommend seeking support from a therapist or counselor to help you work through these difficult emotions and experiences.

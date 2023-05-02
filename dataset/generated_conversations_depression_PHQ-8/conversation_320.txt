@@ -1,0 +1,35 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I just can't seem to shake this feeling of sadness and hopelessness.
+
+Doctor: I see. Can you tell me a little more about your symptoms? Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, my appetite has definitely decreased. I just don't feel like eating much anymore. And I have trouble falling asleep at night. I lay in bed for hours, just thinking and worrying.
+
+Doctor: Okay, have you noticed any changes in your energy levels or motivation?
+
+Patient: Yeah, I feel really tired all the time. Even getting out of bed in the morning feels like a huge effort. And I just don't feel motivated to do anything anymore. Things that used to bring me joy just don't interest me anymore.
+
+Doctor: That sounds difficult. Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. It's mostly just this overwhelming feeling of sadness and emptiness.
+
+Doctor: Okay, and have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, definitely. I have trouble focusing on anything for very long. And even simple decisions, like what to wear or what to eat, feel really overwhelming.
+
+Doctor: I understand. Can you tell me a little more about your personal life? Are you currently working or in school?
+
+Patient: Yeah, I'm working full-time. It's been really hard to get through the day though. I just feel so drained and unmotivated.
+
+Doctor: I can imagine. And how about your social life? Have you been spending time with friends and family?
+
+Patient: No, not really. I just don't feel like being around people right now. It's easier to just stay at home by myself.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to do a more thorough assessment to help determine the severity of your symptoms and the best course of treatment.
+
+Patient: Okay, that sounds good.
+
+Doctor: Great. So, based on the PHQ-8 assessment, it appears that you are experiencing moderate to severe symptoms of depression. I would recommend that we start with therapy and possibly medication to help manage your symptoms. We can also discuss lifestyle changes, like exercise and healthy eating, that may help improve your mood.
+
+Patient: Thank you, doctor. That all sounds like a good plan.

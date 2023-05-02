@@ -1,0 +1,65 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down lately. I just can’t seem to shake it off.
+
+Doctor: Can you tell me a little more about how you’re feeling?
+
+Patient: Well, I’m having trouble sleeping, I don’t have much of an appetite, and I don’t enjoy things that I used to find fun.
+
+Doctor: Okay, those are all symptoms of depression. Have you been feeling this way for a while?
+
+Patient: Yes, about two weeks now.
+
+Doctor: Have you experienced any significant changes or stressors in your life recently?
+
+Patient: My job has been really stressful, and I’ve been having some relationship issues with my partner.
+
+Doctor: I see. Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: That’s good to hear. Have you noticed any changes in your energy level or ability to concentrate?
+
+Patient: Yes, I feel tired all the time and I’m having trouble focusing at work.
+
+Doctor: Okay, thank you for sharing that with me. Have you ever experienced depression before?
+
+Patient: No, this is the first time.
+
+Doctor: Alright, well based on what you’ve told me, it sounds like you may be experiencing mild to moderate depression. I’d like to ask you a few more questions to get a better sense of your symptoms. Have you been feeling sad or hopeless?
+
+Patient: Yes, definitely.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yes, I don’t even want to go out with friends anymore.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I’ve been beating myself up over everything lately.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I’ve been having trouble sleeping. I usually wake up several times during the night.
+
+Doctor: Have you been feeling tired or low on energy?
+
+Patient: Yes, I feel exhausted all the time.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: I’ve lost a few pounds because I haven’t been eating much.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you’re experiencing some symptoms of depression. However, it’s important to note that these symptoms can also be caused by other factors, such as stress or a medical condition. I’d like to do some further testing to rule out any other causes. 
+
+Patient: That makes sense. What kind of testing?
+
+Doctor: We’ll start with a physical exam and some blood work. Depending on the results, we may refer you to a specialist for further evaluation.
+
+Patient: Okay, I understand.
+
+Doctor: In the meantime, I’d like to recommend some lifestyle changes that can help alleviate your symptoms. Exercise, healthy eating, and getting enough sleep can all have a positive impact on your mood. Additionally, therapy can be very effective in treating depression. I can refer you to a therapist who specializes in cognitive-behavioral therapy, which has been shown to be particularly helpful for people with depression.
+
+Patient: Thank you, doctor. I appreciate your help.
+
+Doctor: Of course. Remember that depression is a treatable condition, and there’s no shame in seeking help. We’ll work together to find the best treatment plan for you.

@@ -1,0 +1,47 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately? Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down and hopeless lately. I don't find pleasure in things that I used to enjoy, and I feel like I'm just going through the motions.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been about three weeks now.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and have lost a few pounds.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you been feeling tired or having low energy?
+
+Patient: Yes, I feel exhausted all the time.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and that everything I do is wrong.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I find it hard to focus on anything and making decisions feels overwhelming.
+
+Doctor: Thank you for sharing that with me. Based on your answers, it seems like you are experiencing symptoms of depression. However, I would like to ask a few more questions to rule out any other possible causes.
+
+Patient: Okay.
+
+Doctor: Have you recently experienced any major life changes, such as a job loss or a breakup?
+
+Patient: No, nothing like that has happened.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time.
+
+Doctor: Do you have a support system, such as friends or family, that you can talk to about how you're feeling?
+
+Patient: Yes, I have a few close friends that I can talk to.
+
+Doctor: That's great to hear. Based on our conversation, I don't believe that you have depression. It's possible that you're experiencing a temporary period of low mood, which is common and can be caused by a variety of factors. However, if your symptoms persist or worsen, please don't hesitate to come back and see me.
+
+Patient: Thank you, doctor. I appreciate your help.

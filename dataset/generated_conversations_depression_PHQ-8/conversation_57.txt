@@ -1,0 +1,33 @@
+Doctor: Can you tell me about your mood lately? Have you been feeling down or depressed?
+
+Patient: Yes, I have been feeling very sad and low for the past few weeks.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day.
+
+Doctor: Have you lost interest in things that you used to enjoy doing?
+
+Patient: Yes, I have lost interest in everything that I used to enjoy doing. I don't feel motivated to do anything.
+
+Doctor: Have you been experiencing any changes in your appetite, such as eating more or less than usual?
+
+Patient: I have been eating a lot less than usual. I just don't feel hungry.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yes, I have been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling tired or fatigued during the day?
+
+Patient: Yes, I have been feeling very tired and have no energy to do anything.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yes, I have been feeling very guilty about everything and feel like I am not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or suicidal ideation?
+
+Patient: Yes, I have been having thoughts of hurting myself and have been feeling like life is not worth living.
+
+Doctor: Based on your answers, it seems like you are experiencing symptoms of depression. I would like to refer you to a mental health professional who can help you manage your symptoms and improve your quality of life.

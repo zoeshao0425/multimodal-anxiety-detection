@@ -1,0 +1,41 @@
+Doctor: Hi, can you tell me how you've been feeling lately?
+
+Patient: I've been feeling really down and hopeless. It's like nothing brings me joy anymore.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating as much as usual and I've lost some weight.
+
+Doctor: Have you had trouble sleeping or experienced any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble falling asleep and staying asleep. And when I do wake up, I feel exhausted.
+
+Doctor: Have you noticed a decrease in your energy levels or motivation to do things?
+
+Patient: Definitely. I used to be really active and enjoy going out with friends, but now I just want to stay in bed all day.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yeah, I've been having some pretty dark thoughts lately.
+
+Doctor: Have you experienced any physical symptoms such as headaches, body aches, or stomach problems?
+
+Patient: I've had some headaches and my stomach has been upset a lot.
+
+Doctor: Thank you for sharing that information with me. Based on what you've told me, it sounds like you may be experiencing depression. 
+
+Patient: Really? I didn't know that.
+
+Doctor: Depression is a common mental health condition that affects millions of people. It's important to address it early on so we can create a treatment plan that works for you. 
+
+Patient: Okay, what kind of treatment options are there?
+
+Doctor: There are several options, including therapy, medication, and lifestyle changes. We can work together to determine the best course of action for you. 
+
+Patient: That sounds good. I just want to feel better.
+
+Doctor: I understand. Let's schedule a follow-up appointment to discuss treatment options in more detail. In the meantime, try to take care of yourself by getting enough sleep, eating well, and staying active. And if you ever feel like you're in crisis, don't hesitate to reach out for help.

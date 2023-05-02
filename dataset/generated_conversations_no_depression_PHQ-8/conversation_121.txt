@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and sad. I've been having trouble sleeping and I don't feel motivated to do anything.
+
+Doctor: Have you experienced a decrease in interest or pleasure in things you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and doing activities, but now I just can't seem to find joy in anything.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and I've lost a few pounds recently.
+
+Doctor: Do you feel more tired than usual?
+
+Patient: Yes, I feel exhausted all the time. Even when I get enough sleep, I still feel tired.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I find it hard to focus on anything and I can't make even simple decisions.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any suicidal thoughts or thoughts of hurting anyone else.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Based on your responses, it seems like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to understand your situation better. Can you tell me a bit about your personal life?
+
+Patient: Sure, I recently went through a breakup and I've been struggling to cope with it. I also lost my job a few months ago, so I've been feeling stressed about money.
+
+Doctor: I see. It's understandable that these events would cause some stress and sadness. However, based on your responses and your personal situation, I don't believe you have depression. It sounds like you may be experiencing situational sadness, which is a normal response to difficult life events. I recommend seeking support from friends and family, as well as considering therapy to help you cope with these challenges.

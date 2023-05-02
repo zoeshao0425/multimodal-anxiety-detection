@@ -1,0 +1,43 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling really down and unmotivated. I don't have any energy and I'm not interested in doing anything.
+
+Doctor: Have you been feeling this way for a while?
+
+Patient: Yeah, it's been going on for a few weeks now.
+
+Doctor: Have you had any trouble sleeping or eating?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. I've also lost my appetite and haven't been eating much.
+
+Doctor: Have you noticed any changes in your mood or how you feel about yourself?
+
+Patient: Yeah, I feel really hopeless and worthless. I don't see the point in doing anything because nothing makes me happy.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: Yes, I have. I was diagnosed with depression a few years ago and was on medication for a while.
+
+Doctor: Have you experienced any significant life changes recently, like a loss or a major stressor?
+
+Patient: Not really. My life has been pretty stable lately.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to do a full assessment to get a better understanding of your condition.
+
+Patient: Okay, that makes sense.
+
+Doctor: After conducting the assessment, it appears that you do not meet the criteria for a diagnosis of depression. It's possible that you may be experiencing some temporary feelings of sadness or low mood, but it doesn't appear to be a long-term issue at this time.
+
+Patient: That's a relief to hear.
+
+Doctor: It's important to keep an eye on your symptoms and let me know if anything changes. If you do start to experience more severe symptoms, we can re-evaluate your condition and come up with a treatment plan if necessary.
+
+Patient: Thank you for your help, doctor. I appreciate it.

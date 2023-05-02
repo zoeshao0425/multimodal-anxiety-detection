@@ -1,0 +1,33 @@
+Doctor: Can you describe to me what you are feeling lately? 
+
+Patient: I just feel really down and hopeless. I've been feeling this way for a while now.
+
+Doctor: How often do you feel this way?
+
+Patient: Almost every day. It's been going on for a few months.
+
+Doctor: Have you experienced any loss of interest or pleasure in things you used to enjoy?
+
+Patient: Yes, definitely. I used to love playing video games and hanging out with friends, but now I just don't have the energy or desire to do those things anymore.
+
+Doctor: Do you have trouble falling asleep or staying asleep at night?
+
+Patient: Yeah, I've been having trouble sleeping lately. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: I haven't been eating as much as I used to, and I've lost some weight because of it.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, all the time. Even when I get a good night's sleep, I still feel exhausted.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: (Pauses) Actually, yes. I've been having thoughts of ending my life lately. It scares me.
+
+Doctor: Thank you for being honest with me. Have you experienced any other symptoms, like difficulty concentrating or feeling restless?
+
+Patient: Yeah, I've been having trouble focusing at work, and I feel really fidgety and restless all the time.
+
+Doctor: Based on your responses, it sounds like you may be experiencing depression. I recommend we start a treatment plan that includes therapy and medication. We will work together to help you feel better and improve your daily functioning.

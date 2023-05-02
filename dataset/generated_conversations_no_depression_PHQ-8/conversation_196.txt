@@ -1,0 +1,39 @@
+Doctor: Hi, can you tell me a little bit about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Honestly, yes. I've been feeling really low and hopeless for the past few weeks.
+
+Doctor: Okay, have you lost interest in doing things you used to enjoy, like hobbies or spending time with friends and family?
+
+Patient: Yes, I have. I used to love going out with my friends and doing things, but now I just don't feel like it.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Actually, yes. I've been eating less than usual and I've lost a few pounds.
+
+Doctor: How about your sleep? Have you been sleeping more or less than usual?
+
+Patient: I've been having trouble sleeping at night and I feel really tired during the day.
+
+Doctor: Have you been feeling tired or low on energy lately?
+
+Patient: Yes, definitely. I feel like I have no motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I've been feeling really worthless lately. Like I'm not good enough at anything.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, based on your answers, it sounds like you may be experiencing symptoms of depression. Have you experienced any major life events or stressors recently that could be contributing to these feelings?
+
+Patient: Well, I recently lost my job and I've been having some financial problems. It's been really stressful.
+
+Doctor: I see. That could definitely be a contributing factor. Have you considered talking to a therapist or counselor about these feelings?
+
+Patient: I haven't yet, but I would be open to it.
+
+Doctor: That's a good idea. I think it would be helpful for you to talk to someone about what you're going through. Based on our conversation, I don't think you meet the criteria for a diagnosis of depression, but it's important to address these symptoms before they worsen. I can refer you to a therapist if you'd like.
+
+Patient: That would be great, thank you.

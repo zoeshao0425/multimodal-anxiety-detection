@@ -1,0 +1,39 @@
+Doctor: So, can you tell me a little bit about what's been going on lately that made you decide to come in today?
+
+Patient: Yeah, sure. I've been feeling really down and unmotivated lately. I don't really enjoy doing things that I used to love, and I'm having trouble sleeping at night.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yeah, actually, I've noticed that I haven't been eating as much as I used to. I've lost a few pounds without really trying.
+
+Doctor: I see. And have you been feeling tired or fatigued a lot of the time?
+
+Patient: Yes, definitely. Even when I get a good night's sleep, I still feel exhausted during the day.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I've been having a really hard time focusing at work. It takes me longer to complete tasks, and I feel like I'm making more mistakes than usual.
+
+Doctor: That's helpful information. And have you been feeling hopeless or helpless lately?
+
+Patient: Yeah, I have. I just feel like things aren't going to get better, no matter what I do.
+
+Doctor: I understand. And have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it sounds like you may be experiencing some symptoms of depression. Can you tell me a little bit about your personal background? Have you experienced depression before?
+
+Patient: Actually, no, I haven't. I've never really felt this way before.
+
+Doctor: I see. Have you experienced any significant life changes or stressors recently that could be contributing to these feelings?
+
+Patient: Well, I did just go through a breakup a few months ago. It was pretty tough on me.
+
+Doctor: That could definitely be a contributing factor. Have you been able to talk to anyone about how you're feeling?
+
+Patient: Not really. I've been trying to deal with it on my own, but it's not working.
+
+Doctor: I'm glad you decided to come in today. Based on what you've told me, I don't think you meet the criteria for a diagnosis of major depression. However, it's clear that you're struggling and could benefit from some support. I'd recommend that you consider talking to a therapist or counselor about what's been going on. They can help you work through your feelings and develop coping strategies to manage your symptoms. Additionally, there are some lifestyle changes you can make that may help, such as getting regular exercise, eating a healthy diet, and practicing stress-reducing techniques like meditation or yoga. Do you have any questions or concerns about what we've discussed? 
+
+Patient: No, that all makes sense. Thank you for your help.

@@ -1,0 +1,49 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Honestly, I've been feeling like that a lot lately. It's been almost every day.
+
+Doctor: I see. And how about little interest or pleasure in doing things? How often have you experienced that?
+
+Patient: That's been happening too. I used to enjoy reading and spending time with friends, but now I just don't feel like doing anything.
+
+Doctor: Okay. Have you had trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: Yes, actually. I've been having trouble sleeping for a while now. And when I do sleep, I tend to oversleep.
+
+Doctor: I understand. How about feeling tired or having little energy?
+
+Patient: Yes, I feel exhausted all the time. Even getting out of bed seems like a chore.
+
+Doctor: Have you noticed any changes in your appetite? Eating too much or too little?
+
+Patient: I've been eating less than usual. I just don't have much of an appetite anymore.
+
+Doctor: I see. How about feeling bad about yourself, feeling like a failure, or feeling guilty?
+
+Patient: Yeah, I've been feeling like that too. Like I'm not good enough and everything I do is wrong.
+
+Doctor: And have you had trouble concentrating on things, like reading the newspaper or watching TV?
+
+Patient: Yeah, I can't seem to focus on anything for too long. My mind just wanders off.
+
+Doctor: Lastly, have you had thoughts that you would be better off dead, or thoughts of hurting yourself in some way?
+
+Patient: No, I haven't had thoughts like that.
+
+Doctor: Okay, thank you for answering these questions. Based on your answers, it seems like you may be experiencing symptoms of depression. However, it's important to note that depression is a medical condition and can be treated. I would like to ask you a few more questions to better understand your situation.
+
+Patient: Sure, go ahead.
+
+Doctor: Can you tell me a little bit about your personal life? Do you have any major stressors or changes happening right now?
+
+Patient: Well, I recently lost my job, and that's been really stressful. I'm also going through a breakup, which has been tough.
+
+Doctor: I see. Those are definitely significant stressors. Have you talked to anyone about these issues, like a therapist or counselor?
+
+Patient: No, I haven't. I don't really know where to start.
+
+Doctor: It's okay. I can refer you to a therapist who can help you work through these issues. In the meantime, there are things you can do to help manage your symptoms, like exercise, eating well, and getting enough sleep.
+
+Patient: Okay, thank you. I appreciate your help.
+
+Doctor: Of course. And remember, depression is treatable. You don't have to suffer alone.

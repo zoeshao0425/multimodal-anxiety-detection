@@ -1,0 +1,33 @@
+Doctor: So, let's start by discussing your mood. How often have you been feeling down, depressed, or hopeless in the past two weeks?
+
+Patient: Honestly, I've been feeling that way almost every day. It's been hard to shake off these feelings.
+
+Doctor: Okay, and have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, I used to love playing basketball with my friends, but now I just don't feel like doing it anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: I've been eating less than usual and have lost a few pounds.
+
+Doctor: How about your sleep? Have you been having trouble falling asleep or staying asleep?
+
+Patient: Yes, I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling tired or having low energy lately?
+
+Patient: Yes, I've been feeling exhausted even after getting a good night's sleep.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I've been feeling like a burden to my family and friends. I feel like I'm not good enough.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing on work and making even simple decisions has been difficult.
+
+Doctor: Lastly, have you had any thoughts of hurting yourself or suicidal thoughts?
+
+Patient: No, I haven't had any thoughts of hurting myself or ending my life.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, it's important to note that you don't meet the criteria for a diagnosis of major depressive disorder. We can discuss some treatment options to help alleviate your symptoms and improve your overall well-being.

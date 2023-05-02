@@ -1,0 +1,39 @@
+Doctor: I'd like to talk to you about your recent symptoms. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling quite low lately.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day for the past two weeks.
+
+Doctor: Have you lost interest in activities that you normally enjoy?
+
+Patient: Yes, I used to love going out with friends or watching movies, but I don't feel like doing any of that anymore.
+
+Doctor: Do you have trouble sleeping or do you sleep too much?
+
+Patient: I have trouble sleeping. I find myself lying awake at night and then feeling tired during the day.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite and have lost a few pounds recently.
+
+Doctor: Do you feel fatigued or have low energy levels?
+
+Patient: Yes, I feel exhausted all the time and don't have the energy to do much.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I find it hard to focus on tasks, and it takes me longer than usual to make decisions.
+
+Doctor: Have you had thoughts of harming yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your answers, it seems like you are experiencing some symptoms of depression. Can you tell me more about what's been going on in your life recently?
+
+Patient: Well, I lost my job a few months ago, and since then, I've been struggling to find work. It's been stressful, and I've been feeling hopeless about my future.
+
+Doctor: I see. Losing a job can be tough, and it's understandable that it's affecting your mood. However, based on your answers, it doesn't seem like you have severe depression. I recommend that you try to engage in activities that you enjoy, exercise regularly, and try to connect with friends and family. If you continue to experience these symptoms, please come back to see me.
+
+Patient: Thank you, doctor. That's helpful advice.

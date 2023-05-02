@@ -1,0 +1,39 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down lately. I don’t have any energy, and I’m not interested in doing anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It’s been about two weeks now.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I’ve been sleeping a lot more than usual, and I haven’t been eating as much.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, I feel like I’m not good enough and that nothing I do matters.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends and playing sports, but now I don’t really want to do anything.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yeah, I’ve been having a hard time focusing at work, and I’m not sure what to do about it.
+
+Doctor: Have you noticed any physical symptoms, such as headaches or stomachaches?
+
+Patient: Not really, just the lack of energy and motivation.
+
+Doctor: Based on your responses, it sounds like you may be experiencing symptoms of depression. However, I’d like to ask a few more questions to get a better understanding of your situation. Can you tell me a little bit about your personal background and any recent life events that may have contributed to your current state?
+
+Patient: Well, I recently went through a breakup, and it’s been really tough for me. I’ve also been struggling at work, which has added to my stress levels.
+
+Doctor: I see. It’s not uncommon for major life events to trigger depressive episodes. However, based on your responses to the PHQ-8 assessment, it appears that your symptoms are mild and may not meet the criteria for a clinical diagnosis of depression. That being said, it’s important to address these feelings and find ways to manage them. I’d recommend seeking out therapy or counseling to work through the emotional issues you’re facing.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

@@ -1,0 +1,35 @@
+Doctor: Hi, how have you been feeling lately?
+
+Patient: I've been feeling really down and hopeless. I just don't have any energy or motivation to do anything.
+
+Doctor: Have you been experiencing feelings of sadness or hopelessness most days over the past two weeks?
+
+Patient: Yes, definitely. It's been really hard to shake these feelings.
+
+Doctor: Have you noticed a decrease in interest or pleasure in activities that you used to enjoy?
+
+Patient: Yes, I used to love going to the gym and spending time with friends, but now I just don't feel like doing anything.
+
+Doctor: Have you been experiencing significant changes in your appetite or weight?
+
+Patient: I've actually been eating less than usual and have lost some weight recently.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I'll either have trouble falling asleep or wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you been feeling tired or fatigued most days?
+
+Patient: Yes, I feel exhausted all the time, even if I haven't done anything all day.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you been having thoughts of death or suicide?
+
+Patient: I haven't had any specific thoughts of suicide, but I do feel like life isn't worth living sometimes.
+
+Doctor: Based on your responses, it seems like you are experiencing symptoms of depression. I would like to recommend some treatment options for you.
+
+Patient: Okay, thank you. It's a relief to know what's been going on with me.

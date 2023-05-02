@@ -1,0 +1,39 @@
+Doctor: Hi, can you tell me a little bit about what’s been going on with you lately?
+
+Patient: Well, I’ve been feeling really down and just not like myself. I have trouble sleeping at night, and I’m always tired during the day.
+
+Doctor: How long has this been going on?
+
+Patient: It’s been about two months now.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, I’ve lost my appetite. I used to love food, but now I just don’t feel like eating.
+
+Doctor: Have you been experiencing any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like I’m not good enough and that I’m letting everyone down. I feel guilty about things that aren’t even my fault.
+
+Doctor: Do you ever have thoughts of hurting yourself or others?
+
+Patient: No, I don’t want to hurt anyone. But sometimes I do think about how much easier it would be if I wasn’t here.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I can’t seem to focus on anything for very long. And when I do try to make a decision, I second-guess myself and worry that I’ll make the wrong choice.
+
+Doctor: Do you find yourself losing interest in things you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just want to stay home all the time.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay, based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. I’d like to do a more thorough assessment to get a better understanding of what you’re going through.
+
+Patient: Okay, that makes sense.
+
+Doctor: (after administering PHQ-8 assessment) Based on your responses, it looks like you have moderate to severe depression. I’d like to talk to you about treatment options and refer you to a therapist who can help you work through these feelings.
+
+Patient: Thank you, doctor. I appreciate your help.

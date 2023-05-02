@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you describe your feelings in more detail?
+
+Patient: Well, I've been feeling really sad and empty inside. I don't enjoy things that I used to, and I feel like I'm just going through the motions of life. I've also been having trouble sleeping and I'm always tired.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, I've lost my appetite and I don't really feel like eating anymore.
+
+Doctor: Have you been having any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard for me to focus on anything. I feel like my mind is always foggy and I can't make decisions like I used to.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling really guilty about everything. I feel like I'm not good enough and that I'm letting everyone down.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: I have been having thoughts of suicide, but I haven't acted on them.
+
+Doctor: Okay, thank you for being honest with me. Do you have any personal history of depression or mental illness?
+
+Patient: Yes, my mother had depression when I was growing up, and I've struggled with it on and off for years.
+
+Doctor: Alright, based on what you've told me, it sounds like you're experiencing symptoms of depression. I'm going to diagnose you with major depressive disorder. 
+
+Patient: What does that mean?
+
+Doctor: It means that you're experiencing a significant and persistent low mood that's affecting your daily functioning. But the good news is that there are treatments available that can help you feel better. We can discuss medication options and therapy referrals to help you manage your symptoms.
+
+Patient: Thank you, that's a relief to hear.

@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you describe your mood over the past two weeks?
+
+Patient: It's been pretty consistently low. I wake up feeling sad and it doesn't really go away throughout the day.
+
+Doctor: Have you experienced a loss of interest in things you used to enjoy?
+
+Patient: Yeah, definitely. I used to love playing guitar but lately I just don't have the energy for it.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I haven't really been hungry lately, and I've lost a few pounds.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I usually wake up in the middle of the night and have trouble falling back asleep.
+
+Doctor: Have you felt tired or lacking in energy?
+
+Patient: Yes, definitely. I feel exhausted all the time, even after a full night's sleep.
+
+Doctor: Have you felt guilty or worthless?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like nothing I do really matters.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I just feel really hopeless.
+
+Doctor: Based on your responses, it seems like you may be experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors, such as stress or a medical condition. Can you tell me a bit more about your personal life and any recent changes or stressors?
+
+Patient: I've been going through a lot lately. My job is really stressful and I just went through a breakup.
+
+Doctor: That makes sense. It's possible that these external factors are contributing to your symptoms. However, based on our conversation, I don't believe that you meet the criteria for a diagnosis of major depression. Instead, I would recommend focusing on self-care and stress management strategies, such as exercise, therapy, and mindfulness practices. It's also important to prioritize sleep and nutrition. If your symptoms persist or worsen, please don't hesitate to reach out for further support.

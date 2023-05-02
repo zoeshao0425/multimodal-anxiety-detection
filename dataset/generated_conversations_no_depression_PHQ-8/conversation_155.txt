@@ -1,0 +1,35 @@
+Doctor: So, can you tell me a little bit about what's been going on with you lately?
+
+Patient: Well, I've been feeling really down and sad. I don't have any energy and I'm having trouble sleeping.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less and I've lost a few pounds.
+
+Doctor: Do you ever feel guilty or worthless?
+
+Patient: Yeah, sometimes I feel like I'm not good enough and that I'm letting everyone down.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, nothing like that.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having a hard time focusing at work and it's been affecting my performance.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomach problems?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, based on your answers, it sounds like you may be experiencing some symptoms of depression. Can you tell me a little bit about your personal background and any recent stressors in your life?
+
+Patient: Well, I've been going through a lot of changes lately. I just started a new job and I'm still adjusting to the new environment. I also recently ended a long-term relationship, which has been really tough for me.
+
+Doctor: I see. It's understandable that all of these changes and stressors could be contributing to your current symptoms. However, based on your answers to the PHQ-8 assessment, it doesn't seem like you meet the diagnostic criteria for major depression. That being said, it's important to continue monitoring your symptoms and seeking support if they persist or worsen.
+
+Patient: Thank you, doctor. I appreciate your help and guidance.

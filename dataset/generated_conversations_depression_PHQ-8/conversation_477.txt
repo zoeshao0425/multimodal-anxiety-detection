@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you describe those feelings a little more? When did they start?
+
+Patient: It's been going on for a few weeks now. I just feel like I don't have any energy or motivation to do anything. I'm always tired and I don't enjoy things that I used to.
+
+Doctor: Have you noticed any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I don't have much of an appetite. I've lost some weight recently.
+
+Doctor: Do you ever have thoughts of hurting yourself or ending your life?
+
+Patient: (pauses) Yeah, sometimes. I haven't made any plans or anything, but the thoughts are there.
+
+Doctor: Okay, thank you for being honest with me. Have you noticed any physical symptoms, like headaches or stomach aches?
+
+Patient: Not really, no.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, definitely. I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been hard to focus on anything. I find myself getting distracted easily and I can't seem to make even simple decisions.
+
+Doctor: Thank you for answering all of these questions. Based on your responses, it sounds like you may be experiencing depression. I would like to refer you to a mental health professional for further evaluation and treatment options. 
+
+Patient: (sighs) Okay, thank you for listening to me. It's been really hard to talk about this. 
+
+Doctor: I understand, and I'm here to support you. Depression is a medical condition, and it's important to get the help you need to feel better.

@@ -1,0 +1,37 @@
+Doctor: So, tell me about your mood over the past two weeks. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down and hopeless. I feel like everything is pointless, and I don't see the point in doing anything.
+
+Doctor: Okay, have you experienced a loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and playing sports, but now I don't feel any joy in those activities anymore.
+
+Doctor: Have you noticed any changes in your sleep patterns? Are you sleeping too much or too little?
+
+Patient: I have been sleeping too much lately. I have trouble getting out of bed in the morning, and I feel tired all day.
+
+Doctor: How about your appetite? Have you been eating more or less than usual?
+
+Patient: I haven't been eating much lately. I have no appetite, and food doesn't taste good to me anymore.
+
+Doctor: Have you been feeling tired or fatigued, even after getting enough sleep?
+
+Patient: Yes, I feel tired all the time, even after sleeping for long hours.
+
+Doctor: Have you noticed any difficulty concentrating, making decisions, or remembering things?
+
+Patient: Yes, I have trouble focusing on anything. I forget things easily, and I can't make decisions.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal thoughts?
+
+Patient: Yes, I have been having suicidal thoughts lately. I feel like life is not worth living, and I have no hope for the future.
+
+Doctor: Based on what you've told me, it seems like you are experiencing symptoms of depression. It's important that we address this as soon as possible. 
+
+Patient: Yes, I have been feeling like this for a while now, and it's affecting my daily life.
+
+Doctor: I understand, and I want to help you. We can start by discussing treatment options that are available, such as therapy and medication. 
+
+Patient: Thank you, I appreciate it. I want to get better and feel like myself again. 
+
+Doctor: I'm here to support you, and we will work together to find the best treatment plan for you.

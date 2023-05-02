@@ -1,0 +1,33 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, actually. I've been feeling really down lately. I just feel like I'm not enjoying things that I used to enjoy, and it's hard to get motivated to do anything.
+
+Doctor: Have you experienced a loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, definitely. I used to love playing video games and going out with friends, but now I just don't feel like doing any of that stuff.
+
+Doctor: Have you had any trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I've been having trouble falling asleep lately. I just can't seem to turn my brain off at night.
+
+Doctor: Have you felt tired or had little energy recently?
+
+Patient: Yeah, I've been feeling pretty tired lately. Even when I get enough sleep, I still feel drained.
+
+Doctor: Have you had a poor appetite or been overeating recently?
+
+Patient: I haven't had much of an appetite lately. I've been skipping meals because I just don't feel like eating.
+
+Doctor: Have you felt bad about yourself or guilty for no reason?
+
+Patient: Yeah, I've been feeling pretty worthless lately. I just feel like I'm not good at anything and that I'm a burden on the people around me.
+
+Doctor: Have you had trouble concentrating on things like reading or watching TV?
+
+Patient: Yeah, I've been having trouble focusing lately. I'll start reading a book or watching a show, but then my mind will start wandering and I'll lose track of what's happening.
+
+Doctor: Have you had thoughts of hurting yourself or thoughts of suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or suicide.
+
+Doctor: Based on your answers, it seems like you may be experiencing some symptoms of depression. However, it's important to note that not everyone who experiences these symptoms has depression. In your case, I don't believe that your symptoms are severe enough to warrant a diagnosis of depression. However, I would still recommend that you take steps to improve your mood and overall well-being, such as getting regular exercise, eating a healthy diet, and practicing stress-reduction techniques like meditation or deep breathing.

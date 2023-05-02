@@ -1,0 +1,31 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Almost every day.
+
+Doctor: Okay. And have you noticed any changes in your appetite or weight recently?
+
+Patient: Yes, I've been eating less and have lost some weight.
+
+Doctor: Alright. Have you experienced any trouble sleeping, such as difficulty falling asleep, staying asleep, or waking up too early?
+
+Patient: Yes, I've had trouble falling asleep and staying asleep.
+
+Doctor: Have you felt tired or had a lack of energy lately?
+
+Patient: Yes, I feel exhausted most of the time.
+
+Doctor: Have you noticed any changes in your interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, I don't find joy in anything anymore.
+
+Doctor: Have you felt guilty or worthless recently?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I have been having suicidal thoughts lately.
+
+Doctor: Thank you for answering these questions. Based on your responses, it seems like you are experiencing symptoms of depression. It's important to know that depression is a medical condition, and it's nothing to be ashamed of. It's treatable, and we can work together to help you feel better. 
+
+Patient: Thank you, doctor. I appreciate your help.

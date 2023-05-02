@@ -1,0 +1,39 @@
+Doctor: Hi, can you tell me what brings you here today?
+
+Patient: I have been feeling really down lately. I don't know if it's just a phase or something more.
+
+Doctor: I understand. Can you describe your feelings of being "down" a little more? How often do you feel this way?
+
+Patient: Almost every day. It's like I'm always sad and can't shake it off. I don't enjoy things I used to love, and I'm always tired.
+
+Doctor: Have you experienced any changes in appetite or weight?
+
+Patient: Yes, my appetite has decreased, and I've lost some weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep, and I wake up early. Sometimes, I can't fall back asleep, and I'm tired all day.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yes, I'm always tired and lack energy. It's hard to get out of bed and do anything.
+
+Doctor: Have you had difficulty concentrating or making decisions?
+
+Patient: Yes, I struggle to concentrate at work, and I'm not as productive as I used to be. Making even small decisions feels overwhelming.
+
+Doctor: Have you felt hopeless or worthless?
+
+Patient: Yes, I feel like nothing I do matters, and I'm not good enough. I don't see the point in doing anything.
+
+Doctor: Have you had thoughts of hurting yourself or suicide?
+
+Patient: Yes, sometimes, I feel like it would be better if I wasn't around.
+
+Doctor: Thank you for sharing that with me. Can you tell me a little about your personal life? Do you have any stressors or major life changes happening?
+
+Patient: I recently went through a breakup, and work has been stressful. I also have a family history of depression.
+
+Doctor: Okay, that's helpful information. Based on what you've shared, it sounds like you may be experiencing symptoms of depression. I recommend we start a treatment plan that includes therapy and medication to help manage your symptoms. 
+
+Patient: Okay, thank you for your help.

@@ -1,0 +1,35 @@
+Doctor: Thank you for coming in today. I understand that you have been experiencing some symptoms of depression. Can you tell me a little bit about what you've been feeling?
+
+Patient: Yes, I've been feeling really down lately. It's like nothing brings me joy anymore.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for about six months now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've lost about 10 pounds in the last few months. I just don't feel like eating.
+
+Doctor: Have you been having trouble sleeping, or have you been sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you noticed a decrease in your energy levels?
+
+Patient: Yes, I feel tired all the time. Even small tasks seem to take so much effort.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yes, I feel like I'm not good at anything and that my life doesn't have much purpose.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: (pauses) Yes, I have thought about it. But I don't think I would ever actually do it.
+
+Doctor: Thank you for being honest with me. It's important that we address these thoughts and feelings. Have you experienced any other symptoms, such as difficulty concentrating or making decisions?
+
+Patient: Yes, I have trouble focusing at work and making even small decisions seems overwhelming.
+
+Doctor: Thank you for sharing all of this with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to recommend some treatment options for you, such as therapy or medication. Would you be open to exploring these options?
+
+Patient: Yes, I would be willing to try anything to feel better.

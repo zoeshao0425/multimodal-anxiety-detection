@@ -1,0 +1,41 @@
+Doctor: Thank you for coming in today. I understand that you've been feeling down lately. Can you tell me more about how you've been feeling?
+
+Patient: Yeah, I just feel really sad all the time. It's like there's a weight on my chest that won't go away.
+
+Doctor: I see. Have you been feeling this way for a while?
+
+Patient: Yeah, for a few months now.
+
+Doctor: Okay. Have you noticed any changes in your sleeping patterns or appetite?
+
+Patient: Yeah, I haven't been sleeping well and I don't really feel like eating much.
+
+Doctor: And have you lost interest in things that you used to enjoy doing?
+
+Patient: Yeah, I used to love going out with my friends and doing stuff, but now I just don't feel like it.
+
+Doctor: Alright. Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, that's good to hear. Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: Not really, just the constant feeling of sadness.
+
+Doctor: I understand. Can you tell me a bit more about what's been going on in your life lately? Any major stressors or changes?
+
+Patient: Well, I recently went through a breakup and my job has been really stressful. Plus, with everything going on in the world right now, it's been hard to stay positive.
+
+Doctor: I can imagine. It sounds like you've been dealing with a lot. Based on what you've told me, I think it's possible that you may be experiencing some symptoms of depression. However, I would like to administer a PHQ-8 assessment to get a better understanding of your symptoms.
+
+Patient: Okay, sure.
+
+Doctor: (administers PHQ-8 assessment)
+
+Doctor: Based on your scores, it does not appear that you are currently experiencing depression. However, I would like to see you again in a few weeks to check in and make sure that your symptoms haven't worsened.
+
+Patient: Thank you, doctor. That's a relief to hear.
+
+Doctor: Of course. In the meantime, I recommend trying to engage in activities that you enjoy and finding ways to manage stress. If your symptoms do worsen, please don't hesitate to reach out to me or another healthcare professional.
+
+Patient: I will, thank you for your help.

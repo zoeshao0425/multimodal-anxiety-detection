@@ -1,0 +1,29 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling pretty down. I just don't have any energy or motivation to do anything.
+
+Doctor: Have you been feeling sad or hopeless?
+
+Patient: Yeah, I've been feeling really sad lately. It's like everything just feels overwhelming and pointless.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Actually, yes. I haven't been sleeping well at all and I've been eating a lot less than usual.
+
+Doctor: Have you lost interest in things that you used to enjoy?
+
+Patient: Yeah, definitely. I used to love going out with my friends and doing things, but now I just don't feel like it.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it seems like you may be experiencing symptoms of depression. However, it's important to note that there are many other factors that can contribute to these symptoms. Can you tell me a little bit about your personal background and any recent life events that may be impacting your mood?
+
+Patient: Well, I recently went through a breakup and it's been really tough for me. I also lost my job a few months ago, so I've been feeling pretty stressed about that too.
+
+Doctor: I see. It's understandable that those things would be weighing on you. However, based on our conversation and the PHQ-8 assessment, I don't believe that you meet the criteria for a diagnosis of major depression. That being said, it's still important to take care of yourself and seek support from loved ones or a mental health professional if you feel like your symptoms are impacting your daily functioning.

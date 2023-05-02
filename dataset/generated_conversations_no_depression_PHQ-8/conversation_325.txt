@@ -1,0 +1,35 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks: little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I've been feeling very down lately. I don't enjoy doing things that I used to love, and I feel hopeless most of the time.
+
+Doctor: Okay, how about feeling tired or having little energy? Have you experienced any of these symptoms?
+
+Patient: Yes, I have been feeling very tired lately. I struggle to get out of bed in the morning and feel exhausted throughout the day.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up several times during the night and struggle to fall back asleep.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yes, I've lost my appetite and have lost a few pounds over the past couple of weeks.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like everything I do is wrong, and I'm not good enough.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I have been struggling to focus on anything, and making even simple decisions has become difficult.
+
+Doctor: Lastly, have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or suicide.
+
+Doctor: Based on your answers, it appears that you are experiencing symptoms of depression. However, it's important to note that there are other medical conditions that can cause similar symptoms. Can you tell me a bit more about your personal life and any recent events that may have triggered these feelings?
+
+Patient: Well, I recently lost my job, and I've been struggling to find a new one. My relationship with my partner has also been strained, and I don't have many close friends in the area.
+
+Doctor: I see. It's understandable that these events would cause you to feel depressed. However, based on our conversation, it appears that your symptoms may be related to situational factors rather than clinical depression. I recommend that you take some time for self-care, such as exercise, meditation, and talking to a therapist. If your symptoms persist or worsen, please come back to see me.
+
+Patient: Thank you for your help, doctor. I'll make sure to take care of myself and seek further help if needed.

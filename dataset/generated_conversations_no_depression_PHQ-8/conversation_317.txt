@@ -1,0 +1,45 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms in the past two weeks?
+
+Patient: Sure, I'll try my best to answer.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down for a while now. It's like nothing excites me anymore, and I feel like I'm just going through the motions.
+
+Doctor: Okay, thank you for sharing that. How about feeling little interest or pleasure in doing things?
+
+Patient: Yes, that too. I used to enjoy going out with friends, but now I don't even feel like making plans. I just want to stay at home and be alone.
+
+Doctor: I understand. Have you had trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I've been having trouble falling asleep lately. I find myself tossing and turning for hours before finally getting some rest.
+
+Doctor: Okay, that's good to know. How about feeling tired or having little energy?
+
+Patient: Yes, I've been feeling extremely fatigued lately. Even simple tasks like getting dressed or cooking a meal feel like a huge effort.
+
+Doctor: Thank you for sharing that. Have you been feeling bad about yourself or feeling like a failure or letting your family down?
+
+Patient: Yes, I've been feeling like a failure lately. I feel like I'm not living up to my own expectations and that I'm letting my family down.
+
+Doctor: Alright, thank you for sharing that. Have you had trouble concentrating on things such as reading the newspaper or watching TV?
+
+Patient: Yes, I've been having trouble focusing lately. I find my mind wandering a lot, and it's hard to stay engaged in anything.
+
+Doctor: Okay, that's good to know. Have you had thoughts that you would be better off dead or hurting yourself in some way?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for sharing that. Based on your answers, it seems like you have been experiencing some symptoms of depression. Can you tell me more about your personal life and what might be causing these feelings?
+
+Patient: Well, I recently lost my job, and it's been hard to find a new one. I'm also going through a rough patch in my relationship, and it's been causing a lot of stress.
+
+Doctor: I see. Losing a job and relationship troubles can definitely cause a lot of stress and affect your mood. Have you considered seeking therapy or counseling to help you cope with these challenges?
+
+Patient: Yes, I've been thinking about it, but I wasn't sure if it would be helpful.
+
+Doctor: I think it would be a good idea to explore that option further. Depression is a treatable illness, and there are many effective treatments available. In the meantime, try to take care of yourself by getting enough sleep, eating well, and staying physically active. Is there anything else you'd like to share with me?
+
+Patient: No, that's all for now. Thank you for listening and for your advice.
+
+Doctor: Of course, anytime. Don't hesitate to reach out if you have any further questions or concerns.

@@ -1,0 +1,41 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately, and I'm not sure what's going on.
+
+Doctor: Can you tell me more about how you're feeling?
+
+Patient: Yeah, I just feel really sad and hopeless all the time. I don't have any energy, and I'm not interested in doing things that I used to enjoy.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I don't have much of an appetite.
+
+Doctor: Okay, and have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I feel like I can't focus on anything, and it's hard for me to make even simple decisions.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you ever experienced anything like this before?
+
+Patient: Yeah, I've had bouts of depression in the past, but this feels different.
+
+Doctor: Can you tell me more about your personal history? Have you experienced any major life changes or stressors recently?
+
+Patient: Well, I lost my job a few months ago, and I've been having trouble finding work. That's been really stressful, and I've been feeling pretty down about it.
+
+Doctor: Okay, that makes sense. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better sense of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, moving or speaking slowly or too fast, or thoughts that you would be better off dead or hurting yourself in some way?
+
+Patient: Well, I've definitely been feeling down and hopeless a lot, and I haven't been interested in doing things that I used to enjoy. I've been sleeping a lot and feeling tired all the time, and my appetite has been pretty low. I've also been having trouble concentrating, but I haven't had any thoughts of hurting myself.
+
+Doctor: Okay, based on your responses, it sounds like you may be experiencing mild to moderate symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors, such as stress or a medical condition. I'd like to do a few more tests to rule out any other potential causes.
+
+Patient: Sure, that makes sense.
+
+Doctor: After conducting some additional tests, I don't believe you are currently experiencing depression. However, if you continue to experience these symptoms or they worsen, please come back and see me. In the meantime, I recommend trying to reduce stress in your life and engaging in activities that bring you joy.

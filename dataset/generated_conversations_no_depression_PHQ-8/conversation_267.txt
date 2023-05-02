@@ -1,0 +1,29 @@
+Doctor: So, I understand that you've been feeling down lately. Can you tell me more about how you've been feeling?
+
+Patient: Yes, I've been feeling sad and hopeless for the past few weeks. I don't enjoy things that I used to enjoy, and I have trouble sleeping at night.
+
+Doctor: How often have you been feeling this way?
+
+Patient: It's been pretty much every day for the past two weeks.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and have lost some weight.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I feel exhausted all the time, even when I get enough sleep.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, it's been really difficult to focus on anything. I feel like I'm in a fog most of the time.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: That's good to hear. Can you tell me a bit more about what's been going on in your life recently?
+
+Patient: Well, I lost my job a few months ago, and I've been struggling to find another one. My relationship with my partner has also been strained lately.
+
+Doctor: I see. It sounds like you've been dealing with a lot of stressors lately. Based on what you've told me, it doesn't seem like you have depression. However, I would recommend that you try to address some of the stressors in your life and seek support from friends or family. If your symptoms persist or worsen, please come back to see me.

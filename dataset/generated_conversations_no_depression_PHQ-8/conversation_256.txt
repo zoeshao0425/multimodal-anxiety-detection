@@ -1,0 +1,39 @@
+Doctor: I'd like to talk to you about some of the symptoms you've been experiencing lately. Have you been feeling down or depressed?
+
+Patient: Yes, I have been feeling really down lately. I just don't feel like doing anything.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day for the past two weeks.
+
+Doctor: Have you lost interest in things that used to bring you pleasure?
+
+Patient: Yes, I used to love playing video games and watching movies, but now I just don't feel like doing anything.
+
+Doctor: Do you have trouble sleeping or sleeping too much?
+
+Patient: I have trouble sleeping. I can't seem to fall asleep easily and when I do, I wake up several times during the night.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I haven't been eating as much as I used to. I've lost a few pounds in the past few weeks.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I have trouble focusing on tasks and making decisions. I feel like my mind is always foggy.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any significant life events or changes recently?
+
+Patient: My girlfriend and I broke up a few weeks ago, and I lost my job last month.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I'd like to rule out any other underlying medical conditions before we make a diagnosis.
+
+Patient: Okay, that makes sense.
+
+Doctor: After conducting a physical exam and some lab tests, everything seems to be normal. I don't believe you are suffering from depression at this time, but I would encourage you to continue monitoring your symptoms and to seek help if they persist or worsen.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

@@ -1,0 +1,43 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you experienced any of the following symptoms over the past two weeks?
+
+Patient: Sure.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very sad and hopeless for the past few weeks.
+
+Doctor: Have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, I have lost interest in my hobbies and activities that I used to enjoy.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yes, I have been feeling extremely tired and fatigued lately.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have been having trouble sleeping. I find it hard to fall asleep at night, and I wake up too early in the morning.
+
+Doctor: Have you been experiencing a decrease or increase in appetite?
+
+Patient: I have been losing my appetite lately. I don't feel like eating anything.
+
+Doctor: Have you been feeling bad about yourself or feeling like you're a failure or let others down?
+
+Patient: Yes, I feel like a failure and that I'm not good enough. I also feel like I have let my family down.
+
+Doctor: Have you been having trouble concentrating on things, such as reading or watching TV?
+
+Patient: Yes, I have been having trouble focusing on anything. I can't seem to concentrate on anything for more than a few minutes.
+
+Doctor: Have you been having thoughts of harming yourself or suicidal thoughts?
+
+Patient: Yes, I have been having thoughts of harming myself. I feel like there is no point in living anymore.
+
+Doctor: Thank you for answering these questions. Based on your answers, it seems like you are experiencing symptoms of depression. Can you tell me more about what's been going on in your life lately?
+
+Patient: Well, my job has been really stressful lately, and I feel like I'm not performing well. My relationship with my partner has also been strained, and we've been arguing a lot lately. I also lost my grandfather a few weeks ago, and it's been really hard for me to cope with his loss.
+
+Doctor: I'm sorry to hear that. It sounds like you have been dealing with a lot of stressors lately, which can contribute to depression. I would like to recommend that you speak with a therapist or counselor to help you manage your symptoms and work through any underlying issues. In the meantime, I can prescribe medication to help alleviate some of your symptoms.
+
+Patient: Thank you, doctor. I appreciate your help.

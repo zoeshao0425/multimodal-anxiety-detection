@@ -1,0 +1,35 @@
+Doctor: Hi, can you tell me a little bit about what brings you in today?
+
+Patient: Yeah, I've been feeling really down lately. I'm not sure if it's just stress or something else.
+
+Doctor: Okay, let's talk a little bit more about how you've been feeling. Have you been feeling sad or hopeless?
+
+Patient: Yeah, definitely. It's like I just can't shake this feeling of sadness. And I feel like nothing really makes me happy anymore.
+
+Doctor: Okay, have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping lately. And I haven't really had much of an appetite either.
+
+Doctor: Have you noticed any changes in your energy level or motivation?
+
+Patient: Yeah, I feel like I have no energy at all. And I just don't feel motivated to do anything anymore.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I feel like I can't concentrate on anything. And I've been having trouble making even simple decisions.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that there could be other factors contributing to your feelings as well. Can you tell me a little bit more about your personal background and any recent life changes that may be impacting your mood?
+
+Patient: Well, I recently went through a breakup and I've been having some problems at work. Plus, with everything going on in the world right now, it's been hard to stay positive.
+
+Doctor: I see. Those are definitely some difficult things to deal with. However, based on our conversation today, I don't believe you meet the criteria for a diagnosis of depression. It's possible that you're just going through a tough time right now, and it's important to take care of yourself and seek support from loved ones. If your symptoms persist or worsen, please don't hesitate to come back and see me.
+
+Patient: Thank you, doctor. I appreciate your help.

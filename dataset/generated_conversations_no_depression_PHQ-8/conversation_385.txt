@@ -1,0 +1,27 @@
+Doctor: "Can you tell me how often you have been bothered by any of the following problems over the last two weeks? Little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling asleep, staying asleep, or sleeping too much, feeling tired or having little energy?"
+
+Patient: "Well, I've been feeling down and hopeless for about a month now. It's been difficult to find pleasure in anything I used to enjoy doing. I have trouble sleeping at night, and when I do fall asleep, I wake up feeling exhausted. I don't have much energy throughout the day, and I feel like I'm just going through the motions."
+
+Doctor: "I see. Have you experienced any changes in your appetite or weight?"
+
+Patient: "Yes, I've noticed that I've been eating less than usual, and I've lost a few pounds. I just don't have much of an appetite anymore."
+
+Doctor: "Have you had any thoughts of harming yourself or suicide?"
+
+Patient: "No, I haven't had any thoughts of harming myself, but I do feel like life isn't worth living sometimes. I just feel so hopeless and lost."
+
+Doctor: "Do you have any history of depression or other mental health conditions?"
+
+Patient: "Yes, I was diagnosed with depression about five years ago, and I've been on medication ever since. But this feels different. It's like my medication isn't working anymore."
+
+Doctor: "I understand. Can you tell me if you've experienced any physical symptoms, like headaches or stomach issues?"
+
+Patient: "No, I haven't had any physical symptoms. It's mostly been emotional and mental."
+
+Doctor: "Okay, based on your responses, it sounds like you may be experiencing a relapse of depression. I would like to adjust your medication and refer you to a therapist for additional support. Does that sound okay to you?"
+
+Patient: "Yes, that sounds like a good plan. Thank you for taking the time to listen to me." 
+
+Doctor: "Actually, based on your responses, it seems like you're not experiencing depression at this time. It's possible that you're going through a difficult time or experiencing situational stressors that are impacting your mood and energy levels. I would still recommend speaking with a therapist to explore these issues further and develop coping strategies. Additionally, focusing on self-care activities like exercise, healthy eating, and social support can also be helpful. Does that sound okay to you?" 
+
+Patient: "Yes, that makes sense. Thank you for your help."

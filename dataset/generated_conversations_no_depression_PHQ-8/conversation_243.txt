@@ -1,0 +1,47 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I don't have any energy, and I just can't seem to get motivated to do anything.
+
+Doctor: I see. Can you tell me more about how you're feeling? Have you been experiencing any other symptoms?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I've lost my appetite. I used to love food, but now I just don't feel like eating.
+
+Doctor: Okay. Have you noticed any changes in your mood or emotions?
+
+Patient: I'm just really sad all the time. I don't enjoy things that I used to, and I just feel like everything is pointless.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Not to this extent. I've had periods where I felt down, but it usually went away pretty quickly.
+
+Doctor: Have you experienced any significant life events or changes recently?
+
+Patient: My grandmother passed away a few months ago, but I don't think that's related to how I'm feeling now.
+
+Doctor: Okay. Have you been able to continue with your daily activities, like work or school?
+
+Patient: It's been really hard. I've been calling out of work a lot and skipping classes. I just can't seem to focus on anything.
+
+Doctor: I understand. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to better understand your condition.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed or hopeless, trouble falling asleep, sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, that you are a failure or have let yourself or your family down, trouble concentrating on things like reading the newspaper or watching television?
+
+Patient: I've been experiencing all of those symptoms almost every day for the past two weeks.
+
+Doctor: Based on your responses, it does seem like you're experiencing significant symptoms of depression. However, I'd like to do a full assessment to rule out any other potential causes. We'll also discuss treatment options and support resources that are available to you.
+
+Patient: Okay.
+
+Doctor: After conducting a full assessment, I'm happy to say that you do not meet the criteria for a diagnosis of depression. However, it's clear that you've been struggling with some difficult emotions and challenges in your life. I'd like to work with you to develop a plan for addressing these issues and improving your overall well-being. Would you be interested in pursuing therapy or counseling?
+
+Patient: Yes, I think that would be helpful.
+
+Doctor: Great. I can refer you to a therapist who specializes in the issues you've been experiencing. We can also discuss lifestyle changes and self-care strategies that may help you feel better. Do you have any questions or concerns?
+
+Patient: No, that all sounds good. Thank you for your help.

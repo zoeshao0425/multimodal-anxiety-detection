@@ -1,0 +1,31 @@
+Doctor: Thank you for coming in today. Can you tell me a little bit about how you've been feeling lately?
+
+Patient: I've just been feeling really down. I don't feel like doing anything, and I'm always tired.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I haven't had much of an appetite.
+
+Doctor: Okay. Have you noticed any changes in your mood or interest in activities you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends and doing things, but lately, I just don't feel like it. I don't really have any interest in anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for letting me know. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better understanding of your condition.
+
+Patient: Sure, go ahead.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems? Little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, moving or speaking so slowly that other people could have noticed, or thoughts that you would be better off dead or of hurting yourself in some way.
+
+Patient: I've definitely been bothered by little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, and trouble concentrating on things. But I haven't had any thoughts of hurting myself or wanting to be dead.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, you do have some symptoms of depression, but not enough to meet the diagnostic criteria for major depression. However, it's important to address these symptoms before they worsen. I'd like to recommend some lifestyle changes and possibly therapy to help you manage your symptoms. 
+
+Patient: That sounds good to me. Thank you for your help.

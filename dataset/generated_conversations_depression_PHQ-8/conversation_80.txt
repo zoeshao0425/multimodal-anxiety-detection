@@ -1,0 +1,39 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any symptoms of depression?
+
+Patient: Yes, I have been feeling really down for the past few weeks. I don't feel like doing anything and I'm always tired.
+
+Doctor: Okay, can you tell me more about feeling down? How often do you feel this way? Is it all day or just certain times?
+
+Patient: I feel down most of the day, every day. It's like a heavy feeling in my chest that won't go away.
+
+Doctor: I see. And what about feeling tired? Do you have trouble sleeping or do you feel fatigued during the day?
+
+Patient: I have trouble sleeping at night, but during the day I feel exhausted even if I've had a good night's sleep.
+
+Doctor: Have you noticed any changes in your appetite? Are you eating more or less than usual?
+
+Patient: I've been eating less than usual. Food just doesn't appeal to me anymore.
+
+Doctor: Okay. And have you been feeling hopeless or worthless? Do you have any thoughts of hurting yourself?
+
+Patient: Yes, I've been feeling very hopeless and worthless lately. I just feel like nothing I do matters. And sometimes I do have thoughts of hurting myself.
+
+Doctor: I'm sorry to hear that. Can you tell me more about those thoughts? Do you have a plan or is it just a passing thought?
+
+Patient: It's mostly just a passing thought, but sometimes I do think about how I could hurt myself.
+
+Doctor: Thank you for being honest with me. Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, not really. Just the tiredness and lack of appetite.
+
+Doctor: Okay. And have you experienced any significant life events recently that may have contributed to these feelings?
+
+Patient: My grandmother passed away a few months ago, but other than that, nothing major has happened.
+
+Doctor: I see. And have you ever experienced these feelings before?
+
+Patient: Yes, I've struggled with depression on and off for several years.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing a depressive episode. I would like to diagnose you with depression and discuss treatment options with you. Would you be open to that?
+
+Patient: Yes, I would appreciate that. Thank you for taking the time to listen to me.

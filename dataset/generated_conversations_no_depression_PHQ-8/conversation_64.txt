@@ -1,0 +1,43 @@
+Doctor: Hello, can you tell me why you are here today?
+
+Patient: Yes, I have been feeling really down lately and I think I might be depressed.
+
+Doctor: Okay, can you describe your symptoms for me?
+
+Patient: Well, I've been feeling really sad and hopeless. I just can't seem to shake this feeling of emptiness. I've lost interest in things that used to bring me joy and I'm having trouble sleeping.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been about a month now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, it's been really hard for me to focus on anything lately. I feel like my mind is in a fog.
+
+Doctor: Have you experienced any physical symptoms like fatigue or aches and pains?
+
+Patient: Yes, I've been really tired all the time and my body feels achy.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Have you experienced any major life changes or stressful events recently that could be contributing to your symptoms?
+
+Patient: Well, I did lose my job a few months ago and I've been having trouble finding work. That's been really stressful for me.
+
+Doctor: Okay, based on your answers, it sounds like you may be experiencing symptoms of depression. However, I would like to run some tests to rule out any other potential causes. 
+
+Patient: Okay, that sounds good.
+
+Doctor: After running the tests, it looks like you do not have depression. However, the symptoms you described could be related to stress or anxiety. I recommend that you practice self-care, such as getting enough sleep, eating well, and exercising regularly. Additionally, you may benefit from speaking with a therapist or counselor to help manage your stress levels.
+
+Patient: Thank you, doctor. That's really helpful advice.

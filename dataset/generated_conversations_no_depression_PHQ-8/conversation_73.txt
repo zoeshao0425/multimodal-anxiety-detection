@@ -1,0 +1,37 @@
+Doctor: How have you been feeling recently?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated lately.
+
+Doctor: Can you describe what you mean by "down"?
+
+Patient: It's like I just don't have any energy or interest in doing things that I used to enjoy. I feel sad and hopeless most of the time.
+
+Doctor: Have you been experiencing any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been having trouble sleeping and I've lost my appetite. I just don't feel hungry anymore.
+
+Doctor: Do you ever have thoughts of hurting yourself?
+
+Patient: No, I haven't had any suicidal thoughts.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Definitely. I feel like I can't focus on anything and even simple decisions seem overwhelming.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: Not really, just a general feeling of fatigue.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Actually, yes. I lost my job a few weeks ago and it's been really hard to find a new one. That's part of why I've been feeling so down.
+
+Doctor: Based on your responses, it sounds like you may be experiencing symptoms of depression. However, I would like to ask a few more questions to better understand your situation. Do you have any history of depression or other mental health conditions?
+
+Patient: No, I've never been diagnosed with anything like that before.
+
+Doctor: Have you ever had any traumatic experiences or significant losses in your life?
+
+Patient: Well, my father passed away a few years ago and that was really difficult for me. But I've been managing okay until now.
+
+Doctor: Based on our conversation and the PHQ-8 assessment, I do not believe you are currently experiencing clinical depression. However, I would recommend seeking support from a therapist or counselor to help you cope with the stressors in your life and improve your overall well-being.

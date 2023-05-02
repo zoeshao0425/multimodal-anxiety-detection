@@ -1,0 +1,39 @@
+Doctor: So, what brings you here today?
+
+Patient: I've been feeling really down lately, and I'm not sure what's going on.
+
+Doctor: Okay, can you tell me a bit more about how you're feeling?
+
+Patient: Well, I just feel really sad all the time. I don't enjoy things that used to make me happy, like spending time with my friends or going out. I have trouble sleeping, and I'm always tired.
+
+Doctor: I see. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating as much as I used to, and I've lost some weight.
+
+Doctor: Do you ever feel guilty or worthless?
+
+Patient: Yeah, all the time. I feel like I'm not good enough and that nothing I do matters.
+
+Doctor: Have you ever had thoughts of hurting yourself or suicide?
+
+Patient: Yes, I have. Sometimes I just feel like it would be easier if I wasn't around anymore.
+
+Doctor: I understand. Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay, can you tell me a bit about your personal background? Have you experienced any traumatic events or major life changes recently?
+
+Patient: Well, my parents got divorced a few months ago, and that's been really tough for me. I also lost my job recently, so I've been feeling really stressed about money.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a full assessment to get a better idea of how severe your symptoms are.
+
+Patient: Okay, that makes sense.
+
+Doctor: I'm going to ask you a few more questions. On a scale of 0-3, how often have you been bothered by the following symptoms in the past two weeks: little interest or pleasure in doing things, feeling down, depressed or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things, such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed. 
+
+Patient: For the first two questions, I'd say 3. For the next three, I'd say 2. For the last three, I'd say 1.
+
+Doctor: Okay, based on your answers, it looks like you're experiencing moderate to severe depression. I'd like to refer you to a therapist who can help you work through these feelings and develop coping strategies. Additionally, I'm going to prescribe an antidepressant medication that can help alleviate some of your symptoms.
+
+Patient: Thank you, doctor. I appreciate your help.

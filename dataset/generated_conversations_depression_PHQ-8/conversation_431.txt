@@ -1,0 +1,27 @@
+Doctor: Hi, can you tell me a little bit about what brings you in today?
+
+Patient: Yeah, I've been feeling really down lately. I just don't have any energy and I'm not interested in doing anything anymore.
+
+Doctor: Okay, can you describe your symptoms a little more for me? Have you been feeling sad or hopeless?
+
+Patient: Yeah, I've been feeling really sad lately. Like, everything just feels hopeless and I don't see the point in doing anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. At first, I thought it was just a phase, but it's not getting any better.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been having trouble sleeping lately. And I've lost my appetite too. I just don't feel like eating anything.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself, but sometimes I do wonder if things would be better if I wasn't here.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any physical symptoms like fatigue, headaches, or stomach problems?
+
+Patient: Yeah, I've been feeling really tired all the time. And I've been getting headaches pretty frequently too.
+
+Doctor: Okay, thank you for sharing all of that with me. Based on what you've told me, it sounds like you may be experiencing depression. I'm going to recommend some treatment options for you, including therapy and medication. 
+
+Patient: Okay, thanks. I'm just really tired of feeling this way all the time.

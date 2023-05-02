@@ -1,0 +1,33 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling asleep, staying asleep, or sleeping too much, feeling tired or having little energy?
+
+Patient: Yes, I have been experiencing all of those symptoms.
+
+Doctor: Okay, how often have you been bothered by these symptoms in the past two weeks?
+
+Patient: Almost every day. It's been hard to get out of bed and do anything.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and have lost a few pounds.
+
+Doctor: Have you been feeling bad about yourself or that you are a failure or have let yourself or your family down?
+
+Patient: Yes, I feel like I'm not good enough and that I've let my family down.
+
+Doctor: Have you had trouble concentrating on things such as reading, watching TV, or listening to others?
+
+Patient: Yes, it's been hard to focus on anything.
+
+Doctor: Have you had thoughts that you would be better off dead or of hurting yourself in some way?
+
+Patient: Yes, I have had thoughts of hurting myself.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing depression. Can you tell me more about what's been going on in your life lately?
+
+Patient: Well, I lost my job a few months ago and have been struggling to find work. My wife and I have been fighting a lot, and my kids don't seem to listen to me anymore. I just feel like a failure.
+
+Doctor: I'm sorry to hear that. It sounds like you've been under a lot of stress lately. Depression can be caused by a variety of factors, including genetics, brain chemistry, and life events. It's important to know that depression is a treatable condition. I'm going to recommend that you see a mental health professional who can help you develop a treatment plan.
+
+Patient: Okay, thank you. I'm willing to do whatever it takes to feel better.
+
+Doctor: That's great to hear. In the meantime, try to take care of yourself by getting enough sleep, eating healthy foods, and staying active. And if you ever have thoughts of hurting yourself, please call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255). They are available 24/7 to provide support and resources.

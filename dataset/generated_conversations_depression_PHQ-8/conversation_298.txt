@@ -1,0 +1,31 @@
+Doctor: How have you been feeling lately?
+
+Patient: I’ve been feeling really down and hopeless. It’s been hard to get out of bed in the morning.
+
+Doctor: Have you been experiencing any loss of interest or pleasure in things you used to enjoy?
+
+Patient: Yes, definitely. I used to love going out with friends and doing things, but now I just don’t feel like it. I don’t even enjoy my favorite hobbies anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: My appetite has been all over the place. Some days I don’t feel like eating at all, and other days I can’t stop eating. I’ve also gained some weight recently.
+
+Doctor: Have you been having trouble sleeping?
+
+Patient: Yeah, I’ve been having a lot of trouble falling asleep at night. And then I wake up really early in the morning and can’t get back to sleep.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I’m always tired. Even when I do manage to get some sleep, I still feel exhausted all day.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and that I’m not good enough. I’ve been really hard on myself lately.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: (pauses) Yeah, I’ve been having some dark thoughts. I don’t think I would actually do anything, but sometimes I just feel like it would be easier if I wasn’t here.
+
+Doctor: Thank you for being honest with me. Based on what you’ve told me, it sounds like you may be experiencing depression. I’d like to do some further testing to confirm the diagnosis and discuss treatment options with you.
+
+Patient: Okay, thank you. I’m glad I came in to talk to you about this.

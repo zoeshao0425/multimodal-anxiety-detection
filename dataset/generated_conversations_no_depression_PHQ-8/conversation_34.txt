@@ -1,0 +1,39 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: I see. Can you tell me more about that? Have you been feeling sad or hopeless most days over the past two weeks?
+
+Patient: Yes, definitely. It's been pretty consistent.
+
+Doctor: Okay. Have you lost interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like it.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I haven't been eating as much as I used to, and I've lost a bit of weight.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up a lot during the night and have trouble falling back asleep.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yeah, I feel exhausted all the time. Even when I get enough sleep, I still feel tired.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it does seem like you are experiencing some symptoms of depression. However, since you answered "no" to the last question, it doesn't appear to be severe at this time.
+
+Patient: That's good to hear. I've been struggling with this for a while and I just want to feel better.
+
+Doctor: I understand. Depression can be really tough to deal with, but there are treatments available that can help. We can discuss some options that might work for you.
+
+Patient: Thank you, I appreciate that.

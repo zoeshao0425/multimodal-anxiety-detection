@@ -1,0 +1,33 @@
+Doctor: So, can you tell me about your symptoms of depression?
+
+Patient: Well, I've been feeling really down lately. I don't have any energy, and I'm not interested in doing anything. I can't seem to concentrate on anything, and I'm having trouble sleeping.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite, and I've lost a few pounds.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I've been feeling pretty worthless lately. I feel like I'm not good enough at anything.
+
+Doctor: Have you noticed any changes in your interest in activities you used to enjoy?
+
+Patient: Yeah, I used to love playing basketball, but now I don't even want to pick up a ball.
+
+Doctor: Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Can you tell me a little bit about your personal background? Are there any significant life events that may have triggered these symptoms?
+
+Patient: Well, my parents recently got divorced, and it's been pretty tough on me. I've also been having some trouble at work.
+
+Doctor: Based on your symptoms and personal background, I believe you may be experiencing some symptoms of depression. However, your PHQ-8 score indicates that you do not have a major depressive disorder. I would recommend seeking therapy or counseling to help you cope with the stressors in your life and manage your symptoms. Additionally, practicing self-care, like exercise and healthy eating, can also be helpful.

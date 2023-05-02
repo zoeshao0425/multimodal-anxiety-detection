@@ -1,0 +1,29 @@
+Doctor: Can you tell me about how you've been feeling lately?
+
+Patient: Honestly, I've been feeling really down. I just don't feel like doing anything anymore.
+
+Doctor: Have you been experiencing any changes in your sleep patterns, like sleeping more or less than usual?
+
+Patient: Yeah, I've been sleeping a lot more than usual. I just don't have the energy to get out of bed most days.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: My appetite has been pretty low, and I've lost some weight recently.
+
+Doctor: How about your energy levels? Have you been feeling more tired than usual?
+
+Patient: Definitely. I just feel exhausted all the time, even if I haven't done anything all day.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yeah, I've been struggling with that a lot. Even small decisions feel overwhelming.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling pretty hopeless lately. Like nothing is ever going to get better.
+
+Doctor: Have you been having any thoughts of hurting yourself or suicide?
+
+Patient: (pauses) Yeah, I have. Sometimes it just feels like the only way out.
+
+Doctor: Thank you for being honest with me. Based on your answers, it sounds like you may be experiencing symptoms of depression. It's important to know that depression is a medical condition and can be treated. I'm going to recommend some treatment options for you, including therapy and medication. We'll work together to come up with a plan that works best for you.

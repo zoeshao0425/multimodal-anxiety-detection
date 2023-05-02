@@ -1,0 +1,37 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad most of the time. I don't enjoy doing things that I used to enjoy, and I have trouble sleeping at night.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and I've lost some weight.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I have. I feel like I can't focus on anything and I'm having trouble making even small decisions.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I have. I feel like I have no energy most of the time.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I have. I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: (pauses) Yes, I have had those thoughts.
+
+Doctor: Okay, thank you for being honest with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. 
+
+Patient: (sighs) I was afraid you were going to say that.
+
+Doctor: Depression is a medical condition that can be treated. There are many different treatment options available, including therapy and medication. I would like to refer you to a mental health professional who can help you further. 
+
+Patient: Okay, thank you. I appreciate your help.
+
+Doctor: Of course. It takes a lot of courage to talk about these things, and I'm glad you came to me. We'll work together to get you the help you need.

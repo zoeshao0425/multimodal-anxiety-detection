@@ -1,0 +1,33 @@
+Doctor: I understand that you have been feeling down lately. Can you tell me more about how you've been feeling?
+
+Patient: Yes, I've been feeling really sad and hopeless. I don't really enjoy things that I used to, and I feel like I'm just going through the motions of life.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and I've lost some weight as a result.
+
+Doctor: Have you been having trouble sleeping, either sleeping too much or not enough?
+
+Patient: I've been having trouble falling asleep and staying asleep. I usually wake up feeling tired and unmotivated.
+
+Doctor: Do you find it hard to concentrate or make decisions?
+
+Patient: Yes, I've been having trouble focusing at work and making even simple decisions has been difficult.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: I feel really tired all the time, even when I haven't done anything particularly strenuous.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that I'm letting everyone down.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts of hurting anyone else, but I have had thoughts of hurting myself.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. Have you experienced depression before?
+
+Patient: Yes, I've had episodes of depression in the past.
+
+Doctor: Okay, that's good to know. We will need to explore this further, but for now, I would like to diagnose you with depression. It's important that we work together to create a treatment plan that works for you.

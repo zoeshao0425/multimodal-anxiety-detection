@@ -1,0 +1,31 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about how you're feeling?
+
+Patient: Well, I just don't feel like doing anything. I don't enjoy things that used to make me happy, like hanging out with friends or going to the gym. I'm tired all the time and I can't concentrate on anything.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I don't really have much of an appetite. I've lost some weight recently.
+
+Doctor: Have you been feeling hopeless or worthless at all?
+
+Patient: Yeah, I have. I feel like I'm not good enough and that nothing I do really matters.
+
+Doctor: Have you had any thoughts of harming yourself?
+
+Patient: No, not really. I just feel really down and hopeless.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. It's mostly just the emotional stuff.
+
+Doctor: Have you experienced any trauma or major life changes recently?
+
+Patient: Yeah, actually. My partner and I broke up a few months ago and it's been really hard for me.
+
+Doctor: That's understandable. It sounds like you're experiencing symptoms of depression. I'm going to diagnose you with major depressive disorder and recommend that you start therapy and possibly medication.
+
+Patient: Okay, thank you. I'm glad I came in and talked to you about this.

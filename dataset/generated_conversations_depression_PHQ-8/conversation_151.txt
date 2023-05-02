@@ -1,0 +1,35 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any symptoms of depression?
+
+Patient: Yeah, I've been feeling really down lately. I just don't have any energy or motivation to do anything.
+
+Doctor: Can you describe your feelings of downness a bit more? Do you feel sad or hopeless?
+
+Patient: Yeah, I feel really sad all the time. And I just feel like nothing is ever going to get better.
+
+Doctor: Have you been having trouble sleeping or eating?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I haven't been eating much lately either.
+
+Doctor: Have you noticed any changes in your weight?
+
+Patient: Yeah, I've lost quite a bit of weight recently.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or suicidal ideation?
+
+Patient: Yeah, I've been having thoughts of hurting myself. I don't think I would actually do it, but the thoughts are there.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or body aches?
+
+Patient: Yeah, I've been having headaches pretty frequently. And my body just feels achy all the time.
+
+Doctor: Have you been able to enjoy things that you used to enjoy, like hobbies or spending time with friends?
+
+Patient: No, I haven't been enjoying anything lately. I just feel so numb and disconnected from everything.
+
+Doctor: Thank you for sharing all of this with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'm going to diagnose you with depression and recommend that you start treatment as soon as possible.
+
+Patient: Okay, thank you for your help.

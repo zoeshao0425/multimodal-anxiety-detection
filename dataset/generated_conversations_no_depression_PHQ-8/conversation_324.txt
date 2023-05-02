@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down lately. I don't feel like doing anything, and I have lost interest in things I used to enjoy.
+
+Doctor: Have you experienced a lack of energy or fatigue?
+
+Patient: Yes, I feel tired all the time, even when I haven't done anything. It's hard to get out of bed in the morning.
+
+Doctor: Have you had trouble sleeping, either sleeping too little or too much?
+
+Patient: I have trouble falling asleep at night, and then I wake up early in the morning and can't fall back asleep. So, I end up being tired all day.
+
+Doctor: Have you noticed any changes in your appetite, either eating more or less than usual?
+
+Patient: I haven't been eating as much as I used to. I just don't have an appetite, and food doesn't taste good anymore.
+
+Doctor: Have you felt guilty or worthless, or have negative thoughts about yourself?
+
+Patient: Yes, I feel like everything is my fault, and I'm not good enough. I feel like I'm letting everyone down.
+
+Doctor: Have you had difficulty concentrating or making decisions?
+
+Patient: Yes, it's hard to focus on anything, and I can't make even simple decisions.
+
+Doctor: Have you had thoughts of self-harm or suicide?
+
+Patient: No, I haven't had those kinds of thoughts.
+
+Doctor: Thank you for answering those questions. Based on your responses, it doesn't seem like you have depression. However, if you continue to experience these symptoms, please come back and see me. We can discuss other possible causes and treatments.

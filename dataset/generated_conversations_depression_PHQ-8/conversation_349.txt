@@ -1,0 +1,41 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and just not myself.
+
+Doctor: Can you tell me a bit more about that? When did these feelings start?
+
+Patient: It's been going on for a few weeks now. I just feel really sad and hopeless all the time. I'm having trouble sleeping and I've lost my appetite.
+
+Doctor: Have you noticed any changes in your energy levels or motivation?
+
+Patient: Yeah, I just don't have the energy to do anything anymore. Even things I used to enjoy feel like a chore.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomach problems?
+
+Patient: No, not really. Just the lack of appetite and trouble sleeping.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you ever experienced similar feelings before?
+
+Patient: Yeah, I've struggled with depression in the past. But this feels different, somehow.
+
+Doctor: Can you tell me a bit more about your personal life? Are there any stressors or changes that might be contributing to how you're feeling?
+
+Patient: Well, I recently lost my job and my relationship ended. But I don't think those things are causing this. It just feels like everything is too much to handle.
+
+Doctor: Based on what you've told me, it sounds like you might be experiencing depression again. I'd like to ask you a few more questions to get a better sense of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, feeling like you're a failure, trouble concentrating on things like reading the newspaper or watching TV, and moving or speaking so slowly that other people could have noticed?
+
+Patient: I've been experiencing all of those symptoms pretty much every day.
+
+Doctor: Thank you for answering those questions. Based on your answers, it's clear that you're experiencing moderate to severe depression. I'd like to recommend a combination of therapy and medication to help manage your symptoms. Would you be willing to try that?
+
+Patient: Yes, I'm willing to try anything at this point. I just want to feel better.
+
+Doctor: That's great to hear. Let's talk more about what treatment options might be best for you.

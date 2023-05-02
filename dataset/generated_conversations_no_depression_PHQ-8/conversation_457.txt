@@ -1,0 +1,39 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by little interest or pleasure in doing things?
+
+Patient: I've been feeling like that every day, it's like nothing brings me joy anymore.
+
+Doctor: Okay. Next question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: I feel like that most of the time. I wake up feeling sad and hopeless, and it doesn't go away during the day.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I've lost some weight. I don't really have an appetite anymore.
+
+Doctor: And how about your sleep? Have you had any trouble sleeping or sleeping too much?
+
+Patient: I have trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Okay, thank you for letting me know. Have you had any feelings of fatigue or loss of energy?
+
+Patient: Yes, I feel tired all the time, even when I haven't done anything.
+
+Doctor: Alright. Have you noticed any difficulty concentrating or making decisions lately?
+
+Patient: Yes, I have trouble focusing on anything, and even simple decisions seem impossible to make.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal thoughts?
+
+Patient: No, thankfully, I haven't had any of those thoughts.
+
+Doctor: I'm glad to hear that. Based on your answers, it seems like you're experiencing symptoms of depression. Can you tell me a bit more about what's been going on in your life lately?
+
+Patient: Well, my job has been stressful, and I've been having trouble keeping up with the workload. I also recently went through a breakup, which has been tough.
+
+Doctor: I'm sorry to hear that. It's understandable that those things would be difficult to deal with. Have you talked to anyone about how you're feeling?
+
+Patient: No, I haven't really told anyone. I didn't want to burden anyone with my problems.
+
+Doctor: I understand, but it's important to have support when dealing with depression. I'm going to recommend some resources for you, and we can also talk about treatment options. However, based on your answers to the PHQ-8, it does not seem like you have severe depression. 
+
+Patient: That's a relief to hear. Thank you for your help and recommendations, doctor.

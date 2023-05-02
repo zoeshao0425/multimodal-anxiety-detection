@@ -1,0 +1,45 @@
+Doctor: So, tell me, how have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? When did these feelings start?
+
+Patient: It's been going on for a few months now. I just can't seem to shake this feeling of sadness and emptiness. I don't enjoy the things I used to, and I have trouble sleeping.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less than usual and have lost some weight.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, definitely. I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: (hesitates) Yes, I have.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any physical symptoms such as fatigue or difficulty concentrating?
+
+Patient: Yes, I've been feeling really tired all the time, and it's hard to focus on anything.
+
+Doctor: Can you tell me a bit about your personal life? Do you have any major stressors or changes happening right now?
+
+Patient: Well, I recently went through a breakup, and my job has been really stressful. Plus, with everything going on in the world, it's been hard to stay positive.
+
+Doctor: That sounds really tough. Based on what you've told me, it seems like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better idea of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling asleep or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, moving or speaking so slowly that other people could have noticed, or thoughts that you would be better off dead or of hurting yourself in some way?
+
+Patient: (answers the questions as per PHQ-8 assessment)
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you are experiencing moderate to severe symptoms of depression. I recommend that we start a treatment plan to help you manage these symptoms.
+
+Patient: Okay, that sounds good. What can we do?
+
+Doctor: There are a few different options we can explore, including therapy, medication, and lifestyle changes. I'd like to refer you to a therapist who can work with you to develop coping strategies and explore any underlying issues that may be contributing to your depression. Additionally, I can prescribe medication if we feel that would be helpful.
+
+Patient: Okay, that sounds like a good place to start.
+
+Doctor: Great. I'm glad we could talk about this today, and I want you to know that you're not alone. Depression is a common condition, and there are many effective treatments available. We'll work together to find what works best for you.

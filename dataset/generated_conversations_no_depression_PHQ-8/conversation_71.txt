@@ -1,0 +1,35 @@
+Doctor: So, can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and hopeless. I don't have any motivation to do anything, and I'm always tired.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I haven't been eating much either.
+
+Doctor: Have you noticed any changes in your mood or interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with my friends and doing things, but now I just feel like staying in bed all day.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that I'm a burden on everyone around me.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any traumatic events or major life changes recently?
+
+Patient: Well, I lost my job a few months ago, and it's been really hard finding a new one. And my relationship ended around the same time too.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I will need to perform a more thorough assessment to make a proper diagnosis. 
+
+Patient: What does that involve?
+
+Doctor: I'll give you a questionnaire called the PHQ-8, which will ask you more detailed questions about your symptoms. Based on your responses, we can determine if you meet the criteria for depression.
+
+(Patient fills out the questionnaire)
+
+Doctor: Based on your responses, it appears that you do not meet the criteria for depression. However, given the symptoms you described, I would recommend monitoring your mood and seeking further support if your symptoms persist or worsen.
+
+Patient: Okay, thank you for your help.

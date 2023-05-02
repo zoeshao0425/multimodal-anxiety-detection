@@ -1,0 +1,37 @@
+Doctor: Can you tell me about the symptoms you've been experiencing lately that led you to come in today?
+
+Patient: Yeah, I've been feeling really down and sad for a while now. I just can't seem to shake it off.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. At first, I thought it was just a phase, but it's been getting worse.
+
+Doctor: Have you noticed any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been having trouble sleeping at night, and I've lost my appetite. I just don't feel hungry anymore.
+
+Doctor: Do you find yourself losing interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like it. It's like everything is too much effort.
+
+Doctor: Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Definitely. I feel like I'm not good enough and that nothing will ever get better.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that. I just feel really sad and lost.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms. It's all just emotional.
+
+Doctor: Can you tell me a bit about your personal life? Are there any stressors or changes that may be contributing to how you're feeling?
+
+Patient: Well, I recently went through a breakup, and that's been really tough on me. I also lost my job a few months ago, so I've been struggling financially.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, we'll need to do some further assessments to confirm this. 
+
+Patient: Okay, that makes sense.
+
+Doctor: After reviewing your responses, it looks like you do not meet the criteria for depression. However, it's important to keep an eye on your symptoms and seek help if they worsen or persist. In the meantime, we can discuss some coping strategies and resources that may be helpful for you.

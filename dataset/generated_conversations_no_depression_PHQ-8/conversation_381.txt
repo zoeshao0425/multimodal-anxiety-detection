@@ -1,0 +1,37 @@
+Doctor: I'd like to ask you some questions to better understand how you're feeling. Have you been experiencing any of the following symptoms over the past two weeks? 
+
+Patient: Sure, go ahead.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: No, I haven't really been feeling that way.
+
+Doctor: Have you had little interest or pleasure in doing things?
+
+Patient: Not really. I've still been able to enjoy my hobbies and spend time with friends.
+
+Doctor: Have you been feeling tired or having low energy?
+
+Patient: Yes, actually. I've been feeling pretty tired lately, even after getting a good night's sleep.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. It takes me a while to fall asleep and then I wake up frequently during the night.
+
+Doctor: Have you been having trouble with your appetite or overeating?
+
+Patient: My appetite has been okay, but I have noticed that I've been snacking more than usual.
+
+Doctor: Have you been feeling bad about yourself or feeling like you're a failure?
+
+Patient: No, I don't think I've been feeling that way.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, actually. I've been finding it hard to focus at work and make decisions about things.
+
+Doctor: Have you been having any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't been having any thoughts like that.
+
+Doctor: Based on your answers, it doesn't seem like you're currently experiencing depression. However, if you notice any changes in your mood or behavior, please don't hesitate to reach out to me or another healthcare provider.

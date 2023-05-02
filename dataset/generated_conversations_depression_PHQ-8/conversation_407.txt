@@ -1,0 +1,43 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms in the past two weeks?
+
+Patient: Yes, I have been feeling down, depressed, or hopeless.
+
+Doctor: Can you tell me more about that? How often have you been feeling this way?
+
+Patient: Almost every day. It's like a cloud hanging over me, and I can't seem to shake it off.
+
+Doctor: I see. Have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, definitely. I used to love going out with my friends, but now I just don't feel like it anymore.
+
+Doctor: Okay. Have you experienced any changes in your appetite or weight?
+
+Patient: I've lost some weight because I don't have much of an appetite. I just don't feel like eating.
+
+Doctor: Have you been having trouble sleeping, or have you been sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I feel exhausted all the time, even after a good night's sleep.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of death or suicide?
+
+Patient: Yes, I have. Sometimes it feels like it would be easier if I wasn't here anymore.
+
+Doctor: Thank you for sharing that with me. Can you tell me a little bit about your personal background? Have you experienced depression before?
+
+Patient: Yes, I have. My mother also had depression, so I know it runs in my family.
+
+Doctor: I see. And have you experienced any significant life changes or stressors recently?
+
+Patient: My job has been really stressful, and I've been having some problems in my relationship.
+
+Doctor: Okay. Based on what you've told me, it sounds like you may be experiencing depression. I'm going to recommend some treatment options for you, including therapy and possibly medication. It's important that you take care of yourself and seek help when you need it.
+
+Patient: Thank you, doctor. I appreciate your help.

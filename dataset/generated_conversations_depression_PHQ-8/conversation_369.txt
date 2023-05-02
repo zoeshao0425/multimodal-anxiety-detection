@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed or hopeless?
+
+Patient: Yes, I have been feeling very down lately. I feel like I am stuck in a rut and everything seems pointless. Nothing excites me, and I feel like I have lost interest in everything that used to bring me joy.
+
+Doctor: Have you experienced a loss of appetite or overeating?
+
+Patient: I have been overeating lately. I find myself eating more often than usual, and I crave junk food all the time. I have also gained some weight over the past few weeks.
+
+Doctor: Have you had trouble sleeping, such as difficulty falling asleep, staying asleep, or waking up too early?
+
+Patient: Yes, I have been having trouble sleeping. I find it difficult to fall asleep, and when I do, I wake up several times during the night. I also wake up too early and cannot fall back asleep.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I have been feeling very tired lately. I feel exhausted all the time, even after a good night's sleep. I don't have any energy to do anything, and I feel like I am dragging myself through each day.
+
+Doctor: Have you felt guilty or worthless?
+
+Patient: Yes, I have been feeling very guilty and worthless lately. I feel like I am failing at everything and that I am not good enough. I constantly criticize myself and feel like I am letting everyone down.
+
+Doctor: Have you had trouble concentrating or making decisions?
+
+Patient: Yes, I have been having trouble concentrating and making decisions. I find it hard to focus on anything for more than a few minutes, and I struggle to make even simple decisions.
+
+Doctor: Have you had thoughts of self-harm or suicide?
+
+Patient: Yes, I have been having thoughts of self-harm and suicide. I feel like I am a burden on everyone around me and that the world would be better off without me.
+
+Doctor: Based on your responses, it seems like you are experiencing symptoms of depression. I would like to refer you to a mental health professional who can provide you with the appropriate treatment and support. In the meantime, please know that depression is a treatable condition, and there is hope for recovery.

@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Yeah, I've just been feeling really down and sad. It's been hard to get out of bed in the morning and I don't really enjoy doing things that I used to love.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've actually lost my appetite and have lost a few pounds.
+
+Doctor: How about your sleep? Have you been sleeping more or less than usual?
+
+Patient: I've been sleeping a lot more than usual. It's been hard to fall asleep at night, but once I do, I sleep for a really long time.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I've been feeling really tired all the time. It's been hard to find the motivation to do anything.
+
+Doctor: Have you been having any feelings of worthlessness or guilt?
+
+Patient: Yeah, I've been feeling like I'm not good enough and like everything is my fault.
+
+Doctor: Have you had any thoughts of death or suicide?
+
+Patient: No, I haven't had any thoughts of suicide.
+
+Doctor: Okay, thank you for answering those questions. It sounds like you may be experiencing symptoms of depression. Can you tell me a little bit about your personal background and any recent life events that may have contributed to these feelings?
+
+Patient: Well, I recently went through a breakup and it's been really hard for me to move on from it. I also lost my job a few months ago and have been struggling to find a new one.
+
+Doctor: I see. It sounds like you've been going through a lot of stressors lately. Have you tried any coping mechanisms or talked to anyone about how you're feeling?
+
+Patient: I've tried talking to my friends and family, but they don't really seem to understand what I'm going through.
+
+Doctor: Well, I'm glad you came to me today. Based on your answers, it doesn't seem like you meet the criteria for a diagnosis of depression. However, it's important to continue to monitor your symptoms and seek help if they worsen or persist.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

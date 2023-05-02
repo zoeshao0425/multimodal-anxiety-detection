@@ -1,0 +1,51 @@
+Doctor: So, what brings you here today?
+
+Patient: Well, I’ve been feeling really down lately. I’m not sure if it’s just a phase or something more serious.
+
+Doctor: Okay, can you tell me more about how you’re feeling?
+
+Patient: Yeah, I’ve been feeling really sad and hopeless. I don’t have any energy to do anything, and I’ve lost interest in things that used to make me happy.
+
+Doctor: Have you noticed any changes in your sleeping or eating patterns?
+
+Patient: Yeah, I’ve been sleeping a lot more than usual, and I don’t have much of an appetite anymore.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It’s been going on for a few weeks now.
+
+Doctor: Have you ever experienced these feelings before?
+
+Patient: Yeah, I’ve had bouts of depression in the past, but this feels different.
+
+Doctor: Can you tell me more about your past experiences with depression?
+
+Patient: Sure, I’ve struggled with depression on and off for several years. It usually happens when I’m going through a rough patch in my life, like a breakup or a job loss.
+
+Doctor: Are you currently going through any stressful situations?
+
+Patient: No, everything’s been pretty stable in my life lately.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven’t.
+
+Doctor: Okay, based on your symptoms, it sounds like you may be experiencing depression. I’d like to ask you a few more questions to get a better sense of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed?
+
+Patient: I’ve been experiencing all of those symptoms almost every day for the past two weeks.
+
+Doctor: Okay, based on your answers, it seems like you’re experiencing moderate to severe depression. I’d like to refer you to a therapist who can help you work through these feelings and develop coping strategies.
+
+Patient: That sounds like a good idea.
+
+Doctor: In the meantime, I’d also recommend getting regular exercise, eating a healthy diet, and making sure you’re getting enough sleep.
+
+Patient: Thanks, I’ll try to do those things.
+
+Doctor: And remember, depression is a treatable condition. With the right support, you can start feeling better soon.
+
+Patient: Thank you, I appreciate your help.

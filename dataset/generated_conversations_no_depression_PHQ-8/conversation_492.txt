@@ -1,0 +1,65 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately? Have you been experiencing any symptoms of depression?
+
+Patient: Yes, I have been feeling really down and hopeless for the past few weeks. It's been hard to get out of bed in the morning and I've lost interest in things that used to bring me joy.
+
+Doctor: I see. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping at night and haven't had much of an appetite. I've lost a few pounds recently.
+
+Doctor: Okay. Have you been feeling more tired than usual or lacking energy?
+
+Patient: Definitely. I feel exhausted all the time, even after a full night's sleep.
+
+Doctor: Have you been experiencing any feelings of worthlessness or guilt?
+
+Patient: Yes, I've been feeling like everything is my fault and that I'm not good enough. I keep thinking about all the mistakes I've made in the past.
+
+Doctor: Have you had any thoughts of suicide or self-harm?
+
+Patient: No, I haven't had any thoughts of hurting myself. I just feel really sad and overwhelmed.
+
+Doctor: I understand. Have you experienced any physical symptoms such as headaches or stomach aches?
+
+Patient: No, I haven't had any physical symptoms that I've noticed.
+
+Doctor: Okay. Can you tell me a little bit about your personal life? Are you going through any major life changes or stressors right now?
+
+Patient: Well, I recently went through a breakup and it's been really hard on me. I've also been struggling at work and feel like I'm not making any progress in my career.
+
+Doctor: I see. Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I will need to ask a few more questions to make a proper diagnosis.
+
+Patient: Okay, that makes sense.
+
+Doctor: On a scale of 0 to 3, how often have you been feeling down, depressed, or hopeless in the past two weeks?
+
+Patient: I would say a 2. It's been pretty frequent.
+
+Doctor: And how often have you had little interest or pleasure in doing things in the past two weeks?
+
+Patient: That's been a 3. I haven't enjoyed anything lately.
+
+Doctor: Have you had any trouble falling asleep, staying asleep, or sleeping too much in the past two weeks?
+
+Patient: Yes, I've had trouble falling asleep and staying asleep.
+
+Doctor: On a scale of 0 to 3, how often have you been feeling tired or having little energy in the past two weeks?
+
+Patient: That's been a 3. I feel exhausted all the time.
+
+Doctor: Have you experienced any changes in your appetite or weight in the past two weeks?
+
+Patient: Yes, I've lost a few pounds and haven't had much of an appetite.
+
+Doctor: On a scale of 0 to 3, how often have you felt like a failure or that you've let yourself or your family down in the past two weeks?
+
+Patient: That's been a 2. I've been really hard on myself lately.
+
+Doctor: Have you had any trouble concentrating on things such as reading the newspaper or watching television in the past two weeks?
+
+Patient: Yes, my mind has been really foggy and I can't seem to focus on anything.
+
+Doctor: Lastly, on a scale of 0 to 3, how often have you had thoughts that you would be better off dead or of hurting yourself in some way in the past two weeks?
+
+Patient: I haven't had any thoughts of hurting myself.
+
+Doctor: Based on your answers, it does not seem like you are currently experiencing depression. However, it's important to continue monitoring your symptoms and seeking help if they worsen or persist. Are there any other concerns or questions you have that I can

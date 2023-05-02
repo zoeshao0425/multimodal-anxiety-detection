@@ -1,0 +1,41 @@
+Doctor: So, I understand that you're here today to discuss some symptoms you've been experiencing. Can you tell me a bit about what's been going on?
+
+Patient: Yeah, sure. Lately, I've been feeling really down and hopeless. I don't have much interest in doing things I used to enjoy, and I feel tired all the time.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've lost some weight recently. I just don't have much of an appetite anymore.
+
+Doctor: Okay. And have you had any trouble sleeping? Either sleeping too much or too little?
+
+Patient: I've been having trouble sleeping. I have trouble falling asleep at night, and then I wake up really early in the morning and can't get back to sleep.
+
+Doctor: Alright. Have you noticed any changes in your energy level?
+
+Patient: Yeah, I'm always tired. Even when I do manage to get some sleep, I still feel exhausted.
+
+Doctor: And have you been feeling more irritable than usual?
+
+Patient: Definitely. Little things that didn't bother me before are really getting on my nerves now.
+
+Doctor: Okay, thank you for sharing all of this with me. I'm going to ask you a few more questions to get a better sense of what might be going on. Have you ever experienced any trauma or difficult life events?
+
+Patient: Yeah, actually. A few months ago, my partner and I broke up, and it's been really hard for me to deal with.
+
+Doctor: I'm sorry to hear that. Have you been able to talk to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden my friends or family with my problems, and I don't really know where to turn for help.
+
+Doctor: I understand. It can be tough to reach out for support. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to recommend that we explore some treatment options together.
+
+Patient: Okay, that sounds good. What kind of treatments are available?
+
+Doctor: There are a few different options we can consider. Therapy can be really helpful in addressing the underlying issues that may be contributing to your depression. We can also talk about medication, which can help alleviate some of the symptoms you're experiencing.
+
+Patient: I'm open to exploring both of those options. What do you think would be the best course of action for me?
+
+Doctor: Based on what you've shared with me today, I think therapy might be a good place to start. It can help you work through some of the feelings you're experiencing and develop coping strategies for managing your symptoms. I can refer you to a therapist who specializes in treating depression if you're interested.
+
+Patient: Yeah, that sounds like a good idea. Thank you for taking the time to talk to me today.
+
+Doctor: Of course. I'm here to support you in any way I can. Let's make a plan to follow up in a few weeks and see how you're doing, okay?

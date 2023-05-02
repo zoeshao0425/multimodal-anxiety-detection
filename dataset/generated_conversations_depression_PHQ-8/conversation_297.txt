@@ -1,0 +1,45 @@
+Doctor: Can you tell me how often you have been bothered by any of the following problems in the last two weeks? 
+
+Patient: Sure, I can try. 
+
+Doctor: Over the last two weeks, have you been feeling down, depressed, or hopeless? 
+
+Patient: Yes, I have been feeling that way a lot lately. 
+
+Doctor: How often would you say you have been feeling this way? 
+
+Patient: Almost every day, to be honest. 
+
+Doctor: Have you lost interest or pleasure in doing things you usually enjoy? 
+
+Patient: Yes, I have. I used to love reading and painting, but now I don't feel like doing anything. 
+
+Doctor: Have you been feeling tired or having little energy? 
+
+Patient: Yes, I have. Even getting out of bed in the morning is a struggle. 
+
+Doctor: Have you been having trouble sleeping or sleeping too much? 
+
+Patient: I have been having trouble sleeping. I lay awake for hours before finally falling asleep. 
+
+Doctor: Have you been feeling bad about yourself or feeling like a failure? 
+
+Patient: Yes, I have been feeling like a failure a lot lately. I don't feel good enough for anything. 
+
+Doctor: Have you been having trouble concentrating on things, such as reading the newspaper or watching television? 
+
+Patient: Yes, I have been having trouble concentrating. My mind feels foggy all the time. 
+
+Doctor: Have you been moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual? 
+
+Patient: I have been moving and speaking slowly. It's like everything takes so much effort. 
+
+Doctor: Thank you for answering these questions. Based on your answers, I think it's likely that you are experiencing depression. 
+
+Patient: Really? I didn't know it was that bad. 
+
+Doctor: Depression is a common and treatable condition. I would like to discuss some treatment options with you. We can start with therapy, medication, or a combination of both. 
+
+Patient: Okay, that sounds good. Thank you for listening to me. 
+
+Doctor: Of course, and please know that you are not alone in this. Many people experience depression, and there is help available.

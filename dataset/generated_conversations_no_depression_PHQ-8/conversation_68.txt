@@ -1,0 +1,29 @@
+Doctor: So, tell me a little bit about what's been going on lately. Have you been feeling down or depressed?
+
+Patient: Yeah, I've been feeling pretty down for a while now. It's been affecting my daily life and I just don't have the energy to do anything anymore.
+
+Doctor: Okay, can you describe your feelings of sadness or hopelessness? Do you feel like you're in a fog or that things are just not enjoyable anymore?
+
+Patient: Yeah, I feel like I'm in a fog all the time. I can't seem to shake this feeling of sadness and I just don't enjoy things like I used to. It's like everything is gray and dull.
+
+Doctor: That's understandable. Have you noticed any changes in your appetite or sleep patterns? Are you sleeping more or less than usual? Are you eating more or less than usual?
+
+Patient: I've been sleeping a lot more than usual, and I've noticed that I don't really have much of an appetite anymore. I used to love food, but now it doesn't really interest me.
+
+Doctor: I see. Have you had any thoughts of hurting yourself or others? Do you feel like life is not worth living anymore?
+
+Patient: No, I haven't had any thoughts of hurting myself or others. But I do feel like life is not worth living sometimes. It's like what's the point, you know?
+
+Doctor: I understand. Have you noticed any physical symptoms like headaches or stomach aches? Do you feel tired or fatigued all the time?
+
+Patient: Yeah, I've been having headaches and stomach aches a lot lately. And I'm always tired and fatigued, no matter how much I sleep.
+
+Doctor: Okay, thank you for sharing that with me. Based on your answers, it seems like you may be experiencing symptoms of depression. However, it's important to note that depression is a medical condition and can be treated. I would like to recommend that we do further testing to confirm the diagnosis.
+
+Patient: Okay, that sounds good. What kind of testing do you recommend?
+
+Doctor: We will do a PHQ-8 assessment to determine the severity of your symptoms. This will help us develop a treatment plan that's tailored to your needs.
+
+Patient: Okay, that makes sense. Thank you for taking the time to talk with me today.
+
+Doctor: Of course, it's my pleasure. Remember, depression is treatable and there is hope for recovery. Let's work together to get you feeling better.

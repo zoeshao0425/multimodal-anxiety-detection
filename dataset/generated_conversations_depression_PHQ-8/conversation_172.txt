@@ -1,0 +1,35 @@
+Doctor: Hi, can you tell me about how you have been feeling lately?
+
+Patient: I’ve been feeling really down and hopeless. It’s like I can’t find any joy in anything anymore.
+
+Doctor: Have you felt this way for a long time?
+
+Patient: Yeah, for a few months now. It’s been getting worse and worse.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: My sleep has been really messed up. I either can’t fall asleep or I wake up in the middle of the night and can’t go back to sleep. And my appetite has been all over the place. Sometimes I don’t feel hungry at all, and other times I can’t stop eating.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: Yeah, sometimes I feel like life isn’t worth living. But I haven’t actually made any plans to hurt myself.
+
+Doctor: Have you lost interest in things that used to bring you pleasure?
+
+Patient: Yeah, I used to love playing guitar and going out with friends, but now I just don’t care about those things anymore.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: All the time. It’s like I have no motivation to do anything.
+
+Doctor: Have you had trouble concentrating or making decisions?
+
+Patient: Definitely. Even simple tasks feel overwhelming sometimes.
+
+Doctor: Have you experienced feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like I’m a burden on everyone around me. Like I’m not good enough.
+
+Doctor: Based on what you’ve shared with me, it sounds like you may be experiencing depression. I’d like to recommend some treatment options for you, including therapy and medication. Would you be open to exploring those options?
+
+Patient: Yes, I would like to explore those options. Thank you for your help.

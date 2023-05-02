@@ -1,0 +1,33 @@
+Doctor: So, tell me a little bit about what's been going on. Have you been feeling down or depressed lately?
+
+Patient: Yeah, I guess you could say that. I've just been feeling really sad and hopeless lately.
+
+Doctor: Okay. And have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping lately. And my appetite has been pretty low too.
+
+Doctor: Okay. And have you lost interest in things you used to enjoy, like hobbies or spending time with friends?
+
+Patient: Yeah, I don't really feel like doing anything anymore. Even things I used to love just don't seem interesting or fun anymore.
+
+Doctor: I see. And have you noticed any physical symptoms, like fatigue or aches and pains?
+
+Patient: Yeah, I've been feeling really tired lately. And I've had some headaches and muscle aches too.
+
+Doctor: Okay. And have you been feeling guilty or worthless at all?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like nothing I do really matters.
+
+Doctor: Alright. And have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay. And can you tell me a little bit about your personal life? Do you have any major stressors or life changes going on right now?
+
+Patient: Well, I recently went through a breakup, which was really hard for me. And work has been pretty stressful too.
+
+Doctor: I see. It sounds like you've been going through a lot lately. Based on what you've told me, it seems like you may be experiencing some symptoms of depression. However, your answers to the PHQ-8 questions indicate that you do not meet the criteria for a diagnosis of depression. 
+
+Patient: Oh, okay. That's good to know.
+
+Doctor: Yes. However, I would still recommend that you take care of yourself and seek support from friends and family during this difficult time. And if your symptoms persist or worsen, please don't hesitate to come back and see me.

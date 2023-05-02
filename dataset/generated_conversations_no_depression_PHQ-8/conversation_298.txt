@@ -1,0 +1,21 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you experienced any of the following symptoms over the past two weeks: little interest or pleasure in doing things, feeling down or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating, or moving or speaking so slowly that other people could have noticed?
+
+Patient: Well, I've been feeling down and hopeless for a while now. I just don't enjoy doing things that I used to love, like going out with friends or reading. I also have trouble sleeping at night. I usually wake up a few times and can't fall back asleep. And during the day, I feel tired all the time, even if I've had enough sleep. My appetite has been off too. Sometimes I don't feel like eating anything, but other times I'll eat a lot more than usual. I've been feeling bad about myself and my life in general. I just feel like nothing is going right. It's been hard to concentrate on anything, and I feel like I'm moving in slow motion.
+
+Doctor: Thank you for sharing that with me. Have you noticed any changes in your weight or your daily routines?
+
+Patient: Yeah, I've lost some weight recently. I just don't have much of an appetite. And I haven't been going out as much as I used to. I just don't have the energy or motivation to do things.
+
+Doctor: Have you experienced any suicidal thoughts or tendencies?
+
+Patient: No, I haven't had any thoughts of harming myself or ending my life.
+
+Doctor: Okay, that's good to hear. Can you tell me a little bit about your personal background? Have you experienced any significant life events or changes recently?
+
+Patient: Well, I recently went through a breakup with my partner. We had been together for a few years, and it was a pretty tough breakup. I also lost my job a few months ago, which has been stressful. And with the pandemic going on, it's been hard to see friends or family.
+
+Doctor: I'm sorry to hear that. It sounds like you've been through a lot lately. Based on what you've shared with me, it does sound like you may be experiencing symptoms of depression. However, I would like to run some tests to confirm this. 
+
+Patient: Okay, that's fine.
+
+Doctor: After running the tests, it appears that you do not have depression. However, given the recent events in your life, it is understandable that you may be feeling down and hopeless. I recommend seeking support from loved ones, engaging in self-care activities, and possibly seeking therapy to help you cope with these challenges.

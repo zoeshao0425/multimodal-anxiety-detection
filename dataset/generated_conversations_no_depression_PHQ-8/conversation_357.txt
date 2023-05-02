@@ -1,0 +1,43 @@
+Doctor: So, I'd like to ask you a few questions about your mood and how you've been feeling lately. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down for a while now. I feel like I don't enjoy things that I used to enjoy before.
+
+Doctor: Okay, and have you been feeling tired or having low energy?
+
+Patient: Yes, I have been feeling very tired and low on energy. I just want to stay in bed all day.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite and have lost some weight as well.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I have been having trouble sleeping. I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I have been feeling guilty and worthless. I feel like I'm not good enough and can't do anything right.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yes, I have been having trouble concentrating and making decisions. I feel like my mind is foggy and I can't think straight.
+
+Doctor: Have you been having thoughts of harming yourself or suicide?
+
+Patient: No, I haven't been having those thoughts.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. Can you tell me a bit more about what's been going on in your life lately?
+
+Patient: Well, I recently lost my job and have been struggling to find a new one. It's been really stressful and I feel like I'm not good enough.
+
+Doctor: I see. Losing a job can definitely be a difficult experience. Have you been able to talk to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden my family and friends with my problems.
+
+Doctor: It's important to have a support system during difficult times. Have you considered talking to a therapist or counselor?
+
+Patient: I haven't thought about it, but maybe it would be helpful.
+
+Doctor: I think it would be a good idea to look into therapy or counseling. In the meantime, I don't think you're experiencing depression at this time. However, please don't hesitate to reach out if your symptoms persist or worsen.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

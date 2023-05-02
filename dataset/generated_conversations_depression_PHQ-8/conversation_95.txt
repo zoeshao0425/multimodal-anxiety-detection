@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? What specifically has been bothering you?
+
+Patient: Well, I just feel really sad all the time. I don't enjoy things that I used to like doing. I've lost interest in my hobbies and I just feel like sleeping all day.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been eating much and I have trouble falling asleep at night.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: Not really.
+
+Doctor: Have you been able to concentrate on tasks or do you find it difficult to focus?
+
+Patient: It's been really hard to focus. I feel like my mind is always foggy.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: I'm always tired, no matter how much I sleep.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Based on what you've told me, it seems like you may be experiencing symptoms of depression. I would recommend that we start a treatment plan to help you feel better.
+
+Patient: Thank you, doctor. I really appreciate your help.

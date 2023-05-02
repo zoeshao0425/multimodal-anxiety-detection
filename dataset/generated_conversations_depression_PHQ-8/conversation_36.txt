@@ -1,0 +1,39 @@
+Doctor: I see that you are here today to discuss your mental health. Can you tell me a bit about what's been going on?
+
+Patient: Yes, I've been feeling really down lately. I don't have any energy, I can't concentrate, and I just feel sad all the time.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. At first, I thought it was just a bad mood, but it hasn't gone away.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't get back to sleep.
+
+Doctor: And how about your appetite? Have you noticed any changes there?
+
+Patient: I haven't been eating as much as I used to. I just don't have much of an appetite.
+
+Doctor: Have you lost any weight recently?
+
+Patient: Yeah, I've lost a few pounds.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I've been feeling really worthless lately. Like I'm not good enough and I'm not doing anything right.
+
+Doctor: Have you lost interest in things that you used to enjoy?
+
+Patient: Yeah, I used to love playing guitar but I just don't feel like doing it anymore. Nothing seems to interest me.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having trouble focusing at work and making decisions. It's been affecting my job performance.
+
+Doctor: Thank you for answering all of these questions. Based on your responses, it seems like you may be experiencing symptoms of depression. I would like to refer you to a mental health professional for further evaluation and treatment. 
+
+Patient: Okay, thank you for your help.

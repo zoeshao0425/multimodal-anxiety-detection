@@ -1,0 +1,37 @@
+Doctor: So, I understand you're here to discuss your mood and any symptoms you may be experiencing. Can you tell me a bit about what's been going on?
+
+Patient: Yeah, I've been feeling really down lately. I just don't have much energy or interest in anything anymore.
+
+Doctor: How long has this been going on for?
+
+Patient: I'd say it's been about a month now.
+
+Doctor: Okay. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well at all. And I've lost my appetite too.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Have you experienced any feelings of worthlessness or hopelessness?
+
+Patient: Definitely. I just feel like everything is pointless and there's no point in even trying anymore.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus on anything. I feel like I'm in a fog most of the time.
+
+Doctor: Okay. Have you experienced any physical symptoms like headaches or stomach problems?
+
+Patient: No, not really.
+
+Doctor: Alright. And finally, have you noticed any decrease in your overall enjoyment of life?
+
+Patient: Yeah, I used to enjoy spending time with friends and family, but now I just don't feel like doing anything.
+
+Doctor: Based on your answers, it sounds like you may be experiencing some symptoms of depression. However, it's important to note that depression is a clinical diagnosis and I would need to gather more information before making a final determination. Can you tell me a bit about your personal background and any stressors you may be experiencing?
+
+Patient: Well, I recently lost my job and I've been struggling to find a new one. It's been really stressful and I feel like I'm letting my family down.
+
+Doctor: I see. It's understandable that losing a job can be a difficult and stressful experience. Based on what you've told me, it's possible that your symptoms may be related to this stressor rather than depression. However, I would like to schedule a follow-up appointment to discuss your symptoms further and explore potential treatment options. In the meantime, I recommend practicing self-care activities such as exercise, healthy eating, and mindfulness techniques to help manage your stress levels.

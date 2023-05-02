@@ -1,0 +1,35 @@
+Doctor: So, tell me what brings you in today?
+
+Patient: Well, I’ve been feeling really down lately. I don’t have any energy and I don’t enjoy things like I used to.
+
+Doctor: I understand. Can you tell me more about how you’re feeling?
+
+Patient: Yeah, I just feel really sad all the time. I don’t really have any motivation to do anything. I’ve been sleeping a lot and I’m not really interested in socializing with my friends anymore.
+
+Doctor: Okay, those are all common symptoms of depression. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I’ve been eating a lot less than usual and I’ve lost some weight.
+
+Doctor: And how has your sleep been?
+
+Patient: I’ve been sleeping a lot more than usual. Sometimes I’ll sleep for 10 hours and still feel tired.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I’ve been having a hard time focusing at work. I’ve been making mistakes and it’s been affecting my performance.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven’t had any thoughts of hurting myself.
+
+Doctor: Okay, that’s good to hear. Can you tell me a little bit about your personal life? Are you going through any major life changes or stressors right now?
+
+Patient: Well, I recently went through a breakup and it’s been really hard on me. I’ve also been struggling with some financial issues.
+
+Doctor: I see. It sounds like you’ve been dealing with a lot lately. Based on what you’ve told me, I think it’s likely that you’re experiencing depression. I’d like to run some tests to be sure, but in the meantime, I’d like to talk to you about treatment options.
+
+Patient: Okay, that sounds good to me. I just want to feel better.
+
+Doctor: There are a few different treatment options we can explore. Therapy can be really helpful in treating depression, and there are also medications that can help regulate your mood. We can discuss which options might be best for you based on your symptoms and personal preferences.
+
+Patient: Thank you, doctor. I appreciate your help.

@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately? Have you noticed any changes in your mood or behavior?
+
+Patient: Yeah, I've been feeling pretty down for a while now. I've lost interest in things I used to enjoy and I have trouble sleeping at night.
+
+Doctor: How long have you been feeling this way?
+
+Patient: For about six months now.
+
+Doctor: Have you experienced any significant life changes or stressful events during that time period?
+
+Patient: My grandmother passed away, and I lost my job around the same time. It's been tough.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating less than usual and I've lost about 10 pounds.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I have a hard time focusing at work and it's affecting my performance.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I've had some fleeting thoughts, but I would never act on them.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. I'd like to run some tests to confirm the diagnosis and discuss treatment options with you.

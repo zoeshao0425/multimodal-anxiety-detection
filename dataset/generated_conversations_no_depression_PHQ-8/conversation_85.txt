@@ -1,0 +1,41 @@
+Doctor: So, tell me a little bit about how you've been feeling lately.
+
+Patient: Well, I've been feeling really down and sad. I don't have any energy, and I don't feel like doing anything.
+
+Doctor: Have you been feeling this way for a while?
+
+Patient: Yeah, it's been going on for a few weeks now.
+
+Doctor: Okay. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: My appetite has decreased, and I'm having trouble sleeping at night.
+
+Doctor: Do you find that you're losing interest in things that you used to enjoy?
+
+Patient: Yeah, I used to love playing video games and watching movies, but now I just don't feel like doing anything.
+
+Doctor: Have you been feeling more irritable or easily frustrated than usual?
+
+Patient: Yeah, I've been getting really angry over little things lately.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Okay. Have you experienced any physical symptoms, such as headaches or stomach problems?
+
+Patient: No, not really.
+
+Doctor: Can you tell me a little bit about your personal life? Are there any stressors or major changes that could be contributing to your feelings of depression?
+
+Patient: Well, my job has been really stressful lately, and I've been having some problems with my family.
+
+Doctor: Alright. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to administer the PHQ-8 assessment to get a better idea of your condition.
+
+Patient: Okay.
+
+Doctor: (administers PHQ-8 assessment) Based on your answers, it looks like you are not currently experiencing depression. However, I would like to monitor your symptoms and schedule a follow-up appointment in a few weeks to make sure everything is okay.
+
+Patient: Thank you, doctor. I really appreciate your help.
+
+Doctor: Of course. If you notice any changes in your symptoms or begin to feel worse, please don't hesitate to contact me.

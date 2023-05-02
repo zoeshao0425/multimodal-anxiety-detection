@@ -1,0 +1,37 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any symptoms of depression?
+
+Patient: Yeah, I've been feeling really down lately. I don't have much energy, and I don't enjoy things that I used to.
+
+Doctor: Okay, can you tell me more about that? How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. I just feel really sad all the time, and I don't know why. I'm not interested in doing things that I used to love, like playing sports or hanging out with friends.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I don't have much of an appetite. I've lost some weight because of it.
+
+Doctor: Do you ever have thoughts of harming yourself or others?
+
+Patient: No, I don't think about that. I just feel really hopeless and helpless sometimes.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomach aches?
+
+Patient: No, not really. I just feel really tired all the time.
+
+Doctor: Have you experienced any significant life events recently that may have triggered these feelings?
+
+Patient: Well, my grandmother passed away a few months ago, and that was really hard for me. But I don't think that's the only reason I'm feeling this way.
+
+Doctor: Okay, based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, we need to do a full assessment to determine the severity of your symptoms. 
+
+Patient: Okay, what does that involve?
+
+Doctor: I'm going to ask you a few more questions about your mood and behaviors over the past two weeks. This will help us determine if you meet the criteria for depression according to the PHQ-8 assessment.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed? 
+
+Patient: I've definitely been experiencing little interest in doing things, feeling down and hopeless, trouble sleeping, feeling tired, and trouble concentrating. But I haven't been feeling bad about myself or having thoughts of harming myself.
+
+Doctor: Okay, based on your responses, it sounds like you may be experiencing mild symptoms of depression. However, I don't believe medication is necessary at this time. Instead, I would recommend therapy to help you work through your feelings and develop coping mechanisms. We can also discuss lifestyle changes that may help improve your mood, such as exercise and a healthy diet.
+
+Patient: That sounds good to me. Thank you for your help, doctor.

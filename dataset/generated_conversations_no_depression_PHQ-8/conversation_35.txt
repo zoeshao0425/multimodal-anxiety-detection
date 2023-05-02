@@ -1,0 +1,41 @@
+Doctor: So, tell me a little bit about what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: Okay, can you tell me more about how long you've been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just feel like I don't have any energy, and I'm not interested in doing things that I used to enjoy.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping at night, and I don't really feel like eating much either.
+
+Doctor: Okay, and have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like I'm not good enough at anything.
+
+Doctor: And have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Alright, thank you for answering those questions. Now, can you tell me a little bit about your personal background? Do you have any history of depression or other mental health conditions in your family?
+
+Patient: Not that I know of. But I did have a really tough year last year. My mom passed away, and I went through a really bad breakup.
+
+Doctor: I'm sorry to hear that. That must have been really difficult for you. How has your mood been since those events?
+
+Patient: It's been up and down. I've had some good days, but mostly I just feel really sad and hopeless.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to run through a quick assessment with you to get a better idea of how severe your symptoms are. 
+
+Patient: Okay.
+
+Doctor: On a scale of 0-3, how often have you been bothered by the following symptoms in the past two weeks: Little interest or pleasure in doing things, feeling down or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating, and moving or speaking slowly?
+
+Patient: Well, I would say I've been bothered by most of those symptoms pretty frequently. Maybe a 2 or 3 for each one.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it does seem like you are experiencing some symptoms of depression. However, I don't believe your symptoms are severe enough to warrant a diagnosis of major depression. It's possible that your recent life events have triggered a period of sadness and low mood, but with time and support, you may start to feel better. 
+
+Patient: That's good to hear. What can I do to start feeling better?
+
+Doctor: There are a few things you can try. First, I would recommend talking to a therapist or counselor. They can help you work through your feelings and develop coping strategies. Additionally, regular exercise, healthy eating, and getting enough sleep can all help improve mood. If your symptoms persist or worsen, we can explore other treatment options such as medication.

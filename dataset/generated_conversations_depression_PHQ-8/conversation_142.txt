@@ -1,0 +1,31 @@
+Doctor: Hi there, can you tell me about how you've been feeling lately?
+
+Patient: I've been feeling pretty down and hopeless. I don't really have much interest in doing things that used to make me happy.
+
+Doctor: Okay, can you tell me more about that? Have you noticed any changes in your sleeping or eating habits?
+
+Patient: Yeah, I've been having trouble sleeping and I've lost my appetite. I just don't feel like eating anymore.
+
+Doctor: How long has this been going on for?
+
+Patient: It's been a few weeks now.
+
+Doctor: Have you noticed any changes in your energy level or ability to concentrate?
+
+Patient: Yeah, I've been feeling really tired all the time and I can't seem to focus on anything. My mind just feels foggy.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: Yeah, I have. Sometimes I just feel like giving up.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any other symptoms, like feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling pretty worthless lately. Like I'm not good enough for anything.
+
+Doctor: Can you tell me a bit more about what's been going on in your life recently? Any major stressors or changes?
+
+Patient: Well, my job has been really stressful lately and I've been having trouble with my partner. We've been arguing a lot.
+
+Doctor: Okay, that's helpful to know. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to diagnose you with depression and recommend some treatment options.
+
+Patient: Okay, thank you for your help.

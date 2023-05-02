@@ -1,0 +1,39 @@
+Doctor: Hi, can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I have trouble sleeping and I've lost interest in things I used to enjoy.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I'd say it's been going on for about two months now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less and I've lost some weight.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yeah, sometimes I feel like my mind is foggy and I can't focus on anything.
+
+Doctor: Have you had thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had those kinds of thoughts.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Have you been able to maintain your usual activities, like work or school?
+
+Patient: It's been really hard to keep up with everything. I've been missing work and falling behind in school.
+
+Doctor: Okay, thank you for sharing that information with me. Can you tell me a bit about your personal background? Do you have a history of depression or other mental health issues in your family?
+
+Patient: No, not that I know of. I've never had any mental health issues before.
+
+Doctor: Have you experienced any major life changes or stressors recently?
+
+Patient: Actually, yeah. My grandma passed away a few months ago and I've been having a hard time dealing with it.
+
+Doctor: Okay, that makes sense. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I do want to note that you don't meet the criteria for a diagnosis of major depressive disorder. It seems like your symptoms may be related to the recent loss of your grandmother and the stress that has caused in your life. I would recommend seeking out some counseling or therapy to help you work through those feelings and get back on track with your daily activities.
+
+Patient: Okay, thank you for your help. I'll definitely consider that.

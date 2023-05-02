@@ -1,0 +1,67 @@
+Doctor: So, let's start by talking about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Yes, I have been feeling down, depressed, or hopeless.
+
+Doctor: How often have you been feeling this way?
+
+Patient: Almost every day.
+
+Doctor: Okay. Have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, I have lost interest in many things that I used to enjoy doing.
+
+Doctor: How often do you feel this way?
+
+Patient: Almost every day.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yes, I have been feeling very tired and have had little energy.
+
+Doctor: How often do you feel this way?
+
+Patient: Almost every day.
+
+Doctor: Have you been having trouble sleeping, either difficulty falling asleep or staying asleep?
+
+Patient: Yes, I have been having trouble sleeping. I often wake up in the middle of the night and can't go back to sleep.
+
+Doctor: How often does this happen?
+
+Patient: Almost every night.
+
+Doctor: Have you been experiencing a poor appetite or overeating?
+
+Patient: I have been overeating lately. I don't have much of an appetite, but when I do eat, I tend to eat a lot.
+
+Doctor: How often does this happen?
+
+Patient: Almost every day.
+
+Doctor: Have you been feeling bad about yourself, or feeling like a failure, or feeling like you've let yourself or your family down?
+
+Patient: Yes, I have been feeling like a failure lately. I haven't been able to accomplish anything, and it's been making me feel really bad about myself.
+
+Doctor: How often do you feel this way?
+
+Patient: Almost every day.
+
+Doctor: Have you been having trouble concentrating on things, such as reading the newspaper or watching TV?
+
+Patient: Yes, I have been having trouble concentrating lately. I find myself getting distracted easily and not being able to focus on anything for very long.
+
+Doctor: How often does this happen?
+
+Patient: Almost every day.
+
+Doctor: Have you been having thoughts that you would be better off dead or of hurting yourself in some way?
+
+Patient: Yes, I have been having thoughts of hurting myself lately. I feel like there's no point in living anymore.
+
+Doctor: How often do you have these thoughts?
+
+Patient: Almost every day.
+
+Doctor: Based on what you've told me, it sounds like you are experiencing symptoms of depression. I would like to recommend that you see a therapist who can help you work through these feelings and develop coping strategies to manage your depression.
+
+Patient: Thank you, doctor. I appreciate your help.

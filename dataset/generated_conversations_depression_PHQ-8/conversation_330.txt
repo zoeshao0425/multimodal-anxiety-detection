@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you describe your mood in more detail? Have you been feeling sad, hopeless, or empty?
+
+Patient: Yes, all of those things. I just feel like nothing brings me joy anymore. I used to love going out with friends and doing things, but now I just don't have the energy for it.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, my appetite has been all over the place. Sometimes I don't feel like eating at all, and other times I can't stop snacking. And my sleep has been really disrupted. I have trouble falling asleep and then I wake up multiple times during the night.
+
+Doctor: Have you experienced any physical symptoms like fatigue, headaches, or body aches?
+
+Patient: Yes, I've been feeling really tired all the time, even when I get enough sleep. And I've had a lot of headaches lately.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault. I don't feel like I deserve to be happy.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself, but I do feel like life isn't worth living sometimes.
+
+Doctor: Have you experienced any of these symptoms for more than two weeks?
+
+Patient: Yes, it's been going on for a few months now.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to refer you to a mental health professional who can provide you with further evaluation and treatment options. In the meantime, I recommend that you try to get enough sleep, eat a healthy diet, and engage in physical activity. It's also important to stay connected with friends and family for support.

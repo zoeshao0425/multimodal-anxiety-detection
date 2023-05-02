@@ -1,0 +1,37 @@
+Doctor: I'd like to talk to you about your mental health today. Have you been feeling down or depressed lately?
+
+Patient: Yes, I have been feeling really down for a while now.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I think it's been about six months now.
+
+Doctor: Can you describe what you're feeling?
+
+Patient: It's hard to explain. I just feel really sad all the time, and I don't enjoy things that I used to. I have trouble sleeping and I'm always tired. I feel hopeless and worthless, like nothing I do matters.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've lost some weight because I don't have much of an appetite.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: Yes, I have. I feel like there's no point in living anymore.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: Yes, I have. I get headaches all the time, and my stomach is always upset.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: Yes, I have. I was diagnosed with depression a few years ago and took medication for it.
+
+Doctor: Are you currently taking any medication for depression?
+
+Patient: No, I stopped taking it a few months ago because I thought I was doing better.
+
+Doctor: Do you have a history of depression in your family?
+
+Patient: Yes, my mother has struggled with depression for most of her life.
+
+Doctor: Thank you for sharing that information with me. Based on what you've told me, it sounds like you may be experiencing depression again. I'm going to diagnose you with depression and recommend that you start taking medication again. We'll also discuss therapy options to help you manage your symptoms.

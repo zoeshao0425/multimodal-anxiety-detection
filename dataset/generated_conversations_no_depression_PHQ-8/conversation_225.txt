@@ -1,0 +1,57 @@
+Doctor: So, let's start with some questions to understand your symptoms better. Over the past two weeks, how often have you been bothered by these problems?
+
+Patient: Okay.
+
+Doctor: Little interest or pleasure in doing things?
+
+Patient: Almost every day.
+
+Doctor: Feeling down, depressed, or hopeless?
+
+Patient: Almost every day.
+
+Doctor: Trouble falling or staying asleep, or sleeping too much?
+
+Patient: Yes, I have trouble falling asleep.
+
+Doctor: Feeling tired or having little energy?
+
+Patient: Yes, I feel tired all the time.
+
+Doctor: Poor appetite or overeating?
+
+Patient: I don't have much of an appetite.
+
+Doctor: Feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Yes, I do feel like a failure.
+
+Doctor: Trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yes, I have trouble concentrating.
+
+Doctor: Thoughts that you would be better off dead or of hurting yourself in some way?
+
+Patient: No, I don't have those thoughts.
+
+Doctor: Okay, thank you for answering those questions. Can you tell me more about your experiences with feeling down and depressed?
+
+Patient: Well, I just feel like I don't have any motivation to do anything. I used to enjoy going out with friends and doing hobbies, but now I just feel like I can't be bothered. I also feel really tired all the time, even if I get a good night's sleep. And I just feel like I'm not good enough, like I'm failing at everything.
+
+Doctor: I see. Can you tell me a bit about your personal background? Have you experienced depression before?
+
+Patient: No, I haven't. But I've been going through a lot of stress lately, with work and family issues.
+
+Doctor: That's understandable. Have you noticed any changes in your appetite or weight?
+
+Patient: Not really. I just don't feel very hungry.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomach problems?
+
+Patient: No, not really.
+
+Doctor: Okay, based on your responses, it seems like you may be experiencing some symptoms of depression. However, it's important to note that not everyone who experiences these symptoms has depression. In your case, it sounds like the stress and other issues in your life may be contributing to how you're feeling.
+
+Patient: Oh, okay. So, what should I do?
+
+Doctor: Well, first off, it's important to take care of yourself. Make sure you're getting enough rest, eating well, and exercising if possible. It may also be helpful to talk to someone about how you're feeling, whether that's a friend, family member, or therapist. And if your symptoms persist or worsen, please come back and see me so we can discuss further treatment options.

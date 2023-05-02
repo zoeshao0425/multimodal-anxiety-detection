@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately?
+
+Patient: I've been feeling pretty down and hopeless. I don't really have any motivation to do anything and I've lost interest in things that used to make me happy.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you had any trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I usually wake up several times during the night and have trouble falling back asleep.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: I've been feeling pretty tired all the time, even when I get enough sleep.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling pretty worthless lately. I feel like I'm not good at anything and that I'm a burden on my family and friends.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or ending my life.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Based on your answers, it doesn't seem like you meet the criteria for depression. However, it's important to continue monitoring your mood and seeking help if you start experiencing any concerning symptoms.

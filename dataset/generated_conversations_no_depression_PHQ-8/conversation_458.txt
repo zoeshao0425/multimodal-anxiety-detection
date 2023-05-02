@@ -1,0 +1,45 @@
+Doctor: So, tell me what brings you here today?
+
+Patient: I have been feeling really down lately, and I'm not sure what to do about it.
+
+Doctor: Can you describe your symptoms for me?
+
+Patient: I've been feeling really sad and hopeless. I don't enjoy things that I used to, and I have no energy. I have trouble sleeping, and when I do sleep, I have nightmares. I also feel guilty and worthless.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite, and I've lost some weight.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any significant life events or stressors recently?
+
+Patient: Not really, everything has been pretty normal.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Do you have a family history of depression?
+
+Patient: Yes, my mother has struggled with it in the past.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better idea of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep or sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed?
+
+Patient: I've been bothered by all of those problems most days.
+
+Doctor: Okay, based on your answers, you have a score of 24 on the PHQ-8, which is in the moderate to severe range for depression. I think it would be best if we started you on some medication and referred you to a therapist for counseling.
+
+Patient: Thank you, doctor. I'm glad we can do something about this.
+
+Doctor: Of course. We'll work together to get you feeling better.

@@ -1,0 +1,25 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down. I don't have any energy and I'm not interested in doing anything.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I haven't been eating as much as I normally do.
+
+Doctor: Have you noticed any changes in your mood? Do you feel sad, hopeless, or empty?
+
+Patient: Yeah, I feel really sad and hopeless most of the time. I don't see the point in doing anything because nothing seems to make me happy anymore.
+
+Doctor: Have you experienced any physical symptoms such as headaches, stomachaches, or muscle tension?
+
+Patient: I've had some headaches and my stomach has been bothering me lately. I also feel really tired all the time.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any trauma or major life changes recently?
+
+Patient: Well, my mom passed away a few months ago and it's been really hard for me to deal with. I've also been having some problems at work which have been causing me a lot of stress.
+
+Doctor: Thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing depression. We can work together to come up with a treatment plan that will help you feel better.

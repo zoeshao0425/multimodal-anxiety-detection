@@ -1,0 +1,37 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Honestly, I've been feeling that way almost every day for the past few months.
+
+Doctor: Okay. And how about feeling little interest or pleasure in doing things?
+
+Patient: Yeah, I don't really enjoy doing anything anymore. Even things I used to love.
+
+Doctor: Got it. Have you had any trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I have trouble falling asleep most nights, and then I end up sleeping too much during the day.
+
+Doctor: I see. How about feeling tired or having little energy?
+
+Patient: Yeah, I feel exhausted all the time. It's hard to get out of bed in the morning.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite. I hardly eat anything anymore, and I've lost quite a bit of weight.
+
+Doctor: Okay. Have you been feeling bad about yourself or feeling like a failure or letting people down?
+
+Patient: Yeah, I feel like I'm not good enough and that I'm letting everyone down.
+
+Doctor: And have you had any trouble concentrating on things, such as reading the newspaper or watching TV?
+
+Patient: Yeah, I can't focus on anything. My mind is always racing and I can't seem to calm it down.
+
+Doctor: Lastly, have you had any thoughts of hurting yourself or thoughts of suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. Can you tell me more about your personal background and experiences that may be contributing to these feelings?
+
+Patient: Well, I recently lost my job and have been struggling to find a new one. I also went through a breakup with my partner of five years. It's been really hard to cope with all of that.
+
+Doctor: I'm sorry to hear that. It's understandable why you would be feeling this way given all that's happened. However, based on your responses, it doesn't seem like you have major depression. It's important to take care of yourself during this difficult time and seek support from loved ones or a therapist if needed.

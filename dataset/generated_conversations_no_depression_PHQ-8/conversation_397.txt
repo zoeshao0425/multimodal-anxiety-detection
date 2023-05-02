@@ -1,0 +1,39 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: I've been feeling down almost every day for the past two weeks.
+
+Doctor: And how long have you been experiencing these feelings?
+
+Patient: It's been going on for a few months now.
+
+Doctor: I see. Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yes, I've lost my appetite and lost some weight as well.
+
+Doctor: How about your sleep patterns? Have you been having trouble falling asleep or staying asleep?
+
+Patient: Yes, I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Okay. Have you been feeling tired or lacking energy lately?
+
+Patient: Yes, I feel tired all the time, even when I get enough sleep.
+
+Doctor: Have you noticed any changes in your interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, I don't enjoy doing the things I used to love anymore.
+
+Doctor: And have you been feeling guilty or worthless lately?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Finally, have you had any thoughts of hurting yourself or suicide?
+
+Patient: No, I haven't had any suicidal thoughts.
+
+Doctor: Based on your answers, it seems like you have been experiencing symptoms of depression. However, I am happy to inform you that you do not meet the criteria for a diagnosis of depression at this time. 
+
+Patient: That's great news. But what can I do to improve my mood and energy levels?
+
+Doctor: There are several things you can do to improve your mood and energy levels. One of the most effective ways is to engage in regular exercise, eat a balanced diet, and get enough sleep. It's also important to talk to someone about your feelings, whether it's a friend, family member, or a mental health professional.
+
+Patient: Thank you, doctor. I will try to incorporate these changes into my daily routine.

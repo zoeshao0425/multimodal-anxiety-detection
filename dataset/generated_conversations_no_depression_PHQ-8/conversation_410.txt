@@ -1,0 +1,53 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really down lately. It's like everything is just too much for me to handle.
+
+Doctor: How often have you been experiencing these feelings?
+
+Patient: Almost every day, I would say. It's been hard to shake off this feeling of sadness.
+
+Doctor: Have you lost interest in activities that you used to enjoy? For example, hobbies or spending time with friends and family?
+
+Patient: Yeah, I have. I used to love going out with my friends, but now I just don't feel up to it. Even doing things that I usually enjoy, like reading or watching movies, doesn't give me any pleasure anymore.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating less than usual, and I've lost some weight. I just don't feel hungry most of the time.
+
+Doctor: Are you having trouble sleeping or sleeping more than usual?
+
+Patient: I'm having trouble sleeping. I wake up a lot during the night, and I find it hard to fall asleep again.
+
+Doctor: Have you been feeling tired or lacking in energy?
+
+Patient: Yes, I have. It's like I can't get enough sleep no matter how much I rest.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I have been feeling really worthless lately. I feel like I'm not good enough at anything and that I'm letting everyone down.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that. I just feel really sad and overwhelmed.
+
+Doctor: Based on your responses, it seems like you are experiencing some symptoms of depression. However, I am glad to hear that you are not having any thoughts of self-harm or suicide. I would like to further explore your personal background and experiences to better understand your situation.
+
+Patient: Okay, sure.
+
+Doctor: Can you tell me more about what's been going on in your life lately? Have you experienced any major changes or stressors?
+
+Patient: Well, I recently lost my job, and that's been really hard on me. I've been struggling to find a new one, and it's been causing a lot of financial stress. On top of that, my relationship with my partner has been rocky lately, and we've been arguing a lot.
+
+Doctor: It sounds like you've been dealing with a lot of stressors lately. Have you talked to anyone about how you've been feeling?
+
+Patient: Not really. I don't want to burden my friends or family with my problems, and I feel like they wouldn't understand anyway.
+
+Doctor: I understand how you feel, but it's important to have a support system during difficult times. Have you considered talking to a therapist or counselor?
+
+Patient: I haven't really thought about it, but maybe it would help.
+
+Doctor: I can refer you to a therapist who specializes in depression if you're interested. They can provide you with coping strategies and support as you navigate through this difficult time.
+
+Patient: That sounds good. Thank you for your help, doctor.
+
+Doctor: You're welcome. Remember, it's okay to ask for help when you need it. I'm here to support you.

@@ -1,0 +1,29 @@
+Doctor: Can you tell me about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't have any energy or motivation to do anything.
+
+Doctor: Have you been experiencing any specific physical symptoms, like changes in appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well at all. I wake up in the middle of the night and can't fall back asleep. My appetite has also decreased, and I've lost some weight.
+
+Doctor: Have you noticed any changes in your mood or emotions? Do you find yourself feeling more irritable or anxious?
+
+Patient: I've definitely been feeling more irritable than usual. Little things that normally wouldn't bother me are really getting on my nerves. And sometimes I feel really anxious for no reason.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any loss of interest or pleasure in activities that you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but now I just don't feel like it. Even things that used to make me happy don't anymore.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Yes, definitely. I have trouble focusing on anything for very long, and making even simple decisions feels overwhelming.
+
+Doctor: Have you experienced any feelings of worthlessness or hopelessness?
+
+Patient: Yeah, sometimes I feel like nothing I do matters and that I'm just a burden on everyone around me. And it's hard to see things getting better.
+
+Doctor: Thank you for sharing all of this with me. Based on your answers, I would say that you are not currently experiencing depression. However, these symptoms can be indicative of other mental health conditions, so I would recommend that you continue to monitor how you're feeling and come back to see me if anything changes. In the meantime, it might be helpful to focus on self-care and finding ways to manage stress and anxiety.

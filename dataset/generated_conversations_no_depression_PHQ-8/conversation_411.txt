@@ -1,0 +1,51 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Honestly, doctor, I've been feeling pretty down. I just don't have the energy or motivation to do anything anymore.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble falling asleep and I'm not really hungry anymore.
+
+Doctor: How long has this been going on for?
+
+Patient: It's been a few weeks now.
+
+Doctor: Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, I just feel like I'm not good enough and that nothing will ever get better.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I've been having trouble focusing at work and making even simple decisions feels overwhelming.
+
+Doctor: Have you experienced any physical symptoms like fatigue or aches and pains?
+
+Patient: Yeah, I've been feeling really tired all the time and my body just feels heavy.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Well, I did lose my job a few months ago and I've been struggling to find work since then.
+
+Doctor: Okay, based on what you've told me, it sounds like you might be experiencing some symptoms of depression. However, I'd like to ask a few more questions to get a better understanding of your situation. 
+
+Patient: Sure, go ahead.
+
+Doctor: Have you ever been diagnosed with depression before?
+
+Patient: No, I haven't.
+
+Doctor: Do you have a history of mental health issues in your family?
+
+Patient: Not that I know of.
+
+Doctor: Have you tried any self-care techniques like exercise or meditation to manage your symptoms?
+
+Patient: Yeah, I've been trying to exercise more and I've been doing some mindfulness meditation, but it doesn't seem to be helping much.
+
+Doctor: Okay, based on what you've told me, I don't believe that you meet the criteria for a diagnosis of depression. However, I think it would still be helpful for you to speak with a therapist or counselor to help you manage your symptoms and work through any underlying issues that may be contributing to your feelings of sadness and hopelessness. 
+
+Patient: Thank you, doctor. That's a relief to hear. I'll definitely consider seeing a therapist.

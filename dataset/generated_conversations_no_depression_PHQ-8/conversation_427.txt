@@ -1,0 +1,33 @@
+Doctor: Can you tell me about any feelings of sadness, hopelessness or emptiness that you may have been experiencing recently?
+
+Patient: Well, I've been feeling really down lately. I just don't feel like myself anymore. I feel like I'm in a constant state of sadness and it's hard to shake off.
+
+Doctor: How often do you experience these feelings? Is it every day or just occasionally?
+
+Patient: It's pretty much every day. I wake up feeling sad and it stays with me throughout the day.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yes, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Do you have any trouble sleeping or do you find yourself sleeping too much?
+
+Patient: I have trouble sleeping. I usually wake up a few times during the night and have trouble falling back asleep.
+
+Doctor: Have you noticed any changes in your energy levels or motivation?
+
+Patient: Yes, I feel exhausted all the time and I don't have any motivation to do anything anymore.
+
+Doctor: Have you had any thoughts of hurting yourself or suicidal thoughts?
+
+Patient: No, I haven't had any thoughts of hurting myself or suicide.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: Yes, I've had a lot of headaches lately and my stomach has been bothering me.
+
+Doctor: Have you been experiencing any difficulty concentrating or making decisions?
+
+Patient: Yes, it's been really hard for me to focus on anything and I can't make decisions anymore.
+
+Doctor: Based on your answers, it seems like you are experiencing some symptoms of depression. However, it is important to note that depression is a medical condition that can be treated. I would like to run some tests to rule out any other possible medical conditions that may be causing your symptoms.

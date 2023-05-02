@@ -1,0 +1,51 @@
+Doctor: So, what brings you here today?
+
+Patient: I'm feeling really down lately. I don't know why, but I just don't have the energy to do anything.
+
+Doctor: I see. Can you tell me more about how you're feeling?
+
+Patient: Well, I'm just really tired all the time. I don't feel like doing anything, even things that I used to enjoy. I've been having trouble sleeping, too.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, I haven't been eating as much as I used to. I just don't feel hungry.
+
+Doctor: Have you been feeling sad or hopeless?
+
+Patient: Yeah, I have. I just feel like everything is hopeless and there's no point in trying.
+
+Doctor: Have you had any thoughts of hurting yourself or anyone else?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, thank you for letting me know. Have you experienced any other symptoms, like difficulty concentrating or feeling restless?
+
+Patient: Yeah, I've been having trouble focusing on anything. I just can't seem to concentrate on anything for very long.
+
+Doctor: And have these symptoms been affecting your daily life? Like, have you been missing work or school, or having trouble with relationships?
+
+Patient: Yeah, I've missed a few days of work because I just didn't have the energy to get out of bed. And I've been avoiding my friends and family because I just don't feel like being around anyone.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better idea of how severe your symptoms are.
+
+Patient: Sure, go ahead.
+
+Doctor: On a scale of 0 to 3, with 0 being not at all and 3 being nearly every day, how often have you been feeling down, depressed, or hopeless?
+
+Patient: I'd say 2.
+
+Doctor: And how often have you been feeling tired or having little energy?
+
+Patient: 3.
+
+Doctor: Okay. On a scale of 0 to 6, with 0 being not at all and 6 being nearly every day, how often have you been having trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I'd say 4.
+
+Doctor: And on that same scale, how often have you been feeling bad about yourself, feeling like a failure, or feeling like you've let yourself or your family down?
+
+Patient: 3.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression, but they are not severe enough to warrant a diagnosis. However, I would still like to monitor your symptoms and see you back in a few weeks to see if there have been any changes.
+
+Patient: Okay, thank you.

@@ -1,0 +1,31 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Honestly, I've been feeling pretty down. It's been hard for me to find joy in things that I used to enjoy doing.
+
+Doctor: Can you give me an example of something that used to bring you joy that doesn't anymore?
+
+Patient: Well, I used to love going out with friends, but now I just don't feel like it. Even when I do go out, I don't have fun like I used to.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I've lost my appetite. I just don't feel hungry anymore.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that. I just feel really sad all the time.
+
+Doctor: Have you experienced any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, I just feel like nothing I do matters. I don't feel like I'm worth anything.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Definitely. I can't seem to focus on anything for very long, and even small decisions feel overwhelming.
+
+Doctor: Have you experienced any physical symptoms like fatigue or aches and pains?
+
+Patient: Yeah, I've been feeling really tired all the time, and I've had headaches and muscle aches.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to refer you to a therapist who can help you work through these feelings and develop coping strategies. Would you be open to that?
+
+Patient: Yes, I think that would be helpful. Thank you for taking the time to talk to me.

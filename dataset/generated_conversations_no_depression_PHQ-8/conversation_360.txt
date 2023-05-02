@@ -1,0 +1,41 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Yeah, I've just been feeling really down. Like nothing seems to make me happy anymore.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've noticed that I haven't been eating as much as I used to and I've been having trouble sleeping at night.
+
+Doctor: Have you been feeling tired or fatigued during the day?
+
+Patient: Yeah, I've been feeling really tired all the time, even when I get a good night's sleep.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I've been feeling like nothing I do really matters and that I'm just a burden on everyone around me.
+
+Doctor: Have you been having any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Can you tell me a little bit about your personal life? Are you currently working or in school?
+
+Patient: Yeah, I'm working full-time right now.
+
+Doctor: Have you noticed any impact on your work performance or daily functioning due to how you've been feeling?
+
+Patient: Yeah, it's been really hard to focus on my work and I've been making a lot of mistakes.
+
+Doctor: Based on your symptoms, it seems like you may be experiencing some symptoms of depression. However, it's important to note that depression is a clinical diagnosis and requires a more thorough evaluation. Would you be open to scheduling a follow-up appointment to discuss this further?
+
+Patient: Yes, I would be open to that.
+
+Doctor: Great, I will schedule a follow-up appointment for you. In the meantime, I would recommend trying to get some exercise and spending time with loved ones to help improve your mood. And if you ever feel like you're in crisis or need immediate help, please don't hesitate to reach out to a crisis hotline or go to the nearest emergency room.

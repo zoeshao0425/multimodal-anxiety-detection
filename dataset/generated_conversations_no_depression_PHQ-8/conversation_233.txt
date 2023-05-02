@@ -1,0 +1,31 @@
+Doctor: So, tell me a little bit about how you've been feeling lately.
+
+Patient: Well, I've been feeling really down and unmotivated. I don't really enjoy doing things that I used to love, like going out with friends or working on my hobbies.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I haven't really had much of an appetite. I've lost some weight because of it.
+
+Doctor: Have you noticed any changes in your energy levels or ability to concentrate?
+
+Patient: Yeah, I've been feeling really tired all the time, and I have trouble focusing on tasks at work.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is pointless.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, let's talk a little bit about your personal background. Have you experienced any major life changes or stressful events recently?
+
+Patient: Not really, things have been pretty stable in my life.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, since you haven't had any thoughts of self-harm or suicide, I don't think it's severe enough to warrant medication or hospitalization. I would recommend trying therapy or counseling to help you work through these feelings and develop coping strategies.
+
+Patient: Thank you, doctor. That sounds like a good idea.

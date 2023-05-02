@@ -1,0 +1,33 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any symptoms of depression?
+
+Patient: Yeah, I've been feeling pretty down lately. I just don't have any motivation to do anything anymore.
+
+Doctor: Okay, can you tell me more about that? Have you noticed any changes in your sleep patterns or appetite?
+
+Patient: Yeah, I've been having trouble sleeping at night. And I've lost my appetite too. Food just doesn't taste good anymore.
+
+Doctor: How long has this been going on for?
+
+Patient: It's been a few weeks now.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I just feel really tired all the time. Even when I do manage to get some sleep, I still feel exhausted.
+
+Doctor: Have you been feeling hopeless or helpless lately?
+
+Patient: Yeah, I just feel like nothing is ever going to get better. Like there's no point in trying anymore.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a full assessment to confirm the diagnosis and determine the best course of treatment for you.
+
+Patient: Okay, thank you. What does this mean for me?
+
+Doctor: It means that we'll work together to find the right treatment plan for you, which may include therapy, medication, or a combination of both. Depression is a treatable condition, and with the right support, you can start to feel better.

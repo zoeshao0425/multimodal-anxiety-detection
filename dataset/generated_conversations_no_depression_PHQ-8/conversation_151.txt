@@ -1,0 +1,41 @@
+Doctor: Can you tell me about any feelings of depression or sadness you've been experiencing lately?
+
+Patient: Yeah, I've been feeling really down for a while now. I just don't have much energy and I feel like everything is pointless.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. I just can't seem to shake it.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less and I've lost some weight.
+
+Doctor: Have you had any trouble sleeping?
+
+Patient: Yeah, I've been having trouble falling asleep and staying asleep. I just feel restless all the time.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Have you experienced any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like everything is my fault and I'm not good enough.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I just can't seem to focus on anything and I have a hard time making even simple decisions.
+
+Doctor: Thank you for answering those questions. Based on your answers, it seems like you may be experiencing some symptoms of depression. However, it's important to note that there could be other factors contributing to your feelings, so I'd like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Okay, sure.
+
+Doctor: Can you tell me a little bit about your personal life? Are you experiencing any major stressors, such as relationship problems or financial difficulties?
+
+Patient: Actually, things have been going pretty well for me lately. I have a good job and a supportive family.
+
+Doctor: That's great to hear. Have you experienced any significant losses or changes recently, such as the loss of a loved one or a major move?
+
+Patient: No, nothing like that.
+
+Doctor: Based on our conversation, it seems like your symptoms may not be due to depression. However, I'd still like to monitor your symptoms and check in with you periodically to see how you're doing. If your symptoms worsen or you start experiencing thoughts of self-harm or suicide, please don't hesitate to reach out to me or seek emergency medical attention.

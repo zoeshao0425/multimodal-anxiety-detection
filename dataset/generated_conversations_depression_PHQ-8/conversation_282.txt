@@ -1,0 +1,37 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you experienced any of the following symptoms in the past two weeks?
+
+Patient: Okay.
+
+Doctor: Have you felt little interest or pleasure in doing things?
+
+Patient: Yes, I don't feel like doing anything these days. I used to enjoy playing video games and going out with friends, but now I don't feel like doing anything.
+
+Doctor: And have you felt down, depressed or hopeless?
+
+Patient: Yes, I feel sad all the time. I can't seem to shake it off. I've lost interest in everything.
+
+Doctor: Have you had trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: I've been having trouble falling asleep. I usually lie awake for hours before finally falling asleep. And then I wake up several times during the night.
+
+Doctor: Have you felt tired or had little energy?
+
+Patient: Yes, I feel tired all the time, even after a good night's sleep. I don't have the energy to do anything.
+
+Doctor: Have you had a poor appetite or been overeating?
+
+Patient: I haven't been eating much lately. I just don't feel hungry. I've lost some weight because of that.
+
+Doctor: Have you felt bad about yourself - that you're a failure, or have let yourself or your family down?
+
+Patient: Yes, I feel like a failure. I can't seem to do anything right. I feel like I'm letting my family down.
+
+Doctor: Have you had trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yes, I can't concentrate on anything. I used to love reading books, but now I can't even finish a chapter.
+
+Doctor: Have you had thoughts that you would be better off dead or of hurting yourself in some way?
+
+Patient: Yes, I have. I feel like I'm a burden to everyone around me. I don't see the point of living anymore.
+
+Doctor: Thank you for answering those questions. Based on your answers, it seems like you may be experiencing depression. It's important to know that depression is a medical condition and can be treated. We can talk about treatment options that may help you feel better.

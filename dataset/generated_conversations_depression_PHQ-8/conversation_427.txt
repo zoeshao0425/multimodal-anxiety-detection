@@ -1,0 +1,33 @@
+Doctor: Thank you for coming in today. I'd like to ask you a few questions to understand how you're feeling. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Yes, I have been feeling down and depressed.
+
+Doctor: Okay, can you describe that feeling a bit more? How often do you feel this way?
+
+Patient: It's been pretty constant for the past two weeks. I just feel sad and hopeless most of the time.
+
+Doctor: I see. Have you lost interest in things you used to enjoy doing?
+
+Patient: Yes, I used to love going out with friends and playing sports, but now I just don't have the energy or motivation to do anything.
+
+Doctor: That's a common symptom of depression. Have you noticed any changes in your appetite or weight recently?
+
+Patient: I've been eating less than usual and I've lost some weight.
+
+Doctor: And how about your sleep patterns? Are you having trouble falling asleep or staying asleep?
+
+Patient: Yes, I've been having trouble sleeping lately. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Okay, thank you for sharing that. Have you been feeling tired or fatigued during the day?
+
+Patient: Yes, I've been feeling exhausted even after a full night's sleep.
+
+Doctor: I understand. Have you been feeling guilty or worthless lately?
+
+Patient: Yes, I feel like everything is my fault and I'm not good enough.
+
+Doctor: Lastly, have you had any thoughts of harming yourself or ending your life?
+
+Patient: Yes, I have been having those thoughts.
+
+Doctor: I'm sorry to hear that. It sounds like you are experiencing symptoms of depression. Based on what you've shared with me, I would like to diagnose you with depression. There are treatments available that can help you feel better. Let's talk about your treatment options and make a plan moving forward.

@@ -1,0 +1,31 @@
+Doctor: Can you tell me about your mood over the past two weeks?
+
+Patient: I've been feeling pretty down. I don't enjoy doing things that used to make me happy, and I feel like I'm just going through the motions.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and I've lost a few pounds.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't fall back asleep.
+
+Doctor: Have you noticed a decrease in your energy levels?
+
+Patient: Definitely. I feel tired all the time, even when I haven't done anything physically demanding.
+
+Doctor: Have you had trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having trouble with that too. It's like my mind is foggy.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Can you tell me a bit about your personal life? Do you have any stressors or recent life events that may be contributing to your mood?
+
+Patient: Well, I recently lost my job and I've been having trouble finding a new one. That's definitely been weighing on me.
+
+Doctor: Thank you for sharing that with me. Based on your responses, it doesn't seem like you meet the criteria for a depression diagnosis. However, I would recommend seeking out some support to help manage your stress and improve your mood. Would you be open to that?
+
+Patient: Yes, I think that would be helpful. Thank you for your time.

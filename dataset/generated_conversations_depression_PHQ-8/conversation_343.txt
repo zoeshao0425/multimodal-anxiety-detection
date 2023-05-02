@@ -1,0 +1,31 @@
+Doctor: Can you tell me a little bit about what's been going on with you lately?
+
+Patient: Yeah, I've been feeling really down and hopeless lately. It's like nothing brings me joy anymore.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping lately. And I haven't been eating much at all.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel exhausted all the time. Even getting out of bed in the morning feels like a huge effort.
+
+Doctor: Have you been feeling anxious or irritable lately?
+
+Patient: Yeah, I've been feeling really anxious and on edge. And I'm easily irritated by things that wouldn't normally bother me.
+
+Doctor: Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. Just the fatigue and lack of appetite.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Well, my grandmother passed away a few months ago, but other than that, nothing major has happened.
+
+Doctor: Based on your symptoms, it sounds like you may be experiencing depression. I'd like to recommend some treatment options, including therapy and possibly medication. Would you be open to exploring these options further?
+
+Patient: Yes, I would definitely be open to exploring treatment options. Thank you for taking the time to talk to me and understand what's been going on.

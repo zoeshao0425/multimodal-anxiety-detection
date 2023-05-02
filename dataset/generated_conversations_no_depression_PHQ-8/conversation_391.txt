@@ -1,0 +1,39 @@
+Doctor: So, tell me a little bit about your symptoms. Have you been feeling down or hopeless lately?
+
+Patient: Yes, I have been feeling really down lately. It's like nothing brings me joy anymore.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I would say for the past few weeks.
+
+Doctor: Okay, and have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and I've lost a few pounds.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I'll lay in bed for hours and just can't seem to fall asleep.
+
+Doctor: Have you noticed a decrease in your energy levels or motivation?
+
+Patient: Definitely. I used to be really active and now I can barely get out of bed.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and I'm letting everyone down.
+
+Doctor: Have you had any thoughts of hurting yourself or suicidal thoughts?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Okay, thank you for answering those questions. Based on your answers, it seems like you may be experiencing some symptoms of depression. Can you tell me a little bit about your personal background and any recent life events that may be contributing to your current state?
+
+Patient: Well, I recently went through a breakup and it's been really hard for me to cope with. I also lost my job a few months ago and haven't been able to find anything since.
+
+Doctor: I see. That sounds like a lot to deal with. Have you tried any coping mechanisms or sought support from friends or family?
+
+Patient: I've been trying to exercise and spend time with friends, but it doesn't seem to help much.
+
+Doctor: Okay, well it's good that you're trying to take care of yourself. Based on our conversation, I don't believe you meet the criteria for a diagnosis of depression. However, I would recommend continuing to prioritize self-care and seeking support from loved ones or a therapist if needed.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

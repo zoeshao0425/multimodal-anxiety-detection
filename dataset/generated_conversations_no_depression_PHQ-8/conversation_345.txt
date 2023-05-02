@@ -1,0 +1,43 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed? 
+
+Patient: Yes, I have been feeling down and hopeless for a while now. I don't really find pleasure in doing things that I used to enjoy. I also have trouble sleeping at night and feel tired all the time. My appetite has decreased, and I don't eat as much as I used to. I also feel like I'm a failure and that I've let myself and my family down.
+
+Doctor: I see. How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. At first, I thought it was just stress from work, but it hasn't gone away.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Not really. Things have been pretty stable in my life.
+
+Doctor: Okay. Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: How has this been affecting your daily life? Have you been able to go to work or do your usual activities?
+
+Patient: It's been difficult to get through the day. I've been calling in sick to work more often, and I don't have the energy to do much else besides lie in bed.
+
+Doctor: I understand. Have you talked to anyone about how you're feeling, like a friend or family member?
+
+Patient: No, I haven't really told anyone. I didn't want to burden them with my problems.
+
+Doctor: I see. Well, it's important that you have someone to talk to about how you're feeling. Have you considered seeing a therapist or counselor?
+
+Patient: I haven't really thought about it, but it might be a good idea.
+
+Doctor: Okay. Based on your answers, it seems like you may be experiencing some symptoms of depression. However, I would like to do some further testing to confirm this. 
+
+Patient: Okay, that makes sense.
+
+Doctor: I'm going to give you a PHQ-8 assessment to fill out. This will give me a better understanding of the severity of your symptoms and whether or not you have depression.
+
+Patient: Alright, I'll do my best.
+
+(Several minutes pass as the patient fills out the assessment)
+
+Doctor: Based on your responses, it looks like you are not currently experiencing depression. However, it's important to keep an eye on your symptoms and seek help if they persist or worsen.
+
+Patient: That's a relief to hear. Thank you, doctor.
+
+Doctor: Of course. Remember, it's important to take care of yourself and seek help if you need it. Don't hesitate to reach out to me or a mental health professional if you ever need support.

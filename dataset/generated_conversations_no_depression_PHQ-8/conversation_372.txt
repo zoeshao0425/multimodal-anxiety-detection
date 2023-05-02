@@ -1,0 +1,29 @@
+Doctor: Hi, can you describe to me how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. Like nothing is enjoyable anymore.
+
+Doctor: Have you been experiencing a lack of interest or pleasure in doing things you normally enjoy?
+
+Patient: Yes, exactly. I used to love going out with friends and playing sports, but now I just don't feel like doing anything.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've been eating less and have lost some weight.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep at night and then I wake up really early in the morning.
+
+Doctor: Have you noticed a decrease in your energy or feeling tired all the time?
+
+Patient: Yes, I feel exhausted even when I haven't done anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that I'm letting everyone down.
+
+Doctor: Have you been having difficulty concentrating or making decisions?
+
+Patient: Yes, I can't focus on anything and it's hard for me to make even simple decisions.
+
+Doctor: Based on what you've described, it sounds like you may be experiencing symptoms of depression. However, after assessing your responses, I do not believe you meet the criteria for a diagnosis of depression. It's important to continue monitoring your symptoms and if they persist or worsen, please come back and see me.

@@ -1,0 +1,63 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? Have you been experiencing any specific symptoms?
+
+Patient: Yeah, I've been feeling really sad and hopeless. I don't enjoy things that used to make me happy anymore, and I've lost interest in a lot of activities. I've also been having trouble sleeping and I'm always tired, even when I get enough rest.
+
+Doctor: I see. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating much lately and I've lost some weight.
+
+Doctor: Okay. Have you been feeling guilty or worthless at all?
+
+Patient: Yeah, I feel like everything is my fault and I'm not good enough. I'm always criticizing myself and feeling like a failure.
+
+Doctor: I understand. Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I've been having thoughts of hurting myself and I feel like I'm a burden on everyone around me.
+
+Doctor: Thank you for being honest with me. Have you experienced any of these symptoms for more than two weeks?
+
+Patient: Yeah, it's been going on for several months now.
+
+Doctor: I see. Have you experienced any major life events or changes recently that could be contributing to your symptoms?
+
+Patient: My job has been really stressful lately and I've been having trouble with my relationship. But I've also struggled with depression in the past.
+
+Doctor: That's helpful information. Based on what you've told me, it sounds like you may be experiencing depression. I'd like to do a full assessment to get a better understanding of your symptoms and how they're impacting your daily life.
+
+Patient: Okay, that sounds good.
+
+Doctor: Great. I'm going to ask you a few more questions to help me understand your symptoms better. On a scale of 0 to 3, with 0 being not at all and 3 being nearly every day, how often have you been feeling down, depressed, or hopeless?
+
+Patient: I would say 3.
+
+Doctor: And how often have you lost interest or pleasure in things that used to make you happy?
+
+Patient: Also 3.
+
+Doctor: Okay. How often have you had trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: 3.
+
+Doctor: And how often have you felt tired or had little energy?
+
+Patient: 3.
+
+Doctor: Have you experienced any changes in appetite or weight?
+
+Patient: Yes, my appetite has decreased and I've lost weight. I would say 3.
+
+Doctor: Understood. How often have you felt guilty or worthless?
+
+Patient: 3.
+
+Doctor: And finally, how often have you had thoughts of self-harm or suicide?
+
+Patient: 3.
+
+Doctor: Thank you for answering those questions. Based on your responses, it's clear that you're experiencing significant symptoms of depression. I'm going to recommend that you start treatment, which may include therapy, medication, or a combination of both. We'll work together to develop a plan that works for you and helps you manage your symptoms. Do you have any questions or concerns?
+
+Patient: No, I just want to feel better. Thank you for your help.

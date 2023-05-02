@@ -1,0 +1,67 @@
+Doctor: So, can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't have any energy, and I feel like I'm just going through the motions of life.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. I just can't seem to shake it.
+
+Doctor: Have you noticed any changes in your appetite or sleeping habits?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I haven't been eating much lately.
+
+Doctor: Have you been experiencing any feelings of guilt or worthlessness?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough. I feel like I'm letting everyone down.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: (pauses) Yeah, I have. I don't think I would ever actually do anything, but the thoughts are there.
+
+Doctor: Okay, thank you for being honest with me. Can you tell me a little bit about your personal background? Do you have a family history of depression?
+
+Patient: Yeah, my mom has struggled with depression for as long as I can remember. And I've had some tough things happen in my life recently that have been really hard to deal with.
+
+Doctor: I see. And have you sought any treatment for your depression in the past?
+
+Patient: No, I haven't. I always thought I could handle it on my own, but it's just gotten worse.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to do a more detailed assessment to confirm the diagnosis. Would that be okay with you?
+
+Patient: Yes, that's fine.
+
+Doctor: Okay, I'm going to ask you a few more questions. On a scale of 0-3, with 0 being not at all and 3 being nearly every day, how often have you been feeling little interest or pleasure in doing things?
+
+Patient: 3.
+
+Doctor: And how often have you been feeling down, depressed, or hopeless?
+
+Patient: 3.
+
+Doctor: How often have you been having trouble falling or staying asleep, or sleeping too much?
+
+Patient: 3.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: 3.
+
+Doctor: How often have you been having poor appetite or overeating?
+
+Patient: 3.
+
+Doctor: Have you been feeling bad about yourself, or feeling like a failure, or feeling like you've let your family down?
+
+Patient: 3.
+
+Doctor: Have you been having trouble concentrating on things, such as reading the newspaper or watching TV?
+
+Patient: 3.
+
+Doctor: And finally, have you been having thoughts that you would be better off dead, or thoughts of hurting yourself in some way?
+
+Patient: 2.
+
+Doctor: Okay, based on your answers to those questions, it's clear that you are experiencing symptoms of depression. I would like to recommend that you start treatment as soon as possible. There are a variety of treatment options available, including therapy and medication. Would you be willing to explore those options with me?
+
+Patient: Yes, I would like to start treatment. Thank you for helping me understand what's going on with me.

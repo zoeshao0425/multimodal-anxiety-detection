@@ -1,0 +1,20 @@
+Doctor: So, what brings you in today?
+Patient: I’ve been feeling really down lately. I’m not sure what’s going on.
+Doctor: Okay, can you tell me a little bit more about how you’ve been feeling?
+Patient: Yeah, I just feel really sad all the time. I don’t have any energy, and I’m having trouble sleeping.
+Doctor: Have you noticed any changes in your appetite or weight?
+Patient: Yeah, I’ve been eating a lot less than usual. I’ve lost some weight because of it.
+Doctor: Okay, have you been experiencing any feelings of worthlessness or guilt?
+Patient: Yeah, I feel like I’m not good enough at anything. I’ve been really hard on myself lately.
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+Patient: No, I haven’t had any thoughts like that.
+Doctor: That’s good to hear. Have you had any difficulty concentrating or making decisions?
+Patient: Yeah, I’ve been having a lot of trouble focusing at work. I feel like I can’t think straight.
+Doctor: How long have you been feeling this way?
+Patient: It’s been going on for a few months now.
+Doctor: Okay, have you experienced anything stressful or traumatic recently that may have triggered these feelings?
+Patient: Not really. My life has been pretty normal, but I just can’t seem to shake this feeling.
+Doctor: I see. Do you have a history of depression or any other mental health conditions?
+Patient: Yeah, I was diagnosed with anxiety a few years ago. I’ve been seeing a therapist for that, but it doesn’t seem to be helping with this.
+Doctor: Okay, thank you for sharing that with me. Based on what you’ve told me, it sounds like you may be experiencing symptoms of depression. I’d like to do a more comprehensive assessment to get a better understanding of what’s going on.
+Patient: Okay, that sounds good to me.

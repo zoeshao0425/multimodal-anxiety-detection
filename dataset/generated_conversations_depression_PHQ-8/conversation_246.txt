@@ -1,0 +1,49 @@
+Doctor: So, tell me what brings you in today?
+
+Patient: I've been feeling really down lately. I don't know if it's just a phase or something more serious.
+
+Doctor: Can you describe what you mean by feeling down?
+
+Patient: It's like I don't enjoy anything anymore. Even things that used to make me happy don't bring me any joy. I feel tired all the time, and I have trouble sleeping at night. I also feel like I'm worthless and can't do anything right.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite. I hardly eat anything these days, and I've lost some weight as a result.
+
+Doctor: Have you had any thoughts of harming yourself recently?
+
+Patient: No, I haven't had any suicidal thoughts. But I do feel like life isn't worth living sometimes.
+
+Doctor: Have you experienced any physical symptoms like headaches, stomachaches, or muscle pain?
+
+Patient: Not really. Just feeling tired and run down all the time.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: Yes, I've had a few episodes of depression in the past.
+
+Doctor: Do you have a family history of depression?
+
+Patient: Yes, my mother has struggled with depression for most of her life.
+
+Doctor: Thank you for sharing that information with me. Based on what you've told me, it sounds like you may be experiencing depression again. I'd like to do a full assessment to get a better understanding of your symptoms and how they're impacting your daily life. 
+
+Patient: Okay, that sounds good.
+
+Doctor: I'm going to give you a questionnaire called the PHQ-8. It asks about some of the symptoms you've described and will help me determine the severity of your depression. 
+
+(Patient completes the PHQ-8 questionnaire)
+
+Doctor: Based on your responses, it appears that you have moderate depression. I recommend that we start treatment as soon as possible to help alleviate your symptoms.
+
+Patient: What kind of treatment do you recommend?
+
+Doctor: There are several options for treating depression, including therapy and medication. I'd like to refer you to a therapist who can help you work through some of the issues you're experiencing. We can also consider medication if needed.
+
+Patient: Okay, thank you for your help.
+
+Doctor: Of course. Remember, depression is a treatable illness, and there's no shame in seeking help. I'm here to support you throughout your journey to recovery.

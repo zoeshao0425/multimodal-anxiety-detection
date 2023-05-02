@@ -1,0 +1,33 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed or hopeless, trouble falling asleep, staying asleep or sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure, trouble concentrating on things such as reading the newspaper or watching TV?
+
+Patient: Well, I have been feeling down and hopeless for some time now. I don't find pleasure in doing things that I used to enjoy, and I find it hard to sleep at night. I wake up feeling tired and have no energy to do anything. I have also lost my appetite and find myself eating very little.
+
+Doctor: How long have you been feeling this way?
+
+Patient: For about two months now.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Yes, I lost my job a few months ago, and I have been struggling to find another one. I also lost a close family member around the same time, which has been really hard for me.
+
+Doctor: I see. Have you noticed any changes in your mood or behavior?
+
+Patient: Yes, I have been feeling more irritable than usual, and I find myself isolating from friends and family. I just don't feel like being around anyone.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts of harming myself or others.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. However, I would like to ask a few more questions to determine the severity of your symptoms. 
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: feeling down, depressed, or hopeless; little interest or pleasure in doing things; trouble falling or staying asleep, or sleeping too much; feeling tired or having little energy; poor appetite or overeating; feeling bad about yourself - or that you are a failure or have let yourself or your family down; trouble concentrating on things such as reading the newspaper or watching TV?
+
+Patient: I would say I have been bothered by most of these problems every day for the past two weeks.
+
+Doctor: Okay, based on your answers and the PHQ-8 assessment, it seems like you may be experiencing moderate to severe depression. However, I would like to refer you to a mental health specialist who can provide you with a more accurate diagnosis and treatment options.
+
+Patient: Okay, thank you for your help.
+
+Doctor: You're welcome. Remember that depression is a treatable condition, and there is help available. Don't hesitate to reach out if you need anything.

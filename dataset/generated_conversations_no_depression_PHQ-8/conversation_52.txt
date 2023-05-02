@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little bit about your mood lately? Have you been feeling down or depressed?
+
+Patient: Yeah, I have been feeling really down lately. I just don't have any motivation to do anything and I feel really sad all the time.
+
+Doctor: Okay, have you experienced any loss of interest in things that you used to enjoy doing?
+
+Patient: Yeah, I used to love playing basketball with my friends but now I just don't feel like doing it anymore.
+
+Doctor: Have you had any trouble sleeping or sleeping too much lately?
+
+Patient: I've been having trouble sleeping. I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: I haven't been eating as much as I used to and I've lost some weight.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yeah, I've been feeling really tired all the time. Even when I get enough sleep, I still feel exhausted.
+
+Doctor: Have you had any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like I'm not good enough and that I'm letting everyone down.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, based on your answers, it seems like you may be experiencing some symptoms of depression. However, I also want to ask if there have been any recent changes or stressors in your life that could be contributing to how you're feeling?
+
+Patient: Well, I recently lost my job and my girlfriend broke up with me, so I guess those things could be contributing to it.
+
+Doctor: That makes sense. It's important to remember that depression can be caused by a combination of biological, environmental, and psychological factors. However, based on your answers, it doesn't seem like your symptoms are severe enough to warrant a diagnosis of clinical depression. I would recommend trying to engage in activities that you used to enjoy, getting regular exercise, and seeking support from friends and family. If your symptoms persist or worsen, please come back and see me.

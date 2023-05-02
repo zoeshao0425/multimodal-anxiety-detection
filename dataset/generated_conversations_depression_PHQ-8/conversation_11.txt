@@ -1,0 +1,41 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: Okay, I understand. Can you tell me more about the sadness you're experiencing? How often do you feel this way?
+
+Patient: It's pretty much every day. I wake up feeling sad and it stays with me throughout the day.
+
+Doctor: And how long has this been going on for?
+
+Patient: About a month now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I've lost my appetite. I just don't feel like eating.
+
+Doctor: Have you experienced any loss of interest in activities that you used to enjoy?
+
+Patient: Yeah, I used to love playing soccer, but lately I just don't have the motivation to do it anymore.
+
+Doctor: Do you find yourself feeling tired or fatigued often?
+
+Patient: Yeah, I feel exhausted all the time. Even when I get enough sleep, I still feel tired.
+
+Doctor: Have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: (pauses) Yeah, I have. I don't know why, but sometimes I just feel like giving up.
+
+Doctor: Okay, thank you for being honest with me. Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything is my fault and I'm not good enough.
+
+Doctor: Alright, thank you for answering those questions. Based on your responses, it seems like you may be experiencing symptoms of depression. I'd like to diagnose you with depression and discuss treatment options with you.
+
+Patient: (sighs) I was afraid of that. What kind of treatment options are there?
+
+Doctor: There are a few different options we can explore, including therapy, medication, or a combination of both. We can discuss which option would be best for you based on your personal preferences and medical history.
+
+Patient: Okay, thank you. I just want to feel better.
+
+Doctor: I understand, and we'll work together to find the best treatment plan for you. In the meantime, please know that you're not alone and there is help available.

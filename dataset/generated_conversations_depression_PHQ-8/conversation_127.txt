@@ -1,0 +1,40 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I just can't seem to shake this feeling of sadness and hopelessness.
+
+Doctor: I see. Have you been experiencing any other symptoms?
+
+Patient: Yes, I've been having trouble sleeping. I either can't fall asleep or wake up in the middle of the night and can't go back to sleep. I've also lost my appetite and have no energy.
+
+Doctor: Okay. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced these symptoms before?
+
+Patient: Yes, I have. I've had episodes of depression in the past.
+
+Doctor: Can you tell me a little bit about your personal background? Do you have any family history of depression or mental illness?
+
+Patient: Yes, my mother has struggled with depression for most of her life. And my grandfather on my father's side also had depression.
+
+Doctor: I see. Have you noticed any triggers or stressors that may have contributed to your current symptoms?
+
+Patient: Well, work has been really stressful lately. And I've been having some relationship issues with my partner.
+
+Doctor: Okay, thank you for sharing that. Now, I'm going to ask you a few questions from the PHQ-8 assessment to better understand your symptoms. On a scale of 0-3, with 0 being "not at all" and 3 being "nearly every day," how often have you been bothered by the following symptoms in the past two weeks:
+
+1. Little interest or pleasure in doing things?
+2. Feeling down, depressed, or hopeless?
+3. Trouble falling or staying asleep, or sleeping too much?
+4. Feeling tired or having little energy?
+5. Poor appetite or overeating?
+6. Feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+7. Trouble concentrating on things, such as reading the newspaper or watching television?
+8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: (answers the questions)
+
+Doctor: Based on your responses, it appears that you are experiencing symptoms consistent with depression. I would like to recommend a treatment plan for you that may include therapy and medication. Does that sound okay to you?
+
+Patient: Yes, that sounds good. Thank you for your help.

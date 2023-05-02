@@ -1,0 +1,37 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Yeah, I've been feeling really down and sad. It's been hard to find joy in anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: I'd say it's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I haven't really been eating much lately. I've lost a few pounds.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble falling asleep at night and then I end up sleeping in late in the morning.
+
+Doctor: Have you had any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like I'm not good enough and I'm letting everyone down.
+
+Doctor: Have you had any difficulty concentrating or making decisions?
+
+Patient: Yeah, it's been really hard to focus on anything lately.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any of those thoughts.
+
+Doctor: Based on your responses, it seems like you may be experiencing some symptoms of depression. However, it's important to note that depression is a complex condition and requires a thorough evaluation by a mental health professional. 
+
+Patient: Okay, thank you for letting me know. 
+
+Doctor: I would recommend that you schedule an appointment with a therapist or psychiatrist to discuss your symptoms in more detail. In the meantime, it might be helpful to engage in activities that bring you joy and connect with supportive friends and family members. 
+
+Patient: That sounds like a good idea. Thank you for your help. 
+
+Doctor: Of course, please don't hesitate to reach out if you have any further questions or concerns.

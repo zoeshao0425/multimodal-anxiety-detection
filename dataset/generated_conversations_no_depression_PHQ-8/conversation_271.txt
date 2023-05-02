@@ -1,0 +1,35 @@
+Doctor: So, can you tell me a little bit about why you're here today?
+
+Patient: Yeah, I've been feeling really down lately. Like, it's hard to get out of bed in the morning and I just don't feel like doing anything.
+
+Doctor: Okay, that's definitely something we can look into. Have you noticed any other symptoms besides feeling down?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I've been losing my appetite too.
+
+Doctor: Alright, those are all common symptoms of depression. Have you experienced any changes in your weight or energy levels?
+
+Patient: Yeah, I've lost a few pounds and I just feel really tired all the time.
+
+Doctor: Okay, and have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, it's been harder to focus on things and I feel like I'm not as productive as I used to be.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any thoughts of hopelessness or worthlessness?
+
+Patient: No, not really. I just feel like I'm in a slump and I can't get out of it.
+
+Doctor: Alright, that's good to know. Can you tell me a little bit about your personal life? Are there any major stressors or changes that could be contributing to how you're feeling?
+
+Patient: Well, my job has been really stressful lately and I'm going through a breakup, so that's been tough.
+
+Doctor: I see. Those are definitely difficult things to deal with. Have you talked to anyone about how you're feeling or sought any help before?
+
+Patient: No, I haven't really talked to anyone about it. I just thought it would pass.
+
+Doctor: I understand. Well, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I'm going to give you a PHQ-8 assessment to fill out just to get a better idea of how severe your symptoms are.
+
+(Patient fills out the PHQ-8 assessment)
+
+Doctor: Okay, based on your answers, it looks like you're not actually experiencing depression. It's possible that your current stressors are just causing temporary feelings of sadness and fatigue. However, if you continue to experience these symptoms or they worsen, please don't hesitate to come back and see me.
+
+Patient: Thank you, doctor. I appreciate your help.

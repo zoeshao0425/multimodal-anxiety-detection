@@ -1,0 +1,67 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and unmotivated. I don't have much interest in things that used to make me happy, like spending time with friends or pursuing hobbies.
+
+Doctor: Have you been experiencing any physical symptoms, like changes in appetite or sleep patterns?
+
+Patient: Yeah, actually. I've been having trouble sleeping and I've lost my appetite. I've also been feeling really fatigued and run down.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. At first, I thought it was just a phase, but it hasn't gone away.
+
+Doctor: Have you noticed any changes in your mood, like feeling more irritable or easily frustrated?
+
+Patient: Definitely. I've been getting really short tempered with people, even over small things. It's not like me at all.
+
+Doctor: Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I'm not sure I'd go that far, but I do feel pretty hopeless about things.
+
+Doctor: Have you experienced any significant life events or stressors recently that might be contributing to these feelings?
+
+Patient: Well, I did lose my job a few months ago and I've been struggling to find work since then. It's been really stressful and I've been feeling pretty down about it.
+
+Doctor: Have you ever experienced these types of feelings before?
+
+Patient: Not to this extent, no. I've had periods of feeling a bit blue, but nothing like this.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I'd like to run through a few more questions to get a better sense of how severe your symptoms are.
+
+Patient: Okay, sure.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes.
+
+Doctor: Have you had little interest or pleasure in doing things?
+
+Patient: Yes.
+
+Doctor: Have you experienced trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: Yes.
+
+Doctor: Have you felt tired or had little energy?
+
+Patient: Yes.
+
+Doctor: Have you experienced a poor appetite or overeating?
+
+Patient: Yes, poor appetite.
+
+Doctor: Have you felt bad about yourself or that you are a failure or have let yourself or your family down?
+
+Patient: Yes.
+
+Doctor: Have you had trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Yes.
+
+Doctor: Based on your answers, it seems like you are experiencing some symptoms of depression. However, I don't think your symptoms are severe enough to warrant a diagnosis of Major Depressive Disorder at this time. 
+
+Patient: Oh, okay. That's a relief to hear.
+
+Doctor: That being said, I think it would be a good idea for you to continue monitoring your symptoms and seeking support from loved ones or a mental health professional if they persist or worsen. There are also some lifestyle changes you can make that may help, like exercise, getting enough sleep, and eating a healthy diet.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

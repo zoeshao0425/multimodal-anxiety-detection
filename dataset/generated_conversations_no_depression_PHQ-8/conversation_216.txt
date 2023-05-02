@@ -1,0 +1,35 @@
+Doctor: So, can you tell me about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I've lost interest in things that I used to enjoy, like going out with friends or watching movies. I just don't feel motivated to do anything.
+
+Doctor: Have you been experiencing any changes in your appetite or sleep patterns?
+
+Patient: Yes, actually. I've been sleeping a lot more than usual, and I've been eating a lot less. I just don't have an appetite anymore.
+
+Doctor: Have you noticed any changes in your energy level or ability to concentrate?
+
+Patient: Yes, I've been feeling really tired all the time, even after getting a lot of sleep. And I've been having trouble focusing at work, which is unusual for me.
+
+Doctor: Have you been feeling hopeless or worthless at all?
+
+Patient: Yeah, I've been feeling really down on myself lately. I feel like I'm not good enough and that nothing I do really matters.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I just feel really down and unmotivated.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a little bit about your personal background? Do you have any history of depression or other mental health issues in your family?
+
+Patient: No, not that I know of. I've never really struggled with depression before, but lately, it's just been really hard to shake this feeling of sadness.
+
+Doctor: Have you experienced any major life changes or stressors recently that could be contributing to these feelings?
+
+Patient: Well, my job has been really stressful lately, and I've been having some problems in my personal life too. But I don't think those things are causing me to feel this way. It just feels like something deeper than that.
+
+Doctor: Okay, based on what you've shared with me, it sounds like you may be experiencing symptoms of depression. However, I'd like to do a more thorough assessment to get a better understanding of your condition. 
+
+(Patient completes PHQ-8 assessment)
+
+Doctor: Based on your responses, it doesn't appear that you meet the criteria for a diagnosis of depression at this time. However, I would still recommend that you continue to monitor your symptoms and seek help if they persist or worsen. There are also some lifestyle changes that you can make, such as getting regular exercise, eating a healthy diet, and practicing stress-reduction techniques, that may help improve your mood. 
+
+Patient: Okay, thank you for your help. I'll definitely keep an eye on how I'm feeling and try to make some positive changes in my life.

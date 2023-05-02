@@ -1,0 +1,25 @@
+Doctor: Hello, how have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? How long have you been feeling this way?
+
+Patient: It's been going on for a few months now. I just feel really sad all the time, even when there's nothing specific that's bothering me. I don't enjoy things that I used to like doing, and I have trouble sleeping at night.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual. I just don't have much of an appetite anymore.
+
+Doctor: Okay, and have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, nothing like that. I just feel really hopeless and like things will never get better.
+
+Doctor: Have you had trouble concentrating or making decisions?
+
+Patient: Yeah, definitely. I have trouble focusing on anything for very long, and I feel like I can't make decisions about anything.
+
+Doctor: Have you noticed any physical symptoms like headaches or body aches?
+
+Patient: Not really, no.
+
+Doctor: Okay, thank you for answering those questions. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. There are many different treatments available, including therapy and medication. I'd like to refer you to a mental health specialist who can help you manage your symptoms and improve your quality of life.

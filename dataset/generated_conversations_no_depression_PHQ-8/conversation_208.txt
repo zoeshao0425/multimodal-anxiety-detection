@@ -1,0 +1,37 @@
+Doctor: I understand you're here to discuss your symptoms of depression. Can you tell me more about what you've been experiencing?
+
+Patient: Yes, I've been feeling really down lately. I don't have much energy and I'm not interested in doing things that I used to enjoy.
+
+Doctor: When did you first start feeling this way?
+
+Patient: It's been going on for a few weeks now. I noticed that I was feeling more tired than usual and didn't want to do anything after work. Then it just got worse and I started feeling sad all the time.
+
+Doctor: Have you experienced any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been eating less and having trouble sleeping at night. I wake up early in the morning and can't fall back asleep.
+
+Doctor: Have you noticed any physical symptoms like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms. It's mostly just the constant sadness and lack of energy.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Not really, my life has been pretty stable. I have a good job and a supportive family.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt this way.
+
+Doctor: Based on your responses, it seems like you may be experiencing some symptoms of depression. However, it's important to note that there are other medical conditions that can cause similar symptoms. I'd like to run some tests to rule out any underlying health issues. 
+
+Patient: Okay, that makes sense.
+
+Doctor: In the meantime, I recommend seeking support from friends and family and practicing self-care activities like exercise and meditation. We can also discuss therapy or medication options if necessary. 
+
+Patient: Thank you, I appreciate your help. 
+
+Doctor: Of course, we'll work together to find the best treatment plan for you.

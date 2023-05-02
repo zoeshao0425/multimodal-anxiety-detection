@@ -1,0 +1,29 @@
+Doctor: So, can you tell me a little bit about what's been going on lately? How have you been feeling?
+
+Patient: Honestly, I've been feeling pretty down. I've been having trouble sleeping, and I don't feel like doing anything. I just feel really tired all the time.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yeah, I've noticed that I haven't been eating as much as I used to. And I've lost some weight because of it.
+
+Doctor: Okay. Have you been feeling sad or hopeless lately?
+
+Patient: Yeah, I have. I just feel like nothing is going right in my life, and I don't see things getting any better.
+
+Doctor: Have you been feeling guilty or worthless at all?
+
+Patient: Yeah, actually. I've been feeling like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I have. I've been having trouble focusing on anything and making even simple decisions has been really difficult.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for letting me know. Can you tell me a little bit about your personal life? Are there any stressors or major life changes that might be contributing to how you're feeling?
+
+Patient: Well, my job has been really stressful lately. And I've been having some problems with my family that have been weighing on me.
+
+Doctor: I see. Well, based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I don't think it's severe enough to warrant a diagnosis. I would recommend trying to manage your stress levels and seeking support from loved ones or a therapist if needed.

@@ -1,0 +1,23 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed? 
+
+Patient: Well, I have been feeling down and hopeless for a while now. I don't find pleasure in doing things that I used to enjoy. I've been having trouble sleeping and I feel tired all the time. I also have no appetite and have lost weight. I feel like a failure and that I have let my family down. I have trouble concentrating and sometimes I feel like I'm moving in slow motion.
+
+Doctor: I see. How long have you been experiencing these symptoms?
+
+Patient: It's been going on for about two months now.
+
+Doctor: Have you ever experienced these types of symptoms before?
+
+Patient: Yes, I have had depression in the past.
+
+Doctor: Okay. Can you tell me a little bit about your personal life? Are there any significant stressors or life events that may have triggered these symptoms?
+
+Patient: Well, I recently lost my job and have been struggling to find a new one. I've also been having some relationship issues with my partner.
+
+Doctor: I understand. Have you been able to talk to anyone about these issues?
+
+Patient: Not really. I don't have many close friends or family members that I feel comfortable talking to.
+
+Doctor: Okay. It sounds like you may be experiencing depression again. However, based on your responses to the PHQ-8 assessment, your symptoms do not meet the criteria for a major depressive disorder. I would recommend that you continue to monitor your symptoms and consider seeking therapy to help you cope with the stressors in your life. Additionally, there are some lifestyle changes that may be helpful such as exercise, eating a healthy diet, and getting enough sleep. 
+
+Patient: Thank you, Doctor. I appreciate your help and advice.

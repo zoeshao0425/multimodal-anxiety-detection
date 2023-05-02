@@ -1,0 +1,31 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I just can't seem to shake this feeling of sadness.
+
+Doctor: I see. Can you tell me more about how long you've been feeling this way?
+
+Patient: It's been about a month or so now. At first, I thought it was just a bad mood, but it's been getting worse.
+
+Doctor: I understand. Have you experienced any other symptoms besides feeling sad?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. I've also lost my appetite and don't have much energy.
+
+Doctor: Okay, those are all common symptoms of depression. Have you noticed any changes in your weight?
+
+Patient: Yeah, I've lost a few pounds in the past month.
+
+Doctor: Alright, and have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: That's good to hear. Can you tell me a bit about your personal background? Have you experienced any major life events or stressors recently?
+
+Patient: Well, my dog passed away a few months ago, and I've been struggling with that. But other than that, nothing too major has happened.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. On a scale of 0-3, how often have you experienced the following symptoms in the past two weeks: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or feeling like a failure, trouble concentrating on things such as reading the newspaper or watching television, and moving or speaking so slowly that other people could have noticed?
+
+Patient: I would say I've experienced most of those symptoms about half the time, so maybe a 1 or 2 on the scale.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it doesn't seem like you meet the criteria for a diagnosis of depression at this time. However, I would still recommend that you take care of yourself and try to engage in activities that bring you joy. If your symptoms persist or worsen, please don't hesitate to reach out to me or another healthcare provider.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

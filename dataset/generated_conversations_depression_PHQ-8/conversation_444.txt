@@ -1,0 +1,49 @@
+Doctor: Can you tell me how often you have been bothered by any of the following problems over the last two weeks? 
+
+Patient: Sure, I can try. 
+
+Doctor: Have you been feeling down, depressed, or hopeless? 
+
+Patient: Yes, I have been feeling very down lately. I feel like nothing is going right in my life and that everything is pointless. 
+
+Doctor: Have you lost interest or pleasure in doing things you used to enjoy? 
+
+Patient: Yes, I used to enjoy playing basketball with my friends, but now I don't feel like doing anything. I just want to stay in bed all day. 
+
+Doctor: Have you been having trouble falling asleep or staying asleep, or have you been sleeping too much? 
+
+Patient: I have been having trouble falling asleep. I stay up late at night thinking about everything that's going wrong in my life. 
+
+Doctor: Have you been feeling tired or having little energy? 
+
+Patient: Yes, I feel tired all the time. Even when I wake up in the morning, I don't feel rested. 
+
+Doctor: Have you been having trouble with your appetite, such as eating too much or too little? 
+
+Patient: I have been eating less than usual. I don't feel hungry most of the time, and when I do eat, I don't enjoy it. 
+
+Doctor: Have you been feeling bad about yourself – that you are a failure or have let yourself or your family down? 
+
+Patient: Yes, I feel like I am a failure. I haven't achieved anything in my life, and I feel like I have let my family down. 
+
+Doctor: Have you been having trouble concentrating on things, such as reading the newspaper or watching television? 
+
+Patient: Yes, I find it hard to concentrate on anything. I can't even watch TV for more than a few minutes without getting distracted. 
+
+Doctor: Have you been thinking that you would be better off dead or hurting yourself in some way? 
+
+Patient: Yes, I have been thinking about suicide. I feel like there is no way out of my problems, and sometimes I think that ending my life is the only solution. 
+
+Doctor: Based on your answers, it seems like you are experiencing symptoms of depression. 
+
+Patient: What does that mean? 
+
+Doctor: Depression is a mental health condition that affects your mood, thoughts, and behavior. It can make you feel sad, hopeless, and helpless. It can also cause physical symptoms such as fatigue, sleep problems, and changes in appetite. 
+
+Patient: What can I do to feel better? 
+
+Doctor: There are several treatments available for depression, including medication, therapy, and lifestyle changes. I would recommend that you start by talking to a therapist who can help you work through your feelings and develop coping strategies. We can also discuss medication options if necessary. 
+
+Patient: Thank you, doctor. I appreciate your help. 
+
+Doctor: You're welcome. Remember that depression is a treatable condition, and with the right treatment, you can start feeling better soon.

@@ -1,0 +1,39 @@
+Doctor: So, let's start by talking about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down and hopeless for quite some time now. I just don't seem to enjoy anything anymore.
+
+Doctor: Okay, how often do you feel this way?
+
+Patient: It's almost every day. I wake up feeling low, and it stays with me throughout the day.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I have lost my appetite, and as a result, I've lost some weight.
+
+Doctor: That's understandable. Do you have trouble falling asleep or staying asleep?
+
+Patient: Yes, I have difficulty sleeping. I wake up several times during the night and can't go back to sleep.
+
+Doctor: How about feeling tired or having little energy?
+
+Patient: Yes, I feel exhausted all the time. Even getting out of bed seems like a task.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I find it hard to focus on anything, and making even small decisions seems overwhelming.
+
+Doctor: And have you had any thoughts of harming yourself or suicidal ideation?
+
+Patient: Yes, I have thought about ending my life many times. It feels like the only way out of this misery.
+
+Doctor: I'm sorry to hear that. Can you tell me a little bit about what's been going on in your life lately?
+
+Patient: Well, I lost my job a few months ago, and since then, I've been struggling to make ends meet. My relationship with my partner has also been strained, and we've been arguing a lot.
+
+Doctor: I see. It sounds like you're going through a tough time. Based on what you've told me, it seems like you're experiencing symptoms of depression. I would like to explore some treatment options with you.
+
+Patient: Okay, that sounds good. I just want to feel better.
+
+Doctor: Great. There are several treatment options available, including therapy and medication. I would recommend a combination of both for your case. We can also discuss lifestyle changes that may help alleviate your symptoms.
+
+Patient: Thank you, doctor. I appreciate your help.

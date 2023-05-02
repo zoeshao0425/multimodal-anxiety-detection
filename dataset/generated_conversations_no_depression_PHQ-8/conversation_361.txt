@@ -1,0 +1,29 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about how you're feeling?
+
+Patient: I just feel really sad all the time, and I don't enjoy things that I used to. I'm having trouble sleeping and I have no energy.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and I've lost some weight recently.
+
+Doctor: Do you ever have thoughts of hurting yourself or suicide?
+
+Patient: No, I don't have any suicidal thoughts.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing at work and making even simple decisions has been difficult.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any trauma or major life changes recently?
+
+Patient: Not really, things have been pretty stable in my life.
+
+Doctor: Based on your responses, it doesn't seem like you meet the criteria for depression according to the PHQ-8 assessment. However, I would recommend talking to a therapist or counselor about your feelings and experiences to help improve your mental health.

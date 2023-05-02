@@ -1,0 +1,29 @@
+Doctor: So, let's talk about your symptoms. Have you been feeling down, depressed, or hopeless recently?
+
+Patient: Honestly, yes. I've been feeling really down for the past few weeks.
+
+Doctor: Can you describe what it feels like to be down?
+
+Patient: It's hard to explain. I just feel sad and empty most of the time. I don't really enjoy things that I used to love, and I don't have much energy.
+
+Doctor: Do you have trouble falling asleep or staying asleep? Or do you sleep too much?
+
+Patient: I've been having trouble sleeping. I toss and turn all night, and I wake up feeling tired.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite. I don't really feel like eating, and when I do eat, I don't enjoy it. I've lost a few pounds over the past few weeks.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, definitely. I feel like I can't focus on anything for more than a few minutes, and I struggle to make even simple decisions.
+
+Doctor: Have you had thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts of hurting myself or anyone else.
+
+Doctor: That's good to hear. Can you tell me a little bit about your personal life? Are there any stressful events or changes happening right now?
+
+Patient: Well, I just started a new job a few months ago, and it's been pretty stressful. I'm still trying to adjust to the workload and the new environment. And my relationship with my partner has been a bit rocky lately.
+
+Doctor: I see. It sounds like you're going through a lot of changes and stressors right now. Based on your answers, you score a 6 out of 24 on the PHQ-8 assessment, which is below the threshold for depression. However, I want to make sure we keep an eye on your symptoms and check in again in a few weeks to see how you're doing. In the meantime, I recommend finding ways to manage stress and taking care of yourself, such as getting enough sleep, eating well, and engaging in activities you enjoy.

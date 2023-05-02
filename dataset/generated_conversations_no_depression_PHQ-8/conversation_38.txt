@@ -1,0 +1,71 @@
+Doctor: Hi, can you tell me what brings you in today?
+
+Patient: I've been feeling really down lately. I'm not sure what's wrong with me.
+
+Doctor: Okay, can you describe your feelings of being down? Do you feel sad or hopeless?
+
+Patient: Yeah, I feel really sad all the time. I don't enjoy things I used to like doing, and I don't have any energy.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been about two weeks now.
+
+Doctor: Have you experienced any changes in appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I don't really feel like eating.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, it's been really hard for me to focus on anything. I feel like I can't think straight.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Okay, thank you for sharing that. Can you tell me a little bit about your personal life? Are there any stressors or major life changes that may be contributing to your feelings?
+
+Patient: Well, I recently lost my job, and I'm having trouble finding a new one. That's been really stressful for me.
+
+Doctor: I see. Losing a job can definitely be a difficult experience. Have you talked to anyone about how you're feeling?
+
+Patient: Not really. I don't really have anyone to talk to about this.
+
+Doctor: Okay. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'd like to do a quick assessment to get a better idea of how severe your symptoms are.
+
+Patient: Okay, that sounds good.
+
+Doctor: I'm going to ask you eight questions. For each question, please answer based on how often you've experienced that symptom in the past two weeks. The first question is: little interest or pleasure in doing things?
+
+Patient: Definitely. I've had no interest in anything lately.
+
+Doctor: Okay, the second question is: feeling down, depressed, or hopeless?
+
+Patient: Yes, all the time.
+
+Doctor: The third question is: trouble falling or staying asleep, or sleeping too much?
+
+Patient: Sleeping too much.
+
+Doctor: The fourth question is: feeling tired or having little energy?
+
+Patient: Yes, I feel exhausted all the time.
+
+Doctor: The fifth question is: poor appetite or overeating?
+
+Patient: Poor appetite.
+
+Doctor: The sixth question is: feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Yeah, I feel like a failure.
+
+Doctor: The seventh question is: trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: Definitely. I can't focus on anything.
+
+Doctor: Okay, and the last question is: moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I've been moving slowly.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, your score is not high enough to diagnose you with major depression. It's possible that you're experiencing a milder form of depression called dysthymia. I recommend that you make an appointment with a therapist to discuss your symptoms further and develop a treatment plan.
+
+Patient: Okay, thank you for your help.

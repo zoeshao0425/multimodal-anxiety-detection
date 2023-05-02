@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about how you're feeling?
+
+Patient: Yeah, I just feel really sad all the time. I don't enjoy things that I used to like doing, and I'm having trouble sleeping at night.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual and I've lost some weight.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling like I'm not good enough and that everything is my fault.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having trouble focusing on anything and I feel like I can't make even simple decisions.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I've been feeling really exhausted all the time, even when I haven't done much.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. Can you tell me more about what's been going on in your life recently?
+
+Patient: Well, I've been going through a lot of stress at work and I've also had some family issues that have been weighing on me.
+
+Doctor: It's understandable that those things would be causing you stress and impacting your mood. However, based on your answers, I don't think you meet the criteria for a diagnosis of depression. It sounds like you're experiencing a reaction to stress, which is a normal response. I would recommend focusing on self-care, such as getting enough sleep, eating well, and engaging in activities that you enjoy. Additionally, it might be helpful to talk to a therapist or counselor about your stressors and how to manage them.

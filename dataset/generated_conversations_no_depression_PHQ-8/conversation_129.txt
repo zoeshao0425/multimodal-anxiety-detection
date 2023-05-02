@@ -1,0 +1,35 @@
+Doctor: Thank you for coming in today. I understand that you have been experiencing some symptoms related to depression. Can you tell me more about what you have been feeling?
+
+Patient: Yes, I have been feeling really down lately. I don't feel like doing anything and I have no energy. I have trouble sleeping and I haven't been eating much.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I have lost a few pounds because I haven't been eating much. I just don't feel hungry.
+
+Doctor: Okay. Have you noticed any changes in your mood or behavior? Do you find yourself feeling sad or hopeless?
+
+Patient: Yeah, I definitely feel sad most of the time. I don't enjoy things like I used to and I have trouble finding pleasure in anything. I also have trouble concentrating and I feel like I'm not as productive as I used to be.
+
+Doctor: Have you experienced any physical symptoms like fatigue or body aches?
+
+Patient: Yes, I have been feeling really tired all the time. I have trouble getting out of bed in the morning and I just feel exhausted throughout the day. I also have some headaches and body aches.
+
+Doctor: Okay, thank you for sharing that with me. Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Alright. Have you experienced any major life events or stressors recently that could be contributing to your symptoms?
+
+Patient: Well, I did lose my job a few months ago and I've been struggling to find a new one. It's been really stressful and it's been hard on me financially.
+
+Doctor: I see. Is there anything else going on in your life that could be affecting your mood?
+
+Patient: Well, my mom passed away last year and it's been really hard for me to deal with. I miss her a lot.
+
+Doctor: I'm sorry to hear that. It sounds like you've been through a lot recently. Based on what you've told me, it's possible that you are experiencing symptoms of depression. However, I would like to administer a PHQ-8 assessment to get a better understanding of your symptoms.
+
+Patient: Okay, that's fine.
+
+Doctor: Based on the results of the assessment, it appears that you are not currently experiencing symptoms of depression. However, it's important to continue monitoring your mood and seeking treatment if you notice any changes in your symptoms. In the meantime, I recommend focusing on self-care activities like exercise, healthy eating, and getting enough sleep to help improve your overall well-being.
+
+Patient: Thank you, doctor. I appreciate your help.

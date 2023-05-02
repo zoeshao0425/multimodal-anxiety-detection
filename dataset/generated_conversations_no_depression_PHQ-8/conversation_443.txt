@@ -1,0 +1,37 @@
+Doctor: Thank you for coming in today. Can you tell me about any symptoms of depression you've been experiencing?
+
+Patient: Yeah, I've been feeling really down lately. I just don't have any motivation to do anything.
+
+Doctor: Okay, can you tell me more about that? Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I'm not really hungry anymore.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel really tired all the time. It's hard to get out of bed in the morning.
+
+Doctor: Have you been feeling sad or hopeless?
+
+Patient: Yeah, I feel really hopeless. Like nothing is ever going to get better.
+
+Doctor: Have you lost interest in things you used to enjoy?
+
+Patient: Yeah, I used to love playing video games but now I just don't feel like doing anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors such as stress or a medical condition. 
+
+Patient: That makes sense. 
+
+Doctor: Given your symptoms, I would like to run some tests to rule out any underlying medical conditions. Additionally, I recommend that you speak with a therapist or counselor to help you work through your feelings and develop coping strategies. 
+
+Patient: Okay, thank you for your help. 
+
+Doctor: Of course, please let me know if you have any other concerns or questions.

@@ -1,0 +1,52 @@
+Doctor: Thank you for coming in today. I understand that you've been feeling down lately. Can you tell me more about what's been going on?
+
+Patient: Yeah, I just feel really sad all the time. Like, I don't have any motivation to do anything anymore.
+
+Doctor: I see. How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I've lost my appetite. I just don't feel like eating.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, it's been really hard for me to focus on anything. And I can't make decisions anymore. Even small ones feel overwhelming.
+
+Doctor: Have you noticed any feelings of worthlessness or guilt?
+
+Patient: Yeah, I just feel like I'm not good enough for anything. And I keep thinking about all the mistakes I've made in the past.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: Yes, I have. I've been having these thoughts for a while now.
+
+Doctor: Okay, thank you for being honest with me. Can you tell me a little bit about your personal background? Do you have a history of depression in your family?
+
+Patient: Yeah, my mom has struggled with depression for most of her life. And I've been dealing with anxiety for a few years now.
+
+Doctor: I see. Well, based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to run a few more tests to confirm the diagnosis.
+
+Patient: Okay, that makes sense. What kind of tests will you be doing?
+
+Doctor: We'll be using the PHQ-8 assessment to get a better understanding of your symptoms. It's a series of questions that will help me determine the severity of your depression.
+
+Patient: Okay, I'm ready.
+
+Doctor: Great. So, on a scale of 0 to 3, with 0 being "not at all" and 3 being "nearly every day," how often have you been bothered by the following symptoms in the past two weeks?
+
+1. Little interest or pleasure in doing things
+2. Feeling down, depressed, or hopeless
+3. Trouble falling asleep, staying asleep, or sleeping too much
+4. Feeling tired or having little energy
+5. Poor appetite or overeating
+6. Feeling bad about yourself - or that you are a failure or have let yourself or your family down
+7. Trouble concentrating on things, such as reading the newspaper or watching television
+8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual
+
+Patient: (answers the questions)
+
+Doctor: Based on your answers, it looks like you are experiencing moderate to severe depression. I'm going to recommend a treatment plan that may include therapy, medication, or both. We'll work together to find the best approach for you.
+
+Patient: Okay, thank you for helping me understand what's going on. I'm ready to start feeling better.

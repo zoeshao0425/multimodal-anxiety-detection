@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't enjoy doing things that I used to love, and I often feel like I have no energy.
+
+Doctor: Have you been experiencing any changes in your sleeping patterns or appetite?
+
+Patient: Yes, actually. I've been having trouble sleeping and I've lost my appetite. I've also been feeling very irritable and on edge.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now. I just can't seem to shake it.
+
+Doctor: Have you noticed any thoughts of hopelessness or worthlessness?
+
+Patient: Yeah, sometimes I feel like there's no point in anything and that I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any significant life events or changes recently?
+
+Patient: Well, I did lose my job a few months ago and I've been struggling to find work since then. That's been really stressful.
+
+Doctor: I see. And how has this been impacting your daily life? Are you able to function as usual?
+
+Patient: It's been really hard. I don't have the motivation to do much of anything, and I've been avoiding social situations. It's like I'm just going through the motions.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'm going to administer the PHQ-8 assessment just to be sure.
+
+(Doctor administers the PHQ-8 assessment)
+
+Doctor: Based on your answers, it appears that you do not meet the criteria for a major depressive disorder. However, it's clear that you're struggling and could benefit from some support. I'd like to refer you to a therapist who can help you work through these feelings and develop some coping strategies.
+
+Patient: Thank you, doctor. That sounds like a good idea.

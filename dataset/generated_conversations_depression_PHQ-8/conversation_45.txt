@@ -1,0 +1,33 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and hopeless.
+
+Doctor: Can you describe your symptoms for me?
+
+Patient: I've been feeling really sad most of the time, even when there's nothing specific to be sad about. I've lost interest in things that used to bring me joy, like going out with friends or reading a good book. I've been having trouble sleeping too, either sleeping too much or not at all. And I just feel really tired all the time, even after a full night's sleep.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Yeah, I've been eating a lot less than usual. I just don't have much of an appetite anymore.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, actually. I've been feeling like everything is my fault and like I'm not good enough. I feel like I'm letting everyone down.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any specific thoughts like that. But sometimes I do feel like it would be easier if I wasn't here.
+
+Doctor: Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really. Just the fatigue and trouble sleeping.
+
+Doctor: Have you experienced any major life events or changes recently?
+
+Patient: Not really. Things have been pretty stable in my life, but I just can't seem to shake this feeling of sadness.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to refer you to a therapist who can work with you to develop a treatment plan.
+
+Patient: Okay, thank you. I was afraid something was wrong with me.
+
+Doctor: Depression is a very common condition, and there are many effective treatments available. With the right care, I'm confident you can start feeling better soon.

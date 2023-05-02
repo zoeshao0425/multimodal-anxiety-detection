@@ -1,0 +1,33 @@
+Doctor: Can you tell me about any symptoms of depression that you may have been experiencing?
+
+Patient: Well, I've been feeling really sad and down lately. I don't enjoy doing things that I used to love, and I'm having trouble sleeping.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I've lost my appetite and have lost some weight recently.
+
+Doctor: How about your energy levels? Have you noticed any changes in that area?
+
+Patient: Yes, I feel exhausted all the time. Even getting out of bed feels like a challenge.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I find myself struggling to focus on tasks and making even simple decisions feels overwhelming.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough and I'm constantly beating myself up over small things.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I've been having thoughts of ending my life.
+
+Doctor: Thank you for sharing that with me. Can you tell me a bit more about what's been going on in your life lately?
+
+Patient: Well, I lost my job a few months ago and have been struggling to find work. My relationship with my partner has also been strained, and we're considering separating.
+
+Doctor: I see. It sounds like you've been going through a lot of stress and difficult life changes. Based on what you've shared with me, it seems like you may be experiencing depression.
+
+Patient: Really? I didn't think it was that serious.
+
+Doctor: Depression is a real medical condition that can have a significant impact on your daily functioning and quality of life. But the good news is that it's treatable. There are many effective treatments available, including therapy and medication. I recommend that we start treatment as soon as possible to help you feel better.

@@ -1,0 +1,35 @@
+Doctor: So, let's begin with your symptoms. Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very down lately. It's like a cloud is hanging over me all the time.
+
+Doctor: How often do you feel this way?
+
+Patient: Almost every day. It's been going on for a few weeks now.
+
+Doctor: Do you have little interest or pleasure in doing things you usually enjoy?
+
+Patient: Yes, I used to love going out with friends and doing outdoor activities, but now I don't feel like doing anything. Even watching TV feels like a chore.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite. I used to love food, but now I don't feel like eating anything. I have lost a few pounds as well.
+
+Doctor: How about your sleep? Are you having trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep at night, and when I do, I wake up several times during the night. I feel tired all the time, even after sleeping for hours.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I feel exhausted all the time. It's hard to get out of bed in the morning, and I feel drained throughout the day.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I find it hard to focus on anything. I forget things easily and can't make simple decisions like what to wear or what to eat.
+
+Doctor: Have you had any thoughts of hurting yourself or suicide?
+
+Patient: Yes, I have been having these thoughts lately. It's like there's no point in living anymore.
+
+Doctor: Thank you for sharing this with me. Based on your answers, it seems like you are experiencing symptoms of depression. It's important to know that depression is a medical condition, and it's treatable. I would like to recommend some treatment options for you, including therapy and medication. 
+
+Patient: Thank you, doctor. I'm relieved to know that there's a way to get better.

@@ -1,0 +1,29 @@
+Doctor: Can you tell me about your mood over the past two weeks? Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling really down lately. I feel like everything is just too much for me to handle.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yes, I used to love going out with my friends and doing things, but now I just want to stay home alone.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: I've been eating a lot less than usual and have lost some weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep at night and then I wake up early in the morning and can't go back to sleep.
+
+Doctor: Do you feel tired or have low energy most days?
+
+Patient: Yes, I feel exhausted all the time, even after getting enough sleep.
+
+Doctor: Have you felt guilty or worthless?
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: Yes, I have been having thoughts of hurting myself and sometimes feel like life is not worth living.
+
+Doctor: Thank you for sharing this information with me. Based on your symptoms, it seems like you may be experiencing depression. It's important to get help and treatment for this condition. We can discuss different options for treatment, such as therapy or medication.

@@ -1,0 +1,37 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any symptoms of depression?
+
+Patient: Yeah, I've been feeling really down and hopeless lately. I just don't have any energy or motivation to do anything.
+
+Doctor: How long have you been feeling this way?
+
+Patient: About two months now.
+
+Doctor: Have you been experiencing any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and have lost some weight.
+
+Doctor: Have you been having trouble sleeping, either sleeping too much or too little?
+
+Patient: I've been having trouble falling asleep and staying asleep. I wake up feeling tired and groggy.
+
+Doctor: Have you been feeling restless or slowed down?
+
+Patient: I feel really sluggish and slow. It's hard to get going in the morning.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you been having any thoughts of death or suicide?
+
+Patient: Yeah, sometimes I think about ending my life. It's scary.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you are experiencing symptoms of depression. 
+
+Patient: What does that mean?
+
+Doctor: Depression is a medical condition that affects your mood, thoughts, and behavior. It can make you feel sad, hopeless, and unmotivated. But the good news is that it's treatable with therapy and medication.
+
+Patient: That's a relief. I was worried that something was seriously wrong with me.
+
+Doctor: No need to worry. We'll work together to come up with a treatment plan that works best for you. In the meantime, it's important to take care of yourself by getting enough sleep, exercise, and eating a healthy diet. And if you ever feel like you're in crisis, please don't hesitate to reach out for help.

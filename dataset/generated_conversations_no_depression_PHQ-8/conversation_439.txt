@@ -1,0 +1,43 @@
+Doctor: So, I understand that you've been feeling down lately. Can you tell me more about how you're feeling?
+
+Patient: Yeah, I just feel really sad and hopeless all the time. I don't really enjoy anything anymore.
+
+Doctor: When did these feelings start?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I haven't really been eating much either.
+
+Doctor: Have you experienced any loss of interest in things that you used to enjoy doing?
+
+Patient: Yeah, I used to love playing video games and hanging out with my friends, but now I just don't have the energy or motivation to do those things.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. However, I'd like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Okay, sure.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Well, I did lose my job a few months ago and I've been struggling to find a new one. That's been really stressful.
+
+Doctor: I see. Have you talked to anyone about how you're feeling?
+
+Patient: Not really. I don't want to burden my friends or family with my problems.
+
+Doctor: It's important to remember that seeking help is not a burden. It's okay to ask for support when you need it. Have you considered talking to a therapist or counselor about how you're feeling?
+
+Patient: I haven't really thought about it, but maybe that could be helpful.
+
+Doctor: I think that would be a good idea. In the meantime, I don't believe that you meet the criteria for a diagnosis of depression. However, I'd like to schedule a follow-up appointment in a few weeks to check in and see how you're doing. Does that sound okay?
+
+Patient: Yeah, that sounds good. Thank you for your help.

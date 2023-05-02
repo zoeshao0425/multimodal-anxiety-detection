@@ -1,0 +1,35 @@
+Doctor: So, you're here today to talk about some symptoms you've been experiencing. Can you tell me a little bit about what's been going on?
+
+Patient: Yeah, I've been feeling really down lately. Like, all the time.
+
+Doctor: Can you describe that feeling a little bit more? Are you sad, or just not interested in things you used to enjoy?
+
+Patient: It's more like a deep sadness. I just feel like everything is pointless and there's no reason to do anything.
+
+Doctor: Have you noticed any changes in your sleep or appetite?
+
+Patient: Yeah, I've been sleeping a lot more than usual, and I've lost my appetite. I just don't feel like eating.
+
+Doctor: Okay, and have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: That's good to hear. Have you experienced any physical symptoms, like headaches or stomachaches?
+
+Patient: Not really, just the lack of appetite and feeling tired all the time.
+
+Doctor: Alright, and how long have you been feeling this way?
+
+Patient: Probably a few months now.
+
+Doctor: And have you experienced depression before?
+
+Patient: Yeah, I was diagnosed with it a few years ago and took medication for a while. But I thought I was doing better and stopped taking it.
+
+Doctor: I see. And do you think anything in particular triggered these feelings again?
+
+Patient: Not really, it just kind of came out of nowhere.
+
+Doctor: Alright, well based on what you've told me, it sounds like you may be experiencing a major depressive episode. I'm going to diagnose you with depression and recommend that you start taking medication again. We'll also set up some therapy sessions to help you work through these feelings.
+
+Patient: Okay, thank you. I really appreciate it.

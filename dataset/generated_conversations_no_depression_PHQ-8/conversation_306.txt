@@ -1,0 +1,35 @@
+Doctor: Can you tell me about any feelings of sadness or hopelessness that you've been experiencing lately?
+
+Patient: Well, I have been feeling pretty down for the past few weeks. I just feel like nothing really brings me joy anymore and I don't see the point in doing anything.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yeah, I've lost my appetite and I've lost a bit of weight as a result. I just don't feel hungry most of the time.
+
+Doctor: How about your sleep? Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I usually toss and turn for hours before finally falling asleep, and then I wake up multiple times throughout the night.
+
+Doctor: Have you noticed any changes in your energy levels or motivation to do things?
+
+Patient: Yeah, I just feel exhausted all the time. Even getting out of bed feels like a huge effort, and I don't really have any motivation to do anything.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I've been feeling pretty worthless. Like I'm not good enough at anything and that I'm just a burden on everyone around me.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Based on your responses, it seems like you may be experiencing some symptoms of depression. Can you tell me a bit more about what's been going on in your life recently?
+
+Patient: Well, I recently lost my job and I've been having some financial troubles as a result. I also went through a breakup with my partner a few months ago, which has been really difficult for me.
+
+Doctor: I see. It sounds like you've been dealing with a lot of stressors lately, which can certainly contribute to feelings of depression. However, based on your responses to the PHQ-8 questions, I don't believe that you meet the criteria for a diagnosis of depression at this time. That being said, it's important to continue to monitor your symptoms and seek help if they worsen or persist. Have you considered talking to a therapist or counselor about what you're going through?
+
+Patient: Yeah, I've thought about it but I wasn't sure if it would really help.
+
+Doctor: Therapy can be a really helpful tool for managing stress and improving your mental health. I can refer you to a therapist if you'd like, and we can also discuss other treatment options if necessary. In the meantime, I recommend trying to focus on self-care and finding ways to reduce stress in your life. Would you like some resources on where to find a therapist in your area? 
+
+Patient: Yes, please. Thank you for your help.

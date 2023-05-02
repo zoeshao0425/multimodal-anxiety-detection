@@ -1,0 +1,35 @@
+Doctor: Hi, can you tell me a little about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't enjoy things I used to enjoy, and I've been having trouble sleeping.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I have. I just feel exhausted all the time.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: My appetite has decreased, and I've lost some weight.
+
+Doctor: Have you been feeling hopeless or worthless?
+
+Patient: Yes, I have. I feel like nothing I do matters.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't.
+
+Doctor: Have you experienced any difficulty concentrating or making decisions?
+
+Patient: Yes, I have. I've been having trouble focusing at work.
+
+Doctor: Have you noticed any physical symptoms such as headaches or stomachaches?
+
+Patient: No, I haven't.
+
+Doctor: Can you tell me a little about your personal life? Are you going through any major life changes or stressors right now?
+
+Patient: Well, my job has been really stressful lately, and I've been having some relationship issues with my partner.
+
+Doctor: Okay, thank you for sharing that with me. Based on your symptoms and what you've told me, it sounds like you may be experiencing depression. However, it's important to note that not everyone with these symptoms has depression. I would like to run some tests to rule out any physical causes for your symptoms, but I also recommend seeking therapy to address any underlying emotional issues. 
+
+Patient: Thank you, doctor. That makes sense to me.

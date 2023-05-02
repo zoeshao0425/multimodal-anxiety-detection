@@ -1,0 +1,33 @@
+Doctor: Can you describe your mood over the past two weeks?
+
+Patient: I've been feeling really down and sad. I have no energy, and I don't enjoy things that I used to love doing.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I haven't been sleeping well. I wake up in the middle of the night and can't fall back asleep. And I'm not very hungry. I've lost some weight.
+
+Doctor: Do you find yourself feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm a burden on my family and friends. I'm not contributing anything to society.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms like headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I can't focus on anything. I can't even make simple decisions like what to wear in the morning.
+
+Doctor: Have you experienced any traumatic events recently?
+
+Patient: No, I haven't had any traumatic events recently.
+
+Doctor: Based on your responses, it seems like you may be experiencing some symptoms of depression. However, it's important to note that some of these symptoms may be caused by other medical conditions or life stressors. I recommend we do further testing and evaluation to determine the root cause of your symptoms. 
+
+Patient: Okay, that sounds good.
+
+Doctor: In the meantime, I suggest you continue to take care of yourself by getting enough rest, eating healthy, and engaging in activities that bring you joy. Remember that you are not alone, and it's okay to ask for help when you need it.

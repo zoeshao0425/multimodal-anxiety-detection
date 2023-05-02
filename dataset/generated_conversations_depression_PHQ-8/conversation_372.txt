@@ -1,0 +1,27 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure, trouble concentrating on things such as reading the newspaper or watching television, or moving or speaking so slowly that other people could have noticed?
+
+Patient: Yes, I have been experiencing some of those symptoms. I have no interest in doing anything anymore. I feel down and hopeless most of the time. I have trouble sleeping at night, and I wake up feeling tired every morning. I have no appetite, and I have lost weight. I feel like I am a failure and that nothing I do is good enough. I have trouble focusing on anything for more than a few minutes, and I move very slowly.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: I have been feeling this way for about six months now.
+
+Doctor: Have you experienced depression before?
+
+Patient: Yes, I have had depression in the past.
+
+Doctor: Do you have any family history of depression?
+
+Patient: Yes, my mother and grandmother both had depression.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Yes, I lost my job a few months ago, and I have been struggling to find work. I also went through a breakup with my partner.
+
+Doctor: Have you been able to maintain your daily routine despite these symptoms?
+
+Patient: No, it's been difficult. I have been calling in sick to work a lot, and I have stopped seeing my friends and family.
+
+Doctor: Based on what you've told me, it seems like you may be experiencing depression. I would like to recommend that we start a treatment plan to help manage your symptoms. This may include therapy, medication, or a combination of both. Does that sound like something you would be interested in?
+
+Patient: Yes, I'm willing to try anything to feel better.

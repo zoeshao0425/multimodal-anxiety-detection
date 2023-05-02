@@ -1,0 +1,23 @@
+Doctor: Hi, can you tell me a little bit about what's been going on lately?
+
+Patient: Well, I've just been feeling really down and unmotivated. I don't have any energy or interest in doing things that used to make me happy.
+
+Doctor: Have you been experiencing any other symptoms like changes in your appetite, sleep, or concentration?
+
+Patient: Yes, actually. I haven't been sleeping well at night and I've lost my appetite. I also find it hard to concentrate on things, even simple tasks.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for a few weeks now. At first, I thought it was just stress from work, but it hasn't gone away.
+
+Doctor: Have you ever experienced anything like this before?
+
+Patient: Yes, I have had episodes of depression in the past. The last time was about two years ago.
+
+Doctor: Okay, thank you for letting me know. On a scale of 0-3, with 0 being not at all and 3 being nearly every day, how often have you been experiencing the following symptoms in the past two weeks: little interest or pleasure in doing things, feeling down or hopeless, trouble falling or staying asleep, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself, trouble concentrating on things, and moving or speaking slowly or being fidgety?
+
+Patient: Little interest or pleasure in doing things - 3, feeling down or hopeless - 3, trouble falling or staying asleep - 3, feeling tired or having little energy - 3, poor appetite or overeating - 3, feeling bad about yourself - 3, trouble concentrating on things - 3, moving or speaking slowly or being fidgety - 3.
+
+Doctor: Based on your answers, it seems like you are experiencing moderate to severe depression. I would like to diagnose you with depression and discuss treatment options with you. Are you open to that?
+
+Patient: Yes, I am. Thank you for your help.

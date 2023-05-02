@@ -1,0 +1,31 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, doctor, I've been feeling really down. I just don't feel like myself.
+
+Doctor: Can you describe your symptoms to me?
+
+Patient: Well, I've been feeling really sad and hopeless. I don't enjoy things that used to make me happy, like spending time with my friends or hobbies. I've been having trouble sleeping and I'm always tired. I've also lost my appetite and I've lost weight.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like everything is my fault and I'm not good enough. I feel like I'm a burden to those around me.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing at work and making decisions about even the smallest things.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: Yes, I've been having headaches and stomachaches almost every day.
+
+Doctor: Have you experienced any traumatic events or major life changes recently?
+
+Patient: Yes, I lost my job a few months ago and I've been struggling to find a new one. I also went through a breakup recently.
+
+Doctor: Based on your symptoms and experiences, it sounds like you may be suffering from depression. I would like to refer you to a mental health professional for further assessment and treatment.
+
+Patient: Thank you, doctor. I appreciate your help.

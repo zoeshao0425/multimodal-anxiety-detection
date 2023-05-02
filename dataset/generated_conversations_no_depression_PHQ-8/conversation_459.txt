@@ -1,0 +1,47 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you experienced any of the following symptoms in the past two weeks?
+
+Patient: Okay.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yeah, I have been feeling pretty low lately.
+
+Doctor: And have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yeah, I don't really feel like doing anything anymore.
+
+Doctor: Have you been having trouble falling asleep, staying asleep, or sleeping too much?
+
+Patient: I've been having trouble falling asleep and staying asleep.
+
+Doctor: Have you been feeling tired or having little energy?
+
+Patient: Yeah, I'm always tired no matter how much sleep I get.
+
+Doctor: Have you been having poor appetite or overeating?
+
+Patient: I haven't really had much of an appetite lately.
+
+Doctor: Have you been feeling bad about yourself or feeling like a failure?
+
+Patient: Yeah, I feel like I'm not good enough and like I'm failing at everything.
+
+Doctor: Have you been having trouble concentrating on things like reading or watching TV?
+
+Patient: Yeah, I can't focus on anything for very long.
+
+Doctor: Have you been having thoughts that you would be better off dead, or hurting yourself in some way?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Can you tell me more about how you've been feeling and how it's been affecting your daily life?
+
+Patient: Well, I've been feeling really down and unmotivated. I don't feel like doing anything, even things I used to enjoy. It's been hard to get out of bed in the morning and I just feel exhausted all the time. I'm also having trouble concentrating on anything for very long. It's been hard to keep up with my work and responsibilities.
+
+Doctor: I see. Can you tell me a little bit about your personal life? Are there any major stressors or changes that you've been dealing with lately?
+
+Patient: Yeah, actually. I recently went through a breakup and it's been really hard on me. We were together for a long time and it's been tough adjusting to being single again.
+
+Doctor: I'm sorry to hear that. Breakups can be really difficult. Based on what you've told me, it sounds like you might be experiencing some symptoms of depression. However, since you haven't had any thoughts of self-harm or suicide, I don't think it's severe enough to warrant medication at this point. I would recommend talking to a therapist or counselor to help you work through your feelings and develop coping strategies.
+
+Patient: Okay, thank you for your help.

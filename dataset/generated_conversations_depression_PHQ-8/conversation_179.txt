@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? What specifically has been bothering you?
+
+Patient: Well, I just feel really sad all the time. I don't enjoy things that used to make me happy, like spending time with friends or watching movies. I also have trouble sleeping and eating, and I'm always tired.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost a lot of weight recently. I just don't have much of an appetite anymore.
+
+Doctor: How about your energy level? Do you feel tired or fatigued often?
+
+Patient: All the time. I have trouble getting out of bed in the morning, and even simple tasks like taking a shower feel exhausting.
+
+Doctor: Have you had any thoughts of harming yourself or ending your life?
+
+Patient: (hesitates) Yes, actually. I've been having some pretty dark thoughts lately.
+
+Doctor: I'm glad you're being honest with me. It's important that we address those thoughts and get you the help you need. Have you talked to anyone else about how you're feeling?
+
+Patient: No, I haven't really told anyone. I didn't want to burden them with my problems.
+
+Doctor: It's okay to reach out for help. Depression is a medical condition, and it's not your fault that you're experiencing these symptoms. Let's work together to get you feeling better. Based on what you've told me, it sounds like you may be experiencing depression. I'd like to give you a questionnaire to help us better understand your symptoms.
+
+Patient: Okay, sure.
+
+Doctor: (hands patient the PHQ-8 assessment) This questionnaire will ask you about different symptoms of depression, like feeling sad, losing interest in activities, and having trouble sleeping. It will also ask about any thoughts of self-harm or suicide. Please answer the questions honestly, and we'll go over the results together.
+
+Patient: (completes questionnaire) Okay, I'm done.
+
+Doctor: Thank you. Based on your responses, it does appear that you're experiencing symptoms of depression. I'd like to explore some treatment options with you, such as therapy or medication. We can also discuss lifestyle changes that may help improve your mood, like exercise or spending time outdoors. Does that sound okay to you?
+
+Patient: Yes, that sounds good. I'm just relieved to know that there's a reason for how I've been feeling, and that there are things I can do to get better.
+
+Doctor: Absolutely. Depression is a treatable condition, and you don't have to suffer alone. I'm here to support you every step of the way. Let's work together to get you back to feeling like yourself again.

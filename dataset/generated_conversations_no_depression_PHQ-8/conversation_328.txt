@@ -1,0 +1,37 @@
+Doctor: So, I understand you're here today to talk about your mental health. Can you tell me a little bit about what's been going on?
+
+Patient: Yeah, sure. I've been feeling really down lately. Like, I don't have any energy and I just don't feel like doing anything.
+
+Doctor: Okay, that's definitely a symptom of depression. Have you been experiencing any other symptoms?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: How long has that been going on?
+
+Patient: Probably for the past month or so.
+
+Doctor: Okay. Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've lost some weight recently. I just don't really feel like eating.
+
+Doctor: Alright. Have you been feeling hopeless or helpless, like there's no way things will get better?
+
+Patient: Yeah, definitely. I just feel like nothing is going right and I can't do anything about it.
+
+Doctor: Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Okay. Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. So based on what you've told me, it sounds like you're experiencing several symptoms of depression. Can you tell me a little bit more about your life? Are you dealing with any major stressors or changes right now?
+
+Patient: Well, I just started a new job a few months ago, and it's been pretty stressful. And my girlfriend and I broke up recently, which has been really tough.
+
+Doctor: I see. Those are definitely major stressors that could contribute to depression. Have you talked to anyone about what you're going through?
+
+Patient: Not really. I don't really have anyone to talk to about this stuff.
+
+Doctor: Okay. Well, I'm glad you came in today. Based on what you've told me, I think it's important that we address your symptoms and work on a treatment plan. However, I do want to let you know that based on the PHQ-8 assessment we just went through, you do not meet the criteria for a diagnosis of major depression. But it's still important that we address the symptoms you're experiencing and work on improving your mental health.

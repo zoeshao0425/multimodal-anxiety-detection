@@ -1,0 +1,37 @@
+Doctor: So, let's start by discussing your symptoms. Have you been feeling down, depressed or hopeless?
+
+Patient: Yes, I have been feeling really down lately. It's been going on for a few weeks now.
+
+Doctor: Okay, have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, I have lost interest in a lot of things that I used to enjoy. I don't feel motivated to do anything anymore.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yes, I have lost my appetite and I've lost some weight too.
+
+Doctor: Have you had any trouble sleeping, either sleeping too much or too little?
+
+Patient: Yes, I have trouble sleeping. Sometimes I sleep too much and other times I can't sleep at all.
+
+Doctor: Do you feel tired or have low energy most days?
+
+Patient: Yes, I feel tired all the time. It's hard to get out of bed in the morning.
+
+Doctor: Have you felt guilty or worthless lately?
+
+Patient: Yes, I feel guilty about a lot of things and I don't feel like I'm worth much.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, it's hard for me to focus on anything and I have trouble making decisions.
+
+Doctor: Thank you for answering those questions. Based on your responses, it seems like you may be experiencing depression. However, it's important to note that depression is a medical condition that can be treated. We can discuss treatment options and work together to help you feel better.
+
+Patient: Thank you, Doctor. That makes me feel better knowing that there is help available.
+
+Doctor: Before we end our conversation, I want to ask if there is anything else you would like to share with me about your experiences or personal background that might be helpful for me to know?
+
+Patient: Well, I recently lost my job and have been struggling financially. It's been really stressful, and I think that has contributed to my feelings of depression.
+
+Doctor: Thank you for sharing that with me. It's important to recognize how stress and life events can impact our mental health. Let's work together to develop a plan that addresses your depression symptoms and any other stressors in your life.

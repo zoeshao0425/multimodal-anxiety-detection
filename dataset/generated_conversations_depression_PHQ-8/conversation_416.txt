@@ -1,0 +1,49 @@
+Doctor: Can you tell me how often you have been bothered by any of the following problems over the last two weeks? 
+
+Patient: Sure, I'll try my best. 
+
+Doctor: Have you been feeling down, depressed, or hopeless? 
+
+Patient: Yes, I have been feeling down and hopeless for a while now. 
+
+Doctor: Can you describe how long you've been feeling this way? 
+
+Patient: It's been going on for a few months now. I just can't seem to shake it off. 
+
+Doctor: Have you lost interest or pleasure in doing things that you used to enjoy? 
+
+Patient: Yeah, I used to love painting, but now I just can't seem to find the motivation to do it anymore. 
+
+Doctor: Have you experienced significant changes in your appetite or weight? 
+
+Patient: My appetite has decreased, and I've lost some weight as a result. 
+
+Doctor: Do you have trouble falling asleep, staying asleep, or sleeping too much? 
+
+Patient: I have trouble falling asleep and staying asleep. I usually wake up feeling tired. 
+
+Doctor: Do you feel tired or have low energy most days? 
+
+Patient: Yeah, I feel drained most days, even after getting a full night's sleep. 
+
+Doctor: Do you feel guilty or worthless? 
+
+Patient: Yes, I feel like I'm not good enough and that everything is my fault. 
+
+Doctor: Have you had thoughts of harming yourself or suicide? 
+
+Patient: Yes, I have had thoughts of ending my life. 
+
+Doctor: I'm sorry to hear that. It sounds like you're experiencing symptoms of depression. 
+
+Patient: What does that mean? 
+
+Doctor: Depression is a medical condition that affects your mood, thoughts, and behavior. It's important to seek treatment because it can impact your daily functioning and quality of life. 
+
+Patient: What kind of treatment is available? 
+
+Doctor: There are several treatment options available, including therapy, medication, or a combination of both. We can discuss what would be the best course of action for you. 
+
+Patient: Thank you, I appreciate your help. 
+
+Doctor: Of course, it's my job to help you feel better. Let's work together to find a treatment plan that works for you.

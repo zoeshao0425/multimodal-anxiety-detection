@@ -1,0 +1,49 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately, and I think I might be depressed.
+
+Doctor: Okay, can you tell me more about how you're feeling?
+
+Patient: Well, I just feel really sad all the time. I don't enjoy things that I used to, and I have trouble sleeping.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual, and I've lost some weight.
+
+Doctor: Okay, and have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that.
+
+Doctor: Alright, have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I just feel like I'm not good enough and that everything is my fault.
+
+Doctor: How often have you been feeling this way?
+
+Patient: It's been pretty much every day for the past few weeks.
+
+Doctor: Have you noticed any changes in your energy levels?
+
+Patient: Yeah, I feel really tired all the time and don't have much motivation to do anything.
+
+Doctor: Okay, and have you had any trouble concentrating or making decisions?
+
+Patient: Yeah, I've been having a hard time focusing on things and making even simple decisions.
+
+Doctor: Finally, have you noticed any physical symptoms like headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I'd like to ask a few more questions to get a better understanding of your situation.
+
+Patient: Sure, go ahead.
+
+Doctor: Can you tell me a bit about your personal life? Are there any major stressors or changes that you've been dealing with recently?
+
+Patient: Well, I just went through a breakup a few months ago, and I've been having a hard time getting over it. I've also been struggling at work and feeling like I'm not doing a good job.
+
+Doctor: Okay, that makes sense. It's common for difficult life events to trigger depression. However, based on your answers to the PHQ-8 assessment, I don't believe that you meet the criteria for a clinical diagnosis of depression. That being said, it's still important to address your feelings and seek support if you need it. I can refer you to a therapist who can help you work through your emotions and develop coping strategies.
+
+Patient: Thank you, doctor. That would be really helpful.
+
+Doctor: Of course. Remember, there's no shame in seeking help when you need it. Depression is a treatable condition, and with the right support, you can start feeling better soon.

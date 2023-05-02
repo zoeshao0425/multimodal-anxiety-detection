@@ -1,0 +1,41 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and unmotivated.
+
+Doctor: Can you tell me more about that? Have you been experiencing any specific symptoms?
+
+Patient: Yeah, I've been having trouble sleeping, even though I'm exhausted all the time. I've lost my appetite and I've been losing weight. I just feel really sad and hopeless most of the time.
+
+Doctor: Okay, thank you for sharing that with me. Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Have you noticed any changes in your energy level or ability to concentrate?
+
+Patient: Yeah, I've been feeling really tired all the time and I can't seem to focus on anything for very long.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you experienced any traumatic events recently that may have triggered these feelings?
+
+Patient: Not really. I mean, life has been stressful lately, but nothing out of the ordinary.
+
+Doctor: Okay, thank you for answering those questions. Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I'd like to ask you a few more questions to get a better understanding of your condition.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things; Feeling down, depressed, or hopeless; Trouble falling or staying asleep, or sleeping too much; Feeling tired or having little energy; Poor appetite or overeating; Feeling bad about yourself - or that you are a failure or have let yourself or your family down; Trouble concentrating on things, such as reading the newspaper or watching television; Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I've been experiencing all of those symptoms except for the last one. But I don't think it's depression. I've just been going through a rough patch in my life.
+
+Doctor: I understand that it can be difficult to recognize when something like depression is affecting you. However, based on your answers to those questions, it does seem like you are experiencing symptoms of depression. That being said, it's important to note that depression is a treatable condition and there are many options available to help you feel better.
+
+Patient: I appreciate your concern, but I really don't think it's depression. I just need to work through some things in my life and I'll be okay.
+
+Doctor: I understand where you're coming from, but as a medical professional, I have to advise you to take these symptoms seriously. Depression can have a serious impact on your daily functioning and overall quality of life. If you're not comfortable with the idea of medication, there are other options available, such as therapy or lifestyle changes.
+
+Patient: I appreciate your concern, but I really don't think it's necessary. I'll just try to work through things on my own.
+
+Doctor: Okay, I understand. Just know that if you ever change your mind or if your symptoms worsen, I'm here to help.

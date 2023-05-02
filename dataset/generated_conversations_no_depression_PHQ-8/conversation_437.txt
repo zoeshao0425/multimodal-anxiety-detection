@@ -1,0 +1,39 @@
+Doctor: So, let's start with a few questions to understand your condition better. Have you been feeling down, depressed or hopeless lately?
+
+Patient: Yes, I have been feeling down for the past few weeks.
+
+Doctor: Okay, can you tell me more about it? How often do you feel this way?
+
+Patient: I feel this way almost every day. I wake up feeling sad and hopeless, and it continues throughout the day.
+
+Doctor: Do you find yourself losing interest in activities that you used to enjoy?
+
+Patient: Yes, I don't feel like doing anything anymore. Even things that used to make me happy don't seem to work anymore.
+
+Doctor: Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I have lost my appetite, and I have lost some weight as well.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have trouble sleeping most nights. I usually wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Have you felt tired or fatigued lately?
+
+Patient: Yes, I feel tired all the time, even when I haven't done anything.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough, and I blame myself for everything that goes wrong.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself.
+
+Doctor: Based on your responses, it seems like you are experiencing symptoms of depression. However, it's important to note that these symptoms can also be caused by other medical conditions or life events. Can you tell me more about your personal life and any recent events that may have contributed to how you're feeling?
+
+Patient: Well, I recently lost my job, and I've been having trouble finding a new one. My relationship with my partner has also been strained, and we've been arguing a lot.
+
+Doctor: I see. It's understandable that these events would cause you to feel down and hopeless. However, it's important to remember that these feelings are temporary and that there is help available. Based on your responses, I don't believe that you have depression, but I would recommend speaking with a therapist or counselor to help you cope with the stress and emotions that come with these life events. 
+
+Patient: Thank you, doctor. I appreciate your help and advice.

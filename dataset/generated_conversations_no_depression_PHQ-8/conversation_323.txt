@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: I’ve been feeling really down, doctor. I just can’t seem to shake this feeling of sadness.
+
+Doctor: Can you tell me more about that? How often do you feel sad or down?
+
+Patient: It’s almost every day. Sometimes it’s just a general feeling of sadness, and other times it’s because of something specific that’s happened.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, actually. I’ve been having trouble sleeping and I’ve lost my appetite. I used to love eating, but now I just don’t feel hungry.
+
+Doctor: How about your energy levels? Have you been feeling tired or fatigued?
+
+Patient: Yes, I’ve been feeling really tired lately. Even when I get enough sleep, I still feel exhausted.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven’t had any thoughts like that.
+
+Doctor: Okay, thank you for letting me know. Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I have. I’ve been feeling like I’m not good enough and that everything I do is wrong.
+
+Doctor: And have you lost interest in things you used to enjoy doing?
+
+Patient: Yes, I used to love going out with friends and playing sports, but now I just don’t feel like doing anything.
+
+Doctor: Thank you for answering these questions. Based on your answers, it seems like you may be experiencing symptoms of depression. However, I’d like to ask a few more questions to get a better understanding of your situation. Can you tell me more about your personal life and any recent events that may have contributed to your current state?
+
+Patient: Well, I recently lost my job, which has been really tough. I also went through a breakup a few months ago, and I’ve been struggling to move on from that.
+
+Doctor: I’m sorry to hear that. It’s understandable that those events would have an impact on your mental health. However, based on your answers to the PHQ-8 questions, it doesn’t seem like you meet the criteria for a diagnosis of depression. That being said, I’d still like to work with you to develop a plan to manage your symptoms and improve your mental health. Would you be open to that?
+
+Patient: Yes, definitely. Thank you for taking the time to talk to me and help me figure out what’s going on.

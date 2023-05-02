@@ -1,0 +1,35 @@
+Doctor: Can you tell me about the symptoms that you have been experiencing lately?
+
+Patient: Well, I've been feeling really down and sad for the past few weeks. I don't feel like doing anything and I don't have any energy.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yes, I've been having trouble falling asleep and staying asleep. I also wake up feeling tired.
+
+Doctor: How about your appetite? Have you noticed any changes there?
+
+Patient: Yes, I've lost my appetite. I don't feel like eating anything.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough and that I'm a burden to those around me.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: No, I haven't had any physical symptoms.
+
+Doctor: Can you tell me a little bit about your personal background and any stressful life events that may have occurred recently?
+
+Patient: Well, I recently lost my job and I've been having financial difficulties. I also lost a family member a few months ago.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, since you haven't had any thoughts of self-harm or suicide, I don't believe that you are at risk of harming yourself. 
+
+Patient: That's a relief to hear.
+
+Doctor: I would like to recommend some lifestyle changes that may help alleviate your symptoms. These include getting regular exercise, eating a healthy diet, and getting enough sleep. Additionally, I would like to refer you to a therapist who can help you work through your feelings of sadness and worthlessness.
+
+Patient: Thank you, doctor. I appreciate your help and advice.

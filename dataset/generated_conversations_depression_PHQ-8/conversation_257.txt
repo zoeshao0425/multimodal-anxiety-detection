@@ -1,0 +1,27 @@
+Doctor: I understand that you're here to discuss your mental health. Can you tell me more about what's been going on?
+
+Patient: Yes, I've been feeling really down lately. I don't have any energy, and I'm not enjoying the things I used to love.
+
+Doctor: I see. Have you been experiencing any other symptoms?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. I've also lost my appetite.
+
+Doctor: I see. Have you noticed any changes in your weight?
+
+Patient: Yeah, I've lost a few pounds. I just don't feel like eating.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I've been feeling like I'm not good enough and that nothing I do matters.
+
+Doctor: Have you been having any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself, but I have been thinking a lot about death.
+
+Doctor: Okay, thank you for sharing that with me. Have you experienced any of these symptoms for more than two weeks?
+
+Patient: Yes, it's been going on for a few months now.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing depression. It's important to know that depression is a real illness and it's nothing to be ashamed of. We can work together to develop a treatment plan that will help you feel better.
+
+Patient: Thank you, doctor. I appreciate your help.

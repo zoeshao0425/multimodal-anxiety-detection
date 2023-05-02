@@ -1,0 +1,39 @@
+Doctor: Hi, how are you feeling today?
+
+Patient: I'm not feeling great. I've been feeling really down lately.
+
+Doctor: Can you tell me a bit more about what you mean by feeling down?
+
+Patient: Well, I just feel sad all the time. I don't enjoy things that I used to enjoy, and I don't have much energy. I'm having trouble sleeping too.
+
+Doctor: Okay, those are all common symptoms of depression. How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I haven't been eating as much as usual. I've lost a bit of weight.
+
+Doctor: And have you had any thoughts of harming yourself or others?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: That's good to hear. Have you been able to go to work or school as usual?
+
+Patient: It's been really hard to concentrate at work. I've been making mistakes and my boss has noticed. I haven't been able to focus on anything.
+
+Doctor: Okay, thank you for sharing that with me. Have you ever experienced depression before?
+
+Patient: Yes, I have had depression in the past.
+
+Doctor: Okay, that's important to know. Is there anything else you want to share about how you're feeling?
+
+Patient: I just feel like I'm stuck in a rut. I don't see any way out of this.
+
+Doctor: I understand how you're feeling. Based on what you've told me, it sounds like you may be experiencing a major depressive episode. I would like to diagnose you with depression and recommend some treatment options.
+
+Patient: Okay, that makes sense. What kind of treatment options are there?
+
+Doctor: There are a few different options we can explore together. We can start with therapy, medication, or a combination of both. I can refer you to a therapist who specializes in depression and we can discuss medication options as well.
+
+Patient: That sounds good. Thank you for your help.

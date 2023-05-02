@@ -1,0 +1,31 @@
+Doctor: Hi there, can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling pretty down. I don't really have any energy and I'm not interested in doing things I used to enjoy.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been sleeping a lot more than usual and I don't really have much of an appetite.
+
+Doctor: Have you been feeling hopeless or like life isn't worth living?
+
+Patient: Sometimes, yeah. I just feel really empty and like nothing matters.
+
+Doctor: Have you noticed any physical symptoms like headaches, stomachaches, or muscle pain?
+
+Patient: Not really, no. It's mostly just this constant feeling of sadness.
+
+Doctor: Have you experienced any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Okay, thank you for answering those questions. Can you tell me a bit about your personal background? Do you have a history of depression or any other mental health issues in your family?
+
+Patient: My dad struggled with depression when I was growing up, but I've never really had any issues until now.
+
+Doctor: And how has this been impacting your daily life? Have you been able to work or take care of yourself?
+
+Patient: It's been really hard. I've had to take time off work because I just can't focus or get anything done. And I haven't been taking care of myself as well as I should be.
+
+Doctor: Based on your answers, it sounds like you may be experiencing symptoms of depression. However, I do want to note that you didn't report any thoughts of self-harm or suicide, which is a positive sign. I would recommend some lifestyle changes like exercise and therapy to help manage your symptoms. Does that sound like something you'd be interested in?
+
+Patient: Yes, that sounds good. Thank you for your help.

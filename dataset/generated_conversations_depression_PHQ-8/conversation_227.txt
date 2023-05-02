@@ -1,0 +1,33 @@
+Doctor: So, let's start with the first question. Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: I've been feeling like that almost every day.
+
+Doctor: Okay. And have you lost interest or pleasure in doing things you used to enjoy?
+
+Patient: Yes, I don't feel like doing anything anymore.
+
+Doctor: Have you experienced a significant change in your appetite or weight recently?
+
+Patient: My appetite has decreased, and I've lost some weight.
+
+Doctor: Have you had any trouble sleeping, such as difficulty falling asleep, staying asleep, or waking up too early?
+
+Patient: Yes, I have trouble sleeping. I wake up several times during the night, and it's hard to fall back asleep.
+
+Doctor: Have you noticed a decrease in your energy level or an increase in fatigue?
+
+Patient: Yes, I feel tired all the time, even when I haven't done anything.
+
+Doctor: Have you felt worthless or excessively guilty for no reason?
+
+Patient: Yes, I feel like everything is my fault, and I'm not good at anything.
+
+Doctor: Have you had any trouble concentrating, making decisions, or remembering things?
+
+Patient: Yes, I can't focus on anything, and I forget things easily.
+
+Doctor: Finally, have you had any thoughts of death or suicide?
+
+Patient: Yes, I have thought about ending my life.
+
+Doctor: Thank you for answering these questions. Based on your responses, it appears that you're experiencing symptoms of depression. It's important to understand that depression is a medical condition that can be treated. We'll work together to develop a treatment plan that's tailored to your individual needs.

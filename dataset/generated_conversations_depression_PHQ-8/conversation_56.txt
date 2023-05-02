@@ -1,0 +1,31 @@
+Doctor: Can you tell me a little bit about what brought you in today?
+
+Patient: Yeah, I've been feeling really down lately. I don't have any energy and I'm having trouble sleeping.
+
+Doctor: I see. Have you been experiencing any feelings of hopelessness or worthlessness?
+
+Patient: Yeah, I just feel like nothing matters anymore. I don't enjoy anything and everything feels pointless.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite and I've lost some weight too.
+
+Doctor: Have you been having any trouble concentrating or making decisions?
+
+Patient: Yeah, I can't seem to focus on anything and I'm having trouble making even small decisions.
+
+Doctor: Have you had any thoughts of suicide or self-harm?
+
+Patient: Yeah, I've been thinking about it a lot lately. I don't know what to do.
+
+Doctor: I understand. Can you tell me a little bit about your personal life? Are you married, do you have any children, are you working?
+
+Patient: I'm single, no kids, and I work full-time as an accountant.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing depression. I would like to recommend some treatment options for you, including therapy and medication. Would that be something you're interested in pursuing?
+
+Patient: Yes, I would definitely be interested in exploring those options. Thank you for listening to me and taking me seriously.

@@ -1,0 +1,39 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't find joy in anything anymore and I'm always tired.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and have lost a few pounds.
+
+Doctor: Do you have trouble sleeping or sleeping too much?
+
+Patient: I have trouble sleeping. I wake up multiple times during the night and can't seem to fall back asleep.
+
+Doctor: Have you noticed a lack of energy or motivation?
+
+Patient: Yes, I feel like I have no energy to do anything. Even simple tasks feel like a chore.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had those thoughts.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like I'm not good enough and that I'm letting people down.
+
+Doctor: Have you had any trouble concentrating or making decisions?
+
+Patient: Yes, I can't seem to focus on anything and making decisions feels overwhelming.
+
+Doctor: Based on your answers, it seems like you're experiencing symptoms of depression. However, it's important to note that some of these symptoms can also be caused by other factors. Have you experienced any significant life changes or stressors recently?
+
+Patient: Actually, I just went through a breakup and it's been really tough on me.
+
+Doctor: That could definitely be a contributing factor to how you're feeling. It's important to take care of yourself during this time and seek support from loved ones. However, based on the information you've provided, I don't believe you meet the criteria for a clinical diagnosis of depression. 
+
+Patient: That's a relief to hear. Thank you for taking the time to talk with me and help me understand what's going on.

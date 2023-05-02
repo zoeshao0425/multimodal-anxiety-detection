@@ -1,0 +1,67 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately, and I'm not sure why.
+
+Doctor: Okay, can you tell me more about how you're feeling?
+
+Patient: Well, I've been feeling sad most of the time. I don't enjoy doing things that I used to like, and I often feel tired and unmotivated.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been eating less than usual, and I've been having trouble sleeping.
+
+Doctor: Have you had any thoughts of harming yourself?
+
+Patient: No, I haven't had any suicidal thoughts.
+
+Doctor: Okay, have you experienced any physical symptoms like headaches, stomach problems, or muscle pain?
+
+Patient: No, not really.
+
+Doctor: Have you had any past experiences with depression or other mental health issues?
+
+Patient: Yeah, I was diagnosed with depression a few years ago, but I haven't had any major episodes since then.
+
+Doctor: Okay, thank you for sharing that with me. Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. I would like to do a PHQ-8 assessment to get a better understanding of your condition.
+
+Patient: Sure, that's fine.
+
+Doctor: Okay, the first question is about little interest or pleasure in doing things. On a scale of 0 to 3, where 0 is not at all and 3 is nearly every day, how often have you been bothered by this?
+
+Patient: I would say 3. I haven't been enjoying anything lately.
+
+Doctor: The next question is about feeling down, depressed, or hopeless. How often have you been bothered by this?
+
+Patient: That would also be a 3. I've been feeling really low.
+
+Doctor: The next question is about trouble falling or staying asleep, or sleeping too much. How often have you been bothered by this?
+
+Patient: I would say 2. I've been having trouble sleeping lately.
+
+Doctor: Okay, the next question is about feeling tired or having little energy. How often have you been bothered by this?
+
+Patient: That would be a 3. I feel tired all the time.
+
+Doctor: The next question is about poor appetite or overeating. How often have you been bothered by this?
+
+Patient: That would be a 2. I haven't been eating as much as usual.
+
+Doctor: The next question is about feeling bad about yourself - or that you are a failure or have let yourself or your family down. How often have you been bothered by this?
+
+Patient: That would be a 3. I've been feeling really down on myself.
+
+Doctor: The next question is about trouble concentrating on things, such as reading the newspaper or watching television. How often have you been bothered by this?
+
+Patient: That would be a 3. I can't focus on anything lately.
+
+Doctor: And the last question is about moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual. How often have you been bothered by this?
+
+Patient: That would be a 2. I've been feeling really sluggish.
+
+Doctor: Okay, based on your responses to the PHQ-8, it does seem like you are experiencing symptoms of depression. I would like to refer you to a mental health specialist who can provide you with more comprehensive treatment options. In the meantime, it's important that you take care of yourself and try to engage in activities that you enjoy, even if you don't feel like it.
+
+Patient: Okay, thank you for your help.

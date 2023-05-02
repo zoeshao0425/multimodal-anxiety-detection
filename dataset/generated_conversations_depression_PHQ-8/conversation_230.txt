@@ -1,0 +1,35 @@
+Doctor: Can you tell me a little bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and hopeless. I've lost interest in things I used to enjoy, and I'm having trouble sleeping.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few months now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating a lot less than usual, and I've lost some weight.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: Yes, I have. I've been feeling like there's no point in living anymore.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yes, I have. Even when I get enough sleep, I still feel exhausted.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Definitely. I feel like my mind is foggy all the time, and I can't focus on anything.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I have. I feel like everything is my fault, and I'm not good enough.
+
+Doctor: Have you been experiencing any physical symptoms, like headaches or stomachaches?
+
+Patient: No, not really.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. This is a common and treatable condition, and I want to help you get better. I recommend that we start by discussing treatment options, such as therapy and medication. How do you feel about that?
+
+Patient: I'm willing to try anything to feel better. Thank you for taking the time to listen to me.

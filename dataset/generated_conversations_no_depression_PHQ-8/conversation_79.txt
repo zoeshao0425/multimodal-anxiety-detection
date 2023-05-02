@@ -1,0 +1,39 @@
+Doctor: Thank you for coming in today. Can you tell me a bit about what brings you here?
+
+Patient: I’ve been feeling really down lately. I just can’t seem to shake this feeling of sadness.
+
+Doctor: I’m sorry to hear that. How long have you been feeling this way?
+
+Patient: It’s been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I’ve been sleeping a lot more than usual and I’ve lost my appetite.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, I feel like everything I do is wrong and I’m not good enough.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven’t had any thoughts like that.
+
+Doctor: Have you experienced any loss of interest or pleasure in activities you used to enjoy?
+
+Patient: Yeah, I used to love going out with friends and doing things, but lately I just don’t want to do anything.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Yeah, it’s been hard to focus on anything lately.
+
+Doctor: Have you experienced any physical symptoms like fatigue or aches and pains?
+
+Patient: Yeah, I’ve been really tired and my body feels achy all the time.
+
+Doctor: Thank you for answering those questions. Based on your responses, it sounds like you may be experiencing some symptoms of depression. Can you tell me a bit more about your personal background and any stressors in your life right now?
+
+Patient: Well, I recently went through a breakup and that’s been really difficult for me. I’ve also been struggling with work and finances.
+
+Doctor: I see. It sounds like you’re going through a tough time right now. While it’s normal to feel sad after a breakup or during times of stress, it’s important to address these feelings if they’re interfering with your daily functioning. Based on our conversation, I don’t believe you meet the criteria for a diagnosis of depression at this time. However, I would like to refer you to a therapist who can help you work through your feelings and develop coping strategies.
+
+Patient: Thank you, Doctor. That sounds like a good idea.

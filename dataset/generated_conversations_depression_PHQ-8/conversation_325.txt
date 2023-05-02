@@ -1,0 +1,47 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, honestly. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? How long have you been feeling this way?
+
+Patient: It's been a few months now. I just feel like I don't have any energy or motivation to do anything. I'm always tired and I don't really enjoy the things I used to.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping lately. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And I haven't really been hungry either. I've lost some weight because I just don't feel like eating.
+
+Doctor: Have you had any thoughts of harming yourself or others?
+
+Patient: No, nothing like that. I just feel really sad and hopeless.
+
+Doctor: Have you noticed any physical symptoms, like headaches or stomachaches?
+
+Patient: Yeah, I've been getting headaches pretty frequently. And sometimes I feel nauseous or have stomach pains.
+
+Doctor: Do you have any history of depression or other mental health issues in your family?
+
+Patient: Yeah, my mom has struggled with depression for most of her life.
+
+Doctor: Have you experienced any significant life events or stressors recently that could be contributing to how you're feeling?
+
+Patient: Well, my job has been really stressful lately and I've been having some problems in my relationship. But I don't think those are the only things making me feel this way.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. I'd like to ask you a few more questions to get a better sense of how severe your symptoms are.
+
+Patient: Okay.
+
+Doctor: Over the past two weeks, how often have you been bothered by feeling down, depressed, or hopeless?
+
+Patient: Almost every day.
+
+Doctor: How often have you had little interest or pleasure in doing things?
+
+Patient: Pretty much every day as well.
+
+Doctor: Have you experienced any of the following symptoms over the past two weeks: feeling tired or having little energy, feeling bad about yourself or feeling like a failure, trouble concentrating on things like reading or watching TV, moving or speaking so slowly that other people could have noticed, or thoughts that you would be better off dead or hurting yourself in some way?
+
+Patient: Yes, I've been feeling all of those things.
+
+Doctor: Based on your answers, it's clear that you're experiencing significant symptoms of depression. I'd like to refer you to a mental health professional who can help you develop a treatment plan. In the meantime, there are some things you can do to take care of yourself, like getting regular exercise and eating a healthy diet. Does that sound okay to you?
+
+Patient: Yeah, that sounds good. Thank you for taking the time to talk with me.

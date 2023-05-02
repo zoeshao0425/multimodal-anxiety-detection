@@ -1,0 +1,25 @@
+Doctor: Can you tell me a bit about how you've been feeling lately? Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless, trouble falling or staying asleep or sleeping too much, feeling tired or having little energy, poor appetite or overeating, feeling bad about yourself or that you are a failure or have let yourself or your family down, trouble concentrating on things such as reading the newspaper or watching television, moving or speaking so slowly that other people could have noticed?
+
+Patient: Yes, I've been feeling really down lately. I don't enjoy doing things that I used to love, like going out with friends or watching movies. I'm always feeling sad and hopeless, and I've been having trouble sleeping at night. Sometimes I sleep too much during the day to make up for it but still feel tired all the time. My appetite has decreased, and I've lost a lot of weight. I feel like a failure and that I'm letting my family down. I can't concentrate on anything, and everything feels like a chore. I move slowly and speak softly.
+
+Doctor: How long have you been experiencing these symptoms?
+
+Patient: It's been going on for almost two months now.
+
+Doctor: Have you experienced depression before, or is this the first time?
+
+Patient: I've had episodes of depression in the past, but this feels different. It's more severe and has lasted longer than before.
+
+Doctor: Have you experienced any major life changes or stressful events recently?
+
+Patient: Yes, I lost my job a few months ago, and it's been hard finding a new one. My relationship with my partner has also been strained, and we're considering separating.
+
+Doctor: Do you have a history of mental illness in your family?
+
+Patient: Yes, my mother had depression, and my sister has been diagnosed with bipolar disorder.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I've been having thoughts of ending my life. It's scary, and I don't know what to do about it.
+
+Doctor: Based on the symptoms you've described, it sounds like you may be experiencing depression. I would like to refer you to a mental health professional for further evaluation and treatment. There are many effective treatments available, including therapy and medication, that can help alleviate your symptoms and improve your quality of life. In the meantime, please know that you're not alone, and there is help available.

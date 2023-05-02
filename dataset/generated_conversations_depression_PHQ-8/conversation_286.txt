@@ -1,0 +1,23 @@
+Doctor: So, let's talk about how you've been feeling lately. Have you been experiencing any of the following symptoms: little interest or pleasure in doing things, feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down and hopeless for a while now. I don't find pleasure in doing things that I used to enjoy.
+
+Doctor: Okay. How about feeling tired or having little energy, trouble sleeping or sleeping too much, feeling bad about yourself or feeling like you're a failure or have let yourself or your family down?
+
+Patient: Yes, I have been feeling very tired lately. I have trouble sleeping at night and sometimes I sleep too much during the day. I also feel like I am a failure and have let my family down.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight, or have you had trouble concentrating on things like reading or watching TV?
+
+Patient: Yes, I have lost my appetite and have lost some weight. I also have trouble concentrating on things. I can't seem to focus on anything for very long.
+
+Doctor: And have you had thoughts of hurting yourself or thoughts of suicide?
+
+Patient: Yes, I have had thoughts of hurting myself. I feel like there is no hope for me and that I am a burden to my family.
+
+Doctor: I'm sorry to hear that. Can you tell me a little bit about what's been going on in your life lately that might be contributing to these feelings?
+
+Patient: Well, I lost my job a few months ago, and it's been hard to find work. My wife left me, and I haven't been able to see my kids as much as I would like. I just feel like everything is falling apart.
+
+Doctor: That sounds really tough. It's understandable why you might be feeling this way. Based on what you've told me, it sounds like you may be experiencing depression. I would like to refer you to a mental health specialist who can help you manage your symptoms and develop a treatment plan that works for you.
+
+Patient: Okay, thank you. I appreciate your help.

@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, I've been feeling pretty down. I don't really have much motivation to do anything and I'm always tired.
+
+Doctor: Have you been experiencing any trouble sleeping or sleeping too much?
+
+Patient: Yeah, actually. I've been having trouble falling asleep and then I end up sleeping in really late.
+
+Doctor: Have you noticed any changes in your appetite?
+
+Patient: Not really. I still eat normally, but I don't really enjoy it anymore.
+
+Doctor: Do you find yourself losing interest in things you used to enjoy?
+
+Patient: Yeah, definitely. I used to love going out with friends and doing things, but now I just don't feel like it.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Have you been experiencing any physical symptoms like headaches or stomach aches?
+
+Patient: No, not really.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yeah, sometimes I feel like I'm not good enough or that everything is my fault.
+
+Doctor: Based on your responses, it seems like you may be experiencing some symptoms of depression. However, it's important to note that these symptoms can also be caused by other factors such as stress or a medical condition. Let's talk more about your personal background and see if there are any other factors that could be contributing to your symptoms.
+
+Patient: Well, I recently went through a breakup and I've been having trouble adjusting to being single again. I've also been really stressed at work.
+
+Doctor: Those are definitely factors that could be contributing to your symptoms. It's important to take care of yourself during times of stress and change. I'm going to recommend some self-care strategies for you to try, like getting regular exercise, eating a healthy diet, and practicing relaxation techniques like deep breathing or meditation. I'll also refer you to a therapist who can help you work through your feelings and develop coping strategies.
+
+Patient: Thank you, doctor. I really appreciate your help.
+
+Doctor: Of course, it's my job to help you feel better. And remember, if you ever have any thoughts of harming yourself or suicide, please seek immediate help by calling a crisis hotline or going to the emergency room.

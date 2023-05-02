@@ -1,0 +1,29 @@
+Doctor: Can you describe how you have been feeling lately?
+
+Patient: I've been feeling really down and sad. I don't enjoy doing things that I used to enjoy, and I feel like I have no energy.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less and have lost some weight.
+
+Doctor: Have you had trouble sleeping or sleeping too much?
+
+Patient: I have trouble falling asleep and staying asleep. I feel tired all the time.
+
+Doctor: Have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yes, I have trouble focusing at work and making even simple decisions has become difficult.
+
+Doctor: Do you feel hopeless or like nothing will ever get better?
+
+Patient: Yes, I feel like there's no point in trying because nothing will change.
+
+Doctor: Have you ever experienced thoughts of harming yourself?
+
+Patient: Yes, I have thought about it a few times.
+
+Doctor: Have you experienced any significant life events or changes recently?
+
+Patient: My mom passed away a few months ago, and it's been really hard for me to cope with.
+
+Doctor: Thank you for sharing that with me. Based on your symptoms and experiences, it sounds like you may be experiencing depression. I would like to refer you to a mental health professional who can provide additional support and treatment options.

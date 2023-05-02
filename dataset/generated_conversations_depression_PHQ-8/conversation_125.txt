@@ -1,0 +1,33 @@
+Doctor: So, let's start with how you've been feeling lately. Have you been experiencing little interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yeah, I just don't feel like doing anything anymore. Even the things that used to make me happy don't seem to do the trick anymore.
+
+Doctor: Okay, and have you been feeling down, depressed, or hopeless?
+
+Patient: Yeah, I feel like there's a dark cloud hanging over me all the time. I can't seem to shake it off.
+
+Doctor: Have you been having trouble sleeping, either sleeping too much or too little?
+
+Patient: I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: And have you noticed any changes in your appetite, either eating too much or too little?
+
+Patient: I've been eating a lot less than usual. I just don't feel hungry anymore.
+
+Doctor: Have you been feeling tired or having low energy?
+
+Patient: Yeah, I'm exhausted all the time. Even getting out of bed in the morning feels like a chore.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough at anything. Like everything I do is wrong.
+
+Doctor: Have you been having trouble concentrating or making decisions?
+
+Patient: Yeah, it's like my brain is foggy all the time. I can't seem to focus on anything for very long.
+
+Doctor: Lastly, have you had any thoughts of hurting yourself or ending your life?
+
+Patient: (Pauses) Yeah, I have. Sometimes it just feels like the only way out.
+
+Doctor: Thank you for being honest with me. Based on your answers, I believe you may be experiencing depression. It's important that we work together to find a treatment plan that works for you. We can start with therapy and possibly medication. It's important that you take care of yourself and seek help when you need it.

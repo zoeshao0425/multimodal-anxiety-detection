@@ -1,0 +1,43 @@
+Doctor: So, what brings you here today?
+
+Patient: I've been feeling really down lately. I don't know what's wrong with me.
+
+Doctor: Can you tell me a bit more about how you're feeling?
+
+Patient: Well, I just feel sad all the time. I have no energy and I don't enjoy doing things that I used to love. I'm having trouble sleeping and I'm not eating very much.
+
+Doctor: How long have you been feeling like this?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost a few pounds, but I haven't been eating much so that's probably why.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, nothing like that.
+
+Doctor: Do you find it difficult to concentrate or make decisions?
+
+Patient: Yeah, I feel like I can't focus on anything and I'm making a lot of mistakes at work because of it.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yeah, I feel like I'm not good enough and I'm letting everyone down.
+
+Doctor: Have you noticed any physical symptoms like headaches or stomachaches?
+
+Patient: Not really, just the lack of energy and appetite.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to rule out any other possible medical conditions that could be causing your symptoms. We'll need to run some tests and perform a physical exam. 
+
+Patient: Okay, that sounds good.
+
+Doctor: In the meantime, I want you to know that depression is a treatable condition. There are many different treatment options available, including therapy and medication. It's important to take care of yourself and seek help if you're struggling with depression.
+
+Patient: Thank you, doctor. That makes me feel a lot better.
+
+Doctor: Of course, we're here to help. Based on what you've told me, I don't believe you have depression. However, I would like to monitor your symptoms and run some tests to rule out any other possible medical conditions that could be causing your symptoms. 
+
+Patient: Okay, that sounds good. Thank you for your help, doctor.

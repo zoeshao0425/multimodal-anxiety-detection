@@ -1,0 +1,27 @@
+Doctor: So, tell me a bit about what's been going on lately. Have you been feeling down or depressed?
+
+Patient: Yeah, I've been feeling pretty low for a while now.
+
+Doctor: Okay, can you describe your symptoms a bit more? Have you been experiencing any of the following: little interest or pleasure in doing things, feeling down or hopeless, trouble sleeping, feeling tired, poor appetite or overeating, feeling bad about yourself, trouble concentrating, or moving or speaking so slowly that other people have noticed?
+
+Patient: Yeah, I've been feeling all of those things. I just don't enjoy anything anymore, and I feel like there's no point in doing anything. I've been having trouble sleeping too, and when I do sleep, I wake up feeling just as tired as when I went to bed. I haven't been eating much either, and when I do eat, it's usually junk food. I just feel really bad about myself all the time, like I'm a failure. And I can't concentrate on anything for more than a few minutes. It's like my mind is always foggy. Sometimes I feel like I'm moving in slow motion, and I've noticed that other people have commented on how slow I am.
+
+Doctor: I see. That sounds like a lot to deal with. Can you tell me a bit more about what's been going on in your life lately? Have you experienced any major changes or stressors?
+
+Patient: Well, my job has been really stressful lately. I've been working long hours and dealing with a lot of pressure from my boss. And my relationship with my partner has been rocky. We've been fighting a lot, and it feels like we're drifting apart. I've also been feeling really isolated lately. I don't have many friends, and I don't feel like I can talk to anyone about what's going on.
+
+Doctor: I see. It sounds like you've been dealing with a lot lately. Based on what you've told me, it's possible that you're experiencing depression. I'd like to ask you a few more questions to get a better sense of how severe your symptoms are. On a scale of 0 to 3, with 0 being not at all and 3 being nearly every day, how often have you been feeling little interest or pleasure in doing things?
+
+Patient: Definitely a 3.
+
+Doctor: Okay. And how about feeling down or hopeless?
+
+Patient: That's also a 3.
+
+Doctor: I see. And what about the other symptoms we talked about? How often have you been experiencing those?
+
+Patient: Mostly 2s and 3s.
+
+Doctor: Okay. Based on your responses, it does seem like you're experiencing moderate to severe depression. I'd like to recommend that you start treatment for this. There are a number of different options we can explore, including therapy, medication, or a combination of the two. Would you be open to discussing these options further?
+
+Patient: Yes, I would. I just want to feel better again.

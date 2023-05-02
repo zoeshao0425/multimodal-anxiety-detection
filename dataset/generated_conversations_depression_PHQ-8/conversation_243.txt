@@ -1,0 +1,29 @@
+Doctor: So, tell me about how you've been feeling lately. Have you been experiencing any of the following symptoms: feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling down for a while now. It's like everything feels pointless, and I can't seem to shake it off.
+
+Doctor: Okay, have you experienced any loss of interest or pleasure in activities that you once enjoyed?
+
+Patient: Yes, I used to love going to the gym and hanging out with friends, but now I just don't have the energy or motivation to do anything.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yeah, I've been eating a lot less than I used to, and I've lost some weight as a result.
+
+Doctor: How about changes in your sleep patterns? Have you been sleeping more or less than usual?
+
+Patient: I've been having trouble falling asleep at night, and when I do finally fall asleep, I wake up feeling tired and groggy.
+
+Doctor: Have you been feeling tired or fatigued during the day?
+
+Patient: Yes, I feel exhausted all the time, even after getting a full night's sleep.
+
+Doctor: Have you been having trouble concentrating, making decisions, or remembering things?
+
+Patient: Yes, I find myself forgetting things a lot more often than I used to, and I have trouble focusing on tasks at work.
+
+Doctor: Finally, have you had any thoughts of self-harm or suicide?
+
+Patient: I have to admit that I have had some dark thoughts lately. It's like I'm stuck in this rut, and I can't see a way out.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing depression. This is a common condition that affects many people, and there are treatments available that can help. I would like to refer you to a mental health professional who can work with you to develop a treatment plan that meets your specific needs.

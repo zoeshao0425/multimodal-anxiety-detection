@@ -1,0 +1,35 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and sad most of the time.
+
+Doctor: Have you been experiencing any other symptoms besides feeling sad?
+
+Patient: Yes, I've been having trouble sleeping and I've lost my appetite. I also feel really tired all the time, even when I haven't done anything.
+
+Doctor: Have you noticed a change in your energy levels or motivation?
+
+Patient: Yeah, I used to be really motivated and productive but now I can barely get out of bed. It's like everything feels too hard to do.
+
+Doctor: Do you ever experience any feelings of guilt or worthlessness?
+
+Patient: All the time. I feel like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I have. Sometimes I just feel like giving up and ending it all.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomachaches?
+
+Patient: Yes, I've been getting headaches a lot and my stomach has been really upset.
+
+Doctor: Have you experienced any changes in your social life or relationships?
+
+Patient: Yeah, I've been avoiding my friends and family because I don't want them to see me like this. It's like I'm ashamed of how I'm feeling.
+
+Doctor: Can you tell me a bit about your personal history? Have you experienced depression before?
+
+Patient: Actually, yes. I was diagnosed with depression a few years ago and I went through therapy to help me deal with it. But now it feels like it's back and worse than ever.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing a major depressive episode. I would like to diagnose you with depression and recommend that we explore treatment options together. 
+
+Patient: Thank you for taking the time to listen to me and help me. I'm really glad that we can work on this together.

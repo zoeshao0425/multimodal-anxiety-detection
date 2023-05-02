@@ -1,0 +1,29 @@
+Doctor: Hi, can you tell me how you've been feeling lately?
+
+Patient: I've been feeling really down and hopeless. I don't have any energy, and I'm not interested in doing anything.
+
+Doctor: Have you been experiencing any physical symptoms like headaches or stomach aches?
+
+Patient: No, not really. I just feel really tired all the time.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: I've lost my appetite lately. I don't really feel like eating anything.
+
+Doctor: Have you been having trouble sleeping or sleeping too much?
+
+Patient: I've been having trouble sleeping. I wake up a lot during the night and have trouble falling asleep.
+
+Doctor: Have you been feeling guilty or worthless lately?
+
+Patient: Yeah, I've been feeling really worthless. I feel like I'm not good at anything.
+
+Doctor: Have you been having any thoughts of self-harm or suicide?
+
+Patient: No, I haven't been having those thoughts.
+
+Doctor: Have you experienced these symptoms for more than two weeks?
+
+Patient: Yes, I've been feeling this way for about a month now.
+
+Doctor: Based on your answers, it seems like you may be experiencing depression. Depression is a common mental health condition that affects many people. It's important to know that you're not alone and that there are ways to manage and treat depression. I would like to recommend some treatments and therapy options for you.

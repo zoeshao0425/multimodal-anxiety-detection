@@ -1,0 +1,33 @@
+Doctor: Can you tell me a little about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and unmotivated. I don't enjoy things that I used to like doing, and I have trouble sleeping at night.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: Yeah, I've been eating less and have lost some weight.
+
+Doctor: Do you have trouble concentrating or making decisions?
+
+Patient: Yes, I find it hard to focus on anything for very long, and I've been struggling with making even simple decisions.
+
+Doctor: Have you been feeling tired or lacking energy?
+
+Patient: Yes, I'm always tired, even when I haven't done anything all day.
+
+Doctor: Have you had any thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Have you experienced any physical symptoms, such as headaches or stomach problems?
+
+Patient: No, nothing like that.
+
+Doctor: Have you ever experienced depression before?
+
+Patient: No, this is the first time I've felt like this.
+
+Doctor: Can you tell me a little about what's been going on in your life lately?
+
+Patient: Well, work has been really stressful, and I've been having some problems with my family. It's been hard to deal with everything.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, since you haven't had any thoughts of harming yourself or suicide, I don't think you need to worry about that. I would recommend that you take some steps to manage your stress, such as exercising regularly and talking to a therapist. We can also discuss medication options if you feel like that might be helpful.

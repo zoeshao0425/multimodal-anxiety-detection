@@ -1,0 +1,41 @@
+Doctor: How are you feeling today?
+
+Patient: I've been feeling really down lately.
+
+Doctor: Can you tell me more about that? Have you been feeling sad or hopeless?
+
+Patient: Yes, I've been feeling very sad and hopeless. It's like everything is just too much to handle.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been having trouble sleeping and I don't really have much of an appetite.
+
+Doctor: Have you lost interest in activities that you used to enjoy?
+
+Patient: Yes, I don't really feel like doing anything anymore. Even things that I used to love doing don't bring me any joy.
+
+Doctor: Have you been feeling tired or low on energy?
+
+Patient: Yes, I've been feeling really tired all the time. It's hard to get out of bed in the morning.
+
+Doctor: Have you been feeling guilty or worthless?
+
+Patient: Yes, I've been feeling like I'm not good enough and that everything is my fault.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any thoughts like that.
+
+Doctor: Based on your responses, it seems like you may be experiencing symptoms of depression. However, it's important to note that there could be other factors contributing to how you're feeling. Let's talk more about your personal background and experiences to better understand what might be going on.
+
+Patient: Okay, well I recently went through a breakup and it's been really hard on me. I also lost my job a few months ago and I've been struggling to find work since then.
+
+Doctor: I see. It's understandable that these events would have an impact on your mental health. Have you talked to anyone about how you're feeling?
+
+Patient: No, I haven't really told anyone. I didn't want to burden anyone with my problems.
+
+Doctor: It's important to remember that seeking help is not a burden. It's a brave and necessary step towards feeling better. Based on our conversation, I don't think you have depression at this time, but I would recommend that you continue to monitor your symptoms and consider talking to a therapist or counselor about what you're going through. They can help you develop coping strategies and provide support as you navigate this difficult time.

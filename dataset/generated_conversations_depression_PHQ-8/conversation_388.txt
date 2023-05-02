@@ -1,0 +1,35 @@
+Doctor: So, tell me about what's been going on. Have you been feeling down or hopeless lately?
+
+Patient: Yeah, I've been feeling really sad and hopeless for the past few weeks.
+
+Doctor: Okay, can you describe how often you feel this way? Is it every day, most days, or only occasionally?
+
+Patient: It's pretty much every day. I wake up feeling really low, and it doesn't really go away. Sometimes it gets worse as the day goes on.
+
+Doctor: I see. Do you have trouble sleeping or eating because of these feelings?
+
+Patient: Yeah, I've been having a hard time sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep. And my appetite has been really low too. I don't really feel like eating anything.
+
+Doctor: Okay, and have you lost interest in things that you used to enjoy doing?
+
+Patient: Yeah, I used to love going out with friends and doing things like hiking or going to concerts. But now I just don't feel like doing anything. Even things that used to bring me joy just seem pointless now.
+
+Doctor: I understand. Have you noticed any changes in your energy levels or motivation?
+
+Patient: Yeah, I feel really tired all the time. I don't have any motivation to do anything, even things that I know I should be doing.
+
+Doctor: Alright. Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: (pauses) Yeah, I've had those thoughts. I don't think I'd ever actually do anything, but sometimes it feels like the only way out.
+
+Doctor: I'm glad you told me that. It's important to take those thoughts seriously. Have you talked to anyone else about how you're feeling?
+
+Patient: Not really. I haven't wanted to burden anyone with my problems.
+
+Doctor: I understand why you might feel that way, but it's important to have a support system. Have you ever seen a therapist or counselor before?
+
+Patient: No, I haven't.
+
+Doctor: Well, I think it would be a good idea for you to talk to someone about what you're going through. I'm going to diagnose you with depression and refer you to a therapist who can help you work through your feelings and develop coping strategies. We'll also discuss medication options if you're interested. Does that sound okay to you?
+
+Patient: Yeah, that sounds good. Thank you for listening and taking me seriously.

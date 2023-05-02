@@ -1,0 +1,25 @@
+Doctor: How have you been feeling lately?
+
+Patient: Honestly, not great. I've been feeling really down and sad most of the time.
+
+Doctor: Can you tell me a bit more about that? Have you been feeling hopeless or helpless?
+
+Patient: Yeah, definitely. I just feel like everything is pointless and there's no way out of this feeling.
+
+Doctor: Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: My appetite has been all over the place, sometimes I don't feel like eating at all and other times I eat everything in sight. And my sleep has been really disrupted, I have trouble falling asleep and then wake up multiple times during the night.
+
+Doctor: Have you lost interest in things that you used to enjoy doing?
+
+Patient: Yeah, I used to love going out with friends or watching movies, but now I just don't feel like doing anything. It all seems like too much effort.
+
+Doctor: Have you been feeling tired or fatigued?
+
+Patient: Yeah, I'm exhausted all the time, even after a full night's sleep. I just can't seem to shake this feeling of being drained.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: (hesitates) Yeah, I have. Sometimes it just feels like the only way to escape this constant sadness and hopelessness.
+
+Doctor: Thank you for being honest with me. Based on your answers, it sounds like you may be experiencing symptoms of depression. We can work together to come up with a treatment plan that will help you feel better.

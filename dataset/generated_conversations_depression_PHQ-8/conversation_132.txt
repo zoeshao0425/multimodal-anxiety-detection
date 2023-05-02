@@ -1,0 +1,39 @@
+Doctor: So, what brings you in today?
+
+Patient: Well, I've been feeling really down lately. I don't have any energy and I just don't feel like doing anything.
+
+Doctor: I see. How long has this been going on for?
+
+Patient: It's been a few weeks now.
+
+Doctor: Have you noticed any changes in your sleep patterns?
+
+Patient: Yeah, I've been having trouble sleeping. I either can't fall asleep or I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: And how about your appetite? Have you been eating more or less than usual?
+
+Patient: I haven't been eating as much as I usually do. I just don't feel hungry.
+
+Doctor: Okay. Have you been feeling hopeless or helpless?
+
+Patient: Yeah, I have. I just feel like nothing is going right and I don't see any way out of it.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, I haven't.
+
+Doctor: Alright. Have you experienced any physical symptoms such as headaches or body aches?
+
+Patient: Yeah, I've had some headaches and my body feels achy.
+
+Doctor: Okay. Can you tell me a bit about your personal life? Are there any major stressors that you're dealing with right now?
+
+Patient: Well, my job has been really stressful lately and I'm going through a tough time with my partner.
+
+Doctor: I see. Based on what you've told me, it sounds like you may be experiencing depression. I'm going to recommend that we do some further testing to confirm the diagnosis.
+
+Patient: Okay, what does that involve?
+
+Doctor: We'll do a PHQ-8 assessment to get a better understanding of your symptoms and their severity. From there, we can discuss treatment options that may be helpful for you.
+
+Patient: Okay, that sounds good. Thank you for taking the time to talk with me.

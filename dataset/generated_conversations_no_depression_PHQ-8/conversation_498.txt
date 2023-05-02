@@ -1,0 +1,47 @@
+Doctor: Hi, can you tell me what brings you in today?
+
+Patient: Yes, I've been feeling really down lately. I just don't have the energy or motivation to do anything.
+
+Doctor: I see. Can you describe your symptoms a little more in detail?
+
+Patient: Well, I've been feeling really sad and hopeless, like nothing is ever going to get better. I've also been having trouble sleeping and eating.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you experienced any changes in your appetite or weight?
+
+Patient: Yeah, I've lost my appetite and have lost a few pounds.
+
+Doctor: Have you noticed any difficulty concentrating or making decisions?
+
+Patient: Yes, I've been having trouble focusing at work and making even simple decisions has been a struggle.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomachaches?
+
+Patient: No, nothing like that.
+
+Doctor: Have you had any thoughts of hurting yourself or others?
+
+Patient: No, nothing like that. I just feel really hopeless and helpless.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a little bit about your personal background?
+
+Patient: Sure, I'm 30 years old and I work as a teacher. I live alone and don't have any family nearby.
+
+Doctor: Have you experienced any major life changes or stressors recently?
+
+Patient: Not really, but I have been feeling pretty isolated and lonely.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. However, I would like to perform a PHQ-8 assessment to get a better understanding of your symptoms. 
+
+Patient: Okay, that's fine.
+
+(After completing the PHQ-8 assessment)
+
+Doctor: Based on your responses, it appears that you do not meet the criteria for a diagnosis of depression. However, your symptoms suggest that you may be experiencing some mild depressive symptoms. I recommend seeking support from a therapist or counselor to help you work through these feelings and develop coping strategies.
+
+Patient: Okay, thank you for your help. I will look into finding a therapist. 
+
+Doctor: You're welcome. Please let me know if you have any other questions or concerns.

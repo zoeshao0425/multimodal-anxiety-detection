@@ -1,0 +1,41 @@
+Doctor: I'd like to start by asking you a few questions about how you've been feeling lately. Have you been experiencing any of the following symptoms over the past two weeks?
+
+Patient: Sure, go ahead.
+
+Doctor: Have you been feeling down, depressed, or hopeless?
+
+Patient: Yes, I have been feeling very sad and hopeless lately.
+
+Doctor: Have you lost interest or pleasure in doing things that you used to enjoy?
+
+Patient: Yes, I don't really feel like doing anything anymore. Even things that I used to love doing don't bring me joy anymore.
+
+Doctor: Have you been having trouble falling asleep or staying asleep, or have you been sleeping too much?
+
+Patient: I have been having trouble falling asleep and staying asleep. Sometimes I wake up in the middle of the night and can't go back to sleep.
+
+Doctor: Do you feel tired or have low energy most days?
+
+Patient: Yes, I feel exhausted all the time. Even small tasks seem to take a lot of effort.
+
+Doctor: Have you been eating more than usual, or have you lost your appetite?
+
+Patient: I haven't really been eating much at all. I've lost my appetite and food doesn't really appeal to me anymore.
+
+Doctor: Have you been feeling bad about yourself, or feeling like you're a failure, or feeling guilty?
+
+Patient: Yes, I've been feeling like I'm worthless and that I can't do anything right. I feel guilty about everything, even things that aren't my fault.
+
+Doctor: Have you been having trouble concentrating on things, such as reading a book or watching a movie?
+
+Patient: Yes, I can't seem to focus on anything anymore. My mind feels foggy all the time.
+
+Doctor: Have you had thoughts of hurting yourself or ending your life?
+
+Patient: (pauses) Yes, I have had those thoughts. I don't know what to do about them.
+
+Doctor: Thank you for answering these questions. Based on your responses, it sounds like you may be experiencing symptoms of depression. Have you ever been diagnosed with depression before?
+
+Patient: No, I haven't.
+
+Doctor: I would like to recommend that we start a treatment plan for your depression. This can include therapy, medication, or a combination of both. It's important to take care of your mental health, and I'm here to support you through this process.

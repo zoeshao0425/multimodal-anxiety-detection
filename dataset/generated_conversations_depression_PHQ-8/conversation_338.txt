@@ -1,0 +1,37 @@
+Doctor: How have you been feeling lately?
+
+Patient: Not great, to be honest. I've been feeling really down and hopeless.
+
+Doctor: Can you tell me more about that? What specifically has been bothering you?
+
+Patient: Well, I just feel like I can't find joy in anything anymore. I used to love going out with friends or doing things that I enjoyed, but now everything just feels dull and pointless. I also have trouble sleeping and my appetite has decreased.
+
+Doctor: Have you noticed any changes in your energy level?
+
+Patient: Yeah, I feel really tired all the time. Even getting out of bed in the morning feels like a huge effort.
+
+Doctor: And have you been experiencing any feelings of guilt or worthlessness?
+
+Patient: Yes, definitely. I feel like everything is my fault and that I'm not good enough for anything.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: No, nothing like that. I just feel really hopeless and helpless.
+
+Doctor: Okay, thank you for sharing that with me. Can you tell me a bit about your personal background? Have you experienced depression or other mental health issues in the past?
+
+Patient: Yeah, I've struggled with anxiety and depression on and off for a few years now. I've tried therapy and medication before, but nothing seems to work long-term.
+
+Doctor: Alright, that's helpful to know. Based on what you've told me, it sounds like you're experiencing symptoms of depression. I'm going to diagnose you with major depressive disorder. 
+
+Patient: Okay, what does that mean? 
+
+Doctor: Major depressive disorder is a common mental health condition that affects millions of people. It's characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that you used to enjoy. It can also cause physical symptoms like fatigue, changes in appetite, and difficulty sleeping. Treatment usually involves a combination of therapy and medication. 
+
+Patient: Okay, that makes sense. What should I do next? 
+
+Doctor: I'm going to refer you to a therapist who specializes in treating depression. They can work with you to develop a treatment plan that's tailored to your specific needs. In the meantime, I'm also going to prescribe an antidepressant medication to help manage your symptoms. 
+
+Patient: Thank you, that sounds like a good plan. 
+
+Doctor: Of course. Remember that you're not alone in this, and there are many resources available to help you feel better.

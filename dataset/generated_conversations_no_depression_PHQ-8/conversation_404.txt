@@ -1,0 +1,39 @@
+Doctor: So, what brings you here today?
+
+Patient: I've been feeling really down lately, and I'm not sure what's going on. I thought it might be depression.
+
+Doctor: Okay, let's talk about your symptoms. Have you been feeling sad or hopeless?
+
+Patient: Yes, definitely. I wake up feeling sad and it lasts throughout the day. I don't find joy in things that used to make me happy.
+
+Doctor: Have you experienced a loss of interest in things you used to enjoy?
+
+Patient: Yes, I used to love going out with friends and trying new things, but now I just want to stay in bed all day.
+
+Doctor: Have you noticed any changes in your appetite or weight?
+
+Patient: My appetite has decreased, and I've lost a few pounds without trying.
+
+Doctor: Have you had trouble sleeping or have you been sleeping more than usual?
+
+Patient: I've been having trouble falling asleep and staying asleep. I usually wake up several times during the night.
+
+Doctor: Have you noticed any changes in your energy level or have you been feeling fatigued?
+
+Patient: I feel tired all the time, even after getting a full night's sleep. I have no energy to do anything.
+
+Doctor: Have you had trouble concentrating or making decisions?
+
+Patient: Yes, I can't focus on anything for very long. I used to be able to multitask, but now I can barely get through one task without getting distracted.
+
+Doctor: Have you had thoughts of harming yourself or suicide?
+
+Patient: No, I haven't had any thoughts of harming myself or others.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing some symptoms of depression. However, I would like to run some tests to rule out any other medical conditions that may be causing your symptoms.
+
+Patient: Okay, that sounds good.
+
+Doctor: After conducting some tests, I am happy to inform you that you do not have depression. However, I would like to recommend some lifestyle changes that may help improve your mood, such as regular exercise, a healthy diet, and getting enough sleep.
+
+Patient: Thank you, doctor. That's a relief to hear. I will definitely try those lifestyle changes.

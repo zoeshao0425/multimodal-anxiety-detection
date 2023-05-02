@@ -1,0 +1,39 @@
+Doctor: Can you tell me a bit about how you've been feeling lately?
+
+Patient: Well, I've been feeling really down and sad. I don't have much energy, and I don't feel like doing anything.
+
+Doctor: Have you been experiencing any physical symptoms, like changes in your appetite or sleep patterns?
+
+Patient: Yeah, my appetite has decreased quite a bit, and I have trouble falling asleep at night. I also wake up a lot during the night.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you noticed any changes in your mood or behavior?
+
+Patient: I've been feeling really irritable and moody, and I've been avoiding social situations because I just don't feel like being around people.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Yeah, I've had bouts of depression in the past, but this feels worse than before.
+
+Doctor: Have you had any thoughts of hurting yourself or ending your life?
+
+Patient: No, I haven't had any suicidal thoughts.
+
+Doctor: Have you experienced any traumatic events recently that could be contributing to your symptoms?
+
+Patient: Not really, things have been pretty normal in my life.
+
+Doctor: Based on what you've told me, it sounds like you may be experiencing symptoms of depression. I would like to give you a formal assessment to better understand your condition. 
+
+Patient: Okay, that sounds good.
+
+Doctor: We'll be using the Patient Health Questionnaire-8 (PHQ-8) to assess your symptoms. The questions are similar to what we've already discussed, but they will help me get a clearer picture of your condition.
+
+(Doctor proceeds to ask the PHQ-8 questions, and the patient answers honestly.)
+
+Doctor: Based on your responses, it seems like you are experiencing moderate to severe depression. I would like to refer you to a mental health specialist who can provide you with more specific treatment options. In the meantime, there are some things you can do to help manage your symptoms, such as getting regular exercise, eating a healthy diet, and practicing relaxation techniques like meditation or deep breathing.
+
+Patient: Thank you, I appreciate your help.

@@ -1,0 +1,33 @@
+Doctor: Hi there, I understand that you've been feeling down lately. Can you tell me more about your symptoms?
+
+Patient: Sure, I've been feeling really sad and hopeless for the past few weeks. I don't enjoy things that I used to love doing, and I have no energy or motivation to do anything.
+
+Doctor: I see. Have you experienced any changes in your appetite or weight recently?
+
+Patient: Yes, I've lost my appetite and have lost a few pounds as a result.
+
+Doctor: And how about your sleep? Have you had trouble falling asleep or staying asleep?
+
+Patient: Yes, I have trouble falling asleep and wake up frequently throughout the night.
+
+Doctor: Okay, have you noticed any changes in your ability to concentrate or make decisions?
+
+Patient: Yeah, I struggle to focus on tasks and have a hard time making even simple decisions.
+
+Doctor: Have you experienced any feelings of worthlessness or guilt?
+
+Patient: Yes, I feel like everything is my fault and that I'm not good enough.
+
+Doctor: Alright, have you had any thoughts of self-harm or suicide?
+
+Patient: No, I haven't had any thoughts of hurting myself or ending my life.
+
+Doctor: That's good to hear. Can you tell me a bit about your personal background? Have you experienced any significant life events or stressors recently?
+
+Patient: Well, I recently lost my job and have been having financial difficulties. I also went through a breakup with my partner a few months ago.
+
+Doctor: I see. It sounds like you've been going through a lot of stress and change lately. Based on what you've told me, it does sound like you're experiencing some symptoms of depression. However, I don't think you meet the criteria for a diagnosis of major depressive disorder at this time. 
+
+Patient: Oh, okay. That's good to know. What can I do to start feeling better?
+
+Doctor: I would recommend trying to engage in activities that you used to enjoy, even if you don't feel like it. Exercise can also be helpful for boosting your mood. Additionally, you may want to consider talking to a therapist or counselor to help you work through some of the stress and emotions you're experiencing.

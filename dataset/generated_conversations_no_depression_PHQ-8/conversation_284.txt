@@ -1,0 +1,57 @@
+Doctor: So, what brings you in today?
+
+Patient: I've been feeling really down lately. I don't have any energy, and I'm having trouble sleeping.
+
+Doctor: Okay, can you tell me more about how you've been feeling?
+
+Patient: I just feel really sad all the time. I don't enjoy things that I used to like doing, and I feel like I'm just going through the motions of life.
+
+Doctor: Have you been experiencing any physical symptoms?
+
+Patient: Yeah, I've been having headaches and stomach aches. I also feel really tired all the time.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It's been going on for a few weeks now.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: No, this is the first time.
+
+Doctor: Have you had any major life changes or stressful events recently?
+
+Patient: My job has been really stressful lately, and I've also been having some problems in my personal life.
+
+Doctor: Okay, let's go through the PHQ-8 assessment. Over the past two weeks, how often have you been bothered by any of the following problems: Little interest or pleasure in doing things?
+
+Patient: All the time.
+
+Doctor: Feeling down, depressed, or hopeless?
+
+Patient: All the time.
+
+Doctor: Trouble falling or staying asleep, or sleeping too much?
+
+Patient: All the time.
+
+Doctor: Feeling tired or having little energy?
+
+Patient: All the time.
+
+Doctor: Poor appetite or overeating?
+
+Patient: Poor appetite.
+
+Doctor: Feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+
+Patient: Sometimes.
+
+Doctor: Trouble concentrating on things, such as reading the newspaper or watching television?
+
+Patient: All the time.
+
+Doctor: Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+
+Patient: I've been moving slowly.
+
+Doctor: Based on your answers, it seems like you may be experiencing symptoms of depression. However, it's important to note that there are many other factors that can contribute to these symptoms, such as stress or medical conditions. I recommend we run some tests to rule out any underlying medical issues. In the meantime, I suggest you try to get some rest and take care of yourself.

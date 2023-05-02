@@ -1,0 +1,49 @@
+Doctor: So, what brings you in today?
+
+Patient: I’ve been feeling really down lately. I don’t have any energy, and I’m having trouble sleeping.
+
+Doctor: Okay, can you tell me more about how you’ve been feeling?
+
+Patient: Well, I just feel really sad all the time. I don’t enjoy things that I used to, and I don’t have any motivation to do anything.
+
+Doctor: Have you been experiencing any other symptoms, like changes in appetite or difficulty concentrating?
+
+Patient: Yeah, I’ve lost my appetite, and I’ve been having trouble focusing at work.
+
+Doctor: How long have you been feeling this way?
+
+Patient: It’s been going on for a few weeks now.
+
+Doctor: Have you ever experienced these symptoms before?
+
+Patient: Yeah, I’ve had bouts of depression in the past.
+
+Doctor: Okay, can you tell me more about your personal background? Do you have a history of mental illness in your family?
+
+Patient: My mother has struggled with depression, and my grandfather had bipolar disorder.
+
+Doctor: Okay, that’s helpful to know. Have you had any major life events recently that may have triggered these feelings?
+
+Patient: My partner and I broke up a few months ago, and it’s been really hard for me.
+
+Doctor: I’m sorry to hear that. Have you been able to talk to anyone about how you’re feeling?
+
+Patient: Not really. I don’t want to burden my friends or family with my problems.
+
+Doctor: It’s important to have a support system during times like this. Have you considered seeing a therapist?
+
+Patient: I’ve thought about it, but I don’t know if I can afford it.
+
+Doctor: There are low-cost options available, and I can provide you with some resources. In the meantime, I’d like to give you a depression screening to better understand your symptoms.
+
+Patient: Okay.
+
+Doctor: Based on your answers, it’s likely that you’re experiencing moderate to severe depression. I’d like to recommend some treatment options, including therapy and medication.
+
+Patient: Do you think medication will help?
+
+Doctor: It can be helpful in managing symptoms, but it’s not a cure-all. Therapy can also be very effective in treating depression.
+
+Patient: Okay, I’ll consider both options.
+
+Doctor: Great. Let’s schedule a follow-up appointment in a few weeks to check in on how you’re doing. In the meantime, please don’t hesitate to reach out if you need anything.

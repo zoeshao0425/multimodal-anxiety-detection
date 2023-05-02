@@ -1,0 +1,29 @@
+Doctor: Can you tell me about any feelings of depression or sadness you may have experienced over the past two weeks?
+
+Patient: Yes, I've been feeling really down and sad lately. It's been hard to find joy in things that I used to enjoy.
+
+Doctor: Have you noticed any changes in your appetite or weight recently?
+
+Patient: Yes, I've been eating a lot less than usual and have lost some weight.
+
+Doctor: Do you have trouble sleeping at night or do you find yourself sleeping too much?
+
+Patient: I have trouble sleeping at night. I often wake up in the middle of the night and have trouble falling back asleep.
+
+Doctor: Have you noticed a lack of energy or motivation to do things you used to enjoy?
+
+Patient: Yes, definitely. I used to love going out with friends and doing things, but now I just don't have the energy or motivation to do anything.
+
+Doctor: Have you been feeling hopeless or worthless lately?
+
+Patient: Yes, I feel like nothing I do matters and that I'm not good enough.
+
+Doctor: Have you had any thoughts of self-harm or suicide?
+
+Patient: Yes, I have had some thoughts of self-harm and suicide. They scare me, but they keep coming back.
+
+Doctor: Have you experienced any physical symptoms such as headaches or stomach problems?
+
+Patient: Yes, I've been having headaches and stomach problems more frequently.
+
+Doctor: Based on your symptoms, it seems like you may be experiencing depression. I recommend that we discuss treatment options and refer you to a mental health professional for further evaluation and support. Do you have any questions or concerns about this diagnosis?
