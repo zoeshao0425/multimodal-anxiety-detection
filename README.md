@@ -1,17 +1,15 @@
-# multimodal-anxiety-detection
-
 # Depression Detection from Speech and Text
 
-This repository contains the code for training and evaluating models to detect depression from speech and text data. The data comes from the DAIC-WOZ dataset and is preprocessed before being fed into the models.
+This repository contains the code for training and evaluating models to detect depression from speech and text data. The true data comes from the DAIC-WOZ dataset and is preprocessed before being fed into the models. The generative data comes from GPT 3.5-turbo.
 
 ## Directory Structure
 
 - `audio_model_train_true_data_Mel.py`: Script for training an audio-based model using Mel spectrogram features.
 - `daic_woz_text_preprocessing.py`: Script for preprocessing the DAIC-WOZ text dataset.
-- `generated_conversations.py`: Script for generating synthetic conversation data.
+- `generated_conversations.py`: Script for generating conversation data using GPT 3.5-turbo.
 - `text_model_eval.py`: Script for evaluating the text-based model.
 - `text_model_train_generative_data.py`: Script for training the text-based model on generated data.
-- `text_model_training_true_data.py`: Script for training the text-based model on true data.
+- `text_model_train_true_data.py`: Script for training the text-based model on true data (DAIC-WOZ transcripts).
 
 ## Data Preprocessing
 
